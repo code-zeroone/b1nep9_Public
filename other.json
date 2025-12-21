@@ -1,10 +1,10 @@
 {
   "metadata": {
     "sport": "Other",
-    "saved_at": "2025-12-20T08:23:17.064354",
-    "event_count": 10,
+    "saved_at": "2025-12-21T08:23:53.949704",
+    "event_count": 3,
     "date_range": {
-      "fetched_at": "2025-12-20 08:23:17 UTC"
+      "fetched_at": "2025-12-21 08:23:53 UTC"
     },
     "source": "beIN Sports API"
   },
@@ -38,970 +38,7 @@
         "series_name": "",
         "CompetitionType": "",
         "Live": "False",
-        "ID": "2458296759668",
-        "ChannelCode": "10401",
-        "StaticChannelCode": "5201",
-        "ChannelName": "beIN SPORTS 1",
-        "Category": {
-          "English": "Sports General",
-          "Arabic": "الرياضة العام"
-        },
-        "Title": {
-          "English": "UEFA UCL Magazine 2025/2026 - MD6 Review",
-          "Arabic": "UEFA UCL Magazine 2025/2026 - MD6 Review"
-        },
-        "Remarks": {
-          "English": "A recap of the best of the action, plus a look forward to the next Match Day in Europe’s premium football competition, the UEFA Champions League.  The 2025/26 UEFA Champions League will be the second to be played under the new 36-team league phase. All matches from the UEFA Champions League are live and exclusive only on beIN with a choice of Arabic or English commentary.",
-          "Arabic": ""
-        },
-        "StartTime": "2025-12-20T06:00:00",
-        "EndTime": "2025-12-20T06:30:00",
-        "Duration": "00:30:00",
-        "Commentators": {
-          "English": "",
-          "Arabic": ""
-        },
-        "ParentalRating": "0",
-        "Synopsis": {
-          "English": "A recap of the best of the action, plus a look forward to the next Match Day in Europe’s premium football competition, the UEFA Champions League.  The 2025/26 UEFA Champions League will be the second to be played under the new 36-team league phase. All matches from the UEFA Champions League are live and exclusive only on beIN with a choice of Arabic or English commentary.",
-          "Arabic": ""
-        },
-        "ImageURL": "",
-        "Genre": "",
-        "ProductionYear": ""
-      },
-      "duration": 1800000,
-      "id": "E42401F9-AC19-430E-894D-C6776418837E",
-      "externalId": "2458296759668",
-      "title": "UEFA UCL Magazine 2025/2026 - MD6 Review",
-      "startDate": "2025-12-20T03:00:00.000Z",
-      "endDate": "2025-12-20T03:30:00.000Z",
-      "live": false,
-      "replay": false,
-      "category": "Sports General",
-      "genre": "",
-      "synopsis": "A recap of the best of the action, plus a look forward to the next Match Day in Europe’s premium football competition, the UEFA Champions League.  The 2025/26 UEFA Champions League will be the second to be played under the new 36-team league phase. All matches from the UEFA Champions League are live and exclusive only on beIN with a choice of Arabic or English commentary.",
-      "description": "A recap of the best of the action, plus a look forward to the next Match Day in Europe’s premium football competition, the UEFA Champions League.  The 2025/26 UEFA Champions League will be the second to be played under the new 36-team league phase. All matches from the UEFA Champions League are live and exclusive only on beIN with a choice of Arabic or English commentary.",
-      "categoryArabic": "الرياضة العام",
-      "synopsisArabic": "",
-      "descriptionArabic": "",
-      "channelId": "7836FEA9-6B39-4A1A-8352-DC5FCB97A16C",
-      "sportTypeId": "4503BDDA-BDBB-44C6-8E4A-D42F0305A7FE",
-      "createdAt": "2025-12-20T08:02:22.943Z",
-      "updatedAt": "2025-12-20T08:02:22.943Z",
-      "channel": {
-        "data": {
-          "Code": "10401",
-          "StaticChannelCode": "5201",
-          "Name": "beIN SPORTS 1"
-        },
-        "id": "7836FEA9-6B39-4A1A-8352-DC5FCB97A16C",
-        "externalId": "10401",
-        "name": "beIN SPORTS 1",
-        "providerId": "995DA2A6-B086-457D-8DFF-5C8E0A7B5A7F",
-        "externalUniqueId": "f50c7035e532c49a0f6993d988e2e843",
-        "createdAt": "2022-10-05T10:01:30.915Z",
-        "updatedAt": "2023-09-04T10:47:52.585Z",
-        "provider": {
-          "id": "995DA2A6-B086-457D-8DFF-5C8E0A7B5A7F",
-          "name": "epg.bein",
-          "createdAt": "2022-10-03T09:10:27.295Z",
-          "updatedAt": "2022-10-03T09:10:27.295Z"
-        }
-      },
-      "sportType": {
-        "id": "4503BDDA-BDBB-44C6-8E4A-D42F0305A7FE",
-        "name": "Other",
-        "createdAt": "2022-10-03T09:10:29.526Z",
-        "updatedAt": "2022-10-03T09:10:29.526Z"
-      }
-    },
-    {
-      "data": {
-        "matchid": "",
-        "m_date": null,
-        "m_time": "",
-        "week": "",
-        "description": "",
-        "competition_id": "",
-        "competition_name": "",
-        "country": "",
-        "stage_name": "",
-        "stage_startdate": null,
-        "stage_enddate": null,
-        "teama_id": "",
-        "teama": "",
-        "teama_position": "",
-        "teama_country": "",
-        "teamb_id": "",
-        "teamb": "",
-        "teamb_position": "",
-        "teamb_country": "",
-        "venue_id": "",
-        "shortname": "",
-        "longname": "",
-        "teama_ar": "",
-        "teamb_ar": "",
-        "series_name": "",
-        "CompetitionType": "",
-        "Live": "False",
-        "ID": "2456245508668",
-        "ChannelCode": "10401",
-        "StaticChannelCode": "5201",
-        "ChannelName": "beIN SPORTS 1",
-        "Category": {
-          "English": "Sports General",
-          "Arabic": "الرياضة العام"
-        },
-        "Title": {
-          "English": "Best World Cup Player 2010",
-          "Arabic": "Best World Cup Player 2010"
-        },
-        "Remarks": {
-          "English": "WHO WERE THE BEST WORLD CUP PLAYERS IN 2014\n",
-          "Arabic": ""
-        },
-        "StartTime": "2025-12-20T07:30:00",
-        "EndTime": "2025-12-20T07:45:00",
-        "Duration": "00:15:00",
-        "Commentators": {
-          "English": "",
-          "Arabic": ""
-        },
-        "ParentalRating": "0",
-        "Synopsis": {
-          "English": "WHO WERE THE BEST WORLD CUP PLAYERS IN 2014\n",
-          "Arabic": ""
-        },
-        "ImageURL": "",
-        "Genre": "",
-        "ProductionYear": ""
-      },
-      "duration": 900000,
-      "id": "C9E7059E-6FBC-493E-B599-2B2B44752E6E",
-      "externalId": "2456245508668",
-      "title": "Best World Cup Player 2010",
-      "startDate": "2025-12-20T04:30:00.000Z",
-      "endDate": "2025-12-20T04:45:00.000Z",
-      "live": false,
-      "replay": false,
-      "category": "Sports General",
-      "genre": "",
-      "synopsis": "WHO WERE THE BEST WORLD CUP PLAYERS IN 2014\n",
-      "description": "WHO WERE THE BEST WORLD CUP PLAYERS IN 2014\n",
-      "categoryArabic": "الرياضة العام",
-      "synopsisArabic": "",
-      "descriptionArabic": "",
-      "channelId": "7836FEA9-6B39-4A1A-8352-DC5FCB97A16C",
-      "sportTypeId": "4503BDDA-BDBB-44C6-8E4A-D42F0305A7FE",
-      "createdAt": "2025-12-20T08:02:22.943Z",
-      "updatedAt": "2025-12-20T08:02:22.943Z",
-      "channel": {
-        "data": {
-          "Code": "10401",
-          "StaticChannelCode": "5201",
-          "Name": "beIN SPORTS 1"
-        },
-        "id": "7836FEA9-6B39-4A1A-8352-DC5FCB97A16C",
-        "externalId": "10401",
-        "name": "beIN SPORTS 1",
-        "providerId": "995DA2A6-B086-457D-8DFF-5C8E0A7B5A7F",
-        "externalUniqueId": "f50c7035e532c49a0f6993d988e2e843",
-        "createdAt": "2022-10-05T10:01:30.915Z",
-        "updatedAt": "2023-09-04T10:47:52.585Z",
-        "provider": {
-          "id": "995DA2A6-B086-457D-8DFF-5C8E0A7B5A7F",
-          "name": "epg.bein",
-          "createdAt": "2022-10-03T09:10:27.295Z",
-          "updatedAt": "2022-10-03T09:10:27.295Z"
-        }
-      },
-      "sportType": {
-        "id": "4503BDDA-BDBB-44C6-8E4A-D42F0305A7FE",
-        "name": "Other",
-        "createdAt": "2022-10-03T09:10:29.526Z",
-        "updatedAt": "2022-10-03T09:10:29.526Z"
-      }
-    },
-    {
-      "data": {
-        "matchid": "",
-        "m_date": null,
-        "m_time": "",
-        "week": "",
-        "description": "",
-        "competition_id": "",
-        "competition_name": "",
-        "country": "",
-        "stage_name": "",
-        "stage_startdate": null,
-        "stage_enddate": null,
-        "teama_id": "",
-        "teama": "",
-        "teama_position": "",
-        "teama_country": "",
-        "teamb_id": "",
-        "teamb": "",
-        "teamb_position": "",
-        "teamb_country": "",
-        "venue_id": "",
-        "shortname": "",
-        "longname": "",
-        "teama_ar": "",
-        "teamb_ar": "",
-        "series_name": "",
-        "CompetitionType": "",
-        "Live": "False",
-        "ID": "2456245568668",
-        "ChannelCode": "10401",
-        "StaticChannelCode": "5201",
-        "ChannelName": "beIN SPORTS 1",
-        "Category": {
-          "English": "Sports General",
-          "Arabic": "الرياضة العام"
-        },
-        "Title": {
-          "English": "EPL Review - 2025/2026",
-          "Arabic": "EPL Review - 2025/2026"
-        },
-        "Remarks": {
-          "English": "Each EPL Match week is condensed into a 52-minute highlights show. Every game, goal, penalty, red card and everything in between is squeezed into an action-packed hour to ensure no football fan misses a kick across the game season.\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n",
-          "Arabic": ""
-        },
-        "StartTime": "2025-12-20T08:45:00",
-        "EndTime": "2025-12-20T09:45:00",
-        "Duration": "01:00:00",
-        "Commentators": {
-          "English": "",
-          "Arabic": ""
-        },
-        "ParentalRating": "0",
-        "Synopsis": {
-          "English": "Each EPL Match week is condensed into a 52-minute highlights show. Every game, goal, penalty, red card and everything in between is squeezed into an action-packed hour to ensure no football fan misses a kick across the game season.\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n",
-          "Arabic": ""
-        },
-        "ImageURL": "",
-        "Genre": "",
-        "ProductionYear": ""
-      },
-      "duration": 3600000,
-      "id": "A03A940D-ED45-4FCA-AE21-69C54171DB84",
-      "externalId": "2456245568668",
-      "title": "EPL Review - 2025/2026",
-      "startDate": "2025-12-20T05:45:00.000Z",
-      "endDate": "2025-12-20T06:45:00.000Z",
-      "live": false,
-      "replay": false,
-      "category": "Sports General",
-      "genre": "",
-      "synopsis": "Each EPL Match week is condensed into a 52-minute highlights show. Every game, goal, penalty, red card and everything in between is squeezed into an action-packed hour to ensure no football fan misses a kick across the game season.\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n",
-      "description": "Each EPL Match week is condensed into a 52-minute highlights show. Every game, goal, penalty, red card and everything in between is squeezed into an action-packed hour to ensure no football fan misses a kick across the game season.\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n",
-      "categoryArabic": "الرياضة العام",
-      "synopsisArabic": "",
-      "descriptionArabic": "",
-      "channelId": "7836FEA9-6B39-4A1A-8352-DC5FCB97A16C",
-      "sportTypeId": "4503BDDA-BDBB-44C6-8E4A-D42F0305A7FE",
-      "createdAt": "2025-12-20T08:02:22.943Z",
-      "updatedAt": "2025-12-20T08:02:22.943Z",
-      "channel": {
-        "data": {
-          "Code": "10401",
-          "StaticChannelCode": "5201",
-          "Name": "beIN SPORTS 1"
-        },
-        "id": "7836FEA9-6B39-4A1A-8352-DC5FCB97A16C",
-        "externalId": "10401",
-        "name": "beIN SPORTS 1",
-        "providerId": "995DA2A6-B086-457D-8DFF-5C8E0A7B5A7F",
-        "externalUniqueId": "f50c7035e532c49a0f6993d988e2e843",
-        "createdAt": "2022-10-05T10:01:30.915Z",
-        "updatedAt": "2023-09-04T10:47:52.585Z",
-        "provider": {
-          "id": "995DA2A6-B086-457D-8DFF-5C8E0A7B5A7F",
-          "name": "epg.bein",
-          "createdAt": "2022-10-03T09:10:27.295Z",
-          "updatedAt": "2022-10-03T09:10:27.295Z"
-        }
-      },
-      "sportType": {
-        "id": "4503BDDA-BDBB-44C6-8E4A-D42F0305A7FE",
-        "name": "Other",
-        "createdAt": "2022-10-03T09:10:29.526Z",
-        "updatedAt": "2022-10-03T09:10:29.526Z"
-      }
-    },
-    {
-      "data": {
-        "matchid": "",
-        "m_date": null,
-        "m_time": "",
-        "week": "",
-        "description": "",
-        "competition_id": "",
-        "competition_name": "",
-        "country": "",
-        "stage_name": "",
-        "stage_startdate": null,
-        "stage_enddate": null,
-        "teama_id": "",
-        "teama": "",
-        "teama_position": "",
-        "teama_country": "",
-        "teamb_id": "",
-        "teamb": "",
-        "teamb_position": "",
-        "teamb_country": "",
-        "venue_id": "",
-        "shortname": "",
-        "longname": "",
-        "teama_ar": "",
-        "teamb_ar": "",
-        "series_name": "",
-        "CompetitionType": "",
-        "Live": "False",
-        "ID": "2456509963668",
-        "ChannelCode": "10401",
-        "StaticChannelCode": "5201",
-        "ChannelName": "beIN SPORTS 1",
-        "Category": {
-          "English": "Sports General",
-          "Arabic": "الرياضة العام"
-        },
-        "Title": {
-          "English": "Best World Cup Player 1930 - 1970",
-          "Arabic": "Best World Cup Player 1930 - 1970"
-        },
-        "Remarks": {
-          "English": "WHO WERE THE BEST WORLD CUP PLAYERS BETWEEN 1930 AND 1974\n",
-          "Arabic": ""
-        },
-        "StartTime": "2025-12-20T10:45:00",
-        "EndTime": "2025-12-20T11:00:00",
-        "Duration": "00:15:00",
-        "Commentators": {
-          "English": "",
-          "Arabic": ""
-        },
-        "ParentalRating": "0",
-        "Synopsis": {
-          "English": "WHO WERE THE BEST WORLD CUP PLAYERS BETWEEN 1930 AND 1974\n",
-          "Arabic": ""
-        },
-        "ImageURL": "",
-        "Genre": "",
-        "ProductionYear": ""
-      },
-      "duration": 900000,
-      "id": "917BAA85-9DA0-441F-A453-D583DC37430C",
-      "externalId": "2456509963668",
-      "title": "Best World Cup Player 1930 - 1970",
-      "startDate": "2025-12-20T07:45:00.000Z",
-      "endDate": "2025-12-20T08:00:00.000Z",
-      "live": false,
-      "replay": false,
-      "category": "Sports General",
-      "genre": "",
-      "synopsis": "WHO WERE THE BEST WORLD CUP PLAYERS BETWEEN 1930 AND 1974\n",
-      "description": "WHO WERE THE BEST WORLD CUP PLAYERS BETWEEN 1930 AND 1974\n",
-      "categoryArabic": "الرياضة العام",
-      "synopsisArabic": "",
-      "descriptionArabic": "",
-      "channelId": "7836FEA9-6B39-4A1A-8352-DC5FCB97A16C",
-      "sportTypeId": "4503BDDA-BDBB-44C6-8E4A-D42F0305A7FE",
-      "createdAt": "2025-12-20T08:02:22.943Z",
-      "updatedAt": "2025-12-20T08:02:22.943Z",
-      "channel": {
-        "data": {
-          "Code": "10401",
-          "StaticChannelCode": "5201",
-          "Name": "beIN SPORTS 1"
-        },
-        "id": "7836FEA9-6B39-4A1A-8352-DC5FCB97A16C",
-        "externalId": "10401",
-        "name": "beIN SPORTS 1",
-        "providerId": "995DA2A6-B086-457D-8DFF-5C8E0A7B5A7F",
-        "externalUniqueId": "f50c7035e532c49a0f6993d988e2e843",
-        "createdAt": "2022-10-05T10:01:30.915Z",
-        "updatedAt": "2023-09-04T10:47:52.585Z",
-        "provider": {
-          "id": "995DA2A6-B086-457D-8DFF-5C8E0A7B5A7F",
-          "name": "epg.bein",
-          "createdAt": "2022-10-03T09:10:27.295Z",
-          "updatedAt": "2022-10-03T09:10:27.295Z"
-        }
-      },
-      "sportType": {
-        "id": "4503BDDA-BDBB-44C6-8E4A-D42F0305A7FE",
-        "name": "Other",
-        "createdAt": "2022-10-03T09:10:29.526Z",
-        "updatedAt": "2022-10-03T09:10:29.526Z"
-      }
-    },
-    {
-      "data": {
-        "matchid": "",
-        "m_date": null,
-        "m_time": "",
-        "week": "",
-        "description": "",
-        "competition_id": "",
-        "competition_name": "",
-        "country": "",
-        "stage_name": "",
-        "stage_startdate": null,
-        "stage_enddate": null,
-        "teama_id": "",
-        "teama": "",
-        "teama_position": "",
-        "teama_country": "",
-        "teamb_id": "",
-        "teamb": "",
-        "teamb_position": "",
-        "teamb_country": "",
-        "venue_id": "",
-        "shortname": "",
-        "longname": "",
-        "teama_ar": "",
-        "teamb_ar": "",
-        "series_name": "",
-        "CompetitionType": "",
-        "Live": "False",
-        "ID": "2458297020668",
-        "ChannelCode": "10401",
-        "StaticChannelCode": "5201",
-        "ChannelName": "beIN SPORTS 1",
-        "Category": {
-          "English": "Sports General",
-          "Arabic": "الرياضة العام"
-        },
-        "Title": {
-          "English": "Best World Cup Player 1982",
-          "Arabic": "Best World Cup Player 1982"
-        },
-        "Remarks": {
-          "English": "WHO WERE THE BEST WORLD CUP PLAYERS IN 1986\n",
-          "Arabic": ""
-        },
-        "StartTime": "2025-12-20T12:30:00",
-        "EndTime": "2025-12-20T12:45:00",
-        "Duration": "00:15:00",
-        "Commentators": {
-          "English": "",
-          "Arabic": ""
-        },
-        "ParentalRating": "0",
-        "Synopsis": {
-          "English": "WHO WERE THE BEST WORLD CUP PLAYERS IN 1986\n",
-          "Arabic": ""
-        },
-        "ImageURL": "",
-        "Genre": "",
-        "ProductionYear": ""
-      },
-      "duration": 900000,
-      "id": "DA2D91A0-959F-42BB-AE68-9E2D886BDCA8",
-      "externalId": "2458297020668",
-      "title": "Best World Cup Player 1982",
-      "startDate": "2025-12-20T09:30:00.000Z",
-      "endDate": "2025-12-20T09:45:00.000Z",
-      "live": false,
-      "replay": false,
-      "category": "Sports General",
-      "genre": "",
-      "synopsis": "WHO WERE THE BEST WORLD CUP PLAYERS IN 1986\n",
-      "description": "WHO WERE THE BEST WORLD CUP PLAYERS IN 1986\n",
-      "categoryArabic": "الرياضة العام",
-      "synopsisArabic": "",
-      "descriptionArabic": "",
-      "channelId": "7836FEA9-6B39-4A1A-8352-DC5FCB97A16C",
-      "sportTypeId": "4503BDDA-BDBB-44C6-8E4A-D42F0305A7FE",
-      "createdAt": "2025-12-20T08:02:22.943Z",
-      "updatedAt": "2025-12-20T08:02:22.943Z",
-      "channel": {
-        "data": {
-          "Code": "10401",
-          "StaticChannelCode": "5201",
-          "Name": "beIN SPORTS 1"
-        },
-        "id": "7836FEA9-6B39-4A1A-8352-DC5FCB97A16C",
-        "externalId": "10401",
-        "name": "beIN SPORTS 1",
-        "providerId": "995DA2A6-B086-457D-8DFF-5C8E0A7B5A7F",
-        "externalUniqueId": "f50c7035e532c49a0f6993d988e2e843",
-        "createdAt": "2022-10-05T10:01:30.915Z",
-        "updatedAt": "2023-09-04T10:47:52.585Z",
-        "provider": {
-          "id": "995DA2A6-B086-457D-8DFF-5C8E0A7B5A7F",
-          "name": "epg.bein",
-          "createdAt": "2022-10-03T09:10:27.295Z",
-          "updatedAt": "2022-10-03T09:10:27.295Z"
-        }
-      },
-      "sportType": {
-        "id": "4503BDDA-BDBB-44C6-8E4A-D42F0305A7FE",
-        "name": "Other",
-        "createdAt": "2022-10-03T09:10:29.526Z",
-        "updatedAt": "2022-10-03T09:10:29.526Z"
-      }
-    },
-    {
-      "data": {
-        "matchid": "",
-        "m_date": null,
-        "m_time": "",
-        "week": "",
-        "description": "",
-        "competition_id": "",
-        "competition_name": "",
-        "country": "",
-        "stage_name": "",
-        "stage_startdate": null,
-        "stage_enddate": null,
-        "teama_id": "",
-        "teama": "",
-        "teama_position": "",
-        "teama_country": "",
-        "teamb_id": "",
-        "teamb": "",
-        "teamb_position": "",
-        "teamb_country": "",
-        "venue_id": "",
-        "shortname": "",
-        "longname": "",
-        "teama_ar": "",
-        "teamb_ar": "",
-        "series_name": "",
-        "CompetitionType": "",
-        "Live": "False",
-        "ID": "2458296822668",
-        "ChannelCode": "10401",
-        "StaticChannelCode": "5201",
-        "ChannelName": "beIN SPORTS 1",
-        "Category": {
-          "English": "Sports General",
-          "Arabic": "الرياضة العام"
-        },
-        "Title": {
-          "English": "UEFA UCL Magazine 2025/2026 - MD6 Review",
-          "Arabic": "UEFA UCL Magazine 2025/2026 - MD6 Review"
-        },
-        "Remarks": {
-          "English": "A recap of the best of the action, plus a look forward to the next Match Day in Europe’s premium football competition, the UEFA Champions League.  The 2025/26 UEFA Champions League will be the second to be played under the new 36-team league phase. All matches from the UEFA Champions League are live and exclusive only on beIN with a choice of Arabic or English commentary.",
-          "Arabic": ""
-        },
-        "StartTime": "2025-12-20T12:45:00",
-        "EndTime": "2025-12-20T13:14:00",
-        "Duration": "00:29:00",
-        "Commentators": {
-          "English": "",
-          "Arabic": ""
-        },
-        "ParentalRating": "0",
-        "Synopsis": {
-          "English": "A recap of the best of the action, plus a look forward to the next Match Day in Europe’s premium football competition, the UEFA Champions League.  The 2025/26 UEFA Champions League will be the second to be played under the new 36-team league phase. All matches from the UEFA Champions League are live and exclusive only on beIN with a choice of Arabic or English commentary.",
-          "Arabic": ""
-        },
-        "ImageURL": "",
-        "Genre": "",
-        "ProductionYear": ""
-      },
-      "duration": 1740000,
-      "id": "603352EC-D509-4E66-9520-DD1024FFB272",
-      "externalId": "2458296822668",
-      "title": "UEFA UCL Magazine 2025/2026 - MD6 Review",
-      "startDate": "2025-12-20T09:45:00.000Z",
-      "endDate": "2025-12-20T10:14:00.000Z",
-      "live": false,
-      "replay": false,
-      "category": "Sports General",
-      "genre": "",
-      "synopsis": "A recap of the best of the action, plus a look forward to the next Match Day in Europe’s premium football competition, the UEFA Champions League.  The 2025/26 UEFA Champions League will be the second to be played under the new 36-team league phase. All matches from the UEFA Champions League are live and exclusive only on beIN with a choice of Arabic or English commentary.",
-      "description": "A recap of the best of the action, plus a look forward to the next Match Day in Europe’s premium football competition, the UEFA Champions League.  The 2025/26 UEFA Champions League will be the second to be played under the new 36-team league phase. All matches from the UEFA Champions League are live and exclusive only on beIN with a choice of Arabic or English commentary.",
-      "categoryArabic": "الرياضة العام",
-      "synopsisArabic": "",
-      "descriptionArabic": "",
-      "channelId": "7836FEA9-6B39-4A1A-8352-DC5FCB97A16C",
-      "sportTypeId": "4503BDDA-BDBB-44C6-8E4A-D42F0305A7FE",
-      "createdAt": "2025-12-20T08:02:22.943Z",
-      "updatedAt": "2025-12-20T08:02:22.943Z",
-      "channel": {
-        "data": {
-          "Code": "10401",
-          "StaticChannelCode": "5201",
-          "Name": "beIN SPORTS 1"
-        },
-        "id": "7836FEA9-6B39-4A1A-8352-DC5FCB97A16C",
-        "externalId": "10401",
-        "name": "beIN SPORTS 1",
-        "providerId": "995DA2A6-B086-457D-8DFF-5C8E0A7B5A7F",
-        "externalUniqueId": "f50c7035e532c49a0f6993d988e2e843",
-        "createdAt": "2022-10-05T10:01:30.915Z",
-        "updatedAt": "2023-09-04T10:47:52.585Z",
-        "provider": {
-          "id": "995DA2A6-B086-457D-8DFF-5C8E0A7B5A7F",
-          "name": "epg.bein",
-          "createdAt": "2022-10-03T09:10:27.295Z",
-          "updatedAt": "2022-10-03T09:10:27.295Z"
-        }
-      },
-      "sportType": {
-        "id": "4503BDDA-BDBB-44C6-8E4A-D42F0305A7FE",
-        "name": "Other",
-        "createdAt": "2022-10-03T09:10:29.526Z",
-        "updatedAt": "2022-10-03T09:10:29.526Z"
-      }
-    },
-    {
-      "data": {
-        "matchid": "",
-        "m_date": null,
-        "m_time": "",
-        "week": "",
-        "description": "",
-        "competition_id": "",
-        "competition_name": "",
-        "country": "",
-        "stage_name": "",
-        "stage_startdate": null,
-        "stage_enddate": null,
-        "teama_id": "",
-        "teama": "",
-        "teama_position": "",
-        "teama_country": "",
-        "teamb_id": "",
-        "teamb": "",
-        "teamb_position": "",
-        "teamb_country": "",
-        "venue_id": "",
-        "shortname": "",
-        "longname": "",
-        "teama_ar": "",
-        "teamb_ar": "",
-        "series_name": "",
-        "CompetitionType": "",
-        "Live": "False",
-        "ID": "2458297036668",
-        "ChannelCode": "10401",
-        "StaticChannelCode": "5201",
-        "ChannelName": "beIN SPORTS 1",
-        "Category": {
-          "English": "Sports General",
-          "Arabic": "الرياضة العام"
-        },
-        "Title": {
-          "English": "Best World Cup Player 2002",
-          "Arabic": "Best World Cup Player 2002"
-        },
-        "Remarks": {
-          "English": "WHO WERE THE BEST WORLD CUP PLAYERS IN 2006\n",
-          "Arabic": ""
-        },
-        "StartTime": "2025-12-20T13:14:00",
-        "EndTime": "2025-12-20T13:30:00",
-        "Duration": "00:16:00",
-        "Commentators": {
-          "English": "",
-          "Arabic": ""
-        },
-        "ParentalRating": "0",
-        "Synopsis": {
-          "English": "WHO WERE THE BEST WORLD CUP PLAYERS IN 2006\n",
-          "Arabic": ""
-        },
-        "ImageURL": "",
-        "Genre": "",
-        "ProductionYear": ""
-      },
-      "duration": 960000,
-      "id": "C4069BC2-EF6D-46C6-8583-54C0255CA7CD",
-      "externalId": "2458297036668",
-      "title": "Best World Cup Player 2002",
-      "startDate": "2025-12-20T10:14:00.000Z",
-      "endDate": "2025-12-20T10:30:00.000Z",
-      "live": false,
-      "replay": false,
-      "category": "Sports General",
-      "genre": "",
-      "synopsis": "WHO WERE THE BEST WORLD CUP PLAYERS IN 2006\n",
-      "description": "WHO WERE THE BEST WORLD CUP PLAYERS IN 2006\n",
-      "categoryArabic": "الرياضة العام",
-      "synopsisArabic": "",
-      "descriptionArabic": "",
-      "channelId": "7836FEA9-6B39-4A1A-8352-DC5FCB97A16C",
-      "sportTypeId": "4503BDDA-BDBB-44C6-8E4A-D42F0305A7FE",
-      "createdAt": "2025-12-20T08:02:22.943Z",
-      "updatedAt": "2025-12-20T08:02:22.943Z",
-      "channel": {
-        "data": {
-          "Code": "10401",
-          "StaticChannelCode": "5201",
-          "Name": "beIN SPORTS 1"
-        },
-        "id": "7836FEA9-6B39-4A1A-8352-DC5FCB97A16C",
-        "externalId": "10401",
-        "name": "beIN SPORTS 1",
-        "providerId": "995DA2A6-B086-457D-8DFF-5C8E0A7B5A7F",
-        "externalUniqueId": "f50c7035e532c49a0f6993d988e2e843",
-        "createdAt": "2022-10-05T10:01:30.915Z",
-        "updatedAt": "2023-09-04T10:47:52.585Z",
-        "provider": {
-          "id": "995DA2A6-B086-457D-8DFF-5C8E0A7B5A7F",
-          "name": "epg.bein",
-          "createdAt": "2022-10-03T09:10:27.295Z",
-          "updatedAt": "2022-10-03T09:10:27.295Z"
-        }
-      },
-      "sportType": {
-        "id": "4503BDDA-BDBB-44C6-8E4A-D42F0305A7FE",
-        "name": "Other",
-        "createdAt": "2022-10-03T09:10:29.526Z",
-        "updatedAt": "2022-10-03T09:10:29.526Z"
-      }
-    },
-    {
-      "data": {
-        "matchid": "",
-        "m_date": null,
-        "m_time": "",
-        "week": "",
-        "description": "",
-        "competition_id": "",
-        "competition_name": "",
-        "country": "",
-        "stage_name": "",
-        "stage_startdate": null,
-        "stage_enddate": null,
-        "teama_id": "",
-        "teama": "",
-        "teama_position": "",
-        "teama_country": "",
-        "teamb_id": "",
-        "teamb": "",
-        "teamb_position": "",
-        "teamb_country": "",
-        "venue_id": "",
-        "shortname": "",
-        "longname": "",
-        "teama_ar": "",
-        "teamb_ar": "",
-        "series_name": "",
-        "CompetitionType": "",
-        "Live": "False",
-        "ID": "2456245553668",
-        "ChannelCode": "10401",
-        "StaticChannelCode": "5201",
-        "ChannelName": "beIN SPORTS 1",
-        "Category": {
-          "English": "Sports General",
-          "Arabic": "الرياضة العام"
-        },
-        "Title": {
-          "English": "FIFA World Cup 2026 Asian Arabic Teams in World Cup 2026",
-          "Arabic": "FIFA World Cup 2026 Asian Arabic Teams in World Cup 2026"
-        },
-        "Remarks": {
-          "English": "Three Arabic teams from Asia qualified to the 2026 World Cup. Jordan for the first time in its history, Qatar for the first time through the qualifiers after its first participation as a host country for the 2022 World Cup, and Saudi Arabia, which qualified for the seventh time through the qualifiers and will host the 2034 World Cup.",
-          "Arabic": ""
-        },
-        "StartTime": "2025-12-20T13:30:00",
-        "EndTime": "2025-12-20T14:00:00",
-        "Duration": "00:30:00",
-        "Commentators": {
-          "English": "",
-          "Arabic": ""
-        },
-        "ParentalRating": "0",
-        "Synopsis": {
-          "English": "Three Arabic teams from Asia qualified to the 2026 World Cup. Jordan for the first time in its history, Qatar for the first time through the qualifiers after its first participation as a host country for the 2022 World Cup, and Saudi Arabia, which qualified for the seventh time through the qualifiers and will host the 2034 World Cup.",
-          "Arabic": ""
-        },
-        "ImageURL": "",
-        "Genre": "",
-        "ProductionYear": ""
-      },
-      "duration": 1800000,
-      "id": "3E0193C2-D220-4B38-B4BA-1696D05CEC61",
-      "externalId": "2456245553668",
-      "title": "FIFA World Cup 2026 Asian Arabic Teams in World Cup 2026",
-      "startDate": "2025-12-20T10:30:00.000Z",
-      "endDate": "2025-12-20T11:00:00.000Z",
-      "live": false,
-      "replay": false,
-      "category": "Sports General",
-      "genre": "",
-      "synopsis": "Three Arabic teams from Asia qualified to the 2026 World Cup. Jordan for the first time in its history, Qatar for the first time through the qualifiers after its first participation as a host country for the 2022 World Cup, and Saudi Arabia, which qualified for the seventh time through the qualifiers and will host the 2034 World Cup.",
-      "description": "Three Arabic teams from Asia qualified to the 2026 World Cup. Jordan for the first time in its history, Qatar for the first time through the qualifiers after its first participation as a host country for the 2022 World Cup, and Saudi Arabia, which qualified for the seventh time through the qualifiers and will host the 2034 World Cup.",
-      "categoryArabic": "الرياضة العام",
-      "synopsisArabic": "",
-      "descriptionArabic": "",
-      "channelId": "7836FEA9-6B39-4A1A-8352-DC5FCB97A16C",
-      "sportTypeId": "4503BDDA-BDBB-44C6-8E4A-D42F0305A7FE",
-      "createdAt": "2025-12-20T08:02:22.943Z",
-      "updatedAt": "2025-12-20T08:02:22.943Z",
-      "channel": {
-        "data": {
-          "Code": "10401",
-          "StaticChannelCode": "5201",
-          "Name": "beIN SPORTS 1"
-        },
-        "id": "7836FEA9-6B39-4A1A-8352-DC5FCB97A16C",
-        "externalId": "10401",
-        "name": "beIN SPORTS 1",
-        "providerId": "995DA2A6-B086-457D-8DFF-5C8E0A7B5A7F",
-        "externalUniqueId": "f50c7035e532c49a0f6993d988e2e843",
-        "createdAt": "2022-10-05T10:01:30.915Z",
-        "updatedAt": "2023-09-04T10:47:52.585Z",
-        "provider": {
-          "id": "995DA2A6-B086-457D-8DFF-5C8E0A7B5A7F",
-          "name": "epg.bein",
-          "createdAt": "2022-10-03T09:10:27.295Z",
-          "updatedAt": "2022-10-03T09:10:27.295Z"
-        }
-      },
-      "sportType": {
-        "id": "4503BDDA-BDBB-44C6-8E4A-D42F0305A7FE",
-        "name": "Other",
-        "createdAt": "2022-10-03T09:10:29.526Z",
-        "updatedAt": "2022-10-03T09:10:29.526Z"
-      }
-    },
-    {
-      "data": {
-        "matchid": "",
-        "m_date": null,
-        "m_time": "",
-        "week": "",
-        "description": "",
-        "competition_id": "",
-        "competition_name": "",
-        "country": "",
-        "stage_name": "",
-        "stage_startdate": null,
-        "stage_enddate": null,
-        "teama_id": "",
-        "teama": "",
-        "teama_position": "",
-        "teama_country": "",
-        "teamb_id": "",
-        "teamb": "",
-        "teamb_position": "",
-        "teamb_country": "",
-        "venue_id": "",
-        "shortname": "",
-        "longname": "",
-        "teama_ar": "",
-        "teamb_ar": "",
-        "series_name": "",
-        "CompetitionType": "",
-        "Live": "False",
-        "ID": "2456245523668",
-        "ChannelCode": "10401",
-        "StaticChannelCode": "5201",
-        "ChannelName": "beIN SPORTS 1",
-        "Category": {
-          "English": "Sports General",
-          "Arabic": "الرياضة العام"
-        },
-        "Title": {
-          "English": "FIFA World Cup 2026 African Arabic Teams in World Cup 2026",
-          "Arabic": "FIFA World Cup 2026 African Arabic Teams in World Cup 2026"
-        },
-        "Remarks": {
-          "English": "Four Arabic teams from Africa have qualified for the 2026 World Cup. The teams of Morocco, Tunisia, Algeria and Egypt will participate in the 2026 World Cup with a new challenge and great hopes.. \n\n",
-          "Arabic": ""
-        },
-        "StartTime": "2025-12-20T14:00:00",
-        "EndTime": "2025-12-20T14:30:00",
-        "Duration": "00:30:00",
-        "Commentators": {
-          "English": "",
-          "Arabic": ""
-        },
-        "ParentalRating": "0",
-        "Synopsis": {
-          "English": "Four Arabic teams from Africa have qualified for the 2026 World Cup. The teams of Morocco, Tunisia, Algeria and Egypt will participate in the 2026 World Cup with a new challenge and great hopes.. \n\n",
-          "Arabic": ""
-        },
-        "ImageURL": "",
-        "Genre": "",
-        "ProductionYear": ""
-      },
-      "duration": 1800000,
-      "id": "15A048B4-D756-4FE5-ACD0-0C6CBCD28185",
-      "externalId": "2456245523668",
-      "title": "FIFA World Cup 2026 African Arabic Teams in World Cup 2026",
-      "startDate": "2025-12-20T11:00:00.000Z",
-      "endDate": "2025-12-20T11:30:00.000Z",
-      "live": false,
-      "replay": false,
-      "category": "Sports General",
-      "genre": "",
-      "synopsis": "Four Arabic teams from Africa have qualified for the 2026 World Cup. The teams of Morocco, Tunisia, Algeria and Egypt will participate in the 2026 World Cup with a new challenge and great hopes.. \n\n",
-      "description": "Four Arabic teams from Africa have qualified for the 2026 World Cup. The teams of Morocco, Tunisia, Algeria and Egypt will participate in the 2026 World Cup with a new challenge and great hopes.. \n\n",
-      "categoryArabic": "الرياضة العام",
-      "synopsisArabic": "",
-      "descriptionArabic": "",
-      "channelId": "7836FEA9-6B39-4A1A-8352-DC5FCB97A16C",
-      "sportTypeId": "4503BDDA-BDBB-44C6-8E4A-D42F0305A7FE",
-      "createdAt": "2025-12-20T08:02:22.943Z",
-      "updatedAt": "2025-12-20T08:02:22.943Z",
-      "channel": {
-        "data": {
-          "Code": "10401",
-          "StaticChannelCode": "5201",
-          "Name": "beIN SPORTS 1"
-        },
-        "id": "7836FEA9-6B39-4A1A-8352-DC5FCB97A16C",
-        "externalId": "10401",
-        "name": "beIN SPORTS 1",
-        "providerId": "995DA2A6-B086-457D-8DFF-5C8E0A7B5A7F",
-        "externalUniqueId": "f50c7035e532c49a0f6993d988e2e843",
-        "createdAt": "2022-10-05T10:01:30.915Z",
-        "updatedAt": "2023-09-04T10:47:52.585Z",
-        "provider": {
-          "id": "995DA2A6-B086-457D-8DFF-5C8E0A7B5A7F",
-          "name": "epg.bein",
-          "createdAt": "2022-10-03T09:10:27.295Z",
-          "updatedAt": "2022-10-03T09:10:27.295Z"
-        }
-      },
-      "sportType": {
-        "id": "4503BDDA-BDBB-44C6-8E4A-D42F0305A7FE",
-        "name": "Other",
-        "createdAt": "2022-10-03T09:10:29.526Z",
-        "updatedAt": "2022-10-03T09:10:29.526Z"
-      }
-    },
-    {
-      "data": {
-        "matchid": "",
-        "m_date": null,
-        "m_time": "",
-        "week": "",
-        "description": "",
-        "competition_id": "",
-        "competition_name": "",
-        "country": "",
-        "stage_name": "",
-        "stage_startdate": null,
-        "stage_enddate": null,
-        "teama_id": "",
-        "teama": "",
-        "teama_position": "",
-        "teama_country": "",
-        "teamb_id": "",
-        "teamb": "",
-        "teamb_position": "",
-        "teamb_country": "",
-        "venue_id": "",
-        "shortname": "",
-        "longname": "",
-        "teama_ar": "",
-        "teamb_ar": "",
-        "series_name": "",
-        "CompetitionType": "",
-        "Live": "False",
-        "ID": "2458294632668",
+        "ID": "2458294648668",
         "ChannelCode": "10401",
         "StaticChannelCode": "5201",
         "ChannelName": "beIN SPORTS 1",
@@ -1017,8 +54,8 @@
           "English": "AMBITION is the story of tennis’ fearless new breed rewriting the rules on the sport’s biggest stage - with Alcaraz, Sinner, Gauff, Swiatek and a wave of hungry young challengers reshaping the game with raw talent and audacious self-belief",
           "Arabic": ""
         },
-        "StartTime": "2025-12-21T01:30:00",
-        "EndTime": "2025-12-21T02:30:00",
+        "StartTime": "2025-12-21T15:00:00",
+        "EndTime": "2025-12-21T16:00:00",
         "Duration": "01:00:00",
         "Commentators": {
           "English": "",
@@ -1034,11 +71,11 @@
         "ProductionYear": ""
       },
       "duration": 3600000,
-      "id": "3B35D0B1-A617-4C3F-A513-1A0E2036FF72",
-      "externalId": "2458294632668",
+      "id": "57950202-BD07-4CFB-9BE0-DDF894C5C396",
+      "externalId": "2458294648668",
       "title": "AO Originals - Ambition",
-      "startDate": "2025-12-20T22:30:00.000Z",
-      "endDate": "2025-12-20T23:30:00.000Z",
+      "startDate": "2025-12-21T12:00:00.000Z",
+      "endDate": "2025-12-21T13:00:00.000Z",
       "live": false,
       "replay": false,
       "category": "Sports General",
@@ -1050,8 +87,222 @@
       "descriptionArabic": "",
       "channelId": "7836FEA9-6B39-4A1A-8352-DC5FCB97A16C",
       "sportTypeId": "4503BDDA-BDBB-44C6-8E4A-D42F0305A7FE",
-      "createdAt": "2025-12-20T08:02:22.943Z",
-      "updatedAt": "2025-12-20T08:02:22.943Z",
+      "createdAt": "2025-12-21T08:02:21.605Z",
+      "updatedAt": "2025-12-21T08:02:21.605Z",
+      "channel": {
+        "data": {
+          "Code": "10401",
+          "StaticChannelCode": "5201",
+          "Name": "beIN SPORTS 1"
+        },
+        "id": "7836FEA9-6B39-4A1A-8352-DC5FCB97A16C",
+        "externalId": "10401",
+        "name": "beIN SPORTS 1",
+        "providerId": "995DA2A6-B086-457D-8DFF-5C8E0A7B5A7F",
+        "externalUniqueId": "f50c7035e532c49a0f6993d988e2e843",
+        "createdAt": "2022-10-05T10:01:30.915Z",
+        "updatedAt": "2023-09-04T10:47:52.585Z",
+        "provider": {
+          "id": "995DA2A6-B086-457D-8DFF-5C8E0A7B5A7F",
+          "name": "epg.bein",
+          "createdAt": "2022-10-03T09:10:27.295Z",
+          "updatedAt": "2022-10-03T09:10:27.295Z"
+        }
+      },
+      "sportType": {
+        "id": "4503BDDA-BDBB-44C6-8E4A-D42F0305A7FE",
+        "name": "Other",
+        "createdAt": "2022-10-03T09:10:29.526Z",
+        "updatedAt": "2022-10-03T09:10:29.526Z"
+      }
+    },
+    {
+      "data": {
+        "matchid": "",
+        "m_date": null,
+        "m_time": "",
+        "week": "",
+        "description": "",
+        "competition_id": "",
+        "competition_name": "",
+        "country": "",
+        "stage_name": "",
+        "stage_startdate": null,
+        "stage_enddate": null,
+        "teama_id": "",
+        "teama": "",
+        "teama_position": "",
+        "teama_country": "",
+        "teamb_id": "",
+        "teamb": "",
+        "teamb_position": "",
+        "teamb_country": "",
+        "venue_id": "",
+        "shortname": "",
+        "longname": "",
+        "teama_ar": "",
+        "teamb_ar": "",
+        "series_name": "",
+        "CompetitionType": "",
+        "Live": "False",
+        "ID": "2458295050668",
+        "ChannelCode": "10401",
+        "StaticChannelCode": "5201",
+        "ChannelName": "beIN SPORTS 1",
+        "Category": {
+          "English": "Sports General",
+          "Arabic": "الرياضة العام"
+        },
+        "Title": {
+          "English": "FIFA World Cup 2026 Asian Arabic Teams in World Cup 2026",
+          "Arabic": "FIFA World Cup 2026 Asian Arabic Teams in World Cup 2026"
+        },
+        "Remarks": {
+          "English": "Three Arabic teams from Asia qualified to the 2026 World Cup. Jordan for the first time in its history, Qatar for the first time through the qualifiers after its first participation as a host country for the 2022 World Cup, and Saudi Arabia, which qualified for the seventh time through the qualifiers and will host the 2034 World Cup.",
+          "Arabic": ""
+        },
+        "StartTime": "2025-12-21T16:00:00",
+        "EndTime": "2025-12-21T16:35:00",
+        "Duration": "00:35:00",
+        "Commentators": {
+          "English": "",
+          "Arabic": ""
+        },
+        "ParentalRating": "0",
+        "Synopsis": {
+          "English": "Three Arabic teams from Asia qualified to the 2026 World Cup. Jordan for the first time in its history, Qatar for the first time through the qualifiers after its first participation as a host country for the 2022 World Cup, and Saudi Arabia, which qualified for the seventh time through the qualifiers and will host the 2034 World Cup.",
+          "Arabic": ""
+        },
+        "ImageURL": "",
+        "Genre": "",
+        "ProductionYear": ""
+      },
+      "duration": 2100000,
+      "id": "324AA425-83DD-4BFB-A106-68D6C09F3634",
+      "externalId": "2458295050668",
+      "title": "FIFA World Cup 2026 Asian Arabic Teams in World Cup 2026",
+      "startDate": "2025-12-21T13:00:00.000Z",
+      "endDate": "2025-12-21T13:35:00.000Z",
+      "live": false,
+      "replay": false,
+      "category": "Sports General",
+      "genre": "",
+      "synopsis": "Three Arabic teams from Asia qualified to the 2026 World Cup. Jordan for the first time in its history, Qatar for the first time through the qualifiers after its first participation as a host country for the 2022 World Cup, and Saudi Arabia, which qualified for the seventh time through the qualifiers and will host the 2034 World Cup.",
+      "description": "Three Arabic teams from Asia qualified to the 2026 World Cup. Jordan for the first time in its history, Qatar for the first time through the qualifiers after its first participation as a host country for the 2022 World Cup, and Saudi Arabia, which qualified for the seventh time through the qualifiers and will host the 2034 World Cup.",
+      "categoryArabic": "الرياضة العام",
+      "synopsisArabic": "",
+      "descriptionArabic": "",
+      "channelId": "7836FEA9-6B39-4A1A-8352-DC5FCB97A16C",
+      "sportTypeId": "4503BDDA-BDBB-44C6-8E4A-D42F0305A7FE",
+      "createdAt": "2025-12-21T08:02:21.605Z",
+      "updatedAt": "2025-12-21T08:02:21.605Z",
+      "channel": {
+        "data": {
+          "Code": "10401",
+          "StaticChannelCode": "5201",
+          "Name": "beIN SPORTS 1"
+        },
+        "id": "7836FEA9-6B39-4A1A-8352-DC5FCB97A16C",
+        "externalId": "10401",
+        "name": "beIN SPORTS 1",
+        "providerId": "995DA2A6-B086-457D-8DFF-5C8E0A7B5A7F",
+        "externalUniqueId": "f50c7035e532c49a0f6993d988e2e843",
+        "createdAt": "2022-10-05T10:01:30.915Z",
+        "updatedAt": "2023-09-04T10:47:52.585Z",
+        "provider": {
+          "id": "995DA2A6-B086-457D-8DFF-5C8E0A7B5A7F",
+          "name": "epg.bein",
+          "createdAt": "2022-10-03T09:10:27.295Z",
+          "updatedAt": "2022-10-03T09:10:27.295Z"
+        }
+      },
+      "sportType": {
+        "id": "4503BDDA-BDBB-44C6-8E4A-D42F0305A7FE",
+        "name": "Other",
+        "createdAt": "2022-10-03T09:10:29.526Z",
+        "updatedAt": "2022-10-03T09:10:29.526Z"
+      }
+    },
+    {
+      "data": {
+        "matchid": "",
+        "m_date": null,
+        "m_time": "",
+        "week": "",
+        "description": "",
+        "competition_id": "",
+        "competition_name": "",
+        "country": "",
+        "stage_name": "",
+        "stage_startdate": null,
+        "stage_enddate": null,
+        "teama_id": "",
+        "teama": "",
+        "teama_position": "",
+        "teama_country": "",
+        "teamb_id": "",
+        "teamb": "",
+        "teamb_position": "",
+        "teamb_country": "",
+        "venue_id": "",
+        "shortname": "",
+        "longname": "",
+        "teama_ar": "",
+        "teamb_ar": "",
+        "series_name": "",
+        "CompetitionType": "",
+        "Live": "False",
+        "ID": "2456245592668",
+        "ChannelCode": "10401",
+        "StaticChannelCode": "5201",
+        "ChannelName": "beIN SPORTS 1",
+        "Category": {
+          "English": "Sports General",
+          "Arabic": "الرياضة العام"
+        },
+        "Title": {
+          "English": "Best World Cup Player 2010",
+          "Arabic": "Best World Cup Player 2010"
+        },
+        "Remarks": {
+          "English": "WHO WERE THE BEST WORLD CUP PLAYERS IN 2014\n",
+          "Arabic": ""
+        },
+        "StartTime": "2025-12-21T22:30:00",
+        "EndTime": "2025-12-21T22:50:00",
+        "Duration": "00:20:00",
+        "Commentators": {
+          "English": "",
+          "Arabic": ""
+        },
+        "ParentalRating": "0",
+        "Synopsis": {
+          "English": "WHO WERE THE BEST WORLD CUP PLAYERS IN 2014\n",
+          "Arabic": ""
+        },
+        "ImageURL": "",
+        "Genre": "",
+        "ProductionYear": ""
+      },
+      "duration": 1200000,
+      "id": "D5AD31EF-ADC9-4DCD-8C15-FF4F7E0356D3",
+      "externalId": "2456245592668",
+      "title": "Best World Cup Player 2010",
+      "startDate": "2025-12-21T19:30:00.000Z",
+      "endDate": "2025-12-21T19:50:00.000Z",
+      "live": false,
+      "replay": false,
+      "category": "Sports General",
+      "genre": "",
+      "synopsis": "WHO WERE THE BEST WORLD CUP PLAYERS IN 2014\n",
+      "description": "WHO WERE THE BEST WORLD CUP PLAYERS IN 2014\n",
+      "categoryArabic": "الرياضة العام",
+      "synopsisArabic": "",
+      "descriptionArabic": "",
+      "channelId": "7836FEA9-6B39-4A1A-8352-DC5FCB97A16C",
+      "sportTypeId": "4503BDDA-BDBB-44C6-8E4A-D42F0305A7FE",
+      "createdAt": "2025-12-21T08:02:21.605Z",
+      "updatedAt": "2025-12-21T08:02:21.605Z",
       "channel": {
         "data": {
           "Code": "10401",
