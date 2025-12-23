@@ -1,10 +1,10 @@
 {
   "metadata": {
     "sport": "Other",
-    "saved_at": "2025-12-22T08:28:37.318492",
-    "event_count": 4,
+    "saved_at": "2025-12-23T08:27:54.018474",
+    "event_count": 7,
     "date_range": {
-      "fetched_at": "2025-12-22 08:28:37 UTC"
+      "fetched_at": "2025-12-23 08:27:54 UTC"
     },
     "source": "beIN Sports API"
   },
@@ -38,7 +38,7 @@
         "series_name": "",
         "CompetitionType": "",
         "Live": "False",
-        "ID": "2458295217668",
+        "ID": "2458294668668",
         "ChannelCode": "10401",
         "StaticChannelCode": "5201",
         "ChannelName": "beIN SPORTS 1",
@@ -54,9 +54,9 @@
           "English": "AMBITION is the story of tennis’ fearless new breed rewriting the rules on the sport’s biggest stage - with Alcaraz, Sinner, Gauff, Swiatek and a wave of hungry young challengers reshaping the game with raw talent and audacious self-belief",
           "Arabic": ""
         },
-        "StartTime": "2025-12-22T14:30:00",
-        "EndTime": "2025-12-22T15:30:00",
-        "Duration": "01:00:00",
+        "StartTime": "2025-12-23T08:57:00",
+        "EndTime": "2025-12-23T10:00:00",
+        "Duration": "01:03:00",
         "Commentators": {
           "English": "",
           "Arabic": ""
@@ -70,12 +70,12 @@
         "Genre": "",
         "ProductionYear": ""
       },
-      "duration": 3600000,
-      "id": "55B59C69-D6C7-41C0-959B-443328239331",
-      "externalId": "2458295217668",
+      "duration": 3780000,
+      "id": "3A68FCCD-1028-4FDE-91FA-A945EA64658D",
+      "externalId": "2458294668668",
       "title": "AO Originals - Ambition",
-      "startDate": "2025-12-22T11:30:00.000Z",
-      "endDate": "2025-12-22T12:30:00.000Z",
+      "startDate": "2025-12-23T05:57:00.000Z",
+      "endDate": "2025-12-23T07:00:00.000Z",
       "live": false,
       "replay": false,
       "category": "Sports General",
@@ -87,8 +87,8 @@
       "descriptionArabic": "",
       "channelId": "7836FEA9-6B39-4A1A-8352-DC5FCB97A16C",
       "sportTypeId": "4503BDDA-BDBB-44C6-8E4A-D42F0305A7FE",
-      "createdAt": "2025-12-22T08:02:21.540Z",
-      "updatedAt": "2025-12-22T08:02:21.540Z",
+      "createdAt": "2025-12-23T08:02:21.611Z",
+      "updatedAt": "2025-12-23T08:02:21.611Z",
       "channel": {
         "data": {
           "Code": "10401",
@@ -145,7 +145,114 @@
         "series_name": "",
         "CompetitionType": "",
         "Live": "False",
-        "ID": "2458297306668",
+        "ID": "2458297904668",
+        "ChannelCode": "10401",
+        "StaticChannelCode": "5201",
+        "ChannelName": "beIN SPORTS 1",
+        "Category": {
+          "English": "Sports General",
+          "Arabic": "الرياضة العام"
+        },
+        "Title": {
+          "English": "Best World Cup Player 2010",
+          "Arabic": "Best World Cup Player 2010"
+        },
+        "Remarks": {
+          "English": "WHO WERE THE BEST WORLD CUP PLAYERS IN 2014\n",
+          "Arabic": ""
+        },
+        "StartTime": "2025-12-23T16:30:00",
+        "EndTime": "2025-12-23T16:45:00",
+        "Duration": "00:15:00",
+        "Commentators": {
+          "English": "",
+          "Arabic": ""
+        },
+        "ParentalRating": "0",
+        "Synopsis": {
+          "English": "WHO WERE THE BEST WORLD CUP PLAYERS IN 2014\n",
+          "Arabic": ""
+        },
+        "ImageURL": "",
+        "Genre": "",
+        "ProductionYear": ""
+      },
+      "duration": 900000,
+      "id": "0622627D-96DD-490F-A29F-9E8880C756DC",
+      "externalId": "2458297904668",
+      "title": "Best World Cup Player 2010",
+      "startDate": "2025-12-23T13:30:00.000Z",
+      "endDate": "2025-12-23T13:45:00.000Z",
+      "live": false,
+      "replay": false,
+      "category": "Sports General",
+      "genre": "",
+      "synopsis": "WHO WERE THE BEST WORLD CUP PLAYERS IN 2014\n",
+      "description": "WHO WERE THE BEST WORLD CUP PLAYERS IN 2014\n",
+      "categoryArabic": "الرياضة العام",
+      "synopsisArabic": "",
+      "descriptionArabic": "",
+      "channelId": "7836FEA9-6B39-4A1A-8352-DC5FCB97A16C",
+      "sportTypeId": "4503BDDA-BDBB-44C6-8E4A-D42F0305A7FE",
+      "createdAt": "2025-12-23T08:02:21.611Z",
+      "updatedAt": "2025-12-23T08:02:21.611Z",
+      "channel": {
+        "data": {
+          "Code": "10401",
+          "StaticChannelCode": "5201",
+          "Name": "beIN SPORTS 1"
+        },
+        "id": "7836FEA9-6B39-4A1A-8352-DC5FCB97A16C",
+        "externalId": "10401",
+        "name": "beIN SPORTS 1",
+        "providerId": "995DA2A6-B086-457D-8DFF-5C8E0A7B5A7F",
+        "externalUniqueId": "f50c7035e532c49a0f6993d988e2e843",
+        "createdAt": "2022-10-05T10:01:30.915Z",
+        "updatedAt": "2023-09-04T10:47:52.585Z",
+        "provider": {
+          "id": "995DA2A6-B086-457D-8DFF-5C8E0A7B5A7F",
+          "name": "epg.bein",
+          "createdAt": "2022-10-03T09:10:27.295Z",
+          "updatedAt": "2022-10-03T09:10:27.295Z"
+        }
+      },
+      "sportType": {
+        "id": "4503BDDA-BDBB-44C6-8E4A-D42F0305A7FE",
+        "name": "Other",
+        "createdAt": "2022-10-03T09:10:29.526Z",
+        "updatedAt": "2022-10-03T09:10:29.526Z"
+      }
+    },
+    {
+      "data": {
+        "matchid": "",
+        "m_date": null,
+        "m_time": "",
+        "week": "",
+        "description": "",
+        "competition_id": "",
+        "competition_name": "",
+        "country": "",
+        "stage_name": "",
+        "stage_startdate": null,
+        "stage_enddate": null,
+        "teama_id": "",
+        "teama": "",
+        "teama_position": "",
+        "teama_country": "",
+        "teamb_id": "",
+        "teamb": "",
+        "teamb_position": "",
+        "teamb_country": "",
+        "venue_id": "",
+        "shortname": "",
+        "longname": "",
+        "teama_ar": "",
+        "teamb_ar": "",
+        "series_name": "",
+        "CompetitionType": "",
+        "Live": "False",
+        "ID": "2458297868668",
         "ChannelCode": "10401",
         "StaticChannelCode": "5201",
         "ChannelName": "beIN SPORTS 1",
@@ -161,8 +268,8 @@
           "English": "A preview of the UEFA Europa League and the UEFA Conference League fixtures. Both competitions are live and exclusive only on beIN.",
           "Arabic": ""
         },
-        "StartTime": "2025-12-23T00:00:00",
-        "EndTime": "2025-12-23T01:00:00",
+        "StartTime": "2025-12-23T16:45:00",
+        "EndTime": "2025-12-23T17:45:00",
         "Duration": "01:00:00",
         "Commentators": {
           "English": "",
@@ -178,11 +285,11 @@
         "ProductionYear": ""
       },
       "duration": 3600000,
-      "id": "9CCD4E69-A8D6-4700-AC4A-B9B55CC96C04",
-      "externalId": "2458297306668",
+      "id": "51FEEEBD-5396-4ECA-8EF6-D62CC151D855",
+      "externalId": "2458297868668",
       "title": "UECL Magazine 2025/2026 - UECL League Face Review",
-      "startDate": "2025-12-22T21:00:00.000Z",
-      "endDate": "2025-12-22T22:00:00.000Z",
+      "startDate": "2025-12-23T13:45:00.000Z",
+      "endDate": "2025-12-23T14:45:00.000Z",
       "live": false,
       "replay": false,
       "category": "Sports General",
@@ -194,8 +301,8 @@
       "descriptionArabic": "",
       "channelId": "7836FEA9-6B39-4A1A-8352-DC5FCB97A16C",
       "sportTypeId": "4503BDDA-BDBB-44C6-8E4A-D42F0305A7FE",
-      "createdAt": "2025-12-22T08:02:21.540Z",
-      "updatedAt": "2025-12-22T08:02:21.540Z",
+      "createdAt": "2025-12-23T08:02:21.611Z",
+      "updatedAt": "2025-12-23T08:02:21.611Z",
       "channel": {
         "data": {
           "Code": "10401",
@@ -252,7 +359,7 @@
         "series_name": "",
         "CompetitionType": "",
         "Live": "False",
-        "ID": "2458295506668",
+        "ID": "2457697962668",
         "ChannelCode": "10401",
         "StaticChannelCode": "5201",
         "ChannelName": "beIN SPORTS 1",
@@ -261,15 +368,15 @@
           "Arabic": "الرياضة العام"
         },
         "Title": {
-          "English": "NBA Action 2025/2026",
-          "Arabic": "NBA Action 2025/2026"
+          "English": "Best World Cup Player 2014",
+          "Arabic": "Best World Cup Player 2014"
         },
         "Remarks": {
-          "English": "NBA ACTION keeps pace with the competition on the court while offering viewers an inside look at teams and players from around the League, including several popular weekly segments \n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n",
+          "English": "WHO WERE THE BEST WORLD CUP PLAYERS IN 2018\n",
           "Arabic": ""
         },
-        "StartTime": "2025-12-23T01:00:00",
-        "EndTime": "2025-12-23T01:30:00",
+        "StartTime": "2025-12-23T17:45:00",
+        "EndTime": "2025-12-23T18:15:00",
         "Duration": "00:30:00",
         "Commentators": {
           "English": "",
@@ -277,7 +384,7 @@
         },
         "ParentalRating": "0",
         "Synopsis": {
-          "English": "NBA ACTION keeps pace with the competition on the court while offering viewers an inside look at teams and players from around the League, including several popular weekly segments \n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n",
+          "English": "WHO WERE THE BEST WORLD CUP PLAYERS IN 2018\n",
           "Arabic": ""
         },
         "ImageURL": "",
@@ -285,24 +392,24 @@
         "ProductionYear": ""
       },
       "duration": 1800000,
-      "id": "A9E35590-E927-4079-BC3D-BA950A2A9E05",
-      "externalId": "2458295506668",
-      "title": "NBA Action 2025/2026",
-      "startDate": "2025-12-22T22:00:00.000Z",
-      "endDate": "2025-12-22T22:30:00.000Z",
+      "id": "78907035-3947-40AD-8C14-7AEC140F0046",
+      "externalId": "2457697962668",
+      "title": "Best World Cup Player 2014",
+      "startDate": "2025-12-23T14:45:00.000Z",
+      "endDate": "2025-12-23T15:15:00.000Z",
       "live": false,
       "replay": false,
       "category": "Sports General",
       "genre": "",
-      "synopsis": "NBA ACTION keeps pace with the competition on the court while offering viewers an inside look at teams and players from around the League, including several popular weekly segments \n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n",
-      "description": "NBA ACTION keeps pace with the competition on the court while offering viewers an inside look at teams and players from around the League, including several popular weekly segments \n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n",
+      "synopsis": "WHO WERE THE BEST WORLD CUP PLAYERS IN 2018\n",
+      "description": "WHO WERE THE BEST WORLD CUP PLAYERS IN 2018\n",
       "categoryArabic": "الرياضة العام",
       "synopsisArabic": "",
       "descriptionArabic": "",
       "channelId": "7836FEA9-6B39-4A1A-8352-DC5FCB97A16C",
       "sportTypeId": "4503BDDA-BDBB-44C6-8E4A-D42F0305A7FE",
-      "createdAt": "2025-12-22T08:02:21.540Z",
-      "updatedAt": "2025-12-22T08:02:21.540Z",
+      "createdAt": "2025-12-23T08:02:21.611Z",
+      "updatedAt": "2025-12-23T08:02:21.611Z",
       "channel": {
         "data": {
           "Code": "10401",
@@ -359,7 +466,7 @@
         "series_name": "",
         "CompetitionType": "",
         "Live": "False",
-        "ID": "2458297424668",
+        "ID": "2460284616668",
         "ChannelCode": "10401",
         "StaticChannelCode": "5201",
         "ChannelName": "beIN SPORTS 1",
@@ -368,15 +475,15 @@
           "Arabic": "الرياضة العام"
         },
         "Title": {
-          "English": "FIFA World Cup 2026 African Arabic Teams in World Cup 2026",
-          "Arabic": "FIFA World Cup 2026 African Arabic Teams in World Cup 2026"
+          "English": "Ligue 1 Mid season Review  2025 /2026",
+          "Arabic": "Ligue 1 Mid season Review  2025 /2026"
         },
         "Remarks": {
-          "English": "Four Arabic teams from Africa have qualified for the 2026 World Cup. The teams of Morocco, Tunisia, Algeria and Egypt will participate in the 2026 World Cup with a new challenge and great hopes.. \n\n",
+          "English": "a look back on the first part of the season through various races: for the title, for Europe, and for survival ! It also focuses on breakout players and the key moments of these first months of competition.\n",
           "Arabic": ""
         },
-        "StartTime": "2025-12-23T01:30:00",
-        "EndTime": "2025-12-23T02:00:00",
+        "StartTime": "2025-12-24T00:00:00",
+        "EndTime": "2025-12-24T00:30:00",
         "Duration": "00:30:00",
         "Commentators": {
           "English": "",
@@ -384,7 +491,7 @@
         },
         "ParentalRating": "0",
         "Synopsis": {
-          "English": "Four Arabic teams from Africa have qualified for the 2026 World Cup. The teams of Morocco, Tunisia, Algeria and Egypt will participate in the 2026 World Cup with a new challenge and great hopes.. \n\n",
+          "English": "a look back on the first part of the season through various races: for the title, for Europe, and for survival ! It also focuses on breakout players and the key moments of these first months of competition.\n",
           "Arabic": ""
         },
         "ImageURL": "",
@@ -392,24 +499,238 @@
         "ProductionYear": ""
       },
       "duration": 1800000,
-      "id": "B100A861-0DD5-40C6-AFB1-3F25F21521A4",
-      "externalId": "2458297424668",
-      "title": "FIFA World Cup 2026 African Arabic Teams in World Cup 2026",
-      "startDate": "2025-12-22T22:30:00.000Z",
-      "endDate": "2025-12-22T23:00:00.000Z",
+      "id": "225C5D92-F9F4-4D4A-9695-447E7A73E271",
+      "externalId": "2460284616668",
+      "title": "Ligue 1 Mid season Review  2025 /2026",
+      "startDate": "2025-12-23T21:00:00.000Z",
+      "endDate": "2025-12-23T21:30:00.000Z",
       "live": false,
       "replay": false,
       "category": "Sports General",
       "genre": "",
-      "synopsis": "Four Arabic teams from Africa have qualified for the 2026 World Cup. The teams of Morocco, Tunisia, Algeria and Egypt will participate in the 2026 World Cup with a new challenge and great hopes.. \n\n",
-      "description": "Four Arabic teams from Africa have qualified for the 2026 World Cup. The teams of Morocco, Tunisia, Algeria and Egypt will participate in the 2026 World Cup with a new challenge and great hopes.. \n\n",
+      "synopsis": "a look back on the first part of the season through various races: for the title, for Europe, and for survival ! It also focuses on breakout players and the key moments of these first months of competition.\n",
+      "description": "a look back on the first part of the season through various races: for the title, for Europe, and for survival ! It also focuses on breakout players and the key moments of these first months of competition.\n",
       "categoryArabic": "الرياضة العام",
       "synopsisArabic": "",
       "descriptionArabic": "",
       "channelId": "7836FEA9-6B39-4A1A-8352-DC5FCB97A16C",
       "sportTypeId": "4503BDDA-BDBB-44C6-8E4A-D42F0305A7FE",
-      "createdAt": "2025-12-22T08:02:21.540Z",
-      "updatedAt": "2025-12-22T08:02:21.540Z",
+      "createdAt": "2025-12-23T08:02:21.611Z",
+      "updatedAt": "2025-12-23T08:02:21.611Z",
+      "channel": {
+        "data": {
+          "Code": "10401",
+          "StaticChannelCode": "5201",
+          "Name": "beIN SPORTS 1"
+        },
+        "id": "7836FEA9-6B39-4A1A-8352-DC5FCB97A16C",
+        "externalId": "10401",
+        "name": "beIN SPORTS 1",
+        "providerId": "995DA2A6-B086-457D-8DFF-5C8E0A7B5A7F",
+        "externalUniqueId": "f50c7035e532c49a0f6993d988e2e843",
+        "createdAt": "2022-10-05T10:01:30.915Z",
+        "updatedAt": "2023-09-04T10:47:52.585Z",
+        "provider": {
+          "id": "995DA2A6-B086-457D-8DFF-5C8E0A7B5A7F",
+          "name": "epg.bein",
+          "createdAt": "2022-10-03T09:10:27.295Z",
+          "updatedAt": "2022-10-03T09:10:27.295Z"
+        }
+      },
+      "sportType": {
+        "id": "4503BDDA-BDBB-44C6-8E4A-D42F0305A7FE",
+        "name": "Other",
+        "createdAt": "2022-10-03T09:10:29.526Z",
+        "updatedAt": "2022-10-03T09:10:29.526Z"
+      }
+    },
+    {
+      "data": {
+        "matchid": "",
+        "m_date": null,
+        "m_time": "",
+        "week": "",
+        "description": "",
+        "competition_id": "",
+        "competition_name": "",
+        "country": "",
+        "stage_name": "",
+        "stage_startdate": null,
+        "stage_enddate": null,
+        "teama_id": "",
+        "teama": "",
+        "teama_position": "",
+        "teama_country": "",
+        "teamb_id": "",
+        "teamb": "",
+        "teamb_position": "",
+        "teamb_country": "",
+        "venue_id": "",
+        "shortname": "",
+        "longname": "",
+        "teama_ar": "",
+        "teamb_ar": "",
+        "series_name": "",
+        "CompetitionType": "",
+        "Live": "False",
+        "ID": "2460284625668",
+        "ChannelCode": "10401",
+        "StaticChannelCode": "5201",
+        "ChannelName": "beIN SPORTS 1",
+        "Category": {
+          "English": "Sports General",
+          "Arabic": "الرياضة العام"
+        },
+        "Title": {
+          "English": "La Liga Highlights 2025/2026",
+          "Arabic": "La Liga Highlights 2025/2026"
+        },
+        "Remarks": {
+          "English": "\"This 55-minute program offers full 5-minute highlights of each of the games played on Friday, Saturday and Sunday.LALIGA includes special video presentations of the best goal, the best save and the best player of the day.\"\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n",
+          "Arabic": ""
+        },
+        "StartTime": "2025-12-24T00:30:00",
+        "EndTime": "2025-12-24T01:00:00",
+        "Duration": "00:30:00",
+        "Commentators": {
+          "English": "",
+          "Arabic": ""
+        },
+        "ParentalRating": "0",
+        "Synopsis": {
+          "English": "\"This 55-minute program offers full 5-minute highlights of each of the games played on Friday, Saturday and Sunday.LALIGA includes special video presentations of the best goal, the best save and the best player of the day.\"\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n",
+          "Arabic": ""
+        },
+        "ImageURL": "",
+        "Genre": "",
+        "ProductionYear": ""
+      },
+      "duration": 1800000,
+      "id": "A5F8534A-752D-4B2B-9238-B7D65F3CCEA8",
+      "externalId": "2460284625668",
+      "title": "La Liga Highlights 2025/2026",
+      "startDate": "2025-12-23T21:30:00.000Z",
+      "endDate": "2025-12-23T22:00:00.000Z",
+      "live": false,
+      "replay": false,
+      "category": "Sports General",
+      "genre": "",
+      "synopsis": "\"This 55-minute program offers full 5-minute highlights of each of the games played on Friday, Saturday and Sunday.LALIGA includes special video presentations of the best goal, the best save and the best player of the day.\"\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n",
+      "description": "\"This 55-minute program offers full 5-minute highlights of each of the games played on Friday, Saturday and Sunday.LALIGA includes special video presentations of the best goal, the best save and the best player of the day.\"\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n",
+      "categoryArabic": "الرياضة العام",
+      "synopsisArabic": "",
+      "descriptionArabic": "",
+      "channelId": "7836FEA9-6B39-4A1A-8352-DC5FCB97A16C",
+      "sportTypeId": "4503BDDA-BDBB-44C6-8E4A-D42F0305A7FE",
+      "createdAt": "2025-12-23T08:02:21.611Z",
+      "updatedAt": "2025-12-23T08:02:21.611Z",
+      "channel": {
+        "data": {
+          "Code": "10401",
+          "StaticChannelCode": "5201",
+          "Name": "beIN SPORTS 1"
+        },
+        "id": "7836FEA9-6B39-4A1A-8352-DC5FCB97A16C",
+        "externalId": "10401",
+        "name": "beIN SPORTS 1",
+        "providerId": "995DA2A6-B086-457D-8DFF-5C8E0A7B5A7F",
+        "externalUniqueId": "f50c7035e532c49a0f6993d988e2e843",
+        "createdAt": "2022-10-05T10:01:30.915Z",
+        "updatedAt": "2023-09-04T10:47:52.585Z",
+        "provider": {
+          "id": "995DA2A6-B086-457D-8DFF-5C8E0A7B5A7F",
+          "name": "epg.bein",
+          "createdAt": "2022-10-03T09:10:27.295Z",
+          "updatedAt": "2022-10-03T09:10:27.295Z"
+        }
+      },
+      "sportType": {
+        "id": "4503BDDA-BDBB-44C6-8E4A-D42F0305A7FE",
+        "name": "Other",
+        "createdAt": "2022-10-03T09:10:29.526Z",
+        "updatedAt": "2022-10-03T09:10:29.526Z"
+      }
+    },
+    {
+      "data": {
+        "matchid": "",
+        "m_date": null,
+        "m_time": "",
+        "week": "",
+        "description": "",
+        "competition_id": "",
+        "competition_name": "",
+        "country": "",
+        "stage_name": "",
+        "stage_startdate": null,
+        "stage_enddate": null,
+        "teama_id": "",
+        "teama": "",
+        "teama_position": "",
+        "teama_country": "",
+        "teamb_id": "",
+        "teamb": "",
+        "teamb_position": "",
+        "teamb_country": "",
+        "venue_id": "",
+        "shortname": "",
+        "longname": "",
+        "teama_ar": "",
+        "teamb_ar": "",
+        "series_name": "",
+        "CompetitionType": "",
+        "Live": "False",
+        "ID": "2462749428668",
+        "ChannelCode": "10401",
+        "StaticChannelCode": "5201",
+        "ChannelName": "beIN SPORTS 1",
+        "Category": {
+          "English": "Sports General",
+          "Arabic": "الرياضة العام"
+        },
+        "Title": {
+          "English": "UECL Magazine 2025/2026 - UECL League Face Review",
+          "Arabic": "UECL Magazine 2025/2026 - UECL League Face Review"
+        },
+        "Remarks": {
+          "English": "A preview of the UEFA Europa League and the UEFA Conference League fixtures. Both competitions are live and exclusive only on beIN.",
+          "Arabic": ""
+        },
+        "StartTime": "2025-12-24T01:00:00",
+        "EndTime": "2025-12-24T02:00:00",
+        "Duration": "01:00:00",
+        "Commentators": {
+          "English": "",
+          "Arabic": ""
+        },
+        "ParentalRating": "0",
+        "Synopsis": {
+          "English": "A preview of the UEFA Europa League and the UEFA Conference League fixtures. Both competitions are live and exclusive only on beIN.",
+          "Arabic": ""
+        },
+        "ImageURL": "",
+        "Genre": "",
+        "ProductionYear": ""
+      },
+      "duration": 3600000,
+      "id": "7E7BA510-7532-4985-828E-CF6A5012A800",
+      "externalId": "2462749428668",
+      "title": "UECL Magazine 2025/2026 - UECL League Face Review",
+      "startDate": "2025-12-23T22:00:00.000Z",
+      "endDate": "2025-12-23T23:00:00.000Z",
+      "live": false,
+      "replay": false,
+      "category": "Sports General",
+      "genre": "",
+      "synopsis": "A preview of the UEFA Europa League and the UEFA Conference League fixtures. Both competitions are live and exclusive only on beIN.",
+      "description": "A preview of the UEFA Europa League and the UEFA Conference League fixtures. Both competitions are live and exclusive only on beIN.",
+      "categoryArabic": "الرياضة العام",
+      "synopsisArabic": "",
+      "descriptionArabic": "",
+      "channelId": "7836FEA9-6B39-4A1A-8352-DC5FCB97A16C",
+      "sportTypeId": "4503BDDA-BDBB-44C6-8E4A-D42F0305A7FE",
+      "createdAt": "2025-12-23T08:02:21.611Z",
+      "updatedAt": "2025-12-23T08:02:21.611Z",
       "channel": {
         "data": {
           "Code": "10401",
