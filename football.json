@@ -1,1512 +1,14 @@
 {
   "metadata": {
     "sport": "Football",
-    "saved_at": "2025-12-24T08:27:54.329463",
-    "event_count": 15,
+    "saved_at": "2025-12-25T08:26:44.888183",
+    "event_count": 25,
     "date_range": {
-      "fetched_at": "2025-12-24 08:27:54 UTC"
+      "fetched_at": "2025-12-25 08:26:44 UTC"
     },
     "source": "beIN Sports API"
   },
   "events": [
-    {
-      "data": {
-        "matchid": "13y699tv8uguav2yob8cr9qs",
-        "m_date": "2025-12-23T16:00:00",
-        "m_time": "16:00:00Z",
-        "week": "6",
-        "description": "Al Sadd vs Shabab Al Ahli",
-        "competition_id": "1fedahp0rws09tj451onten8r",
-        "competition_name": "AFC Champions League Elite",
-        "country": "Asia",
-        "stage_name": "League Stage",
-        "stage_startdate": "2025-09-15T00:00:00",
-        "stage_enddate": "2026-02-18T00:00:00",
-        "teama_id": "atorutoyacajxs4yc56spylso",
-        "teama": "Al Sadd",
-        "teama_position": "home",
-        "teama_country": "Qatar",
-        "teamb_id": "1kggiuykohnpydzu0k5zfw5uf",
-        "teamb": "Shabab Al Ahli",
-        "teamb_position": "away",
-        "teamb_country": "United Arab Emirates",
-        "venue_id": "47su32swg3cqd8ggf8cx0cbie",
-        "shortname": "Jassim Bin Hamad Stadium (Al-Sadd Stadium)",
-        "longname": "Jassim Bin Hamad Stadium (Al-Sadd Stadium)",
-        "teama_ar": "السد",
-        "teamb_ar": "شباب الأهلي",
-        "series_name": "Al Sadd vs Shabab Al Ahli - AFC Champions League Elite - 2025/2026-League Stage-Jassim Bin Hamad Stadium (Al-Sadd Stadium)-",
-        "CompetitionType": " cup",
-        "Live": "False",
-        "ID": "2462751016668",
-        "ChannelCode": "10401",
-        "StaticChannelCode": "5201",
-        "ChannelName": "beIN SPORTS 1",
-        "Category": {
-          "English": "Football",
-          "Arabic": "كرة قدم"
-        },
-        "Title": {
-          "English": "Al Sadd SC (QAT) vs Shabab Al Ahli (UAE) - AFC Champions League Elite 2025/2026 - West MD6",
-          "Arabic": "Al Sadd SC (QAT) vs Shabab Al Ahli (UAE) - AFC Champions League Elite 2025/2026 - West MD6"
-        },
-        "Remarks": {
-          "English": "Al Sadd vs Shabab Al Ahli\nAFC Champions League Elite\nSeason 2025/2026\nQualifier Round\nGroup West\nJassim Bin Hamad Stadium Stadium\n",
-          "Arabic": "Al Sadd vs Shabab Al Ahli\nAFC Champions League Elite\nSeason 2025/2026\nQualifier Round\nGroup West\nJassim Bin Hamad Stadium Stadium\n"
-        },
-        "StartTime": "2025-12-24T02:00:00",
-        "EndTime": "2025-12-24T05:00:00",
-        "Duration": "03:00:00",
-        "Commentators": {
-          "English": "",
-          "Arabic": ""
-        },
-        "ParentalRating": "0",
-        "Synopsis": {
-          "English": "Al Sadd vs Shabab Al Ahli\nAFC Champions League Elite\nSeason 2025/2026\nQualifier Round\nGroup West\nJassim Bin Hamad Stadium Stadium\n",
-          "Arabic": "Al Sadd vs Shabab Al Ahli\nAFC Champions League Elite\nSeason 2025/2026\nQualifier Round\nGroup West\nJassim Bin Hamad Stadium Stadium\n"
-        },
-        "ImageURL": "",
-        "Genre": "",
-        "ProductionYear": ""
-      },
-      "duration": 10800000,
-      "id": "561E8723-3816-4880-BAB8-08A18C485544",
-      "externalId": "2462751016668",
-      "title": "Al Sadd SC (QAT) vs Shabab Al Ahli (UAE) - AFC Champions League Elite 2025/2026 - West MD6",
-      "startDate": "2025-12-23T23:00:00.000Z",
-      "endDate": "2025-12-24T02:00:00.000Z",
-      "live": false,
-      "replay": false,
-      "category": "Football",
-      "genre": "",
-      "synopsis": "Al Sadd vs Shabab Al Ahli\nAFC Champions League Elite\nSeason 2025/2026\nQualifier Round\nGroup West\nJassim Bin Hamad Stadium Stadium\n",
-      "description": "Al Sadd vs Shabab Al Ahli\nAFC Champions League Elite\nSeason 2025/2026\nQualifier Round\nGroup West\nJassim Bin Hamad Stadium Stadium\n",
-      "categoryArabic": "كرة قدم",
-      "synopsisArabic": "Al Sadd vs Shabab Al Ahli\nAFC Champions League Elite\nSeason 2025/2026\nQualifier Round\nGroup West\nJassim Bin Hamad Stadium Stadium\n",
-      "descriptionArabic": "Al Sadd vs Shabab Al Ahli\nAFC Champions League Elite\nSeason 2025/2026\nQualifier Round\nGroup West\nJassim Bin Hamad Stadium Stadium\n",
-      "channelId": "7836FEA9-6B39-4A1A-8352-DC5FCB97A16C",
-      "sportTypeId": "7E27AB43-31E6-48B0-8DEB-06E3AB56948D",
-      "createdAt": "2025-12-24T08:02:21.394Z",
-      "updatedAt": "2025-12-24T08:02:21.394Z",
-      "channel": {
-        "data": {
-          "Code": "10401",
-          "StaticChannelCode": "5201",
-          "Name": "beIN SPORTS 1"
-        },
-        "id": "7836FEA9-6B39-4A1A-8352-DC5FCB97A16C",
-        "externalId": "10401",
-        "name": "beIN SPORTS 1",
-        "providerId": "995DA2A6-B086-457D-8DFF-5C8E0A7B5A7F",
-        "externalUniqueId": "f50c7035e532c49a0f6993d988e2e843",
-        "createdAt": "2022-10-05T10:01:30.915Z",
-        "updatedAt": "2023-09-04T10:47:52.585Z",
-        "provider": {
-          "id": "995DA2A6-B086-457D-8DFF-5C8E0A7B5A7F",
-          "name": "epg.bein",
-          "createdAt": "2022-10-03T09:10:27.295Z",
-          "updatedAt": "2022-10-03T09:10:27.295Z"
-        }
-      },
-      "sportType": {
-        "id": "7E27AB43-31E6-48B0-8DEB-06E3AB56948D",
-        "name": "Football",
-        "createdAt": "2022-10-03T09:10:29.401Z",
-        "updatedAt": "2022-10-03T09:10:29.401Z"
-      }
-    },
-    {
-      "data": {
-        "matchid": "1fxerpktrluz43531gn1ihhw",
-        "m_date": "2025-12-23T18:15:00",
-        "m_time": "18:15:00Z",
-        "week": "6",
-        "description": "Al Ittihad vs Nasaf",
-        "competition_id": "1fedahp0rws09tj451onten8r",
-        "competition_name": "AFC Champions League Elite",
-        "country": "Asia",
-        "stage_name": "League Stage",
-        "stage_startdate": "2025-09-15T00:00:00",
-        "stage_enddate": "2026-02-18T00:00:00",
-        "teama_id": "2kzl64gp8x37bon8tyxojqrr1",
-        "teama": "Al Ittihad",
-        "teama_position": "home",
-        "teama_country": "Saudi Arabia",
-        "teamb_id": "6ey4an0gv7oc27sma6oj5vxzz",
-        "teamb": "Nasaf",
-        "teamb_position": "away",
-        "teamb_country": "Uzbekistan",
-        "venue_id": "4ojm72ylf14npk1gnu4so10px",
-        "shortname": "Alinma Bank Stadium at King Abdullah Sport City",
-        "longname": "Alinma Bank Stadium at King Abdullah Sport City",
-        "teama_ar": "الاتحاد",
-        "teamb_ar": "ناساف",
-        "series_name": "Al Ittihad vs Nasaf - AFC Champions League Elite - 2025/2026-League Stage-Alinma Bank Stadium at King Abdullah Sport City-",
-        "CompetitionType": " cup",
-        "Live": "False",
-        "ID": "2462751007668",
-        "ChannelCode": "10401",
-        "StaticChannelCode": "5201",
-        "ChannelName": "beIN SPORTS 1",
-        "Category": {
-          "English": "Football",
-          "Arabic": "كرة قدم"
-        },
-        "Title": {
-          "English": "Al Ittihad Club (KSA) vs PFC Nasaf (UZB) - AFC Champions League Elite 2025/2026 - West MD6",
-          "Arabic": "Al Ittihad Club (KSA) vs PFC Nasaf (UZB) - AFC Champions League Elite 2025/2026 - West MD6"
-        },
-        "Remarks": {
-          "English": "Al Ittihad vs Nasaf\nAFC Champions League Elite\nSeason 2025/2026\nQualifier Round\nGroup West\nAlinma Bank Stadium at King Abdullah Sport City Stadium\n",
-          "Arabic": "Al Ittihad vs Nasaf\nAFC Champions League Elite\nSeason 2025/2026\nQualifier Round\nGroup West\nAlinma Bank Stadium at King Abdullah Sport City Stadium\n"
-        },
-        "StartTime": "2025-12-24T05:00:00",
-        "EndTime": "2025-12-24T07:30:00",
-        "Duration": "02:30:00",
-        "Commentators": {
-          "English": "",
-          "Arabic": ""
-        },
-        "ParentalRating": "0",
-        "Synopsis": {
-          "English": "Al Ittihad vs Nasaf\nAFC Champions League Elite\nSeason 2025/2026\nQualifier Round\nGroup West\nAlinma Bank Stadium at King Abdullah Sport City Stadium\n",
-          "Arabic": "Al Ittihad vs Nasaf\nAFC Champions League Elite\nSeason 2025/2026\nQualifier Round\nGroup West\nAlinma Bank Stadium at King Abdullah Sport City Stadium\n"
-        },
-        "ImageURL": "",
-        "Genre": "",
-        "ProductionYear": ""
-      },
-      "duration": 9000000,
-      "id": "7F8D99F5-1BEA-4238-846E-89EB8FDACDAC",
-      "externalId": "2462751007668",
-      "title": "Al Ittihad Club (KSA) vs PFC Nasaf (UZB) - AFC Champions League Elite 2025/2026 - West MD6",
-      "startDate": "2025-12-24T02:00:00.000Z",
-      "endDate": "2025-12-24T04:30:00.000Z",
-      "live": false,
-      "replay": false,
-      "category": "Football",
-      "genre": "",
-      "synopsis": "Al Ittihad vs Nasaf\nAFC Champions League Elite\nSeason 2025/2026\nQualifier Round\nGroup West\nAlinma Bank Stadium at King Abdullah Sport City Stadium\n",
-      "description": "Al Ittihad vs Nasaf\nAFC Champions League Elite\nSeason 2025/2026\nQualifier Round\nGroup West\nAlinma Bank Stadium at King Abdullah Sport City Stadium\n",
-      "categoryArabic": "كرة قدم",
-      "synopsisArabic": "Al Ittihad vs Nasaf\nAFC Champions League Elite\nSeason 2025/2026\nQualifier Round\nGroup West\nAlinma Bank Stadium at King Abdullah Sport City Stadium\n",
-      "descriptionArabic": "Al Ittihad vs Nasaf\nAFC Champions League Elite\nSeason 2025/2026\nQualifier Round\nGroup West\nAlinma Bank Stadium at King Abdullah Sport City Stadium\n",
-      "channelId": "7836FEA9-6B39-4A1A-8352-DC5FCB97A16C",
-      "sportTypeId": "7E27AB43-31E6-48B0-8DEB-06E3AB56948D",
-      "createdAt": "2025-12-24T08:02:21.394Z",
-      "updatedAt": "2025-12-24T08:02:21.394Z",
-      "channel": {
-        "data": {
-          "Code": "10401",
-          "StaticChannelCode": "5201",
-          "Name": "beIN SPORTS 1"
-        },
-        "id": "7836FEA9-6B39-4A1A-8352-DC5FCB97A16C",
-        "externalId": "10401",
-        "name": "beIN SPORTS 1",
-        "providerId": "995DA2A6-B086-457D-8DFF-5C8E0A7B5A7F",
-        "externalUniqueId": "f50c7035e532c49a0f6993d988e2e843",
-        "createdAt": "2022-10-05T10:01:30.915Z",
-        "updatedAt": "2023-09-04T10:47:52.585Z",
-        "provider": {
-          "id": "995DA2A6-B086-457D-8DFF-5C8E0A7B5A7F",
-          "name": "epg.bein",
-          "createdAt": "2022-10-03T09:10:27.295Z",
-          "updatedAt": "2022-10-03T09:10:27.295Z"
-        }
-      },
-      "sportType": {
-        "id": "7E27AB43-31E6-48B0-8DEB-06E3AB56948D",
-        "name": "Football",
-        "createdAt": "2022-10-03T09:10:29.401Z",
-        "updatedAt": "2022-10-03T09:10:29.401Z"
-      }
-    },
-    {
-      "data": {
-        "matchid": "",
-        "m_date": null,
-        "m_time": "",
-        "week": "",
-        "description": "",
-        "competition_id": "",
-        "competition_name": "",
-        "country": "",
-        "stage_name": "",
-        "stage_startdate": null,
-        "stage_enddate": null,
-        "teama_id": "",
-        "teama": "",
-        "teama_position": "",
-        "teama_country": "",
-        "teamb_id": "",
-        "teamb": "",
-        "teamb_position": "",
-        "teamb_country": "",
-        "venue_id": "",
-        "shortname": "",
-        "longname": "",
-        "teama_ar": "",
-        "teamb_ar": "",
-        "series_name": "",
-        "CompetitionType": "",
-        "Live": "False",
-        "ID": "2460284643668",
-        "ChannelCode": "10401",
-        "StaticChannelCode": "5201",
-        "ChannelName": "beIN SPORTS 1",
-        "Category": {
-          "English": "NFL- National Football League",
-          "Arabic": "دوري كرة القدم الأمريكية"
-        },
-        "Title": {
-          "English": "San Francisco 49ers @ Indianapolis Colts - NFL -National Footbal League  - 2025/26",
-          "Arabic": "San Francisco 49ers @ Indianapolis Colts - NFL -National Footbal League  - 2025/26"
-        },
-        "Remarks": {
-          "English": "Live and exclusive coverage of the NFL (The National Football League). The NFL comprises mainly of a 18-week regular season, which runs in the USA from early September to early January. The NFL season culminates in the Super Bowl, played in early February",
-          "Arabic": ""
-        },
-        "StartTime": "2025-12-24T07:30:00",
-        "EndTime": "2025-12-24T10:00:00",
-        "Duration": "02:30:00",
-        "Commentators": {
-          "English": "",
-          "Arabic": ""
-        },
-        "ParentalRating": "0",
-        "Synopsis": {
-          "English": "Live and exclusive coverage of the NFL (The National Football League). The NFL comprises mainly of a 18-week regular season, which runs in the USA from early September to early January. The NFL season culminates in the Super Bowl, played in early February",
-          "Arabic": ""
-        },
-        "ImageURL": "",
-        "Genre": "",
-        "ProductionYear": ""
-      },
-      "duration": 9000000,
-      "id": "43E8F0AF-3A1C-4765-A41D-AD26663E7864",
-      "externalId": "2460284643668",
-      "title": "San Francisco 49ers @ Indianapolis Colts - NFL -National Footbal League  - 2025/26",
-      "startDate": "2025-12-24T04:30:00.000Z",
-      "endDate": "2025-12-24T07:00:00.000Z",
-      "live": false,
-      "replay": false,
-      "category": "NFL- National Football League",
-      "genre": "",
-      "synopsis": "Live and exclusive coverage of the NFL (The National Football League). The NFL comprises mainly of a 18-week regular season, which runs in the USA from early September to early January. The NFL season culminates in the Super Bowl, played in early February",
-      "description": "Live and exclusive coverage of the NFL (The National Football League). The NFL comprises mainly of a 18-week regular season, which runs in the USA from early September to early January. The NFL season culminates in the Super Bowl, played in early February",
-      "categoryArabic": "دوري كرة القدم الأمريكية",
-      "synopsisArabic": "",
-      "descriptionArabic": "",
-      "channelId": "7836FEA9-6B39-4A1A-8352-DC5FCB97A16C",
-      "sportTypeId": "7E27AB43-31E6-48B0-8DEB-06E3AB56948D",
-      "createdAt": "2025-12-24T08:02:21.394Z",
-      "updatedAt": "2025-12-24T08:02:21.394Z",
-      "channel": {
-        "data": {
-          "Code": "10401",
-          "StaticChannelCode": "5201",
-          "Name": "beIN SPORTS 1"
-        },
-        "id": "7836FEA9-6B39-4A1A-8352-DC5FCB97A16C",
-        "externalId": "10401",
-        "name": "beIN SPORTS 1",
-        "providerId": "995DA2A6-B086-457D-8DFF-5C8E0A7B5A7F",
-        "externalUniqueId": "f50c7035e532c49a0f6993d988e2e843",
-        "createdAt": "2022-10-05T10:01:30.915Z",
-        "updatedAt": "2023-09-04T10:47:52.585Z",
-        "provider": {
-          "id": "995DA2A6-B086-457D-8DFF-5C8E0A7B5A7F",
-          "name": "epg.bein",
-          "createdAt": "2022-10-03T09:10:27.295Z",
-          "updatedAt": "2022-10-03T09:10:27.295Z"
-        }
-      },
-      "sportType": {
-        "id": "7E27AB43-31E6-48B0-8DEB-06E3AB56948D",
-        "name": "Football",
-        "createdAt": "2022-10-03T09:10:29.401Z",
-        "updatedAt": "2022-10-03T09:10:29.401Z"
-      }
-    },
-    {
-      "data": {
-        "matchid": "",
-        "m_date": null,
-        "m_time": "",
-        "week": "",
-        "description": "",
-        "competition_id": "",
-        "competition_name": "",
-        "country": "",
-        "stage_name": "",
-        "stage_startdate": null,
-        "stage_enddate": null,
-        "teama_id": "",
-        "teama": "",
-        "teama_position": "",
-        "teama_country": "",
-        "teamb_id": "",
-        "teamb": "",
-        "teamb_position": "",
-        "teamb_country": "",
-        "venue_id": "",
-        "shortname": "",
-        "longname": "",
-        "teama_ar": "",
-        "teamb_ar": "",
-        "series_name": "",
-        "CompetitionType": "",
-        "Live": "False",
-        "ID": "2460284607668",
-        "ChannelCode": "10401",
-        "StaticChannelCode": "5201",
-        "ChannelName": "beIN SPORTS 1",
-        "Category": {
-          "English": "African Cup of Nations",
-          "Arabic": "كأس الأمم الأفريقية"
-        },
-        "Title": {
-          "English": "Evening Show - African Cup of Nations - Morocco 2025",
-          "Arabic": "Evening Show - African Cup of Nations - Morocco 2025"
-        },
-        "Remarks": {
-          "English": "Every evening, following the last game of the day, the AFCON Evening Show will review the day’s action and preview the upcoming matches and talking points from Morocco. All matches from AFCON are live and exclusive only on beIN",
-          "Arabic": ""
-        },
-        "StartTime": "2025-12-24T11:00:00",
-        "EndTime": "2025-12-24T12:30:00",
-        "Duration": "01:30:00",
-        "Commentators": {
-          "English": "",
-          "Arabic": ""
-        },
-        "ParentalRating": "0",
-        "Synopsis": {
-          "English": "Every evening, following the last game of the day, the AFCON Evening Show will review the day’s action and preview the upcoming matches and talking points from Morocco. All matches from AFCON are live and exclusive only on beIN",
-          "Arabic": ""
-        },
-        "ImageURL": "",
-        "Genre": "",
-        "ProductionYear": ""
-      },
-      "duration": 5400000,
-      "id": "9B113DEC-E777-4F3A-9BBF-7FFBADFC9C76",
-      "externalId": "2460284607668",
-      "title": "Evening Show - African Cup of Nations - Morocco 2025",
-      "startDate": "2025-12-24T08:00:00.000Z",
-      "endDate": "2025-12-24T09:30:00.000Z",
-      "live": false,
-      "replay": false,
-      "category": "African Cup of Nations",
-      "genre": "",
-      "synopsis": "Every evening, following the last game of the day, the AFCON Evening Show will review the day’s action and preview the upcoming matches and talking points from Morocco. All matches from AFCON are live and exclusive only on beIN",
-      "description": "Every evening, following the last game of the day, the AFCON Evening Show will review the day’s action and preview the upcoming matches and talking points from Morocco. All matches from AFCON are live and exclusive only on beIN",
-      "categoryArabic": "كأس الأمم الأفريقية",
-      "synopsisArabic": "",
-      "descriptionArabic": "",
-      "channelId": "7836FEA9-6B39-4A1A-8352-DC5FCB97A16C",
-      "sportTypeId": "7E27AB43-31E6-48B0-8DEB-06E3AB56948D",
-      "createdAt": "2025-12-24T08:02:21.394Z",
-      "updatedAt": "2025-12-24T08:02:21.394Z",
-      "channel": {
-        "data": {
-          "Code": "10401",
-          "StaticChannelCode": "5201",
-          "Name": "beIN SPORTS 1"
-        },
-        "id": "7836FEA9-6B39-4A1A-8352-DC5FCB97A16C",
-        "externalId": "10401",
-        "name": "beIN SPORTS 1",
-        "providerId": "995DA2A6-B086-457D-8DFF-5C8E0A7B5A7F",
-        "externalUniqueId": "f50c7035e532c49a0f6993d988e2e843",
-        "createdAt": "2022-10-05T10:01:30.915Z",
-        "updatedAt": "2023-09-04T10:47:52.585Z",
-        "provider": {
-          "id": "995DA2A6-B086-457D-8DFF-5C8E0A7B5A7F",
-          "name": "epg.bein",
-          "createdAt": "2022-10-03T09:10:27.295Z",
-          "updatedAt": "2022-10-03T09:10:27.295Z"
-        }
-      },
-      "sportType": {
-        "id": "7E27AB43-31E6-48B0-8DEB-06E3AB56948D",
-        "name": "Football",
-        "createdAt": "2022-10-03T09:10:29.401Z",
-        "updatedAt": "2022-10-03T09:10:29.401Z"
-      }
-    },
-    {
-      "data": {
-        "matchid": "",
-        "m_date": null,
-        "m_time": "",
-        "week": "",
-        "description": "",
-        "competition_id": "",
-        "competition_name": "",
-        "country": "",
-        "stage_name": "",
-        "stage_startdate": null,
-        "stage_enddate": null,
-        "teama_id": "",
-        "teama": "",
-        "teama_position": "",
-        "teama_country": "",
-        "teamb_id": "",
-        "teamb": "",
-        "teamb_position": "",
-        "teamb_country": "",
-        "venue_id": "",
-        "shortname": "",
-        "longname": "",
-        "teama_ar": "",
-        "teamb_ar": "",
-        "series_name": "",
-        "CompetitionType": "",
-        "Live": "False",
-        "ID": "2460284634668",
-        "ChannelCode": "10401",
-        "StaticChannelCode": "5201",
-        "ChannelName": "beIN SPORTS 1",
-        "Category": {
-          "English": "French Cup",
-          "Arabic": "كأس فرنسا"
-        },
-        "Title": {
-          "English": "Vendée Fontenay Foot vs Paris Saint-Germain - French Cup - 2025/26 - Round of 64 - Mini Match",
-          "Arabic": "Vendée Fontenay Foot vs Paris Saint-Germain - French Cup - 2025/26 - Round of 64 - Mini Match"
-        },
-        "Remarks": {
-          "English": "Live and exclusive only on beIN, the Coupe de France, also referred to as the French Cup, is the premier knockout cup competition in French football organised by the French Football Federation (FF). The winner qualifies for the group stage of the UEFA Europa League and a place in the Trophée des Champions. Current champions are Paris saint Germain.\n",
-          "Arabic": ""
-        },
-        "StartTime": "2025-12-24T12:45:00",
-        "EndTime": "2025-12-24T13:15:00",
-        "Duration": "00:30:00",
-        "Commentators": {
-          "English": "",
-          "Arabic": ""
-        },
-        "ParentalRating": "0",
-        "Synopsis": {
-          "English": "Live and exclusive only on beIN, the Coupe de France, also referred to as the French Cup, is the premier knockout cup competition in French football organised by the French Football Federation (FF). The winner qualifies for the group stage of the UEFA Europa League and a place in the Trophée des Champions. Current champions are Paris saint Germain.\n",
-          "Arabic": ""
-        },
-        "ImageURL": "",
-        "Genre": "",
-        "ProductionYear": ""
-      },
-      "duration": 1800000,
-      "id": "CF54E019-68DD-4173-A280-967533A6EF8B",
-      "externalId": "2460284634668",
-      "title": "Vendée Fontenay Foot vs Paris Saint-Germain - French Cup - 2025/26 - Round of 64 - Mini Match",
-      "startDate": "2025-12-24T09:45:00.000Z",
-      "endDate": "2025-12-24T10:15:00.000Z",
-      "live": false,
-      "replay": false,
-      "category": "French Cup",
-      "genre": "",
-      "synopsis": "Live and exclusive only on beIN, the Coupe de France, also referred to as the French Cup, is the premier knockout cup competition in French football organised by the French Football Federation (FF). The winner qualifies for the group stage of the UEFA Europa League and a place in the Trophée des Champions. Current champions are Paris saint Germain.\n",
-      "description": "Live and exclusive only on beIN, the Coupe de France, also referred to as the French Cup, is the premier knockout cup competition in French football organised by the French Football Federation (FF). The winner qualifies for the group stage of the UEFA Europa League and a place in the Trophée des Champions. Current champions are Paris saint Germain.\n",
-      "categoryArabic": "كأس فرنسا",
-      "synopsisArabic": "",
-      "descriptionArabic": "",
-      "channelId": "7836FEA9-6B39-4A1A-8352-DC5FCB97A16C",
-      "sportTypeId": "7E27AB43-31E6-48B0-8DEB-06E3AB56948D",
-      "createdAt": "2025-12-24T08:02:21.394Z",
-      "updatedAt": "2025-12-24T08:02:21.394Z",
-      "channel": {
-        "data": {
-          "Code": "10401",
-          "StaticChannelCode": "5201",
-          "Name": "beIN SPORTS 1"
-        },
-        "id": "7836FEA9-6B39-4A1A-8352-DC5FCB97A16C",
-        "externalId": "10401",
-        "name": "beIN SPORTS 1",
-        "providerId": "995DA2A6-B086-457D-8DFF-5C8E0A7B5A7F",
-        "externalUniqueId": "f50c7035e532c49a0f6993d988e2e843",
-        "createdAt": "2022-10-05T10:01:30.915Z",
-        "updatedAt": "2023-09-04T10:47:52.585Z",
-        "provider": {
-          "id": "995DA2A6-B086-457D-8DFF-5C8E0A7B5A7F",
-          "name": "epg.bein",
-          "createdAt": "2022-10-03T09:10:27.295Z",
-          "updatedAt": "2022-10-03T09:10:27.295Z"
-        }
-      },
-      "sportType": {
-        "id": "7E27AB43-31E6-48B0-8DEB-06E3AB56948D",
-        "name": "Football",
-        "createdAt": "2022-10-03T09:10:29.401Z",
-        "updatedAt": "2022-10-03T09:10:29.401Z"
-      }
-    },
-    {
-      "data": {
-        "matchid": "zkqu9lm76sa6ypjcluvnr578",
-        "m_date": "2025-10-25T14:15:00",
-        "m_time": "14:15:00Z",
-        "week": "10",
-        "description": "Espanyol vs Elche",
-        "competition_id": "34pl8szyvrbwcmfkuocjm3r6t",
-        "competition_name": "LaLiga",
-        "country": "Spain",
-        "stage_name": "Regular Season",
-        "stage_startdate": "2025-08-15T00:00:00",
-        "stage_enddate": "2026-05-24T00:00:00",
-        "teama_id": "c8llrezkm3b3op4afrou6b487",
-        "teama": "Espanyol",
-        "teama_position": "home",
-        "teama_country": "Spain",
-        "teamb_id": "4yg9ttzw0m51048doksv8uq5r",
-        "teamb": "Elche",
-        "teamb_position": "away",
-        "teamb_country": "Spain",
-        "venue_id": "46sq3vgaf79kjl0yd82jm3t5n",
-        "shortname": "RCDE Stadium",
-        "longname": "RCDE Stadium",
-        "teama_ar": "إسبانيول",
-        "teamb_ar": "إلتشي",
-        "series_name": "Espanyol vs Elche - Primera División - 2025/2026-Regular Season-RCDE Stadium-",
-        "CompetitionType": "Domestic league",
-        "Live": "False",
-        "ID": "2460284631668",
-        "ChannelCode": "10401",
-        "StaticChannelCode": "5201",
-        "ChannelName": "beIN SPORTS 1",
-        "Category": {
-          "English": "Spanish League - Primera División",
-          "Arabic": "الدوري الإسباني لكرة القدم"
-        },
-        "Title": {
-          "English": "Real Madrid vs Sevilla - Spanish LaLiga 2025/26 - Week 17 - Mini Match",
-          "Arabic": "Real Madrid vs Sevilla - Spanish LaLiga 2025/26 - Week 17 - Mini Match"
-        },
-        "Remarks": {
-          "English": "Espanyol have only won one of their last six LaLiga games against Elche, the last of which was a 1-0 win in February 2023, and have not won two consecutive games against them in the competition since March 1985. After five consecutive home wins against Elche in LaLiga between 1975 and 1984, Espanyol have won just one of their subsequent five league matches against them at home, failing to win any of the last three.\n",
-          "Arabic": "Espanyol have only won one of their last six LaLiga games against Elche, the last of which was a 1-0 win in February 2023, and have not won two consecutive games against them in the competition since March 1985. After five consecutive home wins against Elche in LaLiga between 1975 and 1984, Espanyol have won just one of their subsequent five league"
-        },
-        "StartTime": "2025-12-24T13:45:00",
-        "EndTime": "2025-12-24T14:15:00",
-        "Duration": "00:30:00",
-        "Commentators": {
-          "English": "",
-          "Arabic": ""
-        },
-        "ParentalRating": "0",
-        "Synopsis": {
-          "English": "Espanyol have only won one of their last six LaLiga games against Elche, the last of which was a 1-0 win in February 2023, and have not won two consecutive games against them in the competition since March 1985. After five consecutive home wins against Elche in LaLiga between 1975 and 1984, Espanyol have won just one of their subsequent five league matches against them at home, failing to win any of the last three.\n",
-          "Arabic": "Espanyol have only won one of their last six LaLiga games against Elche, the last of which was a 1-0 win in February 2023, and have not won two consecutive games against them in the competition since March 1985. After five consecutive home wins against Elche in LaLiga between 1975 and 1984, Espanyol have won just one of their subsequent five league"
-        },
-        "ImageURL": "",
-        "Genre": "",
-        "ProductionYear": ""
-      },
-      "duration": 1800000,
-      "id": "414CA70F-9439-4554-9D05-527E816EC10A",
-      "externalId": "2460284631668",
-      "title": "Real Madrid vs Sevilla - Spanish LaLiga 2025/26 - Week 17 - Mini Match",
-      "startDate": "2025-12-24T10:45:00.000Z",
-      "endDate": "2025-12-24T11:15:00.000Z",
-      "live": false,
-      "replay": false,
-      "category": "Spanish League - Primera División",
-      "genre": "",
-      "synopsis": "Espanyol have only won one of their last six LaLiga games against Elche, the last of which was a 1-0 win in February 2023, and have not won two consecutive games against them in the competition since March 1985. After five consecutive home wins against Elche in LaLiga between 1975 and 1984, Espanyol have won just one of their subsequent five league matches against them at home, failing to win any of the last three.\n",
-      "description": "Espanyol have only won one of their last six LaLiga games against Elche, the last of which was a 1-0 win in February 2023, and have not won two consecutive games against them in the competition since March 1985. After five consecutive home wins against Elche in LaLiga between 1975 and 1984, Espanyol have won just one of their subsequent five league matches against them at home, failing to win any of the last three.\n",
-      "categoryArabic": "الدوري الإسباني لكرة القدم",
-      "synopsisArabic": "Espanyol have only won one of their last six LaLiga games against Elche, the last of which was a 1-0 win in February 2023, and have not won two consecutive games against them in the competition since March 1985. After five consecutive home wins against Elche in LaLiga between 1975 and 1984, Espanyol have won just one of their subsequent five league",
-      "descriptionArabic": "Espanyol have only won one of their last six LaLiga games against Elche, the last of which was a 1-0 win in February 2023, and have not won two consecutive games against them in the competition since March 1985. After five consecutive home wins against Elche in LaLiga between 1975 and 1984, Espanyol have won just one of their subsequent five league",
-      "channelId": "7836FEA9-6B39-4A1A-8352-DC5FCB97A16C",
-      "sportTypeId": "7E27AB43-31E6-48B0-8DEB-06E3AB56948D",
-      "createdAt": "2025-12-24T08:02:21.394Z",
-      "updatedAt": "2025-12-24T08:02:21.394Z",
-      "channel": {
-        "data": {
-          "Code": "10401",
-          "StaticChannelCode": "5201",
-          "Name": "beIN SPORTS 1"
-        },
-        "id": "7836FEA9-6B39-4A1A-8352-DC5FCB97A16C",
-        "externalId": "10401",
-        "name": "beIN SPORTS 1",
-        "providerId": "995DA2A6-B086-457D-8DFF-5C8E0A7B5A7F",
-        "externalUniqueId": "f50c7035e532c49a0f6993d988e2e843",
-        "createdAt": "2022-10-05T10:01:30.915Z",
-        "updatedAt": "2023-09-04T10:47:52.585Z",
-        "provider": {
-          "id": "995DA2A6-B086-457D-8DFF-5C8E0A7B5A7F",
-          "name": "epg.bein",
-          "createdAt": "2022-10-03T09:10:27.295Z",
-          "updatedAt": "2022-10-03T09:10:27.295Z"
-        }
-      },
-      "sportType": {
-        "id": "7E27AB43-31E6-48B0-8DEB-06E3AB56948D",
-        "name": "Football",
-        "createdAt": "2022-10-03T09:10:29.401Z",
-        "updatedAt": "2022-10-03T09:10:29.401Z"
-      }
-    },
-    {
-      "data": {
-        "matchid": "xcapf185ght9jj3jcgj4v0us",
-        "m_date": "2025-10-24T19:00:00",
-        "m_time": "19:00:00Z",
-        "week": "10",
-        "description": "Real Sociedad vs Sevilla",
-        "competition_id": "34pl8szyvrbwcmfkuocjm3r6t",
-        "competition_name": "LaLiga",
-        "country": "Spain",
-        "stage_name": "Regular Season",
-        "stage_startdate": "2025-08-15T00:00:00",
-        "stage_enddate": "2026-05-24T00:00:00",
-        "teama_id": "63f5h8t5e9qm1fqmvfkb23ghh",
-        "teama": "Real Sociedad",
-        "teama_position": "home",
-        "teama_country": "Spain",
-        "teamb_id": "10eyb18v5puw4ez03ocaug09m",
-        "teamb": "Sevilla",
-        "teamb_position": "away",
-        "teamb_country": "Spain",
-        "venue_id": "bpfd0sk353ozrgi4jrjs5qgqs",
-        "shortname": "Estadio Municipal de Anoeta",
-        "longname": "Estadio Municipal de Anoeta",
-        "teama_ar": "ريال سوسيداد",
-        "teamb_ar": "إشبيلية",
-        "series_name": "Real Sociedad vs Sevilla - Primera División - 2025/2026-Regular Season-Estadio Municipal de Anoeta-",
-        "CompetitionType": "Domestic league",
-        "Live": "False",
-        "ID": "2460284628668",
-        "ChannelCode": "10401",
-        "StaticChannelCode": "5201",
-        "ChannelName": "beIN SPORTS 1",
-        "Category": {
-          "English": "Spanish League - Primera División",
-          "Arabic": "الدوري الإسباني لكرة القدم"
-        },
-        "Title": {
-          "English": "Villarreal vs Barcelona - Spanish LaLiga 2025/26 - Week 17 - Mini Match",
-          "Arabic": "Villarreal vs Barcelona - Spanish LaLiga 2025/26 - Week 17 - Mini Match"
-        },
-        "Remarks": {
-          "English": "Real Sociedad have lost two of their last three LaLiga matches against Sevilla, after having not lost any of their previous five against the Sevillians in the competition. Sevilla have lost two of their last three visits to Real Sociedad in LaLiga, although their last away league win against them came in March 2025. They have not won two consecutive away LaLiga matches against Real Sociedad since 2011.\n",
-          "Arabic": "Real Sociedad have lost two of their last three LaLiga matches against Sevilla, after having not lost any of their previous five against the Sevillians in the competition. Sevilla have lost two of their last three visits to Real Sociedad in LaLiga, although their last away league win against them came in March 2025. They have not won two consecutiv"
-        },
-        "StartTime": "2025-12-24T14:15:00",
-        "EndTime": "2025-12-24T14:45:00",
-        "Duration": "00:30:00",
-        "Commentators": {
-          "English": "",
-          "Arabic": ""
-        },
-        "ParentalRating": "0",
-        "Synopsis": {
-          "English": "Real Sociedad have lost two of their last three LaLiga matches against Sevilla, after having not lost any of their previous five against the Sevillians in the competition. Sevilla have lost two of their last three visits to Real Sociedad in LaLiga, although their last away league win against them came in March 2025. They have not won two consecutive away LaLiga matches against Real Sociedad since 2011.\n",
-          "Arabic": "Real Sociedad have lost two of their last three LaLiga matches against Sevilla, after having not lost any of their previous five against the Sevillians in the competition. Sevilla have lost two of their last three visits to Real Sociedad in LaLiga, although their last away league win against them came in March 2025. They have not won two consecutiv"
-        },
-        "ImageURL": "",
-        "Genre": "",
-        "ProductionYear": ""
-      },
-      "duration": 1800000,
-      "id": "4537DB1E-962B-40C9-811C-739533539151",
-      "externalId": "2460284628668",
-      "title": "Villarreal vs Barcelona - Spanish LaLiga 2025/26 - Week 17 - Mini Match",
-      "startDate": "2025-12-24T11:15:00.000Z",
-      "endDate": "2025-12-24T11:45:00.000Z",
-      "live": false,
-      "replay": false,
-      "category": "Spanish League - Primera División",
-      "genre": "",
-      "synopsis": "Real Sociedad have lost two of their last three LaLiga matches against Sevilla, after having not lost any of their previous five against the Sevillians in the competition. Sevilla have lost two of their last three visits to Real Sociedad in LaLiga, although their last away league win against them came in March 2025. They have not won two consecutive away LaLiga matches against Real Sociedad since 2011.\n",
-      "description": "Real Sociedad have lost two of their last three LaLiga matches against Sevilla, after having not lost any of their previous five against the Sevillians in the competition. Sevilla have lost two of their last three visits to Real Sociedad in LaLiga, although their last away league win against them came in March 2025. They have not won two consecutive away LaLiga matches against Real Sociedad since 2011.\n",
-      "categoryArabic": "الدوري الإسباني لكرة القدم",
-      "synopsisArabic": "Real Sociedad have lost two of their last three LaLiga matches against Sevilla, after having not lost any of their previous five against the Sevillians in the competition. Sevilla have lost two of their last three visits to Real Sociedad in LaLiga, although their last away league win against them came in March 2025. They have not won two consecutiv",
-      "descriptionArabic": "Real Sociedad have lost two of their last three LaLiga matches against Sevilla, after having not lost any of their previous five against the Sevillians in the competition. Sevilla have lost two of their last three visits to Real Sociedad in LaLiga, although their last away league win against them came in March 2025. They have not won two consecutiv",
-      "channelId": "7836FEA9-6B39-4A1A-8352-DC5FCB97A16C",
-      "sportTypeId": "7E27AB43-31E6-48B0-8DEB-06E3AB56948D",
-      "createdAt": "2025-12-24T08:02:21.394Z",
-      "updatedAt": "2025-12-24T08:02:21.394Z",
-      "channel": {
-        "data": {
-          "Code": "10401",
-          "StaticChannelCode": "5201",
-          "Name": "beIN SPORTS 1"
-        },
-        "id": "7836FEA9-6B39-4A1A-8352-DC5FCB97A16C",
-        "externalId": "10401",
-        "name": "beIN SPORTS 1",
-        "providerId": "995DA2A6-B086-457D-8DFF-5C8E0A7B5A7F",
-        "externalUniqueId": "f50c7035e532c49a0f6993d988e2e843",
-        "createdAt": "2022-10-05T10:01:30.915Z",
-        "updatedAt": "2023-09-04T10:47:52.585Z",
-        "provider": {
-          "id": "995DA2A6-B086-457D-8DFF-5C8E0A7B5A7F",
-          "name": "epg.bein",
-          "createdAt": "2022-10-03T09:10:27.295Z",
-          "updatedAt": "2022-10-03T09:10:27.295Z"
-        }
-      },
-      "sportType": {
-        "id": "7E27AB43-31E6-48B0-8DEB-06E3AB56948D",
-        "name": "Football",
-        "createdAt": "2022-10-03T09:10:29.401Z",
-        "updatedAt": "2022-10-03T09:10:29.401Z"
-      }
-    },
-    {
-      "data": {
-        "matchid": "",
-        "m_date": null,
-        "m_time": "",
-        "week": "",
-        "description": "",
-        "competition_id": "",
-        "competition_name": "",
-        "country": "",
-        "stage_name": "",
-        "stage_startdate": null,
-        "stage_enddate": null,
-        "teama_id": "",
-        "teama": "",
-        "teama_position": "",
-        "teama_country": "",
-        "teamb_id": "",
-        "teamb": "",
-        "teamb_position": "",
-        "teamb_country": "",
-        "venue_id": "",
-        "shortname": "",
-        "longname": "",
-        "teama_ar": "",
-        "teamb_ar": "",
-        "series_name": "",
-        "CompetitionType": "",
-        "Live": "False",
-        "ID": "2462803800668",
-        "ChannelCode": "10401",
-        "StaticChannelCode": "5201",
-        "ChannelName": "beIN SPORTS 1",
-        "Category": {
-          "English": "Football",
-          "Arabic": "كرة قدم"
-        },
-        "Title": {
-          "English": "PSG vs  Flamengo - FIFA Intercontinental Cup Qatar 2025 - Mini Match",
-          "Arabic": "PSG vs  Flamengo - FIFA Intercontinental Cup Qatar 2025 - Mini Match"
-        },
-        "Remarks": {
-          "English": "Champions of Europe meet the champions of South America for the right to be crowned FIFA Intercontinental Cup winners.\nPSG won their first ever UEFA Champions League title in May 2025.\nFlamengo won the Copa Libertadores, in November 2025, for the fourth time in their history.\nVictory for PSG will see them win their sixth trophy of the year, Flamengo could win an amazing fifth trophy in the last 19 days.\nThe match is live from Ahmed bin Ali Stadium, Doha, Qatar\n",
-          "Arabic": ""
-        },
-        "StartTime": "2025-12-24T16:30:00",
-        "EndTime": "2025-12-24T17:00:00",
-        "Duration": "00:30:00",
-        "Commentators": {
-          "English": "",
-          "Arabic": ""
-        },
-        "ParentalRating": "0",
-        "Synopsis": {
-          "English": "Champions of Europe meet the champions of South America for the right to be crowned FIFA Intercontinental Cup winners.\nPSG won their first ever UEFA Champions League title in May 2025.\nFlamengo won the Copa Libertadores, in November 2025, for the fourth time in their history.\nVictory for PSG will see them win their sixth trophy of the year, Flamengo could win an amazing fifth trophy in the last 19 days.\nThe match is live from Ahmed bin Ali Stadium, Doha, Qatar\n",
-          "Arabic": ""
-        },
-        "ImageURL": "",
-        "Genre": "",
-        "ProductionYear": ""
-      },
-      "duration": 1800000,
-      "id": "DF637D25-1DD5-4DDC-A985-F68F3A8FE028",
-      "externalId": "2462803800668",
-      "title": "PSG vs  Flamengo - FIFA Intercontinental Cup Qatar 2025 - Mini Match",
-      "startDate": "2025-12-24T13:30:00.000Z",
-      "endDate": "2025-12-24T14:00:00.000Z",
-      "live": false,
-      "replay": false,
-      "category": "Football",
-      "genre": "",
-      "synopsis": "Champions of Europe meet the champions of South America for the right to be crowned FIFA Intercontinental Cup winners.\nPSG won their first ever UEFA Champions League title in May 2025.\nFlamengo won the Copa Libertadores, in November 2025, for the fourth time in their history.\nVictory for PSG will see them win their sixth trophy of the year, Flamengo could win an amazing fifth trophy in the last 19 days.\nThe match is live from Ahmed bin Ali Stadium, Doha, Qatar\n",
-      "description": "Champions of Europe meet the champions of South America for the right to be crowned FIFA Intercontinental Cup winners.\nPSG won their first ever UEFA Champions League title in May 2025.\nFlamengo won the Copa Libertadores, in November 2025, for the fourth time in their history.\nVictory for PSG will see them win their sixth trophy of the year, Flamengo could win an amazing fifth trophy in the last 19 days.\nThe match is live from Ahmed bin Ali Stadium, Doha, Qatar\n",
-      "categoryArabic": "كرة قدم",
-      "synopsisArabic": "",
-      "descriptionArabic": "",
-      "channelId": "7836FEA9-6B39-4A1A-8352-DC5FCB97A16C",
-      "sportTypeId": "7E27AB43-31E6-48B0-8DEB-06E3AB56948D",
-      "createdAt": "2025-12-24T08:02:21.394Z",
-      "updatedAt": "2025-12-24T08:02:21.394Z",
-      "channel": {
-        "data": {
-          "Code": "10401",
-          "StaticChannelCode": "5201",
-          "Name": "beIN SPORTS 1"
-        },
-        "id": "7836FEA9-6B39-4A1A-8352-DC5FCB97A16C",
-        "externalId": "10401",
-        "name": "beIN SPORTS 1",
-        "providerId": "995DA2A6-B086-457D-8DFF-5C8E0A7B5A7F",
-        "externalUniqueId": "f50c7035e532c49a0f6993d988e2e843",
-        "createdAt": "2022-10-05T10:01:30.915Z",
-        "updatedAt": "2023-09-04T10:47:52.585Z",
-        "provider": {
-          "id": "995DA2A6-B086-457D-8DFF-5C8E0A7B5A7F",
-          "name": "epg.bein",
-          "createdAt": "2022-10-03T09:10:27.295Z",
-          "updatedAt": "2022-10-03T09:10:27.295Z"
-        }
-      },
-      "sportType": {
-        "id": "7E27AB43-31E6-48B0-8DEB-06E3AB56948D",
-        "name": "Football",
-        "createdAt": "2022-10-03T09:10:29.401Z",
-        "updatedAt": "2022-10-03T09:10:29.401Z"
-      }
-    },
-    {
-      "data": {
-        "matchid": "",
-        "m_date": null,
-        "m_time": "",
-        "week": "",
-        "description": "",
-        "competition_id": "",
-        "competition_name": "",
-        "country": "",
-        "stage_name": "",
-        "stage_startdate": null,
-        "stage_enddate": null,
-        "teama_id": "",
-        "teama": "",
-        "teama_position": "",
-        "teama_country": "",
-        "teamb_id": "",
-        "teamb": "",
-        "teamb_position": "",
-        "teamb_country": "",
-        "venue_id": "",
-        "shortname": "",
-        "longname": "",
-        "teama_ar": "",
-        "teamb_ar": "",
-        "series_name": "",
-        "CompetitionType": "",
-        "Live": "False",
-        "ID": "2460284646668",
-        "ChannelCode": "10401",
-        "StaticChannelCode": "5201",
-        "ChannelName": "beIN SPORTS 1",
-        "Category": {
-          "English": "Football",
-          "Arabic": "كرة قدم"
-        },
-        "Title": {
-          "English": "Sharjah FC (UAE) vs Al Hilal SFC (KSA) - AFC Champions League Elite 2025/2026 - West MD6 - Mini Matc",
-          "Arabic": "Sharjah FC (UAE) vs Al Hilal SFC (KSA) - AFC Champions League Elite 2025/2026 - West MD6 - Mini Matc"
-        },
-        "Remarks": {
-          "English": "The AFC Champions League Elite is contested by Asia's top-division football clubs. It is the most prestigious club competition in Asian football, played by the national league champions. A total of 24 clubs compete in the league stage of the competition, divided into East and West regions (12 teams each).\nAll games are live and exclusive only on beIN\n",
-          "Arabic": ""
-        },
-        "StartTime": "2025-12-24T17:00:00",
-        "EndTime": "2025-12-24T17:30:00",
-        "Duration": "00:30:00",
-        "Commentators": {
-          "English": "",
-          "Arabic": ""
-        },
-        "ParentalRating": "0",
-        "Synopsis": {
-          "English": "The AFC Champions League Elite is contested by Asia's top-division football clubs. It is the most prestigious club competition in Asian football, played by the national league champions. A total of 24 clubs compete in the league stage of the competition, divided into East and West regions (12 teams each).\nAll games are live and exclusive only on beIN\n",
-          "Arabic": ""
-        },
-        "ImageURL": "",
-        "Genre": "",
-        "ProductionYear": ""
-      },
-      "duration": 1800000,
-      "id": "9180C52E-FD04-4D31-8574-EB86BA4B6F69",
-      "externalId": "2460284646668",
-      "title": "Sharjah FC (UAE) vs Al Hilal SFC (KSA) - AFC Champions League Elite 2025/2026 - West MD6 - Mini Matc",
-      "startDate": "2025-12-24T14:00:00.000Z",
-      "endDate": "2025-12-24T14:30:00.000Z",
-      "live": false,
-      "replay": false,
-      "category": "Football",
-      "genre": "",
-      "synopsis": "The AFC Champions League Elite is contested by Asia's top-division football clubs. It is the most prestigious club competition in Asian football, played by the national league champions. A total of 24 clubs compete in the league stage of the competition, divided into East and West regions (12 teams each).\nAll games are live and exclusive only on beIN\n",
-      "description": "The AFC Champions League Elite is contested by Asia's top-division football clubs. It is the most prestigious club competition in Asian football, played by the national league champions. A total of 24 clubs compete in the league stage of the competition, divided into East and West regions (12 teams each).\nAll games are live and exclusive only on beIN\n",
-      "categoryArabic": "كرة قدم",
-      "synopsisArabic": "",
-      "descriptionArabic": "",
-      "channelId": "7836FEA9-6B39-4A1A-8352-DC5FCB97A16C",
-      "sportTypeId": "7E27AB43-31E6-48B0-8DEB-06E3AB56948D",
-      "createdAt": "2025-12-24T08:02:21.394Z",
-      "updatedAt": "2025-12-24T08:02:21.394Z",
-      "channel": {
-        "data": {
-          "Code": "10401",
-          "StaticChannelCode": "5201",
-          "Name": "beIN SPORTS 1"
-        },
-        "id": "7836FEA9-6B39-4A1A-8352-DC5FCB97A16C",
-        "externalId": "10401",
-        "name": "beIN SPORTS 1",
-        "providerId": "995DA2A6-B086-457D-8DFF-5C8E0A7B5A7F",
-        "externalUniqueId": "f50c7035e532c49a0f6993d988e2e843",
-        "createdAt": "2022-10-05T10:01:30.915Z",
-        "updatedAt": "2023-09-04T10:47:52.585Z",
-        "provider": {
-          "id": "995DA2A6-B086-457D-8DFF-5C8E0A7B5A7F",
-          "name": "epg.bein",
-          "createdAt": "2022-10-03T09:10:27.295Z",
-          "updatedAt": "2022-10-03T09:10:27.295Z"
-        }
-      },
-      "sportType": {
-        "id": "7E27AB43-31E6-48B0-8DEB-06E3AB56948D",
-        "name": "Football",
-        "createdAt": "2022-10-03T09:10:29.401Z",
-        "updatedAt": "2022-10-03T09:10:29.401Z"
-      }
-    },
-    {
-      "data": {
-        "matchid": "",
-        "m_date": null,
-        "m_time": "",
-        "week": "",
-        "description": "",
-        "competition_id": "",
-        "competition_name": "",
-        "country": "",
-        "stage_name": "",
-        "stage_startdate": null,
-        "stage_enddate": null,
-        "teama_id": "",
-        "teama": "",
-        "teama_position": "",
-        "teama_country": "",
-        "teamb_id": "",
-        "teamb": "",
-        "teamb_position": "",
-        "teamb_country": "",
-        "venue_id": "",
-        "shortname": "",
-        "longname": "",
-        "teama_ar": "",
-        "teamb_ar": "",
-        "series_name": "",
-        "CompetitionType": "",
-        "Live": "False",
-        "ID": "2460284637668",
-        "ChannelCode": "10401",
-        "StaticChannelCode": "5201",
-        "ChannelName": "beIN SPORTS 1",
-        "Category": {
-          "English": "Football",
-          "Arabic": "كرة قدم"
-        },
-        "Title": {
-          "English": "Tractor FC (IRN) vs Al Duhail SC (QAT) - AFC Champions League Elite 2025/2026 - West MD6 - Mini Matc",
-          "Arabic": "Tractor FC (IRN) vs Al Duhail SC (QAT) - AFC Champions League Elite 2025/2026 - West MD6 - Mini Matc"
-        },
-        "Remarks": {
-          "English": "The AFC Champions League Elite is contested by Asia's top-division football clubs. It is the most prestigious club competition in Asian football, played by the national league champions. A total of 24 clubs compete in the league stage of the competition, divided into East and West regions (12 teams each).\nAll games are live and exclusive only on beIN\n",
-          "Arabic": ""
-        },
-        "StartTime": "2025-12-24T17:30:00",
-        "EndTime": "2025-12-24T17:59:00",
-        "Duration": "00:29:00",
-        "Commentators": {
-          "English": "",
-          "Arabic": ""
-        },
-        "ParentalRating": "0",
-        "Synopsis": {
-          "English": "The AFC Champions League Elite is contested by Asia's top-division football clubs. It is the most prestigious club competition in Asian football, played by the national league champions. A total of 24 clubs compete in the league stage of the competition, divided into East and West regions (12 teams each).\nAll games are live and exclusive only on beIN\n",
-          "Arabic": ""
-        },
-        "ImageURL": "",
-        "Genre": "",
-        "ProductionYear": ""
-      },
-      "duration": 1740000,
-      "id": "35496779-439E-49C6-9742-EBF2D3F0B086",
-      "externalId": "2460284637668",
-      "title": "Tractor FC (IRN) vs Al Duhail SC (QAT) - AFC Champions League Elite 2025/2026 - West MD6 - Mini Matc",
-      "startDate": "2025-12-24T14:30:00.000Z",
-      "endDate": "2025-12-24T14:59:00.000Z",
-      "live": false,
-      "replay": false,
-      "category": "Football",
-      "genre": "",
-      "synopsis": "The AFC Champions League Elite is contested by Asia's top-division football clubs. It is the most prestigious club competition in Asian football, played by the national league champions. A total of 24 clubs compete in the league stage of the competition, divided into East and West regions (12 teams each).\nAll games are live and exclusive only on beIN\n",
-      "description": "The AFC Champions League Elite is contested by Asia's top-division football clubs. It is the most prestigious club competition in Asian football, played by the national league champions. A total of 24 clubs compete in the league stage of the competition, divided into East and West regions (12 teams each).\nAll games are live and exclusive only on beIN\n",
-      "categoryArabic": "كرة قدم",
-      "synopsisArabic": "",
-      "descriptionArabic": "",
-      "channelId": "7836FEA9-6B39-4A1A-8352-DC5FCB97A16C",
-      "sportTypeId": "7E27AB43-31E6-48B0-8DEB-06E3AB56948D",
-      "createdAt": "2025-12-24T08:02:21.394Z",
-      "updatedAt": "2025-12-24T08:02:21.394Z",
-      "channel": {
-        "data": {
-          "Code": "10401",
-          "StaticChannelCode": "5201",
-          "Name": "beIN SPORTS 1"
-        },
-        "id": "7836FEA9-6B39-4A1A-8352-DC5FCB97A16C",
-        "externalId": "10401",
-        "name": "beIN SPORTS 1",
-        "providerId": "995DA2A6-B086-457D-8DFF-5C8E0A7B5A7F",
-        "externalUniqueId": "f50c7035e532c49a0f6993d988e2e843",
-        "createdAt": "2022-10-05T10:01:30.915Z",
-        "updatedAt": "2023-09-04T10:47:52.585Z",
-        "provider": {
-          "id": "995DA2A6-B086-457D-8DFF-5C8E0A7B5A7F",
-          "name": "epg.bein",
-          "createdAt": "2022-10-03T09:10:27.295Z",
-          "updatedAt": "2022-10-03T09:10:27.295Z"
-        }
-      },
-      "sportType": {
-        "id": "7E27AB43-31E6-48B0-8DEB-06E3AB56948D",
-        "name": "Football",
-        "createdAt": "2022-10-03T09:10:29.401Z",
-        "updatedAt": "2022-10-03T09:10:29.401Z"
-      }
-    },
-    {
-      "data": {
-        "matchid": "",
-        "m_date": null,
-        "m_time": "",
-        "week": "",
-        "description": "",
-        "competition_id": "",
-        "competition_name": "",
-        "country": "",
-        "stage_name": "",
-        "stage_startdate": null,
-        "stage_enddate": null,
-        "teama_id": "",
-        "teama": "",
-        "teama_position": "",
-        "teama_country": "",
-        "teamb_id": "",
-        "teamb": "",
-        "teamb_position": "",
-        "teamb_country": "",
-        "venue_id": "",
-        "shortname": "",
-        "longname": "",
-        "teama_ar": "",
-        "teamb_ar": "",
-        "series_name": "",
-        "CompetitionType": "",
-        "Live": "False",
-        "ID": "2460284610668",
-        "ChannelCode": "10401",
-        "StaticChannelCode": "5201",
-        "ChannelName": "beIN SPORTS 1",
-        "Category": {
-          "English": "Football",
-          "Arabic": "كرة قدم"
-        },
-        "Title": {
-          "English": "Al Gharafa SC (QAT) vs Al Wahda FC (UAE) - AFC Champions League Elite 2025/2026 - West MD6 - Mini Ma",
-          "Arabic": "Al Gharafa SC (QAT) vs Al Wahda FC (UAE) - AFC Champions League Elite 2025/2026 - West MD6 - Mini Ma"
-        },
-        "Remarks": {
-          "English": "The AFC Champions League Elite is contested by Asia's top-division football clubs. It is the most prestigious club competition in Asian football, played by the national league champions. A total of 24 clubs compete in the league stage of the competition, divided into East and West regions (12 teams each).\nAll games are live and exclusive only on beIN\n",
-          "Arabic": ""
-        },
-        "StartTime": "2025-12-24T17:59:00",
-        "EndTime": "2025-12-24T18:30:00",
-        "Duration": "00:31:00",
-        "Commentators": {
-          "English": "",
-          "Arabic": ""
-        },
-        "ParentalRating": "0",
-        "Synopsis": {
-          "English": "The AFC Champions League Elite is contested by Asia's top-division football clubs. It is the most prestigious club competition in Asian football, played by the national league champions. A total of 24 clubs compete in the league stage of the competition, divided into East and West regions (12 teams each).\nAll games are live and exclusive only on beIN\n",
-          "Arabic": ""
-        },
-        "ImageURL": "",
-        "Genre": "",
-        "ProductionYear": ""
-      },
-      "duration": 1860000,
-      "id": "A6DCF9BE-374D-4182-AA65-FFC343BF6ACC",
-      "externalId": "2460284610668",
-      "title": "Al Gharafa SC (QAT) vs Al Wahda FC (UAE) - AFC Champions League Elite 2025/2026 - West MD6 - Mini Ma",
-      "startDate": "2025-12-24T14:59:00.000Z",
-      "endDate": "2025-12-24T15:30:00.000Z",
-      "live": false,
-      "replay": false,
-      "category": "Football",
-      "genre": "",
-      "synopsis": "The AFC Champions League Elite is contested by Asia's top-division football clubs. It is the most prestigious club competition in Asian football, played by the national league champions. A total of 24 clubs compete in the league stage of the competition, divided into East and West regions (12 teams each).\nAll games are live and exclusive only on beIN\n",
-      "description": "The AFC Champions League Elite is contested by Asia's top-division football clubs. It is the most prestigious club competition in Asian football, played by the national league champions. A total of 24 clubs compete in the league stage of the competition, divided into East and West regions (12 teams each).\nAll games are live and exclusive only on beIN\n",
-      "categoryArabic": "كرة قدم",
-      "synopsisArabic": "",
-      "descriptionArabic": "",
-      "channelId": "7836FEA9-6B39-4A1A-8352-DC5FCB97A16C",
-      "sportTypeId": "7E27AB43-31E6-48B0-8DEB-06E3AB56948D",
-      "createdAt": "2025-12-24T08:02:21.394Z",
-      "updatedAt": "2025-12-24T08:02:21.394Z",
-      "channel": {
-        "data": {
-          "Code": "10401",
-          "StaticChannelCode": "5201",
-          "Name": "beIN SPORTS 1"
-        },
-        "id": "7836FEA9-6B39-4A1A-8352-DC5FCB97A16C",
-        "externalId": "10401",
-        "name": "beIN SPORTS 1",
-        "providerId": "995DA2A6-B086-457D-8DFF-5C8E0A7B5A7F",
-        "externalUniqueId": "f50c7035e532c49a0f6993d988e2e843",
-        "createdAt": "2022-10-05T10:01:30.915Z",
-        "updatedAt": "2023-09-04T10:47:52.585Z",
-        "provider": {
-          "id": "995DA2A6-B086-457D-8DFF-5C8E0A7B5A7F",
-          "name": "epg.bein",
-          "createdAt": "2022-10-03T09:10:27.295Z",
-          "updatedAt": "2022-10-03T09:10:27.295Z"
-        }
-      },
-      "sportType": {
-        "id": "7E27AB43-31E6-48B0-8DEB-06E3AB56948D",
-        "name": "Football",
-        "createdAt": "2022-10-03T09:10:29.401Z",
-        "updatedAt": "2022-10-03T09:10:29.401Z"
-      }
-    },
-    {
-      "data": {
-        "matchid": "",
-        "m_date": null,
-        "m_time": "",
-        "week": "",
-        "description": "",
-        "competition_id": "",
-        "competition_name": "",
-        "country": "",
-        "stage_name": "",
-        "stage_startdate": null,
-        "stage_enddate": null,
-        "teama_id": "",
-        "teama": "",
-        "teama_position": "",
-        "teama_country": "",
-        "teamb_id": "",
-        "teamb": "",
-        "teamb_position": "",
-        "teamb_country": "",
-        "venue_id": "",
-        "shortname": "",
-        "longname": "",
-        "teama_ar": "",
-        "teamb_ar": "",
-        "series_name": "",
-        "CompetitionType": "",
-        "Live": "True",
-        "ID": "2460284613668",
-        "ChannelCode": "10401",
-        "StaticChannelCode": "5201",
-        "ChannelName": "beIN SPORTS 1",
-        "Category": {
-          "English": "AFC Champions League Two",
-          "Arabic": "دوري أبطال آسيا 2"
-        },
-        "Title": {
-          "English": "Al Nassr Club (KSA) vs Al Zawraa SC (IRQ) - AFC Champions League Two 2025/2026 - West MD6",
-          "Arabic": "Al Nassr Club (KSA) vs Al Zawraa SC (IRQ) - AFC Champions League Two 2025/2026 - West MD6"
-        },
-        "Remarks": {
-          "English": "The AFC Champions League Two is the second-tier competition of Asian club football, ranked below the AFC Champions League Elite. \nParticipation in the competition is open to clubs from the top 12 nations in the East and the West region based on the AFC club competitions ranking.\nAll games are live and exclusive only on beIN.\n",
-          "Arabic": ""
-        },
-        "StartTime": "2025-12-24T18:30:00",
-        "EndTime": "2025-12-24T21:30:00",
-        "Duration": "03:00:00",
-        "Commentators": {
-          "English": "",
-          "Arabic": ""
-        },
-        "ParentalRating": "0",
-        "Synopsis": {
-          "English": "The AFC Champions League Two is the second-tier competition of Asian club football, ranked below the AFC Champions League Elite. \nParticipation in the competition is open to clubs from the top 12 nations in the East and the West region based on the AFC club competitions ranking.\nAll games are live and exclusive only on beIN.\n",
-          "Arabic": ""
-        },
-        "ImageURL": "",
-        "Genre": "",
-        "ProductionYear": ""
-      },
-      "duration": 10800000,
-      "id": "B319C368-B65F-446F-ACC2-363B4E8B449B",
-      "externalId": "2460284613668",
-      "title": "Al Nassr Club (KSA) vs Al Zawraa SC (IRQ) - AFC Champions League Two 2025/2026 - West MD6",
-      "startDate": "2025-12-24T15:30:00.000Z",
-      "endDate": "2025-12-24T18:30:00.000Z",
-      "live": true,
-      "replay": false,
-      "category": "AFC Champions League Two",
-      "genre": "",
-      "synopsis": "The AFC Champions League Two is the second-tier competition of Asian club football, ranked below the AFC Champions League Elite. \nParticipation in the competition is open to clubs from the top 12 nations in the East and the West region based on the AFC club competitions ranking.\nAll games are live and exclusive only on beIN.\n",
-      "description": "The AFC Champions League Two is the second-tier competition of Asian club football, ranked below the AFC Champions League Elite. \nParticipation in the competition is open to clubs from the top 12 nations in the East and the West region based on the AFC club competitions ranking.\nAll games are live and exclusive only on beIN.\n",
-      "categoryArabic": "دوري أبطال آسيا 2",
-      "synopsisArabic": "",
-      "descriptionArabic": "",
-      "channelId": "7836FEA9-6B39-4A1A-8352-DC5FCB97A16C",
-      "sportTypeId": "7E27AB43-31E6-48B0-8DEB-06E3AB56948D",
-      "createdAt": "2025-12-24T08:02:21.394Z",
-      "updatedAt": "2025-12-24T08:02:21.394Z",
-      "channel": {
-        "data": {
-          "Code": "10401",
-          "StaticChannelCode": "5201",
-          "Name": "beIN SPORTS 1"
-        },
-        "id": "7836FEA9-6B39-4A1A-8352-DC5FCB97A16C",
-        "externalId": "10401",
-        "name": "beIN SPORTS 1",
-        "providerId": "995DA2A6-B086-457D-8DFF-5C8E0A7B5A7F",
-        "externalUniqueId": "f50c7035e532c49a0f6993d988e2e843",
-        "createdAt": "2022-10-05T10:01:30.915Z",
-        "updatedAt": "2023-09-04T10:47:52.585Z",
-        "provider": {
-          "id": "995DA2A6-B086-457D-8DFF-5C8E0A7B5A7F",
-          "name": "epg.bein",
-          "createdAt": "2022-10-03T09:10:27.295Z",
-          "updatedAt": "2022-10-03T09:10:27.295Z"
-        }
-      },
-      "sportType": {
-        "id": "7E27AB43-31E6-48B0-8DEB-06E3AB56948D",
-        "name": "Football",
-        "createdAt": "2022-10-03T09:10:29.401Z",
-        "updatedAt": "2022-10-03T09:10:29.401Z"
-      }
-    },
-    {
-      "data": {
-        "matchid": "",
-        "m_date": null,
-        "m_time": "",
-        "week": "",
-        "description": "",
-        "competition_id": "",
-        "competition_name": "",
-        "country": "",
-        "stage_name": "",
-        "stage_startdate": null,
-        "stage_enddate": null,
-        "teama_id": "",
-        "teama": "",
-        "teama_position": "",
-        "teama_country": "",
-        "teamb_id": "",
-        "teamb": "",
-        "teamb_position": "",
-        "teamb_country": "",
-        "venue_id": "",
-        "shortname": "",
-        "longname": "",
-        "teama_ar": "",
-        "teamb_ar": "",
-        "series_name": "",
-        "CompetitionType": "",
-        "Live": "True",
-        "ID": "2460284604668",
-        "ChannelCode": "10401",
-        "StaticChannelCode": "5201",
-        "ChannelName": "beIN SPORTS 1",
-        "Category": {
-          "English": "AFC Champions League Two",
-          "Arabic": "دوري أبطال آسيا 2"
-        },
-        "Title": {
-          "English": "AFC Champions League Two 2025/2026 - Highlights",
-          "Arabic": "AFC Champions League Two 2025/2026 - Highlights"
-        },
-        "Remarks": {
-          "English": "AFC Champions League Two 2025/2026 - Highlights",
-          "Arabic": ""
-        },
-        "StartTime": "2025-12-24T21:30:00",
-        "EndTime": "2025-12-24T22:30:00",
-        "Duration": "01:00:00",
-        "Commentators": {
-          "English": "",
-          "Arabic": ""
-        },
-        "ParentalRating": "0",
-        "Synopsis": {
-          "English": "AFC Champions League Two 2025/2026 - Highlights",
-          "Arabic": ""
-        },
-        "ImageURL": "",
-        "Genre": "",
-        "ProductionYear": ""
-      },
-      "duration": 3600000,
-      "id": "581D073F-6D31-4737-B8A5-36206A02F1E2",
-      "externalId": "2460284604668",
-      "title": "AFC Champions League Two 2025/2026 - Highlights",
-      "startDate": "2025-12-24T18:30:00.000Z",
-      "endDate": "2025-12-24T19:30:00.000Z",
-      "live": true,
-      "replay": false,
-      "category": "AFC Champions League Two",
-      "genre": "",
-      "synopsis": "AFC Champions League Two 2025/2026 - Highlights",
-      "description": "AFC Champions League Two 2025/2026 - Highlights",
-      "categoryArabic": "دوري أبطال آسيا 2",
-      "synopsisArabic": "",
-      "descriptionArabic": "",
-      "channelId": "7836FEA9-6B39-4A1A-8352-DC5FCB97A16C",
-      "sportTypeId": "7E27AB43-31E6-48B0-8DEB-06E3AB56948D",
-      "createdAt": "2025-12-24T08:02:21.394Z",
-      "updatedAt": "2025-12-24T08:02:21.394Z",
-      "channel": {
-        "data": {
-          "Code": "10401",
-          "StaticChannelCode": "5201",
-          "Name": "beIN SPORTS 1"
-        },
-        "id": "7836FEA9-6B39-4A1A-8352-DC5FCB97A16C",
-        "externalId": "10401",
-        "name": "beIN SPORTS 1",
-        "providerId": "995DA2A6-B086-457D-8DFF-5C8E0A7B5A7F",
-        "externalUniqueId": "f50c7035e532c49a0f6993d988e2e843",
-        "createdAt": "2022-10-05T10:01:30.915Z",
-        "updatedAt": "2023-09-04T10:47:52.585Z",
-        "provider": {
-          "id": "995DA2A6-B086-457D-8DFF-5C8E0A7B5A7F",
-          "name": "epg.bein",
-          "createdAt": "2022-10-03T09:10:27.295Z",
-          "updatedAt": "2022-10-03T09:10:27.295Z"
-        }
-      },
-      "sportType": {
-        "id": "7E27AB43-31E6-48B0-8DEB-06E3AB56948D",
-        "name": "Football",
-        "createdAt": "2022-10-03T09:10:29.401Z",
-        "updatedAt": "2022-10-03T09:10:29.401Z"
-      }
-    },
-    {
-      "data": {
-        "matchid": "",
-        "m_date": null,
-        "m_time": "",
-        "week": "",
-        "description": "",
-        "competition_id": "",
-        "competition_name": "",
-        "country": "",
-        "stage_name": "",
-        "stage_startdate": null,
-        "stage_enddate": null,
-        "teama_id": "",
-        "teama": "",
-        "teama_position": "",
-        "teama_country": "",
-        "teamb_id": "",
-        "teamb": "",
-        "teamb_position": "",
-        "teamb_country": "",
-        "venue_id": "",
-        "shortname": "",
-        "longname": "",
-        "teama_ar": "",
-        "teamb_ar": "",
-        "series_name": "",
-        "CompetitionType": "",
-        "Live": "False",
-        "ID": "2460284586668",
-        "ChannelCode": "10401",
-        "StaticChannelCode": "5201",
-        "ChannelName": "beIN SPORTS 1",
-        "Category": {
-          "English": "Football",
-          "Arabic": "كرة قدم"
-        },
-        "Title": {
-          "English": "PSG vs  Flamengo - FIFA Intercontinental Cup Qatar 2025 - Mini Match",
-          "Arabic": "PSG vs  Flamengo - FIFA Intercontinental Cup Qatar 2025 - Mini Match"
-        },
-        "Remarks": {
-          "English": "Champions of Europe meet the champions of South America for the right to be crowned FIFA Intercontinental Cup winners.\nPSG won their first ever UEFA Champions League title in May 2025.\nFlamengo won the Copa Libertadores, in November 2025, for the fourth time in their history.\nVictory for PSG will see them win their sixth trophy of the year, Flamengo could win an amazing fifth trophy in the last 19 days.\nThe match is live from Ahmed bin Ali Stadium, Doha, Qatar\n",
-          "Arabic": ""
-        },
-        "StartTime": "2025-12-24T22:30:00",
-        "EndTime": "2025-12-24T23:00:00",
-        "Duration": "00:30:00",
-        "Commentators": {
-          "English": "",
-          "Arabic": ""
-        },
-        "ParentalRating": "0",
-        "Synopsis": {
-          "English": "Champions of Europe meet the champions of South America for the right to be crowned FIFA Intercontinental Cup winners.\nPSG won their first ever UEFA Champions League title in May 2025.\nFlamengo won the Copa Libertadores, in November 2025, for the fourth time in their history.\nVictory for PSG will see them win their sixth trophy of the year, Flamengo could win an amazing fifth trophy in the last 19 days.\nThe match is live from Ahmed bin Ali Stadium, Doha, Qatar\n",
-          "Arabic": ""
-        },
-        "ImageURL": "",
-        "Genre": "",
-        "ProductionYear": ""
-      },
-      "duration": 1800000,
-      "id": "00C22DE7-3DF5-47BC-88DB-DD5EB3396BC7",
-      "externalId": "2460284586668",
-      "title": "PSG vs  Flamengo - FIFA Intercontinental Cup Qatar 2025 - Mini Match",
-      "startDate": "2025-12-24T19:30:00.000Z",
-      "endDate": "2025-12-24T20:00:00.000Z",
-      "live": false,
-      "replay": false,
-      "category": "Football",
-      "genre": "",
-      "synopsis": "Champions of Europe meet the champions of South America for the right to be crowned FIFA Intercontinental Cup winners.\nPSG won their first ever UEFA Champions League title in May 2025.\nFlamengo won the Copa Libertadores, in November 2025, for the fourth time in their history.\nVictory for PSG will see them win their sixth trophy of the year, Flamengo could win an amazing fifth trophy in the last 19 days.\nThe match is live from Ahmed bin Ali Stadium, Doha, Qatar\n",
-      "description": "Champions of Europe meet the champions of South America for the right to be crowned FIFA Intercontinental Cup winners.\nPSG won their first ever UEFA Champions League title in May 2025.\nFlamengo won the Copa Libertadores, in November 2025, for the fourth time in their history.\nVictory for PSG will see them win their sixth trophy of the year, Flamengo could win an amazing fifth trophy in the last 19 days.\nThe match is live from Ahmed bin Ali Stadium, Doha, Qatar\n",
-      "categoryArabic": "كرة قدم",
-      "synopsisArabic": "",
-      "descriptionArabic": "",
-      "channelId": "7836FEA9-6B39-4A1A-8352-DC5FCB97A16C",
-      "sportTypeId": "7E27AB43-31E6-48B0-8DEB-06E3AB56948D",
-      "createdAt": "2025-12-24T08:02:21.394Z",
-      "updatedAt": "2025-12-24T08:02:21.394Z",
-      "channel": {
-        "data": {
-          "Code": "10401",
-          "StaticChannelCode": "5201",
-          "Name": "beIN SPORTS 1"
-        },
-        "id": "7836FEA9-6B39-4A1A-8352-DC5FCB97A16C",
-        "externalId": "10401",
-        "name": "beIN SPORTS 1",
-        "providerId": "995DA2A6-B086-457D-8DFF-5C8E0A7B5A7F",
-        "externalUniqueId": "f50c7035e532c49a0f6993d988e2e843",
-        "createdAt": "2022-10-05T10:01:30.915Z",
-        "updatedAt": "2023-09-04T10:47:52.585Z",
-        "provider": {
-          "id": "995DA2A6-B086-457D-8DFF-5C8E0A7B5A7F",
-          "name": "epg.bein",
-          "createdAt": "2022-10-03T09:10:27.295Z",
-          "updatedAt": "2022-10-03T09:10:27.295Z"
-        }
-      },
-      "sportType": {
-        "id": "7E27AB43-31E6-48B0-8DEB-06E3AB56948D",
-        "name": "Football",
-        "createdAt": "2022-10-03T09:10:29.401Z",
-        "updatedAt": "2022-10-03T09:10:29.401Z"
-      }
-    },
     {
       "data": {
         "matchid": "",
@@ -1569,7 +71,7 @@
         "ProductionYear": ""
       },
       "duration": 10800000,
-      "id": "9211E5DD-84F3-4501-80E7-CFC14832662A",
+      "id": "4F26A126-AD99-47CE-A40D-EA2DCB17FBCA",
       "externalId": "2463622256668",
       "title": "Al Nassr Club (KSA) vs Al Zawraa SC (IRQ) - AFC Champions League Two 2025/2026 - West MD6",
       "startDate": "2025-12-24T23:00:00.000Z",
@@ -1585,8 +87,2576 @@
       "descriptionArabic": "",
       "channelId": "7836FEA9-6B39-4A1A-8352-DC5FCB97A16C",
       "sportTypeId": "7E27AB43-31E6-48B0-8DEB-06E3AB56948D",
-      "createdAt": "2025-12-24T08:02:21.394Z",
-      "updatedAt": "2025-12-24T08:02:21.394Z",
+      "createdAt": "2025-12-25T08:02:21.586Z",
+      "updatedAt": "2025-12-25T08:02:21.586Z",
+      "channel": {
+        "data": {
+          "Code": "10401",
+          "StaticChannelCode": "5201",
+          "Name": "beIN SPORTS 1"
+        },
+        "id": "7836FEA9-6B39-4A1A-8352-DC5FCB97A16C",
+        "externalId": "10401",
+        "name": "beIN SPORTS 1",
+        "providerId": "995DA2A6-B086-457D-8DFF-5C8E0A7B5A7F",
+        "externalUniqueId": "f50c7035e532c49a0f6993d988e2e843",
+        "createdAt": "2022-10-05T10:01:30.915Z",
+        "updatedAt": "2023-09-04T10:47:52.585Z",
+        "provider": {
+          "id": "995DA2A6-B086-457D-8DFF-5C8E0A7B5A7F",
+          "name": "epg.bein",
+          "createdAt": "2022-10-03T09:10:27.295Z",
+          "updatedAt": "2022-10-03T09:10:27.295Z"
+        }
+      },
+      "sportType": {
+        "id": "7E27AB43-31E6-48B0-8DEB-06E3AB56948D",
+        "name": "Football",
+        "createdAt": "2022-10-03T09:10:29.401Z",
+        "updatedAt": "2022-10-03T09:10:29.401Z"
+      }
+    },
+    {
+      "data": {
+        "matchid": "",
+        "m_date": null,
+        "m_time": "",
+        "week": "",
+        "description": "",
+        "competition_id": "",
+        "competition_name": "",
+        "country": "",
+        "stage_name": "",
+        "stage_startdate": null,
+        "stage_enddate": null,
+        "teama_id": "",
+        "teama": "",
+        "teama_position": "",
+        "teama_country": "",
+        "teamb_id": "",
+        "teamb": "",
+        "teamb_position": "",
+        "teamb_country": "",
+        "venue_id": "",
+        "shortname": "",
+        "longname": "",
+        "teama_ar": "",
+        "teamb_ar": "",
+        "series_name": "",
+        "CompetitionType": "",
+        "Live": "False",
+        "ID": "2460284727668",
+        "ChannelCode": "10401",
+        "StaticChannelCode": "5201",
+        "ChannelName": "beIN SPORTS 1",
+        "Category": {
+          "English": "AFC Champions League Two",
+          "Arabic": "دوري أبطال آسيا 2"
+        },
+        "Title": {
+          "English": "AFC Champions League Two 2025/2026 - Highlights",
+          "Arabic": "AFC Champions League Two 2025/2026 - Highlights"
+        },
+        "Remarks": {
+          "English": "AFC Champions League Two 2025/2026 - Highlights",
+          "Arabic": ""
+        },
+        "StartTime": "2025-12-25T05:00:00",
+        "EndTime": "2025-12-25T06:00:00",
+        "Duration": "01:00:00",
+        "Commentators": {
+          "English": "",
+          "Arabic": ""
+        },
+        "ParentalRating": "0",
+        "Synopsis": {
+          "English": "AFC Champions League Two 2025/2026 - Highlights",
+          "Arabic": ""
+        },
+        "ImageURL": "",
+        "Genre": "",
+        "ProductionYear": ""
+      },
+      "duration": 3600000,
+      "id": "6267DC64-1A51-4B93-B6A0-7D7D4022E8AC",
+      "externalId": "2460284727668",
+      "title": "AFC Champions League Two 2025/2026 - Highlights",
+      "startDate": "2025-12-25T02:00:00.000Z",
+      "endDate": "2025-12-25T03:00:00.000Z",
+      "live": false,
+      "replay": false,
+      "category": "AFC Champions League Two",
+      "genre": "",
+      "synopsis": "AFC Champions League Two 2025/2026 - Highlights",
+      "description": "AFC Champions League Two 2025/2026 - Highlights",
+      "categoryArabic": "دوري أبطال آسيا 2",
+      "synopsisArabic": "",
+      "descriptionArabic": "",
+      "channelId": "7836FEA9-6B39-4A1A-8352-DC5FCB97A16C",
+      "sportTypeId": "7E27AB43-31E6-48B0-8DEB-06E3AB56948D",
+      "createdAt": "2025-12-25T08:02:21.586Z",
+      "updatedAt": "2025-12-25T08:02:21.586Z",
+      "channel": {
+        "data": {
+          "Code": "10401",
+          "StaticChannelCode": "5201",
+          "Name": "beIN SPORTS 1"
+        },
+        "id": "7836FEA9-6B39-4A1A-8352-DC5FCB97A16C",
+        "externalId": "10401",
+        "name": "beIN SPORTS 1",
+        "providerId": "995DA2A6-B086-457D-8DFF-5C8E0A7B5A7F",
+        "externalUniqueId": "f50c7035e532c49a0f6993d988e2e843",
+        "createdAt": "2022-10-05T10:01:30.915Z",
+        "updatedAt": "2023-09-04T10:47:52.585Z",
+        "provider": {
+          "id": "995DA2A6-B086-457D-8DFF-5C8E0A7B5A7F",
+          "name": "epg.bein",
+          "createdAt": "2022-10-03T09:10:27.295Z",
+          "updatedAt": "2022-10-03T09:10:27.295Z"
+        }
+      },
+      "sportType": {
+        "id": "7E27AB43-31E6-48B0-8DEB-06E3AB56948D",
+        "name": "Football",
+        "createdAt": "2022-10-03T09:10:29.401Z",
+        "updatedAt": "2022-10-03T09:10:29.401Z"
+      }
+    },
+    {
+      "data": {
+        "matchid": "",
+        "m_date": null,
+        "m_time": "",
+        "week": "",
+        "description": "",
+        "competition_id": "",
+        "competition_name": "",
+        "country": "",
+        "stage_name": "",
+        "stage_startdate": null,
+        "stage_enddate": null,
+        "teama_id": "",
+        "teama": "",
+        "teama_position": "",
+        "teama_country": "",
+        "teamb_id": "",
+        "teamb": "",
+        "teamb_position": "",
+        "teamb_country": "",
+        "venue_id": "",
+        "shortname": "",
+        "longname": "",
+        "teama_ar": "",
+        "teamb_ar": "",
+        "series_name": "",
+        "CompetitionType": "",
+        "Live": "False",
+        "ID": "2460284658668",
+        "ChannelCode": "10401",
+        "StaticChannelCode": "5201",
+        "ChannelName": "beIN SPORTS 1",
+        "Category": {
+          "English": "AFC Champions League Two",
+          "Arabic": "دوري أبطال آسيا 2"
+        },
+        "Title": {
+          "English": "Al Wasl FC (UAE) vs Al Wehdat (JOR) - AFC Champions League Two 2025/2026 - West MD6 - Mini Match",
+          "Arabic": "Al Wasl FC (UAE) vs Al Wehdat (JOR) - AFC Champions League Two 2025/2026 - West MD6 - Mini Match"
+        },
+        "Remarks": {
+          "English": "The AFC Champions League Two is the second-tier competition of Asian club football, ranked below the AFC Champions League Elite. \nParticipation in the competition is open to clubs from the top 12 nations in the East and the West region based on the AFC club competitions ranking.\nAll games are live and exclusive only on beIN.\n",
+          "Arabic": ""
+        },
+        "StartTime": "2025-12-25T07:00:00",
+        "EndTime": "2025-12-25T07:30:00",
+        "Duration": "00:30:00",
+        "Commentators": {
+          "English": "",
+          "Arabic": ""
+        },
+        "ParentalRating": "0",
+        "Synopsis": {
+          "English": "The AFC Champions League Two is the second-tier competition of Asian club football, ranked below the AFC Champions League Elite. \nParticipation in the competition is open to clubs from the top 12 nations in the East and the West region based on the AFC club competitions ranking.\nAll games are live and exclusive only on beIN.\n",
+          "Arabic": ""
+        },
+        "ImageURL": "",
+        "Genre": "",
+        "ProductionYear": ""
+      },
+      "duration": 1800000,
+      "id": "4AD477E9-9920-4EF5-AB1F-BDBCF4F97191",
+      "externalId": "2460284658668",
+      "title": "Al Wasl FC (UAE) vs Al Wehdat (JOR) - AFC Champions League Two 2025/2026 - West MD6 - Mini Match",
+      "startDate": "2025-12-25T04:00:00.000Z",
+      "endDate": "2025-12-25T04:30:00.000Z",
+      "live": false,
+      "replay": false,
+      "category": "AFC Champions League Two",
+      "genre": "",
+      "synopsis": "The AFC Champions League Two is the second-tier competition of Asian club football, ranked below the AFC Champions League Elite. \nParticipation in the competition is open to clubs from the top 12 nations in the East and the West region based on the AFC club competitions ranking.\nAll games are live and exclusive only on beIN.\n",
+      "description": "The AFC Champions League Two is the second-tier competition of Asian club football, ranked below the AFC Champions League Elite. \nParticipation in the competition is open to clubs from the top 12 nations in the East and the West region based on the AFC club competitions ranking.\nAll games are live and exclusive only on beIN.\n",
+      "categoryArabic": "دوري أبطال آسيا 2",
+      "synopsisArabic": "",
+      "descriptionArabic": "",
+      "channelId": "7836FEA9-6B39-4A1A-8352-DC5FCB97A16C",
+      "sportTypeId": "7E27AB43-31E6-48B0-8DEB-06E3AB56948D",
+      "createdAt": "2025-12-25T08:02:21.586Z",
+      "updatedAt": "2025-12-25T08:02:21.586Z",
+      "channel": {
+        "data": {
+          "Code": "10401",
+          "StaticChannelCode": "5201",
+          "Name": "beIN SPORTS 1"
+        },
+        "id": "7836FEA9-6B39-4A1A-8352-DC5FCB97A16C",
+        "externalId": "10401",
+        "name": "beIN SPORTS 1",
+        "providerId": "995DA2A6-B086-457D-8DFF-5C8E0A7B5A7F",
+        "externalUniqueId": "f50c7035e532c49a0f6993d988e2e843",
+        "createdAt": "2022-10-05T10:01:30.915Z",
+        "updatedAt": "2023-09-04T10:47:52.585Z",
+        "provider": {
+          "id": "995DA2A6-B086-457D-8DFF-5C8E0A7B5A7F",
+          "name": "epg.bein",
+          "createdAt": "2022-10-03T09:10:27.295Z",
+          "updatedAt": "2022-10-03T09:10:27.295Z"
+        }
+      },
+      "sportType": {
+        "id": "7E27AB43-31E6-48B0-8DEB-06E3AB56948D",
+        "name": "Football",
+        "createdAt": "2022-10-03T09:10:29.401Z",
+        "updatedAt": "2022-10-03T09:10:29.401Z"
+      }
+    },
+    {
+      "data": {
+        "matchid": "",
+        "m_date": null,
+        "m_time": "",
+        "week": "",
+        "description": "",
+        "competition_id": "",
+        "competition_name": "",
+        "country": "",
+        "stage_name": "",
+        "stage_startdate": null,
+        "stage_enddate": null,
+        "teama_id": "",
+        "teama": "",
+        "teama_position": "",
+        "teama_country": "",
+        "teamb_id": "",
+        "teamb": "",
+        "teamb_position": "",
+        "teamb_country": "",
+        "venue_id": "",
+        "shortname": "",
+        "longname": "",
+        "teama_ar": "",
+        "teamb_ar": "",
+        "series_name": "",
+        "CompetitionType": "",
+        "Live": "False",
+        "ID": "2460284748668",
+        "ChannelCode": "10401",
+        "StaticChannelCode": "5201",
+        "ChannelName": "beIN SPORTS 1",
+        "Category": {
+          "English": "AFC Champions League Two",
+          "Arabic": "دوري أبطال آسيا 2"
+        },
+        "Title": {
+          "English": "Al Nassr Club (KSA) vs Al Zawraa SC (IRQ) - AFC Champions League Two 2025/2026 - West MD6 - Mini Mat",
+          "Arabic": "Al Nassr Club (KSA) vs Al Zawraa SC (IRQ) - AFC Champions League Two 2025/2026 - West MD6 - Mini Mat"
+        },
+        "Remarks": {
+          "English": "The AFC Champions League Two is the second-tier competition of Asian club football, ranked below the AFC Champions League Elite. \nParticipation in the competition is open to clubs from the top 12 nations in the East and the West region based on the AFC club competitions ranking.\nAll games are live and exclusive only on beIN.\n",
+          "Arabic": ""
+        },
+        "StartTime": "2025-12-25T07:30:00",
+        "EndTime": "2025-12-25T08:00:00",
+        "Duration": "00:30:00",
+        "Commentators": {
+          "English": "",
+          "Arabic": ""
+        },
+        "ParentalRating": "0",
+        "Synopsis": {
+          "English": "The AFC Champions League Two is the second-tier competition of Asian club football, ranked below the AFC Champions League Elite. \nParticipation in the competition is open to clubs from the top 12 nations in the East and the West region based on the AFC club competitions ranking.\nAll games are live and exclusive only on beIN.\n",
+          "Arabic": ""
+        },
+        "ImageURL": "",
+        "Genre": "",
+        "ProductionYear": ""
+      },
+      "duration": 1800000,
+      "id": "98D56C13-AE43-48A7-99E6-0338663A58E5",
+      "externalId": "2460284748668",
+      "title": "Al Nassr Club (KSA) vs Al Zawraa SC (IRQ) - AFC Champions League Two 2025/2026 - West MD6 - Mini Mat",
+      "startDate": "2025-12-25T04:30:00.000Z",
+      "endDate": "2025-12-25T05:00:00.000Z",
+      "live": false,
+      "replay": false,
+      "category": "AFC Champions League Two",
+      "genre": "",
+      "synopsis": "The AFC Champions League Two is the second-tier competition of Asian club football, ranked below the AFC Champions League Elite. \nParticipation in the competition is open to clubs from the top 12 nations in the East and the West region based on the AFC club competitions ranking.\nAll games are live and exclusive only on beIN.\n",
+      "description": "The AFC Champions League Two is the second-tier competition of Asian club football, ranked below the AFC Champions League Elite. \nParticipation in the competition is open to clubs from the top 12 nations in the East and the West region based on the AFC club competitions ranking.\nAll games are live and exclusive only on beIN.\n",
+      "categoryArabic": "دوري أبطال آسيا 2",
+      "synopsisArabic": "",
+      "descriptionArabic": "",
+      "channelId": "7836FEA9-6B39-4A1A-8352-DC5FCB97A16C",
+      "sportTypeId": "7E27AB43-31E6-48B0-8DEB-06E3AB56948D",
+      "createdAt": "2025-12-25T08:02:21.586Z",
+      "updatedAt": "2025-12-25T08:02:21.586Z",
+      "channel": {
+        "data": {
+          "Code": "10401",
+          "StaticChannelCode": "5201",
+          "Name": "beIN SPORTS 1"
+        },
+        "id": "7836FEA9-6B39-4A1A-8352-DC5FCB97A16C",
+        "externalId": "10401",
+        "name": "beIN SPORTS 1",
+        "providerId": "995DA2A6-B086-457D-8DFF-5C8E0A7B5A7F",
+        "externalUniqueId": "f50c7035e532c49a0f6993d988e2e843",
+        "createdAt": "2022-10-05T10:01:30.915Z",
+        "updatedAt": "2023-09-04T10:47:52.585Z",
+        "provider": {
+          "id": "995DA2A6-B086-457D-8DFF-5C8E0A7B5A7F",
+          "name": "epg.bein",
+          "createdAt": "2022-10-03T09:10:27.295Z",
+          "updatedAt": "2022-10-03T09:10:27.295Z"
+        }
+      },
+      "sportType": {
+        "id": "7E27AB43-31E6-48B0-8DEB-06E3AB56948D",
+        "name": "Football",
+        "createdAt": "2022-10-03T09:10:29.401Z",
+        "updatedAt": "2022-10-03T09:10:29.401Z"
+      }
+    },
+    {
+      "data": {
+        "matchid": "",
+        "m_date": null,
+        "m_time": "",
+        "week": "",
+        "description": "",
+        "competition_id": "",
+        "competition_name": "",
+        "country": "",
+        "stage_name": "",
+        "stage_startdate": null,
+        "stage_enddate": null,
+        "teama_id": "",
+        "teama": "",
+        "teama_position": "",
+        "teama_country": "",
+        "teamb_id": "",
+        "teamb": "",
+        "teamb_position": "",
+        "teamb_country": "",
+        "venue_id": "",
+        "shortname": "",
+        "longname": "",
+        "teama_ar": "",
+        "teamb_ar": "",
+        "series_name": "",
+        "CompetitionType": "",
+        "Live": "False",
+        "ID": "2460284751668",
+        "ChannelCode": "10401",
+        "StaticChannelCode": "5201",
+        "ChannelName": "beIN SPORTS 1",
+        "Category": {
+          "English": "AFC Champions League Two",
+          "Arabic": "دوري أبطال آسيا 2"
+        },
+        "Title": {
+          "English": "AFC Champions League Two 2025/2026 - Highlights",
+          "Arabic": "AFC Champions League Two 2025/2026 - Highlights"
+        },
+        "Remarks": {
+          "English": "AFC Champions League Two 2025/2026 - Highlights",
+          "Arabic": ""
+        },
+        "StartTime": "2025-12-25T08:00:00",
+        "EndTime": "2025-12-25T09:00:00",
+        "Duration": "01:00:00",
+        "Commentators": {
+          "English": "",
+          "Arabic": ""
+        },
+        "ParentalRating": "0",
+        "Synopsis": {
+          "English": "AFC Champions League Two 2025/2026 - Highlights",
+          "Arabic": ""
+        },
+        "ImageURL": "",
+        "Genre": "",
+        "ProductionYear": ""
+      },
+      "duration": 3600000,
+      "id": "3EBC281C-FA4D-4FAF-9CEE-6103636E8CD8",
+      "externalId": "2460284751668",
+      "title": "AFC Champions League Two 2025/2026 - Highlights",
+      "startDate": "2025-12-25T05:00:00.000Z",
+      "endDate": "2025-12-25T06:00:00.000Z",
+      "live": false,
+      "replay": false,
+      "category": "AFC Champions League Two",
+      "genre": "",
+      "synopsis": "AFC Champions League Two 2025/2026 - Highlights",
+      "description": "AFC Champions League Two 2025/2026 - Highlights",
+      "categoryArabic": "دوري أبطال آسيا 2",
+      "synopsisArabic": "",
+      "descriptionArabic": "",
+      "channelId": "7836FEA9-6B39-4A1A-8352-DC5FCB97A16C",
+      "sportTypeId": "7E27AB43-31E6-48B0-8DEB-06E3AB56948D",
+      "createdAt": "2025-12-25T08:02:21.586Z",
+      "updatedAt": "2025-12-25T08:02:21.586Z",
+      "channel": {
+        "data": {
+          "Code": "10401",
+          "StaticChannelCode": "5201",
+          "Name": "beIN SPORTS 1"
+        },
+        "id": "7836FEA9-6B39-4A1A-8352-DC5FCB97A16C",
+        "externalId": "10401",
+        "name": "beIN SPORTS 1",
+        "providerId": "995DA2A6-B086-457D-8DFF-5C8E0A7B5A7F",
+        "externalUniqueId": "f50c7035e532c49a0f6993d988e2e843",
+        "createdAt": "2022-10-05T10:01:30.915Z",
+        "updatedAt": "2023-09-04T10:47:52.585Z",
+        "provider": {
+          "id": "995DA2A6-B086-457D-8DFF-5C8E0A7B5A7F",
+          "name": "epg.bein",
+          "createdAt": "2022-10-03T09:10:27.295Z",
+          "updatedAt": "2022-10-03T09:10:27.295Z"
+        }
+      },
+      "sportType": {
+        "id": "7E27AB43-31E6-48B0-8DEB-06E3AB56948D",
+        "name": "Football",
+        "createdAt": "2022-10-03T09:10:29.401Z",
+        "updatedAt": "2022-10-03T09:10:29.401Z"
+      }
+    },
+    {
+      "data": {
+        "matchid": "",
+        "m_date": null,
+        "m_time": "",
+        "week": "",
+        "description": "",
+        "competition_id": "",
+        "competition_name": "",
+        "country": "",
+        "stage_name": "",
+        "stage_startdate": null,
+        "stage_enddate": null,
+        "teama_id": "",
+        "teama": "",
+        "teama_position": "",
+        "teama_country": "",
+        "teamb_id": "",
+        "teamb": "",
+        "teamb_position": "",
+        "teamb_country": "",
+        "venue_id": "",
+        "shortname": "",
+        "longname": "",
+        "teama_ar": "",
+        "teamb_ar": "",
+        "series_name": "",
+        "CompetitionType": "",
+        "Live": "False",
+        "ID": "2460284670668",
+        "ChannelCode": "10401",
+        "StaticChannelCode": "5201",
+        "ChannelName": "beIN SPORTS 1",
+        "Category": {
+          "English": "Football",
+          "Arabic": "كرة قدم"
+        },
+        "Title": {
+          "English": "Al Sadd SC (QAT) vs Shabab Al Ahli (UAE) - AFC Champions League Elite 2025/2026 - West MD6 - Mini Ma",
+          "Arabic": "Al Sadd SC (QAT) vs Shabab Al Ahli (UAE) - AFC Champions League Elite 2025/2026 - West MD6 - Mini Ma"
+        },
+        "Remarks": {
+          "English": "The AFC Champions League Elite is contested by Asia's top-division football clubs. It is the most prestigious club competition in Asian football, played by the national league champions. A total of 24 clubs compete in the league stage of the competition, divided into East and West regions (12 teams each).\nAll games are live and exclusive only on beIN\n",
+          "Arabic": ""
+        },
+        "StartTime": "2025-12-25T10:00:00",
+        "EndTime": "2025-12-25T10:30:00",
+        "Duration": "00:30:00",
+        "Commentators": {
+          "English": "",
+          "Arabic": ""
+        },
+        "ParentalRating": "0",
+        "Synopsis": {
+          "English": "The AFC Champions League Elite is contested by Asia's top-division football clubs. It is the most prestigious club competition in Asian football, played by the national league champions. A total of 24 clubs compete in the league stage of the competition, divided into East and West regions (12 teams each).\nAll games are live and exclusive only on beIN\n",
+          "Arabic": ""
+        },
+        "ImageURL": "",
+        "Genre": "",
+        "ProductionYear": ""
+      },
+      "duration": 1800000,
+      "id": "FE64F1AE-3845-41BA-B3B5-C9F724BBB91A",
+      "externalId": "2460284670668",
+      "title": "Al Sadd SC (QAT) vs Shabab Al Ahli (UAE) - AFC Champions League Elite 2025/2026 - West MD6 - Mini Ma",
+      "startDate": "2025-12-25T07:00:00.000Z",
+      "endDate": "2025-12-25T07:30:00.000Z",
+      "live": false,
+      "replay": false,
+      "category": "Football",
+      "genre": "",
+      "synopsis": "The AFC Champions League Elite is contested by Asia's top-division football clubs. It is the most prestigious club competition in Asian football, played by the national league champions. A total of 24 clubs compete in the league stage of the competition, divided into East and West regions (12 teams each).\nAll games are live and exclusive only on beIN\n",
+      "description": "The AFC Champions League Elite is contested by Asia's top-division football clubs. It is the most prestigious club competition in Asian football, played by the national league champions. A total of 24 clubs compete in the league stage of the competition, divided into East and West regions (12 teams each).\nAll games are live and exclusive only on beIN\n",
+      "categoryArabic": "كرة قدم",
+      "synopsisArabic": "",
+      "descriptionArabic": "",
+      "channelId": "7836FEA9-6B39-4A1A-8352-DC5FCB97A16C",
+      "sportTypeId": "7E27AB43-31E6-48B0-8DEB-06E3AB56948D",
+      "createdAt": "2025-12-25T08:02:21.586Z",
+      "updatedAt": "2025-12-25T08:02:21.586Z",
+      "channel": {
+        "data": {
+          "Code": "10401",
+          "StaticChannelCode": "5201",
+          "Name": "beIN SPORTS 1"
+        },
+        "id": "7836FEA9-6B39-4A1A-8352-DC5FCB97A16C",
+        "externalId": "10401",
+        "name": "beIN SPORTS 1",
+        "providerId": "995DA2A6-B086-457D-8DFF-5C8E0A7B5A7F",
+        "externalUniqueId": "f50c7035e532c49a0f6993d988e2e843",
+        "createdAt": "2022-10-05T10:01:30.915Z",
+        "updatedAt": "2023-09-04T10:47:52.585Z",
+        "provider": {
+          "id": "995DA2A6-B086-457D-8DFF-5C8E0A7B5A7F",
+          "name": "epg.bein",
+          "createdAt": "2022-10-03T09:10:27.295Z",
+          "updatedAt": "2022-10-03T09:10:27.295Z"
+        }
+      },
+      "sportType": {
+        "id": "7E27AB43-31E6-48B0-8DEB-06E3AB56948D",
+        "name": "Football",
+        "createdAt": "2022-10-03T09:10:29.401Z",
+        "updatedAt": "2022-10-03T09:10:29.401Z"
+      }
+    },
+    {
+      "data": {
+        "matchid": "",
+        "m_date": null,
+        "m_time": "",
+        "week": "",
+        "description": "",
+        "competition_id": "",
+        "competition_name": "",
+        "country": "",
+        "stage_name": "",
+        "stage_startdate": null,
+        "stage_enddate": null,
+        "teama_id": "",
+        "teama": "",
+        "teama_position": "",
+        "teama_country": "",
+        "teamb_id": "",
+        "teamb": "",
+        "teamb_position": "",
+        "teamb_country": "",
+        "venue_id": "",
+        "shortname": "",
+        "longname": "",
+        "teama_ar": "",
+        "teamb_ar": "",
+        "series_name": "",
+        "CompetitionType": "",
+        "Live": "False",
+        "ID": "2460284697668",
+        "ChannelCode": "10401",
+        "StaticChannelCode": "5201",
+        "ChannelName": "beIN SPORTS 1",
+        "Category": {
+          "English": "Football",
+          "Arabic": "كرة قدم"
+        },
+        "Title": {
+          "English": "Al Ittihad Club (KSA) vs PFC Nasaf (UZB) - AFC Champions League Elite 2025/2026 - West MD6 - Mini Ma",
+          "Arabic": "Al Ittihad Club (KSA) vs PFC Nasaf (UZB) - AFC Champions League Elite 2025/2026 - West MD6 - Mini Ma"
+        },
+        "Remarks": {
+          "English": "The AFC Champions League Elite is contested by Asia's top-division football clubs. It is the most prestigious club competition in Asian football, played by the national league champions. A total of 24 clubs compete in the league stage of the competition, divided into East and West regions (12 teams each).\nAll games are live and exclusive only on beIN\n",
+          "Arabic": ""
+        },
+        "StartTime": "2025-12-25T10:30:00",
+        "EndTime": "2025-12-25T11:00:00",
+        "Duration": "00:30:00",
+        "Commentators": {
+          "English": "",
+          "Arabic": ""
+        },
+        "ParentalRating": "0",
+        "Synopsis": {
+          "English": "The AFC Champions League Elite is contested by Asia's top-division football clubs. It is the most prestigious club competition in Asian football, played by the national league champions. A total of 24 clubs compete in the league stage of the competition, divided into East and West regions (12 teams each).\nAll games are live and exclusive only on beIN\n",
+          "Arabic": ""
+        },
+        "ImageURL": "",
+        "Genre": "",
+        "ProductionYear": ""
+      },
+      "duration": 1800000,
+      "id": "D32F2A4A-0395-4E42-B767-0EC140D4A234",
+      "externalId": "2460284697668",
+      "title": "Al Ittihad Club (KSA) vs PFC Nasaf (UZB) - AFC Champions League Elite 2025/2026 - West MD6 - Mini Ma",
+      "startDate": "2025-12-25T07:30:00.000Z",
+      "endDate": "2025-12-25T08:00:00.000Z",
+      "live": false,
+      "replay": false,
+      "category": "Football",
+      "genre": "",
+      "synopsis": "The AFC Champions League Elite is contested by Asia's top-division football clubs. It is the most prestigious club competition in Asian football, played by the national league champions. A total of 24 clubs compete in the league stage of the competition, divided into East and West regions (12 teams each).\nAll games are live and exclusive only on beIN\n",
+      "description": "The AFC Champions League Elite is contested by Asia's top-division football clubs. It is the most prestigious club competition in Asian football, played by the national league champions. A total of 24 clubs compete in the league stage of the competition, divided into East and West regions (12 teams each).\nAll games are live and exclusive only on beIN\n",
+      "categoryArabic": "كرة قدم",
+      "synopsisArabic": "",
+      "descriptionArabic": "",
+      "channelId": "7836FEA9-6B39-4A1A-8352-DC5FCB97A16C",
+      "sportTypeId": "7E27AB43-31E6-48B0-8DEB-06E3AB56948D",
+      "createdAt": "2025-12-25T08:02:21.586Z",
+      "updatedAt": "2025-12-25T08:02:21.586Z",
+      "channel": {
+        "data": {
+          "Code": "10401",
+          "StaticChannelCode": "5201",
+          "Name": "beIN SPORTS 1"
+        },
+        "id": "7836FEA9-6B39-4A1A-8352-DC5FCB97A16C",
+        "externalId": "10401",
+        "name": "beIN SPORTS 1",
+        "providerId": "995DA2A6-B086-457D-8DFF-5C8E0A7B5A7F",
+        "externalUniqueId": "f50c7035e532c49a0f6993d988e2e843",
+        "createdAt": "2022-10-05T10:01:30.915Z",
+        "updatedAt": "2023-09-04T10:47:52.585Z",
+        "provider": {
+          "id": "995DA2A6-B086-457D-8DFF-5C8E0A7B5A7F",
+          "name": "epg.bein",
+          "createdAt": "2022-10-03T09:10:27.295Z",
+          "updatedAt": "2022-10-03T09:10:27.295Z"
+        }
+      },
+      "sportType": {
+        "id": "7E27AB43-31E6-48B0-8DEB-06E3AB56948D",
+        "name": "Football",
+        "createdAt": "2022-10-03T09:10:29.401Z",
+        "updatedAt": "2022-10-03T09:10:29.401Z"
+      }
+    },
+    {
+      "data": {
+        "matchid": "",
+        "m_date": null,
+        "m_time": "",
+        "week": "",
+        "description": "",
+        "competition_id": "",
+        "competition_name": "",
+        "country": "",
+        "stage_name": "",
+        "stage_startdate": null,
+        "stage_enddate": null,
+        "teama_id": "",
+        "teama": "",
+        "teama_position": "",
+        "teama_country": "",
+        "teamb_id": "",
+        "teamb": "",
+        "teamb_position": "",
+        "teamb_country": "",
+        "venue_id": "",
+        "shortname": "",
+        "longname": "",
+        "teama_ar": "",
+        "teamb_ar": "",
+        "series_name": "",
+        "CompetitionType": "",
+        "Live": "False",
+        "ID": "2460284655668",
+        "ChannelCode": "10401",
+        "StaticChannelCode": "5201",
+        "ChannelName": "beIN SPORTS 1",
+        "Category": {
+          "English": "African Cup of Nations",
+          "Arabic": "كأس الأمم الأفريقية"
+        },
+        "Title": {
+          "English": "Evening Show - African Cup of Nations - Morocco 2025",
+          "Arabic": "Evening Show - African Cup of Nations - Morocco 2025"
+        },
+        "Remarks": {
+          "English": "Every evening, following the last game of the day, the AFCON Evening Show will review the day’s action and preview the upcoming matches and talking points from Morocco. All matches from AFCON are live and exclusive only on beIN",
+          "Arabic": ""
+        },
+        "StartTime": "2025-12-25T11:00:00",
+        "EndTime": "2025-12-25T12:30:00",
+        "Duration": "01:30:00",
+        "Commentators": {
+          "English": "",
+          "Arabic": ""
+        },
+        "ParentalRating": "0",
+        "Synopsis": {
+          "English": "Every evening, following the last game of the day, the AFCON Evening Show will review the day’s action and preview the upcoming matches and talking points from Morocco. All matches from AFCON are live and exclusive only on beIN",
+          "Arabic": ""
+        },
+        "ImageURL": "",
+        "Genre": "",
+        "ProductionYear": ""
+      },
+      "duration": 5400000,
+      "id": "28F36481-0F34-423C-A950-C6CB3EF078E0",
+      "externalId": "2460284655668",
+      "title": "Evening Show - African Cup of Nations - Morocco 2025",
+      "startDate": "2025-12-25T08:00:00.000Z",
+      "endDate": "2025-12-25T09:30:00.000Z",
+      "live": false,
+      "replay": false,
+      "category": "African Cup of Nations",
+      "genre": "",
+      "synopsis": "Every evening, following the last game of the day, the AFCON Evening Show will review the day’s action and preview the upcoming matches and talking points from Morocco. All matches from AFCON are live and exclusive only on beIN",
+      "description": "Every evening, following the last game of the day, the AFCON Evening Show will review the day’s action and preview the upcoming matches and talking points from Morocco. All matches from AFCON are live and exclusive only on beIN",
+      "categoryArabic": "كأس الأمم الأفريقية",
+      "synopsisArabic": "",
+      "descriptionArabic": "",
+      "channelId": "7836FEA9-6B39-4A1A-8352-DC5FCB97A16C",
+      "sportTypeId": "7E27AB43-31E6-48B0-8DEB-06E3AB56948D",
+      "createdAt": "2025-12-25T08:02:21.586Z",
+      "updatedAt": "2025-12-25T08:02:21.586Z",
+      "channel": {
+        "data": {
+          "Code": "10401",
+          "StaticChannelCode": "5201",
+          "Name": "beIN SPORTS 1"
+        },
+        "id": "7836FEA9-6B39-4A1A-8352-DC5FCB97A16C",
+        "externalId": "10401",
+        "name": "beIN SPORTS 1",
+        "providerId": "995DA2A6-B086-457D-8DFF-5C8E0A7B5A7F",
+        "externalUniqueId": "f50c7035e532c49a0f6993d988e2e843",
+        "createdAt": "2022-10-05T10:01:30.915Z",
+        "updatedAt": "2023-09-04T10:47:52.585Z",
+        "provider": {
+          "id": "995DA2A6-B086-457D-8DFF-5C8E0A7B5A7F",
+          "name": "epg.bein",
+          "createdAt": "2022-10-03T09:10:27.295Z",
+          "updatedAt": "2022-10-03T09:10:27.295Z"
+        }
+      },
+      "sportType": {
+        "id": "7E27AB43-31E6-48B0-8DEB-06E3AB56948D",
+        "name": "Football",
+        "createdAt": "2022-10-03T09:10:29.401Z",
+        "updatedAt": "2022-10-03T09:10:29.401Z"
+      }
+    },
+    {
+      "data": {
+        "matchid": "",
+        "m_date": null,
+        "m_time": "",
+        "week": "",
+        "description": "",
+        "competition_id": "",
+        "competition_name": "",
+        "country": "",
+        "stage_name": "",
+        "stage_startdate": null,
+        "stage_enddate": null,
+        "teama_id": "",
+        "teama": "",
+        "teama_position": "",
+        "teama_country": "",
+        "teamb_id": "",
+        "teamb": "",
+        "teamb_position": "",
+        "teamb_country": "",
+        "venue_id": "",
+        "shortname": "",
+        "longname": "",
+        "teama_ar": "",
+        "teamb_ar": "",
+        "series_name": "",
+        "CompetitionType": "",
+        "Live": "False",
+        "ID": "2460284700668",
+        "ChannelCode": "10401",
+        "StaticChannelCode": "5201",
+        "ChannelName": "beIN SPORTS 1",
+        "Category": {
+          "English": "AFC Champions League Two",
+          "Arabic": "دوري أبطال آسيا 2"
+        },
+        "Title": {
+          "English": "Al Wasl FC (UAE) vs Al Wehdat (JOR) - AFC Champions League Two 2025/2026 - West MD6 - Mini Match",
+          "Arabic": "Al Wasl FC (UAE) vs Al Wehdat (JOR) - AFC Champions League Two 2025/2026 - West MD6 - Mini Match"
+        },
+        "Remarks": {
+          "English": "The AFC Champions League Two is the second-tier competition of Asian club football, ranked below the AFC Champions League Elite. \nParticipation in the competition is open to clubs from the top 12 nations in the East and the West region based on the AFC club competitions ranking.\nAll games are live and exclusive only on beIN.\n",
+          "Arabic": ""
+        },
+        "StartTime": "2025-12-25T13:00:00",
+        "EndTime": "2025-12-25T13:30:00",
+        "Duration": "00:30:00",
+        "Commentators": {
+          "English": "",
+          "Arabic": ""
+        },
+        "ParentalRating": "0",
+        "Synopsis": {
+          "English": "The AFC Champions League Two is the second-tier competition of Asian club football, ranked below the AFC Champions League Elite. \nParticipation in the competition is open to clubs from the top 12 nations in the East and the West region based on the AFC club competitions ranking.\nAll games are live and exclusive only on beIN.\n",
+          "Arabic": ""
+        },
+        "ImageURL": "",
+        "Genre": "",
+        "ProductionYear": ""
+      },
+      "duration": 1800000,
+      "id": "CF78DD93-C5F0-4398-9A82-5AFA17BC9EA1",
+      "externalId": "2460284700668",
+      "title": "Al Wasl FC (UAE) vs Al Wehdat (JOR) - AFC Champions League Two 2025/2026 - West MD6 - Mini Match",
+      "startDate": "2025-12-25T10:00:00.000Z",
+      "endDate": "2025-12-25T10:30:00.000Z",
+      "live": false,
+      "replay": false,
+      "category": "AFC Champions League Two",
+      "genre": "",
+      "synopsis": "The AFC Champions League Two is the second-tier competition of Asian club football, ranked below the AFC Champions League Elite. \nParticipation in the competition is open to clubs from the top 12 nations in the East and the West region based on the AFC club competitions ranking.\nAll games are live and exclusive only on beIN.\n",
+      "description": "The AFC Champions League Two is the second-tier competition of Asian club football, ranked below the AFC Champions League Elite. \nParticipation in the competition is open to clubs from the top 12 nations in the East and the West region based on the AFC club competitions ranking.\nAll games are live and exclusive only on beIN.\n",
+      "categoryArabic": "دوري أبطال آسيا 2",
+      "synopsisArabic": "",
+      "descriptionArabic": "",
+      "channelId": "7836FEA9-6B39-4A1A-8352-DC5FCB97A16C",
+      "sportTypeId": "7E27AB43-31E6-48B0-8DEB-06E3AB56948D",
+      "createdAt": "2025-12-25T08:02:21.586Z",
+      "updatedAt": "2025-12-25T08:02:21.586Z",
+      "channel": {
+        "data": {
+          "Code": "10401",
+          "StaticChannelCode": "5201",
+          "Name": "beIN SPORTS 1"
+        },
+        "id": "7836FEA9-6B39-4A1A-8352-DC5FCB97A16C",
+        "externalId": "10401",
+        "name": "beIN SPORTS 1",
+        "providerId": "995DA2A6-B086-457D-8DFF-5C8E0A7B5A7F",
+        "externalUniqueId": "f50c7035e532c49a0f6993d988e2e843",
+        "createdAt": "2022-10-05T10:01:30.915Z",
+        "updatedAt": "2023-09-04T10:47:52.585Z",
+        "provider": {
+          "id": "995DA2A6-B086-457D-8DFF-5C8E0A7B5A7F",
+          "name": "epg.bein",
+          "createdAt": "2022-10-03T09:10:27.295Z",
+          "updatedAt": "2022-10-03T09:10:27.295Z"
+        }
+      },
+      "sportType": {
+        "id": "7E27AB43-31E6-48B0-8DEB-06E3AB56948D",
+        "name": "Football",
+        "createdAt": "2022-10-03T09:10:29.401Z",
+        "updatedAt": "2022-10-03T09:10:29.401Z"
+      }
+    },
+    {
+      "data": {
+        "matchid": "",
+        "m_date": null,
+        "m_time": "",
+        "week": "",
+        "description": "",
+        "competition_id": "",
+        "competition_name": "",
+        "country": "",
+        "stage_name": "",
+        "stage_startdate": null,
+        "stage_enddate": null,
+        "teama_id": "",
+        "teama": "",
+        "teama_position": "",
+        "teama_country": "",
+        "teamb_id": "",
+        "teamb": "",
+        "teamb_position": "",
+        "teamb_country": "",
+        "venue_id": "",
+        "shortname": "",
+        "longname": "",
+        "teama_ar": "",
+        "teamb_ar": "",
+        "series_name": "",
+        "CompetitionType": "",
+        "Live": "False",
+        "ID": "2460284688668",
+        "ChannelCode": "10401",
+        "StaticChannelCode": "5201",
+        "ChannelName": "beIN SPORTS 1",
+        "Category": {
+          "English": "AFC Champions League Two",
+          "Arabic": "دوري أبطال آسيا 2"
+        },
+        "Title": {
+          "English": "Al Nassr Club (KSA) vs Al Zawraa SC (IRQ) - AFC Champions League Two 2025/2026 - West MD6 - Mini Mat",
+          "Arabic": "Al Nassr Club (KSA) vs Al Zawraa SC (IRQ) - AFC Champions League Two 2025/2026 - West MD6 - Mini Mat"
+        },
+        "Remarks": {
+          "English": "The AFC Champions League Two is the second-tier competition of Asian club football, ranked below the AFC Champions League Elite. \nParticipation in the competition is open to clubs from the top 12 nations in the East and the West region based on the AFC club competitions ranking.\nAll games are live and exclusive only on beIN.\n",
+          "Arabic": ""
+        },
+        "StartTime": "2025-12-25T13:30:00",
+        "EndTime": "2025-12-25T14:00:00",
+        "Duration": "00:30:00",
+        "Commentators": {
+          "English": "",
+          "Arabic": ""
+        },
+        "ParentalRating": "0",
+        "Synopsis": {
+          "English": "The AFC Champions League Two is the second-tier competition of Asian club football, ranked below the AFC Champions League Elite. \nParticipation in the competition is open to clubs from the top 12 nations in the East and the West region based on the AFC club competitions ranking.\nAll games are live and exclusive only on beIN.\n",
+          "Arabic": ""
+        },
+        "ImageURL": "",
+        "Genre": "",
+        "ProductionYear": ""
+      },
+      "duration": 1800000,
+      "id": "4CC14571-2F01-4E42-A69A-9DD493C48130",
+      "externalId": "2460284688668",
+      "title": "Al Nassr Club (KSA) vs Al Zawraa SC (IRQ) - AFC Champions League Two 2025/2026 - West MD6 - Mini Mat",
+      "startDate": "2025-12-25T10:30:00.000Z",
+      "endDate": "2025-12-25T11:00:00.000Z",
+      "live": false,
+      "replay": false,
+      "category": "AFC Champions League Two",
+      "genre": "",
+      "synopsis": "The AFC Champions League Two is the second-tier competition of Asian club football, ranked below the AFC Champions League Elite. \nParticipation in the competition is open to clubs from the top 12 nations in the East and the West region based on the AFC club competitions ranking.\nAll games are live and exclusive only on beIN.\n",
+      "description": "The AFC Champions League Two is the second-tier competition of Asian club football, ranked below the AFC Champions League Elite. \nParticipation in the competition is open to clubs from the top 12 nations in the East and the West region based on the AFC club competitions ranking.\nAll games are live and exclusive only on beIN.\n",
+      "categoryArabic": "دوري أبطال آسيا 2",
+      "synopsisArabic": "",
+      "descriptionArabic": "",
+      "channelId": "7836FEA9-6B39-4A1A-8352-DC5FCB97A16C",
+      "sportTypeId": "7E27AB43-31E6-48B0-8DEB-06E3AB56948D",
+      "createdAt": "2025-12-25T08:02:21.586Z",
+      "updatedAt": "2025-12-25T08:02:21.586Z",
+      "channel": {
+        "data": {
+          "Code": "10401",
+          "StaticChannelCode": "5201",
+          "Name": "beIN SPORTS 1"
+        },
+        "id": "7836FEA9-6B39-4A1A-8352-DC5FCB97A16C",
+        "externalId": "10401",
+        "name": "beIN SPORTS 1",
+        "providerId": "995DA2A6-B086-457D-8DFF-5C8E0A7B5A7F",
+        "externalUniqueId": "f50c7035e532c49a0f6993d988e2e843",
+        "createdAt": "2022-10-05T10:01:30.915Z",
+        "updatedAt": "2023-09-04T10:47:52.585Z",
+        "provider": {
+          "id": "995DA2A6-B086-457D-8DFF-5C8E0A7B5A7F",
+          "name": "epg.bein",
+          "createdAt": "2022-10-03T09:10:27.295Z",
+          "updatedAt": "2022-10-03T09:10:27.295Z"
+        }
+      },
+      "sportType": {
+        "id": "7E27AB43-31E6-48B0-8DEB-06E3AB56948D",
+        "name": "Football",
+        "createdAt": "2022-10-03T09:10:29.401Z",
+        "updatedAt": "2022-10-03T09:10:29.401Z"
+      }
+    },
+    {
+      "data": {
+        "matchid": "",
+        "m_date": null,
+        "m_time": "",
+        "week": "",
+        "description": "",
+        "competition_id": "",
+        "competition_name": "",
+        "country": "",
+        "stage_name": "",
+        "stage_startdate": null,
+        "stage_enddate": null,
+        "teama_id": "",
+        "teama": "",
+        "teama_position": "",
+        "teama_country": "",
+        "teamb_id": "",
+        "teamb": "",
+        "teamb_position": "",
+        "teamb_country": "",
+        "venue_id": "",
+        "shortname": "",
+        "longname": "",
+        "teama_ar": "",
+        "teamb_ar": "",
+        "series_name": "",
+        "CompetitionType": "",
+        "Live": "False",
+        "ID": "2460284745668",
+        "ChannelCode": "10401",
+        "StaticChannelCode": "5201",
+        "ChannelName": "beIN SPORTS 1",
+        "Category": {
+          "English": "AFC Champions League Two",
+          "Arabic": "دوري أبطال آسيا 2"
+        },
+        "Title": {
+          "English": "AFC Champions League Two 2025/2026 - Highlights",
+          "Arabic": "AFC Champions League Two 2025/2026 - Highlights"
+        },
+        "Remarks": {
+          "English": "AFC Champions League Two 2025/2026 - Highlights",
+          "Arabic": ""
+        },
+        "StartTime": "2025-12-25T14:00:00",
+        "EndTime": "2025-12-25T15:00:00",
+        "Duration": "01:00:00",
+        "Commentators": {
+          "English": "",
+          "Arabic": ""
+        },
+        "ParentalRating": "0",
+        "Synopsis": {
+          "English": "AFC Champions League Two 2025/2026 - Highlights",
+          "Arabic": ""
+        },
+        "ImageURL": "",
+        "Genre": "",
+        "ProductionYear": ""
+      },
+      "duration": 3600000,
+      "id": "A77095BE-15FE-4110-A13A-FC74178BE50C",
+      "externalId": "2460284745668",
+      "title": "AFC Champions League Two 2025/2026 - Highlights",
+      "startDate": "2025-12-25T11:00:00.000Z",
+      "endDate": "2025-12-25T12:00:00.000Z",
+      "live": false,
+      "replay": false,
+      "category": "AFC Champions League Two",
+      "genre": "",
+      "synopsis": "AFC Champions League Two 2025/2026 - Highlights",
+      "description": "AFC Champions League Two 2025/2026 - Highlights",
+      "categoryArabic": "دوري أبطال آسيا 2",
+      "synopsisArabic": "",
+      "descriptionArabic": "",
+      "channelId": "7836FEA9-6B39-4A1A-8352-DC5FCB97A16C",
+      "sportTypeId": "7E27AB43-31E6-48B0-8DEB-06E3AB56948D",
+      "createdAt": "2025-12-25T08:02:21.586Z",
+      "updatedAt": "2025-12-25T08:02:21.586Z",
+      "channel": {
+        "data": {
+          "Code": "10401",
+          "StaticChannelCode": "5201",
+          "Name": "beIN SPORTS 1"
+        },
+        "id": "7836FEA9-6B39-4A1A-8352-DC5FCB97A16C",
+        "externalId": "10401",
+        "name": "beIN SPORTS 1",
+        "providerId": "995DA2A6-B086-457D-8DFF-5C8E0A7B5A7F",
+        "externalUniqueId": "f50c7035e532c49a0f6993d988e2e843",
+        "createdAt": "2022-10-05T10:01:30.915Z",
+        "updatedAt": "2023-09-04T10:47:52.585Z",
+        "provider": {
+          "id": "995DA2A6-B086-457D-8DFF-5C8E0A7B5A7F",
+          "name": "epg.bein",
+          "createdAt": "2022-10-03T09:10:27.295Z",
+          "updatedAt": "2022-10-03T09:10:27.295Z"
+        }
+      },
+      "sportType": {
+        "id": "7E27AB43-31E6-48B0-8DEB-06E3AB56948D",
+        "name": "Football",
+        "createdAt": "2022-10-03T09:10:29.401Z",
+        "updatedAt": "2022-10-03T09:10:29.401Z"
+      }
+    },
+    {
+      "data": {
+        "matchid": "",
+        "m_date": null,
+        "m_time": "",
+        "week": "",
+        "description": "",
+        "competition_id": "",
+        "competition_name": "",
+        "country": "",
+        "stage_name": "",
+        "stage_startdate": null,
+        "stage_enddate": null,
+        "teama_id": "",
+        "teama": "",
+        "teama_position": "",
+        "teama_country": "",
+        "teamb_id": "",
+        "teamb": "",
+        "teamb_position": "",
+        "teamb_country": "",
+        "venue_id": "",
+        "shortname": "",
+        "longname": "",
+        "teama_ar": "",
+        "teamb_ar": "",
+        "series_name": "",
+        "CompetitionType": "",
+        "Live": "False",
+        "ID": "2460284736668",
+        "ChannelCode": "10401",
+        "StaticChannelCode": "5201",
+        "ChannelName": "beIN SPORTS 1",
+        "Category": {
+          "English": "Football",
+          "Arabic": "كرة قدم"
+        },
+        "Title": {
+          "English": "Sharjah FC (UAE) vs Al Hilal SFC (KSA) - AFC Champions League Elite 2025/2026 - West MD6 - Mini Matc",
+          "Arabic": "Sharjah FC (UAE) vs Al Hilal SFC (KSA) - AFC Champions League Elite 2025/2026 - West MD6 - Mini Matc"
+        },
+        "Remarks": {
+          "English": "The AFC Champions League Elite is contested by Asia's top-division football clubs. It is the most prestigious club competition in Asian football, played by the national league champions. A total of 24 clubs compete in the league stage of the competition, divided into East and West regions (12 teams each).\nAll games are live and exclusive only on beIN\n",
+          "Arabic": ""
+        },
+        "StartTime": "2025-12-25T15:00:00",
+        "EndTime": "2025-12-25T15:30:00",
+        "Duration": "00:30:00",
+        "Commentators": {
+          "English": "",
+          "Arabic": ""
+        },
+        "ParentalRating": "0",
+        "Synopsis": {
+          "English": "The AFC Champions League Elite is contested by Asia's top-division football clubs. It is the most prestigious club competition in Asian football, played by the national league champions. A total of 24 clubs compete in the league stage of the competition, divided into East and West regions (12 teams each).\nAll games are live and exclusive only on beIN\n",
+          "Arabic": ""
+        },
+        "ImageURL": "",
+        "Genre": "",
+        "ProductionYear": ""
+      },
+      "duration": 1800000,
+      "id": "725CBD16-2985-4798-AF06-71FA06D95FF2",
+      "externalId": "2460284736668",
+      "title": "Sharjah FC (UAE) vs Al Hilal SFC (KSA) - AFC Champions League Elite 2025/2026 - West MD6 - Mini Matc",
+      "startDate": "2025-12-25T12:00:00.000Z",
+      "endDate": "2025-12-25T12:30:00.000Z",
+      "live": false,
+      "replay": false,
+      "category": "Football",
+      "genre": "",
+      "synopsis": "The AFC Champions League Elite is contested by Asia's top-division football clubs. It is the most prestigious club competition in Asian football, played by the national league champions. A total of 24 clubs compete in the league stage of the competition, divided into East and West regions (12 teams each).\nAll games are live and exclusive only on beIN\n",
+      "description": "The AFC Champions League Elite is contested by Asia's top-division football clubs. It is the most prestigious club competition in Asian football, played by the national league champions. A total of 24 clubs compete in the league stage of the competition, divided into East and West regions (12 teams each).\nAll games are live and exclusive only on beIN\n",
+      "categoryArabic": "كرة قدم",
+      "synopsisArabic": "",
+      "descriptionArabic": "",
+      "channelId": "7836FEA9-6B39-4A1A-8352-DC5FCB97A16C",
+      "sportTypeId": "7E27AB43-31E6-48B0-8DEB-06E3AB56948D",
+      "createdAt": "2025-12-25T08:02:21.586Z",
+      "updatedAt": "2025-12-25T08:02:21.586Z",
+      "channel": {
+        "data": {
+          "Code": "10401",
+          "StaticChannelCode": "5201",
+          "Name": "beIN SPORTS 1"
+        },
+        "id": "7836FEA9-6B39-4A1A-8352-DC5FCB97A16C",
+        "externalId": "10401",
+        "name": "beIN SPORTS 1",
+        "providerId": "995DA2A6-B086-457D-8DFF-5C8E0A7B5A7F",
+        "externalUniqueId": "f50c7035e532c49a0f6993d988e2e843",
+        "createdAt": "2022-10-05T10:01:30.915Z",
+        "updatedAt": "2023-09-04T10:47:52.585Z",
+        "provider": {
+          "id": "995DA2A6-B086-457D-8DFF-5C8E0A7B5A7F",
+          "name": "epg.bein",
+          "createdAt": "2022-10-03T09:10:27.295Z",
+          "updatedAt": "2022-10-03T09:10:27.295Z"
+        }
+      },
+      "sportType": {
+        "id": "7E27AB43-31E6-48B0-8DEB-06E3AB56948D",
+        "name": "Football",
+        "createdAt": "2022-10-03T09:10:29.401Z",
+        "updatedAt": "2022-10-03T09:10:29.401Z"
+      }
+    },
+    {
+      "data": {
+        "matchid": "",
+        "m_date": null,
+        "m_time": "",
+        "week": "",
+        "description": "",
+        "competition_id": "",
+        "competition_name": "",
+        "country": "",
+        "stage_name": "",
+        "stage_startdate": null,
+        "stage_enddate": null,
+        "teama_id": "",
+        "teama": "",
+        "teama_position": "",
+        "teama_country": "",
+        "teamb_id": "",
+        "teamb": "",
+        "teamb_position": "",
+        "teamb_country": "",
+        "venue_id": "",
+        "shortname": "",
+        "longname": "",
+        "teama_ar": "",
+        "teamb_ar": "",
+        "series_name": "",
+        "CompetitionType": "",
+        "Live": "False",
+        "ID": "2460284733668",
+        "ChannelCode": "10401",
+        "StaticChannelCode": "5201",
+        "ChannelName": "beIN SPORTS 1",
+        "Category": {
+          "English": "Football",
+          "Arabic": "كرة قدم"
+        },
+        "Title": {
+          "English": "Tractor FC (IRN) vs Al Duhail SC (QAT) - AFC Champions League Elite 2025/2026 - West MD6 - Mini Matc",
+          "Arabic": "Tractor FC (IRN) vs Al Duhail SC (QAT) - AFC Champions League Elite 2025/2026 - West MD6 - Mini Matc"
+        },
+        "Remarks": {
+          "English": "The AFC Champions League Elite is contested by Asia's top-division football clubs. It is the most prestigious club competition in Asian football, played by the national league champions. A total of 24 clubs compete in the league stage of the competition, divided into East and West regions (12 teams each).\nAll games are live and exclusive only on beIN\n",
+          "Arabic": ""
+        },
+        "StartTime": "2025-12-25T15:30:00",
+        "EndTime": "2025-12-25T16:01:00",
+        "Duration": "00:31:00",
+        "Commentators": {
+          "English": "",
+          "Arabic": ""
+        },
+        "ParentalRating": "0",
+        "Synopsis": {
+          "English": "The AFC Champions League Elite is contested by Asia's top-division football clubs. It is the most prestigious club competition in Asian football, played by the national league champions. A total of 24 clubs compete in the league stage of the competition, divided into East and West regions (12 teams each).\nAll games are live and exclusive only on beIN\n",
+          "Arabic": ""
+        },
+        "ImageURL": "",
+        "Genre": "",
+        "ProductionYear": ""
+      },
+      "duration": 1860000,
+      "id": "E6CD6782-F23B-4DA8-B7C2-5FB0D9BC3043",
+      "externalId": "2460284733668",
+      "title": "Tractor FC (IRN) vs Al Duhail SC (QAT) - AFC Champions League Elite 2025/2026 - West MD6 - Mini Matc",
+      "startDate": "2025-12-25T12:30:00.000Z",
+      "endDate": "2025-12-25T13:01:00.000Z",
+      "live": false,
+      "replay": false,
+      "category": "Football",
+      "genre": "",
+      "synopsis": "The AFC Champions League Elite is contested by Asia's top-division football clubs. It is the most prestigious club competition in Asian football, played by the national league champions. A total of 24 clubs compete in the league stage of the competition, divided into East and West regions (12 teams each).\nAll games are live and exclusive only on beIN\n",
+      "description": "The AFC Champions League Elite is contested by Asia's top-division football clubs. It is the most prestigious club competition in Asian football, played by the national league champions. A total of 24 clubs compete in the league stage of the competition, divided into East and West regions (12 teams each).\nAll games are live and exclusive only on beIN\n",
+      "categoryArabic": "كرة قدم",
+      "synopsisArabic": "",
+      "descriptionArabic": "",
+      "channelId": "7836FEA9-6B39-4A1A-8352-DC5FCB97A16C",
+      "sportTypeId": "7E27AB43-31E6-48B0-8DEB-06E3AB56948D",
+      "createdAt": "2025-12-25T08:02:21.586Z",
+      "updatedAt": "2025-12-25T08:02:21.586Z",
+      "channel": {
+        "data": {
+          "Code": "10401",
+          "StaticChannelCode": "5201",
+          "Name": "beIN SPORTS 1"
+        },
+        "id": "7836FEA9-6B39-4A1A-8352-DC5FCB97A16C",
+        "externalId": "10401",
+        "name": "beIN SPORTS 1",
+        "providerId": "995DA2A6-B086-457D-8DFF-5C8E0A7B5A7F",
+        "externalUniqueId": "f50c7035e532c49a0f6993d988e2e843",
+        "createdAt": "2022-10-05T10:01:30.915Z",
+        "updatedAt": "2023-09-04T10:47:52.585Z",
+        "provider": {
+          "id": "995DA2A6-B086-457D-8DFF-5C8E0A7B5A7F",
+          "name": "epg.bein",
+          "createdAt": "2022-10-03T09:10:27.295Z",
+          "updatedAt": "2022-10-03T09:10:27.295Z"
+        }
+      },
+      "sportType": {
+        "id": "7E27AB43-31E6-48B0-8DEB-06E3AB56948D",
+        "name": "Football",
+        "createdAt": "2022-10-03T09:10:29.401Z",
+        "updatedAt": "2022-10-03T09:10:29.401Z"
+      }
+    },
+    {
+      "data": {
+        "matchid": "",
+        "m_date": null,
+        "m_time": "",
+        "week": "",
+        "description": "",
+        "competition_id": "",
+        "competition_name": "",
+        "country": "",
+        "stage_name": "",
+        "stage_startdate": null,
+        "stage_enddate": null,
+        "teama_id": "",
+        "teama": "",
+        "teama_position": "",
+        "teama_country": "",
+        "teamb_id": "",
+        "teamb": "",
+        "teamb_position": "",
+        "teamb_country": "",
+        "venue_id": "",
+        "shortname": "",
+        "longname": "",
+        "teama_ar": "",
+        "teamb_ar": "",
+        "series_name": "",
+        "CompetitionType": "",
+        "Live": "False",
+        "ID": "2460284691668",
+        "ChannelCode": "10401",
+        "StaticChannelCode": "5201",
+        "ChannelName": "beIN SPORTS 1",
+        "Category": {
+          "English": "Football",
+          "Arabic": "كرة قدم"
+        },
+        "Title": {
+          "English": "Al Gharafa SC (QAT) vs Al Wahda FC (UAE) - AFC Champions League Elite 2025/2026 - West MD6 - Mini Ma",
+          "Arabic": "Al Gharafa SC (QAT) vs Al Wahda FC (UAE) - AFC Champions League Elite 2025/2026 - West MD6 - Mini Ma"
+        },
+        "Remarks": {
+          "English": "The AFC Champions League Elite is contested by Asia's top-division football clubs. It is the most prestigious club competition in Asian football, played by the national league champions. A total of 24 clubs compete in the league stage of the competition, divided into East and West regions (12 teams each).\nAll games are live and exclusive only on beIN\n",
+          "Arabic": ""
+        },
+        "StartTime": "2025-12-25T16:01:00",
+        "EndTime": "2025-12-25T16:30:00",
+        "Duration": "00:29:00",
+        "Commentators": {
+          "English": "",
+          "Arabic": ""
+        },
+        "ParentalRating": "0",
+        "Synopsis": {
+          "English": "The AFC Champions League Elite is contested by Asia's top-division football clubs. It is the most prestigious club competition in Asian football, played by the national league champions. A total of 24 clubs compete in the league stage of the competition, divided into East and West regions (12 teams each).\nAll games are live and exclusive only on beIN\n",
+          "Arabic": ""
+        },
+        "ImageURL": "",
+        "Genre": "",
+        "ProductionYear": ""
+      },
+      "duration": 1740000,
+      "id": "DD4A62E6-29EA-4030-AADC-2542A2C9C7FB",
+      "externalId": "2460284691668",
+      "title": "Al Gharafa SC (QAT) vs Al Wahda FC (UAE) - AFC Champions League Elite 2025/2026 - West MD6 - Mini Ma",
+      "startDate": "2025-12-25T13:01:00.000Z",
+      "endDate": "2025-12-25T13:30:00.000Z",
+      "live": false,
+      "replay": false,
+      "category": "Football",
+      "genre": "",
+      "synopsis": "The AFC Champions League Elite is contested by Asia's top-division football clubs. It is the most prestigious club competition in Asian football, played by the national league champions. A total of 24 clubs compete in the league stage of the competition, divided into East and West regions (12 teams each).\nAll games are live and exclusive only on beIN\n",
+      "description": "The AFC Champions League Elite is contested by Asia's top-division football clubs. It is the most prestigious club competition in Asian football, played by the national league champions. A total of 24 clubs compete in the league stage of the competition, divided into East and West regions (12 teams each).\nAll games are live and exclusive only on beIN\n",
+      "categoryArabic": "كرة قدم",
+      "synopsisArabic": "",
+      "descriptionArabic": "",
+      "channelId": "7836FEA9-6B39-4A1A-8352-DC5FCB97A16C",
+      "sportTypeId": "7E27AB43-31E6-48B0-8DEB-06E3AB56948D",
+      "createdAt": "2025-12-25T08:02:21.586Z",
+      "updatedAt": "2025-12-25T08:02:21.586Z",
+      "channel": {
+        "data": {
+          "Code": "10401",
+          "StaticChannelCode": "5201",
+          "Name": "beIN SPORTS 1"
+        },
+        "id": "7836FEA9-6B39-4A1A-8352-DC5FCB97A16C",
+        "externalId": "10401",
+        "name": "beIN SPORTS 1",
+        "providerId": "995DA2A6-B086-457D-8DFF-5C8E0A7B5A7F",
+        "externalUniqueId": "f50c7035e532c49a0f6993d988e2e843",
+        "createdAt": "2022-10-05T10:01:30.915Z",
+        "updatedAt": "2023-09-04T10:47:52.585Z",
+        "provider": {
+          "id": "995DA2A6-B086-457D-8DFF-5C8E0A7B5A7F",
+          "name": "epg.bein",
+          "createdAt": "2022-10-03T09:10:27.295Z",
+          "updatedAt": "2022-10-03T09:10:27.295Z"
+        }
+      },
+      "sportType": {
+        "id": "7E27AB43-31E6-48B0-8DEB-06E3AB56948D",
+        "name": "Football",
+        "createdAt": "2022-10-03T09:10:29.401Z",
+        "updatedAt": "2022-10-03T09:10:29.401Z"
+      }
+    },
+    {
+      "data": {
+        "matchid": "",
+        "m_date": null,
+        "m_time": "",
+        "week": "",
+        "description": "",
+        "competition_id": "",
+        "competition_name": "",
+        "country": "",
+        "stage_name": "",
+        "stage_startdate": null,
+        "stage_enddate": null,
+        "teama_id": "",
+        "teama": "",
+        "teama_position": "",
+        "teama_country": "",
+        "teamb_id": "",
+        "teamb": "",
+        "teamb_position": "",
+        "teamb_country": "",
+        "venue_id": "",
+        "shortname": "",
+        "longname": "",
+        "teama_ar": "",
+        "teamb_ar": "",
+        "series_name": "",
+        "CompetitionType": "",
+        "Live": "False",
+        "ID": "2460284709668",
+        "ChannelCode": "10401",
+        "StaticChannelCode": "5201",
+        "ChannelName": "beIN SPORTS 1",
+        "Category": {
+          "English": "Football",
+          "Arabic": "كرة قدم"
+        },
+        "Title": {
+          "English": "Al Ittihad Club (KSA) vs PFC Nasaf (UZB) - AFC Champions League Elite 2025/2026 - West MD6 - Mini Ma",
+          "Arabic": "Al Ittihad Club (KSA) vs PFC Nasaf (UZB) - AFC Champions League Elite 2025/2026 - West MD6 - Mini Ma"
+        },
+        "Remarks": {
+          "English": "The AFC Champions League Elite is contested by Asia's top-division football clubs. It is the most prestigious club competition in Asian football, played by the national league champions. A total of 24 clubs compete in the league stage of the competition, divided into East and West regions (12 teams each).\nAll games are live and exclusive only on beIN\n",
+          "Arabic": ""
+        },
+        "StartTime": "2025-12-25T17:30:00",
+        "EndTime": "2025-12-25T17:57:00",
+        "Duration": "00:27:00",
+        "Commentators": {
+          "English": "",
+          "Arabic": ""
+        },
+        "ParentalRating": "0",
+        "Synopsis": {
+          "English": "The AFC Champions League Elite is contested by Asia's top-division football clubs. It is the most prestigious club competition in Asian football, played by the national league champions. A total of 24 clubs compete in the league stage of the competition, divided into East and West regions (12 teams each).\nAll games are live and exclusive only on beIN\n",
+          "Arabic": ""
+        },
+        "ImageURL": "",
+        "Genre": "",
+        "ProductionYear": ""
+      },
+      "duration": 1620000,
+      "id": "D88D6463-353E-4EFF-A236-A31A3ABBF4A9",
+      "externalId": "2460284709668",
+      "title": "Al Ittihad Club (KSA) vs PFC Nasaf (UZB) - AFC Champions League Elite 2025/2026 - West MD6 - Mini Ma",
+      "startDate": "2025-12-25T14:30:00.000Z",
+      "endDate": "2025-12-25T14:57:00.000Z",
+      "live": false,
+      "replay": false,
+      "category": "Football",
+      "genre": "",
+      "synopsis": "The AFC Champions League Elite is contested by Asia's top-division football clubs. It is the most prestigious club competition in Asian football, played by the national league champions. A total of 24 clubs compete in the league stage of the competition, divided into East and West regions (12 teams each).\nAll games are live and exclusive only on beIN\n",
+      "description": "The AFC Champions League Elite is contested by Asia's top-division football clubs. It is the most prestigious club competition in Asian football, played by the national league champions. A total of 24 clubs compete in the league stage of the competition, divided into East and West regions (12 teams each).\nAll games are live and exclusive only on beIN\n",
+      "categoryArabic": "كرة قدم",
+      "synopsisArabic": "",
+      "descriptionArabic": "",
+      "channelId": "7836FEA9-6B39-4A1A-8352-DC5FCB97A16C",
+      "sportTypeId": "7E27AB43-31E6-48B0-8DEB-06E3AB56948D",
+      "createdAt": "2025-12-25T08:02:21.586Z",
+      "updatedAt": "2025-12-25T08:02:21.586Z",
+      "channel": {
+        "data": {
+          "Code": "10401",
+          "StaticChannelCode": "5201",
+          "Name": "beIN SPORTS 1"
+        },
+        "id": "7836FEA9-6B39-4A1A-8352-DC5FCB97A16C",
+        "externalId": "10401",
+        "name": "beIN SPORTS 1",
+        "providerId": "995DA2A6-B086-457D-8DFF-5C8E0A7B5A7F",
+        "externalUniqueId": "f50c7035e532c49a0f6993d988e2e843",
+        "createdAt": "2022-10-05T10:01:30.915Z",
+        "updatedAt": "2023-09-04T10:47:52.585Z",
+        "provider": {
+          "id": "995DA2A6-B086-457D-8DFF-5C8E0A7B5A7F",
+          "name": "epg.bein",
+          "createdAt": "2022-10-03T09:10:27.295Z",
+          "updatedAt": "2022-10-03T09:10:27.295Z"
+        }
+      },
+      "sportType": {
+        "id": "7E27AB43-31E6-48B0-8DEB-06E3AB56948D",
+        "name": "Football",
+        "createdAt": "2022-10-03T09:10:29.401Z",
+        "updatedAt": "2022-10-03T09:10:29.401Z"
+      }
+    },
+    {
+      "data": {
+        "matchid": "",
+        "m_date": null,
+        "m_time": "",
+        "week": "",
+        "description": "",
+        "competition_id": "",
+        "competition_name": "",
+        "country": "",
+        "stage_name": "",
+        "stage_startdate": null,
+        "stage_enddate": null,
+        "teama_id": "",
+        "teama": "",
+        "teama_position": "",
+        "teama_country": "",
+        "teamb_id": "",
+        "teamb": "",
+        "teamb_position": "",
+        "teamb_country": "",
+        "venue_id": "",
+        "shortname": "",
+        "longname": "",
+        "teama_ar": "",
+        "teamb_ar": "",
+        "series_name": "",
+        "CompetitionType": "",
+        "Live": "False",
+        "ID": "2460284685668",
+        "ChannelCode": "10401",
+        "StaticChannelCode": "5201",
+        "ChannelName": "beIN SPORTS 1",
+        "Category": {
+          "English": "Football",
+          "Arabic": "كرة قدم"
+        },
+        "Title": {
+          "English": "Al Sadd SC (QAT) vs Shabab Al Ahli (UAE) - AFC Champions League Elite 2025/2026 - West MD6 - Mini Ma",
+          "Arabic": "Al Sadd SC (QAT) vs Shabab Al Ahli (UAE) - AFC Champions League Elite 2025/2026 - West MD6 - Mini Ma"
+        },
+        "Remarks": {
+          "English": "The AFC Champions League Elite is contested by Asia's top-division football clubs. It is the most prestigious club competition in Asian football, played by the national league champions. A total of 24 clubs compete in the league stage of the competition, divided into East and West regions (12 teams each).\nAll games are live and exclusive only on beIN\n",
+          "Arabic": ""
+        },
+        "StartTime": "2025-12-25T17:57:00",
+        "EndTime": "2025-12-25T18:30:00",
+        "Duration": "00:33:00",
+        "Commentators": {
+          "English": "",
+          "Arabic": ""
+        },
+        "ParentalRating": "0",
+        "Synopsis": {
+          "English": "The AFC Champions League Elite is contested by Asia's top-division football clubs. It is the most prestigious club competition in Asian football, played by the national league champions. A total of 24 clubs compete in the league stage of the competition, divided into East and West regions (12 teams each).\nAll games are live and exclusive only on beIN\n",
+          "Arabic": ""
+        },
+        "ImageURL": "",
+        "Genre": "",
+        "ProductionYear": ""
+      },
+      "duration": 1980000,
+      "id": "5A7C2F66-CA19-433A-92B5-4D19903E872F",
+      "externalId": "2460284685668",
+      "title": "Al Sadd SC (QAT) vs Shabab Al Ahli (UAE) - AFC Champions League Elite 2025/2026 - West MD6 - Mini Ma",
+      "startDate": "2025-12-25T14:57:00.000Z",
+      "endDate": "2025-12-25T15:30:00.000Z",
+      "live": false,
+      "replay": false,
+      "category": "Football",
+      "genre": "",
+      "synopsis": "The AFC Champions League Elite is contested by Asia's top-division football clubs. It is the most prestigious club competition in Asian football, played by the national league champions. A total of 24 clubs compete in the league stage of the competition, divided into East and West regions (12 teams each).\nAll games are live and exclusive only on beIN\n",
+      "description": "The AFC Champions League Elite is contested by Asia's top-division football clubs. It is the most prestigious club competition in Asian football, played by the national league champions. A total of 24 clubs compete in the league stage of the competition, divided into East and West regions (12 teams each).\nAll games are live and exclusive only on beIN\n",
+      "categoryArabic": "كرة قدم",
+      "synopsisArabic": "",
+      "descriptionArabic": "",
+      "channelId": "7836FEA9-6B39-4A1A-8352-DC5FCB97A16C",
+      "sportTypeId": "7E27AB43-31E6-48B0-8DEB-06E3AB56948D",
+      "createdAt": "2025-12-25T08:02:21.586Z",
+      "updatedAt": "2025-12-25T08:02:21.586Z",
+      "channel": {
+        "data": {
+          "Code": "10401",
+          "StaticChannelCode": "5201",
+          "Name": "beIN SPORTS 1"
+        },
+        "id": "7836FEA9-6B39-4A1A-8352-DC5FCB97A16C",
+        "externalId": "10401",
+        "name": "beIN SPORTS 1",
+        "providerId": "995DA2A6-B086-457D-8DFF-5C8E0A7B5A7F",
+        "externalUniqueId": "f50c7035e532c49a0f6993d988e2e843",
+        "createdAt": "2022-10-05T10:01:30.915Z",
+        "updatedAt": "2023-09-04T10:47:52.585Z",
+        "provider": {
+          "id": "995DA2A6-B086-457D-8DFF-5C8E0A7B5A7F",
+          "name": "epg.bein",
+          "createdAt": "2022-10-03T09:10:27.295Z",
+          "updatedAt": "2022-10-03T09:10:27.295Z"
+        }
+      },
+      "sportType": {
+        "id": "7E27AB43-31E6-48B0-8DEB-06E3AB56948D",
+        "name": "Football",
+        "createdAt": "2022-10-03T09:10:29.401Z",
+        "updatedAt": "2022-10-03T09:10:29.401Z"
+      }
+    },
+    {
+      "data": {
+        "matchid": "",
+        "m_date": null,
+        "m_time": "",
+        "week": "",
+        "description": "",
+        "competition_id": "",
+        "competition_name": "",
+        "country": "",
+        "stage_name": "",
+        "stage_startdate": null,
+        "stage_enddate": null,
+        "teama_id": "",
+        "teama": "",
+        "teama_position": "",
+        "teama_country": "",
+        "teamb_id": "",
+        "teamb": "",
+        "teamb_position": "",
+        "teamb_country": "",
+        "venue_id": "",
+        "shortname": "",
+        "longname": "",
+        "teama_ar": "",
+        "teamb_ar": "",
+        "series_name": "",
+        "CompetitionType": "",
+        "Live": "False",
+        "ID": "2460284664668",
+        "ChannelCode": "10401",
+        "StaticChannelCode": "5201",
+        "ChannelName": "beIN SPORTS 1",
+        "Category": {
+          "English": "AFC Champions League Two",
+          "Arabic": "دوري أبطال آسيا 2"
+        },
+        "Title": {
+          "English": "AFC Champions League Two 2025/2026 - Highlights",
+          "Arabic": "AFC Champions League Two 2025/2026 - Highlights"
+        },
+        "Remarks": {
+          "English": "AFC Champions League Two 2025/2026 - Highlights",
+          "Arabic": ""
+        },
+        "StartTime": "2025-12-25T20:00:00",
+        "EndTime": "2025-12-25T21:00:00",
+        "Duration": "01:00:00",
+        "Commentators": {
+          "English": "",
+          "Arabic": ""
+        },
+        "ParentalRating": "0",
+        "Synopsis": {
+          "English": "AFC Champions League Two 2025/2026 - Highlights",
+          "Arabic": ""
+        },
+        "ImageURL": "",
+        "Genre": "",
+        "ProductionYear": ""
+      },
+      "duration": 3600000,
+      "id": "B92E6B63-F929-4595-AED2-3FBFF3770B57",
+      "externalId": "2460284664668",
+      "title": "AFC Champions League Two 2025/2026 - Highlights",
+      "startDate": "2025-12-25T17:00:00.000Z",
+      "endDate": "2025-12-25T18:00:00.000Z",
+      "live": false,
+      "replay": false,
+      "category": "AFC Champions League Two",
+      "genre": "",
+      "synopsis": "AFC Champions League Two 2025/2026 - Highlights",
+      "description": "AFC Champions League Two 2025/2026 - Highlights",
+      "categoryArabic": "دوري أبطال آسيا 2",
+      "synopsisArabic": "",
+      "descriptionArabic": "",
+      "channelId": "7836FEA9-6B39-4A1A-8352-DC5FCB97A16C",
+      "sportTypeId": "7E27AB43-31E6-48B0-8DEB-06E3AB56948D",
+      "createdAt": "2025-12-25T08:02:21.586Z",
+      "updatedAt": "2025-12-25T08:02:21.586Z",
+      "channel": {
+        "data": {
+          "Code": "10401",
+          "StaticChannelCode": "5201",
+          "Name": "beIN SPORTS 1"
+        },
+        "id": "7836FEA9-6B39-4A1A-8352-DC5FCB97A16C",
+        "externalId": "10401",
+        "name": "beIN SPORTS 1",
+        "providerId": "995DA2A6-B086-457D-8DFF-5C8E0A7B5A7F",
+        "externalUniqueId": "f50c7035e532c49a0f6993d988e2e843",
+        "createdAt": "2022-10-05T10:01:30.915Z",
+        "updatedAt": "2023-09-04T10:47:52.585Z",
+        "provider": {
+          "id": "995DA2A6-B086-457D-8DFF-5C8E0A7B5A7F",
+          "name": "epg.bein",
+          "createdAt": "2022-10-03T09:10:27.295Z",
+          "updatedAt": "2022-10-03T09:10:27.295Z"
+        }
+      },
+      "sportType": {
+        "id": "7E27AB43-31E6-48B0-8DEB-06E3AB56948D",
+        "name": "Football",
+        "createdAt": "2022-10-03T09:10:29.401Z",
+        "updatedAt": "2022-10-03T09:10:29.401Z"
+      }
+    },
+    {
+      "data": {
+        "matchid": "",
+        "m_date": null,
+        "m_time": "",
+        "week": "",
+        "description": "",
+        "competition_id": "",
+        "competition_name": "",
+        "country": "",
+        "stage_name": "",
+        "stage_startdate": null,
+        "stage_enddate": null,
+        "teama_id": "",
+        "teama": "",
+        "teama_position": "",
+        "teama_country": "",
+        "teamb_id": "",
+        "teamb": "",
+        "teamb_position": "",
+        "teamb_country": "",
+        "venue_id": "",
+        "shortname": "",
+        "longname": "",
+        "teama_ar": "",
+        "teamb_ar": "",
+        "series_name": "",
+        "CompetitionType": "",
+        "Live": "False",
+        "ID": "2460284667668",
+        "ChannelCode": "10401",
+        "StaticChannelCode": "5201",
+        "ChannelName": "beIN SPORTS 1",
+        "Category": {
+          "English": "English Premier League",
+          "Arabic": "الدوري الإنجليزي الممتاز"
+        },
+        "Title": {
+          "English": "Tottenham Hotspur vs Liverpool - English Premier League 2025/2026 Week 17 - Mini Match",
+          "Arabic": "Tottenham Hotspur vs Liverpool - English Premier League 2025/2026 Week 17 - Mini Match"
+        },
+        "Remarks": {
+          "English": "All 380 matches from the English Premier league are live and exclusive only on beIN.\nAll matches are available live with a choice of Arabic or English commentary.\nThe season will consist of 33 weekends and five midweek rounds of matches.\nLiverpool are the defending champions, having won their second Premier League title. \n",
+          "Arabic": ""
+        },
+        "StartTime": "2025-12-25T21:00:00",
+        "EndTime": "2025-12-25T21:30:00",
+        "Duration": "00:30:00",
+        "Commentators": {
+          "English": "",
+          "Arabic": ""
+        },
+        "ParentalRating": "0",
+        "Synopsis": {
+          "English": "All 380 matches from the English Premier league are live and exclusive only on beIN.\nAll matches are available live with a choice of Arabic or English commentary.\nThe season will consist of 33 weekends and five midweek rounds of matches.\nLiverpool are the defending champions, having won their second Premier League title. \n",
+          "Arabic": ""
+        },
+        "ImageURL": "",
+        "Genre": "",
+        "ProductionYear": ""
+      },
+      "duration": 1800000,
+      "id": "40BF7259-7FA1-42A0-A3F4-EEF36BED40A6",
+      "externalId": "2460284667668",
+      "title": "Tottenham Hotspur vs Liverpool - English Premier League 2025/2026 Week 17 - Mini Match",
+      "startDate": "2025-12-25T18:00:00.000Z",
+      "endDate": "2025-12-25T18:30:00.000Z",
+      "live": false,
+      "replay": false,
+      "category": "English Premier League",
+      "genre": "",
+      "synopsis": "All 380 matches from the English Premier league are live and exclusive only on beIN.\nAll matches are available live with a choice of Arabic or English commentary.\nThe season will consist of 33 weekends and five midweek rounds of matches.\nLiverpool are the defending champions, having won their second Premier League title. \n",
+      "description": "All 380 matches from the English Premier league are live and exclusive only on beIN.\nAll matches are available live with a choice of Arabic or English commentary.\nThe season will consist of 33 weekends and five midweek rounds of matches.\nLiverpool are the defending champions, having won their second Premier League title. \n",
+      "categoryArabic": "الدوري الإنجليزي الممتاز",
+      "synopsisArabic": "",
+      "descriptionArabic": "",
+      "channelId": "7836FEA9-6B39-4A1A-8352-DC5FCB97A16C",
+      "sportTypeId": "7E27AB43-31E6-48B0-8DEB-06E3AB56948D",
+      "createdAt": "2025-12-25T08:02:21.586Z",
+      "updatedAt": "2025-12-25T08:02:21.586Z",
+      "channel": {
+        "data": {
+          "Code": "10401",
+          "StaticChannelCode": "5201",
+          "Name": "beIN SPORTS 1"
+        },
+        "id": "7836FEA9-6B39-4A1A-8352-DC5FCB97A16C",
+        "externalId": "10401",
+        "name": "beIN SPORTS 1",
+        "providerId": "995DA2A6-B086-457D-8DFF-5C8E0A7B5A7F",
+        "externalUniqueId": "f50c7035e532c49a0f6993d988e2e843",
+        "createdAt": "2022-10-05T10:01:30.915Z",
+        "updatedAt": "2023-09-04T10:47:52.585Z",
+        "provider": {
+          "id": "995DA2A6-B086-457D-8DFF-5C8E0A7B5A7F",
+          "name": "epg.bein",
+          "createdAt": "2022-10-03T09:10:27.295Z",
+          "updatedAt": "2022-10-03T09:10:27.295Z"
+        }
+      },
+      "sportType": {
+        "id": "7E27AB43-31E6-48B0-8DEB-06E3AB56948D",
+        "name": "Football",
+        "createdAt": "2022-10-03T09:10:29.401Z",
+        "updatedAt": "2022-10-03T09:10:29.401Z"
+      }
+    },
+    {
+      "data": {
+        "matchid": "",
+        "m_date": null,
+        "m_time": "",
+        "week": "",
+        "description": "",
+        "competition_id": "",
+        "competition_name": "",
+        "country": "",
+        "stage_name": "",
+        "stage_startdate": null,
+        "stage_enddate": null,
+        "teama_id": "",
+        "teama": "",
+        "teama_position": "",
+        "teama_country": "",
+        "teamb_id": "",
+        "teamb": "",
+        "teamb_position": "",
+        "teamb_country": "",
+        "venue_id": "",
+        "shortname": "",
+        "longname": "",
+        "teama_ar": "",
+        "teamb_ar": "",
+        "series_name": "",
+        "CompetitionType": "",
+        "Live": "False",
+        "ID": "2460284742668",
+        "ChannelCode": "10401",
+        "StaticChannelCode": "5201",
+        "ChannelName": "beIN SPORTS 1",
+        "Category": {
+          "English": "Football",
+          "Arabic": "كرة قدم"
+        },
+        "Title": {
+          "English": "PSG vs  Flamengo - FIFA Intercontinental Cup Qatar 2025 - Mini Match",
+          "Arabic": "PSG vs  Flamengo - FIFA Intercontinental Cup Qatar 2025 - Mini Match"
+        },
+        "Remarks": {
+          "English": "Champions of Europe meet the champions of South America for the right to be crowned FIFA Intercontinental Cup winners.\nPSG won their first ever UEFA Champions League title in May 2025.\nFlamengo won the Copa Libertadores, in November 2025, for the fourth time in their history.\nVictory for PSG will see them win their sixth trophy of the year, Flamengo could win an amazing fifth trophy in the last 19 days.\nThe match is live from Ahmed bin Ali Stadium, Doha, Qatar\n",
+          "Arabic": ""
+        },
+        "StartTime": "2025-12-25T21:30:00",
+        "EndTime": "2025-12-25T22:00:00",
+        "Duration": "00:30:00",
+        "Commentators": {
+          "English": "",
+          "Arabic": ""
+        },
+        "ParentalRating": "0",
+        "Synopsis": {
+          "English": "Champions of Europe meet the champions of South America for the right to be crowned FIFA Intercontinental Cup winners.\nPSG won their first ever UEFA Champions League title in May 2025.\nFlamengo won the Copa Libertadores, in November 2025, for the fourth time in their history.\nVictory for PSG will see them win their sixth trophy of the year, Flamengo could win an amazing fifth trophy in the last 19 days.\nThe match is live from Ahmed bin Ali Stadium, Doha, Qatar\n",
+          "Arabic": ""
+        },
+        "ImageURL": "",
+        "Genre": "",
+        "ProductionYear": ""
+      },
+      "duration": 1800000,
+      "id": "6377C9EB-CA68-4DEC-8A10-F3064C15C582",
+      "externalId": "2460284742668",
+      "title": "PSG vs  Flamengo - FIFA Intercontinental Cup Qatar 2025 - Mini Match",
+      "startDate": "2025-12-25T18:30:00.000Z",
+      "endDate": "2025-12-25T19:00:00.000Z",
+      "live": false,
+      "replay": false,
+      "category": "Football",
+      "genre": "",
+      "synopsis": "Champions of Europe meet the champions of South America for the right to be crowned FIFA Intercontinental Cup winners.\nPSG won their first ever UEFA Champions League title in May 2025.\nFlamengo won the Copa Libertadores, in November 2025, for the fourth time in their history.\nVictory for PSG will see them win their sixth trophy of the year, Flamengo could win an amazing fifth trophy in the last 19 days.\nThe match is live from Ahmed bin Ali Stadium, Doha, Qatar\n",
+      "description": "Champions of Europe meet the champions of South America for the right to be crowned FIFA Intercontinental Cup winners.\nPSG won their first ever UEFA Champions League title in May 2025.\nFlamengo won the Copa Libertadores, in November 2025, for the fourth time in their history.\nVictory for PSG will see them win their sixth trophy of the year, Flamengo could win an amazing fifth trophy in the last 19 days.\nThe match is live from Ahmed bin Ali Stadium, Doha, Qatar\n",
+      "categoryArabic": "كرة قدم",
+      "synopsisArabic": "",
+      "descriptionArabic": "",
+      "channelId": "7836FEA9-6B39-4A1A-8352-DC5FCB97A16C",
+      "sportTypeId": "7E27AB43-31E6-48B0-8DEB-06E3AB56948D",
+      "createdAt": "2025-12-25T08:02:21.586Z",
+      "updatedAt": "2025-12-25T08:02:21.586Z",
+      "channel": {
+        "data": {
+          "Code": "10401",
+          "StaticChannelCode": "5201",
+          "Name": "beIN SPORTS 1"
+        },
+        "id": "7836FEA9-6B39-4A1A-8352-DC5FCB97A16C",
+        "externalId": "10401",
+        "name": "beIN SPORTS 1",
+        "providerId": "995DA2A6-B086-457D-8DFF-5C8E0A7B5A7F",
+        "externalUniqueId": "f50c7035e532c49a0f6993d988e2e843",
+        "createdAt": "2022-10-05T10:01:30.915Z",
+        "updatedAt": "2023-09-04T10:47:52.585Z",
+        "provider": {
+          "id": "995DA2A6-B086-457D-8DFF-5C8E0A7B5A7F",
+          "name": "epg.bein",
+          "createdAt": "2022-10-03T09:10:27.295Z",
+          "updatedAt": "2022-10-03T09:10:27.295Z"
+        }
+      },
+      "sportType": {
+        "id": "7E27AB43-31E6-48B0-8DEB-06E3AB56948D",
+        "name": "Football",
+        "createdAt": "2022-10-03T09:10:29.401Z",
+        "updatedAt": "2022-10-03T09:10:29.401Z"
+      }
+    },
+    {
+      "data": {
+        "matchid": "",
+        "m_date": null,
+        "m_time": "",
+        "week": "",
+        "description": "",
+        "competition_id": "",
+        "competition_name": "",
+        "country": "",
+        "stage_name": "",
+        "stage_startdate": null,
+        "stage_enddate": null,
+        "teama_id": "",
+        "teama": "",
+        "teama_position": "",
+        "teama_country": "",
+        "teamb_id": "",
+        "teamb": "",
+        "teamb_position": "",
+        "teamb_country": "",
+        "venue_id": "",
+        "shortname": "",
+        "longname": "",
+        "teama_ar": "",
+        "teamb_ar": "",
+        "series_name": "",
+        "CompetitionType": "",
+        "Live": "False",
+        "ID": "2460284706668",
+        "ChannelCode": "10401",
+        "StaticChannelCode": "5201",
+        "ChannelName": "beIN SPORTS 1",
+        "Category": {
+          "English": "English Premier League",
+          "Arabic": "الدوري الإنجليزي الممتاز"
+        },
+        "Title": {
+          "English": "Manchester City vs West Ham United - English Premier League 2025/2026 Week 17 - Mini Match",
+          "Arabic": "Manchester City vs West Ham United - English Premier League 2025/2026 Week 17 - Mini Match"
+        },
+        "Remarks": {
+          "English": "All 380 matches from the English Premier league are live and exclusive only on beIN.\nAll matches are available live with a choice of Arabic or English commentary.\nThe season will consist of 33 weekends and five midweek rounds of matches.\nLiverpool are the defending champions, having won their second Premier League title. \n",
+          "Arabic": ""
+        },
+        "StartTime": "2025-12-25T22:00:00",
+        "EndTime": "2025-12-25T22:30:00",
+        "Duration": "00:30:00",
+        "Commentators": {
+          "English": "",
+          "Arabic": ""
+        },
+        "ParentalRating": "0",
+        "Synopsis": {
+          "English": "All 380 matches from the English Premier league are live and exclusive only on beIN.\nAll matches are available live with a choice of Arabic or English commentary.\nThe season will consist of 33 weekends and five midweek rounds of matches.\nLiverpool are the defending champions, having won their second Premier League title. \n",
+          "Arabic": ""
+        },
+        "ImageURL": "",
+        "Genre": "",
+        "ProductionYear": ""
+      },
+      "duration": 1800000,
+      "id": "79E026AB-C6A0-4054-9F43-3DFC77375929",
+      "externalId": "2460284706668",
+      "title": "Manchester City vs West Ham United - English Premier League 2025/2026 Week 17 - Mini Match",
+      "startDate": "2025-12-25T19:00:00.000Z",
+      "endDate": "2025-12-25T19:30:00.000Z",
+      "live": false,
+      "replay": false,
+      "category": "English Premier League",
+      "genre": "",
+      "synopsis": "All 380 matches from the English Premier league are live and exclusive only on beIN.\nAll matches are available live with a choice of Arabic or English commentary.\nThe season will consist of 33 weekends and five midweek rounds of matches.\nLiverpool are the defending champions, having won their second Premier League title. \n",
+      "description": "All 380 matches from the English Premier league are live and exclusive only on beIN.\nAll matches are available live with a choice of Arabic or English commentary.\nThe season will consist of 33 weekends and five midweek rounds of matches.\nLiverpool are the defending champions, having won their second Premier League title. \n",
+      "categoryArabic": "الدوري الإنجليزي الممتاز",
+      "synopsisArabic": "",
+      "descriptionArabic": "",
+      "channelId": "7836FEA9-6B39-4A1A-8352-DC5FCB97A16C",
+      "sportTypeId": "7E27AB43-31E6-48B0-8DEB-06E3AB56948D",
+      "createdAt": "2025-12-25T08:02:21.586Z",
+      "updatedAt": "2025-12-25T08:02:21.586Z",
+      "channel": {
+        "data": {
+          "Code": "10401",
+          "StaticChannelCode": "5201",
+          "Name": "beIN SPORTS 1"
+        },
+        "id": "7836FEA9-6B39-4A1A-8352-DC5FCB97A16C",
+        "externalId": "10401",
+        "name": "beIN SPORTS 1",
+        "providerId": "995DA2A6-B086-457D-8DFF-5C8E0A7B5A7F",
+        "externalUniqueId": "f50c7035e532c49a0f6993d988e2e843",
+        "createdAt": "2022-10-05T10:01:30.915Z",
+        "updatedAt": "2023-09-04T10:47:52.585Z",
+        "provider": {
+          "id": "995DA2A6-B086-457D-8DFF-5C8E0A7B5A7F",
+          "name": "epg.bein",
+          "createdAt": "2022-10-03T09:10:27.295Z",
+          "updatedAt": "2022-10-03T09:10:27.295Z"
+        }
+      },
+      "sportType": {
+        "id": "7E27AB43-31E6-48B0-8DEB-06E3AB56948D",
+        "name": "Football",
+        "createdAt": "2022-10-03T09:10:29.401Z",
+        "updatedAt": "2022-10-03T09:10:29.401Z"
+      }
+    },
+    {
+      "data": {
+        "matchid": "",
+        "m_date": null,
+        "m_time": "",
+        "week": "",
+        "description": "",
+        "competition_id": "",
+        "competition_name": "",
+        "country": "",
+        "stage_name": "",
+        "stage_startdate": null,
+        "stage_enddate": null,
+        "teama_id": "",
+        "teama": "",
+        "teama_position": "",
+        "teama_country": "",
+        "teamb_id": "",
+        "teamb": "",
+        "teamb_position": "",
+        "teamb_country": "",
+        "venue_id": "",
+        "shortname": "",
+        "longname": "",
+        "teama_ar": "",
+        "teamb_ar": "",
+        "series_name": "",
+        "CompetitionType": "",
+        "Live": "False",
+        "ID": "2460284721668",
+        "ChannelCode": "10401",
+        "StaticChannelCode": "5201",
+        "ChannelName": "beIN SPORTS 1",
+        "Category": {
+          "English": "English Premier League",
+          "Arabic": "الدوري الإنجليزي الممتاز"
+        },
+        "Title": {
+          "English": "Everton vs Arsenal - English Premier League 2025/2026 Week 17 - Mini Match",
+          "Arabic": "Everton vs Arsenal - English Premier League 2025/2026 Week 17 - Mini Match"
+        },
+        "Remarks": {
+          "English": "All 380 matches from the English Premier league are live and exclusive only on beIN.\nAll matches are available live with a choice of Arabic or English commentary.\nThe season will consist of 33 weekends and five midweek rounds of matches.\nLiverpool are the defending champions, having won their second Premier League title. \n",
+          "Arabic": ""
+        },
+        "StartTime": "2025-12-25T23:00:00",
+        "EndTime": "2025-12-25T23:30:00",
+        "Duration": "00:30:00",
+        "Commentators": {
+          "English": "",
+          "Arabic": ""
+        },
+        "ParentalRating": "0",
+        "Synopsis": {
+          "English": "All 380 matches from the English Premier league are live and exclusive only on beIN.\nAll matches are available live with a choice of Arabic or English commentary.\nThe season will consist of 33 weekends and five midweek rounds of matches.\nLiverpool are the defending champions, having won their second Premier League title. \n",
+          "Arabic": ""
+        },
+        "ImageURL": "",
+        "Genre": "",
+        "ProductionYear": ""
+      },
+      "duration": 1800000,
+      "id": "FA7BF5B5-BABB-4A5F-AD6E-9CDAE84DC100",
+      "externalId": "2460284721668",
+      "title": "Everton vs Arsenal - English Premier League 2025/2026 Week 17 - Mini Match",
+      "startDate": "2025-12-25T20:00:00.000Z",
+      "endDate": "2025-12-25T20:30:00.000Z",
+      "live": false,
+      "replay": false,
+      "category": "English Premier League",
+      "genre": "",
+      "synopsis": "All 380 matches from the English Premier league are live and exclusive only on beIN.\nAll matches are available live with a choice of Arabic or English commentary.\nThe season will consist of 33 weekends and five midweek rounds of matches.\nLiverpool are the defending champions, having won their second Premier League title. \n",
+      "description": "All 380 matches from the English Premier league are live and exclusive only on beIN.\nAll matches are available live with a choice of Arabic or English commentary.\nThe season will consist of 33 weekends and five midweek rounds of matches.\nLiverpool are the defending champions, having won their second Premier League title. \n",
+      "categoryArabic": "الدوري الإنجليزي الممتاز",
+      "synopsisArabic": "",
+      "descriptionArabic": "",
+      "channelId": "7836FEA9-6B39-4A1A-8352-DC5FCB97A16C",
+      "sportTypeId": "7E27AB43-31E6-48B0-8DEB-06E3AB56948D",
+      "createdAt": "2025-12-25T08:02:21.586Z",
+      "updatedAt": "2025-12-25T08:02:21.586Z",
+      "channel": {
+        "data": {
+          "Code": "10401",
+          "StaticChannelCode": "5201",
+          "Name": "beIN SPORTS 1"
+        },
+        "id": "7836FEA9-6B39-4A1A-8352-DC5FCB97A16C",
+        "externalId": "10401",
+        "name": "beIN SPORTS 1",
+        "providerId": "995DA2A6-B086-457D-8DFF-5C8E0A7B5A7F",
+        "externalUniqueId": "f50c7035e532c49a0f6993d988e2e843",
+        "createdAt": "2022-10-05T10:01:30.915Z",
+        "updatedAt": "2023-09-04T10:47:52.585Z",
+        "provider": {
+          "id": "995DA2A6-B086-457D-8DFF-5C8E0A7B5A7F",
+          "name": "epg.bein",
+          "createdAt": "2022-10-03T09:10:27.295Z",
+          "updatedAt": "2022-10-03T09:10:27.295Z"
+        }
+      },
+      "sportType": {
+        "id": "7E27AB43-31E6-48B0-8DEB-06E3AB56948D",
+        "name": "Football",
+        "createdAt": "2022-10-03T09:10:29.401Z",
+        "updatedAt": "2022-10-03T09:10:29.401Z"
+      }
+    },
+    {
+      "data": {
+        "matchid": "",
+        "m_date": null,
+        "m_time": "",
+        "week": "",
+        "description": "",
+        "competition_id": "",
+        "competition_name": "",
+        "country": "",
+        "stage_name": "",
+        "stage_startdate": null,
+        "stage_enddate": null,
+        "teama_id": "",
+        "teama": "",
+        "teama_position": "",
+        "teama_country": "",
+        "teamb_id": "",
+        "teamb": "",
+        "teamb_position": "",
+        "teamb_country": "",
+        "venue_id": "",
+        "shortname": "",
+        "longname": "",
+        "teama_ar": "",
+        "teamb_ar": "",
+        "series_name": "",
+        "CompetitionType": "",
+        "Live": "False",
+        "ID": "2460284661668",
+        "ChannelCode": "10401",
+        "StaticChannelCode": "5201",
+        "ChannelName": "beIN SPORTS 1",
+        "Category": {
+          "English": "English Premier League",
+          "Arabic": "الدوري الإنجليزي الممتاز"
+        },
+        "Title": {
+          "English": "Aston Villa vs Manchester United - English Premier League 2025/2026 Week 17 - Mini Match",
+          "Arabic": "Aston Villa vs Manchester United - English Premier League 2025/2026 Week 17 - Mini Match"
+        },
+        "Remarks": {
+          "English": "All 380 matches from the English Premier league are live and exclusive only on beIN.\nAll matches are available live with a choice of Arabic or English commentary.\nThe season will consist of 33 weekends and five midweek rounds of matches.\nLiverpool are the defending champions, having won their second Premier League title. \n",
+          "Arabic": ""
+        },
+        "StartTime": "2025-12-25T23:30:00",
+        "EndTime": "2025-12-26T00:00:00",
+        "Duration": "00:30:00",
+        "Commentators": {
+          "English": "",
+          "Arabic": ""
+        },
+        "ParentalRating": "0",
+        "Synopsis": {
+          "English": "All 380 matches from the English Premier league are live and exclusive only on beIN.\nAll matches are available live with a choice of Arabic or English commentary.\nThe season will consist of 33 weekends and five midweek rounds of matches.\nLiverpool are the defending champions, having won their second Premier League title. \n",
+          "Arabic": ""
+        },
+        "ImageURL": "",
+        "Genre": "",
+        "ProductionYear": ""
+      },
+      "duration": 1800000,
+      "id": "8F9BE751-04BE-4639-AEE3-0146D6CBA1F5",
+      "externalId": "2460284661668",
+      "title": "Aston Villa vs Manchester United - English Premier League 2025/2026 Week 17 - Mini Match",
+      "startDate": "2025-12-25T20:30:00.000Z",
+      "endDate": "2025-12-25T21:00:00.000Z",
+      "live": false,
+      "replay": false,
+      "category": "English Premier League",
+      "genre": "",
+      "synopsis": "All 380 matches from the English Premier league are live and exclusive only on beIN.\nAll matches are available live with a choice of Arabic or English commentary.\nThe season will consist of 33 weekends and five midweek rounds of matches.\nLiverpool are the defending champions, having won their second Premier League title. \n",
+      "description": "All 380 matches from the English Premier league are live and exclusive only on beIN.\nAll matches are available live with a choice of Arabic or English commentary.\nThe season will consist of 33 weekends and five midweek rounds of matches.\nLiverpool are the defending champions, having won their second Premier League title. \n",
+      "categoryArabic": "الدوري الإنجليزي الممتاز",
+      "synopsisArabic": "",
+      "descriptionArabic": "",
+      "channelId": "7836FEA9-6B39-4A1A-8352-DC5FCB97A16C",
+      "sportTypeId": "7E27AB43-31E6-48B0-8DEB-06E3AB56948D",
+      "createdAt": "2025-12-25T08:02:21.586Z",
+      "updatedAt": "2025-12-25T08:02:21.586Z",
+      "channel": {
+        "data": {
+          "Code": "10401",
+          "StaticChannelCode": "5201",
+          "Name": "beIN SPORTS 1"
+        },
+        "id": "7836FEA9-6B39-4A1A-8352-DC5FCB97A16C",
+        "externalId": "10401",
+        "name": "beIN SPORTS 1",
+        "providerId": "995DA2A6-B086-457D-8DFF-5C8E0A7B5A7F",
+        "externalUniqueId": "f50c7035e532c49a0f6993d988e2e843",
+        "createdAt": "2022-10-05T10:01:30.915Z",
+        "updatedAt": "2023-09-04T10:47:52.585Z",
+        "provider": {
+          "id": "995DA2A6-B086-457D-8DFF-5C8E0A7B5A7F",
+          "name": "epg.bein",
+          "createdAt": "2022-10-03T09:10:27.295Z",
+          "updatedAt": "2022-10-03T09:10:27.295Z"
+        }
+      },
+      "sportType": {
+        "id": "7E27AB43-31E6-48B0-8DEB-06E3AB56948D",
+        "name": "Football",
+        "createdAt": "2022-10-03T09:10:29.401Z",
+        "updatedAt": "2022-10-03T09:10:29.401Z"
+      }
+    },
+    {
+      "data": {
+        "matchid": "zkqu9lm76sa6ypjcluvnr578",
+        "m_date": "2025-10-25T14:15:00",
+        "m_time": "14:15:00Z",
+        "week": "10",
+        "description": "Espanyol vs Elche",
+        "competition_id": "34pl8szyvrbwcmfkuocjm3r6t",
+        "competition_name": "LaLiga",
+        "country": "Spain",
+        "stage_name": "Regular Season",
+        "stage_startdate": "2025-08-15T00:00:00",
+        "stage_enddate": "2026-05-24T00:00:00",
+        "teama_id": "c8llrezkm3b3op4afrou6b487",
+        "teama": "Espanyol",
+        "teama_position": "home",
+        "teama_country": "Spain",
+        "teamb_id": "4yg9ttzw0m51048doksv8uq5r",
+        "teamb": "Elche",
+        "teamb_position": "away",
+        "teamb_country": "Spain",
+        "venue_id": "46sq3vgaf79kjl0yd82jm3t5n",
+        "shortname": "RCDE Stadium",
+        "longname": "RCDE Stadium",
+        "teama_ar": "إسبانيول",
+        "teamb_ar": "إلتشي",
+        "series_name": "Espanyol vs Elche - Primera División - 2025/2026-Regular Season-RCDE Stadium-",
+        "CompetitionType": "Domestic league",
+        "Live": "False",
+        "ID": "2460284856668",
+        "ChannelCode": "10401",
+        "StaticChannelCode": "5201",
+        "ChannelName": "beIN SPORTS 1",
+        "Category": {
+          "English": "Spanish League - Primera División",
+          "Arabic": "الدوري الإسباني لكرة القدم"
+        },
+        "Title": {
+          "English": "Real Madrid vs Sevilla - Spanish LaLiga 2025/26 - Week 17 - Mini Match",
+          "Arabic": "Real Madrid vs Sevilla - Spanish LaLiga 2025/26 - Week 17 - Mini Match"
+        },
+        "Remarks": {
+          "English": "Espanyol have only won one of their last six LaLiga games against Elche, the last of which was a 1-0 win in February 2023, and have not won two consecutive games against them in the competition since March 1985. After five consecutive home wins against Elche in LaLiga between 1975 and 1984, Espanyol have won just one of their subsequent five league matches against them at home, failing to win any of the last three.\n",
+          "Arabic": "Espanyol have only won one of their last six LaLiga games against Elche, the last of which was a 1-0 win in February 2023, and have not won two consecutive games against them in the competition since March 1985. After five consecutive home wins against Elche in LaLiga between 1975 and 1984, Espanyol have won just one of their subsequent five league"
+        },
+        "StartTime": "2025-12-26T00:30:00",
+        "EndTime": "2025-12-26T01:00:00",
+        "Duration": "00:30:00",
+        "Commentators": {
+          "English": "",
+          "Arabic": ""
+        },
+        "ParentalRating": "0",
+        "Synopsis": {
+          "English": "Espanyol have only won one of their last six LaLiga games against Elche, the last of which was a 1-0 win in February 2023, and have not won two consecutive games against them in the competition since March 1985. After five consecutive home wins against Elche in LaLiga between 1975 and 1984, Espanyol have won just one of their subsequent five league matches against them at home, failing to win any of the last three.\n",
+          "Arabic": "Espanyol have only won one of their last six LaLiga games against Elche, the last of which was a 1-0 win in February 2023, and have not won two consecutive games against them in the competition since March 1985. After five consecutive home wins against Elche in LaLiga between 1975 and 1984, Espanyol have won just one of their subsequent five league"
+        },
+        "ImageURL": "",
+        "Genre": "",
+        "ProductionYear": ""
+      },
+      "duration": 1800000,
+      "id": "03080D6A-73E6-4029-BEA6-8FC1430E440D",
+      "externalId": "2460284856668",
+      "title": "Real Madrid vs Sevilla - Spanish LaLiga 2025/26 - Week 17 - Mini Match",
+      "startDate": "2025-12-25T21:30:00.000Z",
+      "endDate": "2025-12-25T22:00:00.000Z",
+      "live": false,
+      "replay": false,
+      "category": "Spanish League - Primera División",
+      "genre": "",
+      "synopsis": "Espanyol have only won one of their last six LaLiga games against Elche, the last of which was a 1-0 win in February 2023, and have not won two consecutive games against them in the competition since March 1985. After five consecutive home wins against Elche in LaLiga between 1975 and 1984, Espanyol have won just one of their subsequent five league matches against them at home, failing to win any of the last three.\n",
+      "description": "Espanyol have only won one of their last six LaLiga games against Elche, the last of which was a 1-0 win in February 2023, and have not won two consecutive games against them in the competition since March 1985. After five consecutive home wins against Elche in LaLiga between 1975 and 1984, Espanyol have won just one of their subsequent five league matches against them at home, failing to win any of the last three.\n",
+      "categoryArabic": "الدوري الإسباني لكرة القدم",
+      "synopsisArabic": "Espanyol have only won one of their last six LaLiga games against Elche, the last of which was a 1-0 win in February 2023, and have not won two consecutive games against them in the competition since March 1985. After five consecutive home wins against Elche in LaLiga between 1975 and 1984, Espanyol have won just one of their subsequent five league",
+      "descriptionArabic": "Espanyol have only won one of their last six LaLiga games against Elche, the last of which was a 1-0 win in February 2023, and have not won two consecutive games against them in the competition since March 1985. After five consecutive home wins against Elche in LaLiga between 1975 and 1984, Espanyol have won just one of their subsequent five league",
+      "channelId": "7836FEA9-6B39-4A1A-8352-DC5FCB97A16C",
+      "sportTypeId": "7E27AB43-31E6-48B0-8DEB-06E3AB56948D",
+      "createdAt": "2025-12-25T08:02:21.586Z",
+      "updatedAt": "2025-12-25T08:02:21.586Z",
+      "channel": {
+        "data": {
+          "Code": "10401",
+          "StaticChannelCode": "5201",
+          "Name": "beIN SPORTS 1"
+        },
+        "id": "7836FEA9-6B39-4A1A-8352-DC5FCB97A16C",
+        "externalId": "10401",
+        "name": "beIN SPORTS 1",
+        "providerId": "995DA2A6-B086-457D-8DFF-5C8E0A7B5A7F",
+        "externalUniqueId": "f50c7035e532c49a0f6993d988e2e843",
+        "createdAt": "2022-10-05T10:01:30.915Z",
+        "updatedAt": "2023-09-04T10:47:52.585Z",
+        "provider": {
+          "id": "995DA2A6-B086-457D-8DFF-5C8E0A7B5A7F",
+          "name": "epg.bein",
+          "createdAt": "2022-10-03T09:10:27.295Z",
+          "updatedAt": "2022-10-03T09:10:27.295Z"
+        }
+      },
+      "sportType": {
+        "id": "7E27AB43-31E6-48B0-8DEB-06E3AB56948D",
+        "name": "Football",
+        "createdAt": "2022-10-03T09:10:29.401Z",
+        "updatedAt": "2022-10-03T09:10:29.401Z"
+      }
+    },
+    {
+      "data": {
+        "matchid": "xcapf185ght9jj3jcgj4v0us",
+        "m_date": "2025-10-24T19:00:00",
+        "m_time": "19:00:00Z",
+        "week": "10",
+        "description": "Real Sociedad vs Sevilla",
+        "competition_id": "34pl8szyvrbwcmfkuocjm3r6t",
+        "competition_name": "LaLiga",
+        "country": "Spain",
+        "stage_name": "Regular Season",
+        "stage_startdate": "2025-08-15T00:00:00",
+        "stage_enddate": "2026-05-24T00:00:00",
+        "teama_id": "63f5h8t5e9qm1fqmvfkb23ghh",
+        "teama": "Real Sociedad",
+        "teama_position": "home",
+        "teama_country": "Spain",
+        "teamb_id": "10eyb18v5puw4ez03ocaug09m",
+        "teamb": "Sevilla",
+        "teamb_position": "away",
+        "teamb_country": "Spain",
+        "venue_id": "bpfd0sk353ozrgi4jrjs5qgqs",
+        "shortname": "Estadio Municipal de Anoeta",
+        "longname": "Estadio Municipal de Anoeta",
+        "teama_ar": "ريال سوسيداد",
+        "teamb_ar": "إشبيلية",
+        "series_name": "Real Sociedad vs Sevilla - Primera División - 2025/2026-Regular Season-Estadio Municipal de Anoeta-",
+        "CompetitionType": "Domestic league",
+        "Live": "False",
+        "ID": "2460284787668",
+        "ChannelCode": "10401",
+        "StaticChannelCode": "5201",
+        "ChannelName": "beIN SPORTS 1",
+        "Category": {
+          "English": "Spanish League - Primera División",
+          "Arabic": "الدوري الإسباني لكرة القدم"
+        },
+        "Title": {
+          "English": "Villarreal vs Barcelona - Spanish LaLiga 2025/26 - Week 17 - Mini Match",
+          "Arabic": "Villarreal vs Barcelona - Spanish LaLiga 2025/26 - Week 17 - Mini Match"
+        },
+        "Remarks": {
+          "English": "Real Sociedad have lost two of their last three LaLiga matches against Sevilla, after having not lost any of their previous five against the Sevillians in the competition. Sevilla have lost two of their last three visits to Real Sociedad in LaLiga, although their last away league win against them came in March 2025. They have not won two consecutive away LaLiga matches against Real Sociedad since 2011.\n",
+          "Arabic": "Real Sociedad have lost two of their last three LaLiga matches against Sevilla, after having not lost any of their previous five against the Sevillians in the competition. Sevilla have lost two of their last three visits to Real Sociedad in LaLiga, although their last away league win against them came in March 2025. They have not won two consecutiv"
+        },
+        "StartTime": "2025-12-26T01:00:00",
+        "EndTime": "2025-12-26T01:30:00",
+        "Duration": "00:30:00",
+        "Commentators": {
+          "English": "",
+          "Arabic": ""
+        },
+        "ParentalRating": "0",
+        "Synopsis": {
+          "English": "Real Sociedad have lost two of their last three LaLiga matches against Sevilla, after having not lost any of their previous five against the Sevillians in the competition. Sevilla have lost two of their last three visits to Real Sociedad in LaLiga, although their last away league win against them came in March 2025. They have not won two consecutive away LaLiga matches against Real Sociedad since 2011.\n",
+          "Arabic": "Real Sociedad have lost two of their last three LaLiga matches against Sevilla, after having not lost any of their previous five against the Sevillians in the competition. Sevilla have lost two of their last three visits to Real Sociedad in LaLiga, although their last away league win against them came in March 2025. They have not won two consecutiv"
+        },
+        "ImageURL": "",
+        "Genre": "",
+        "ProductionYear": ""
+      },
+      "duration": 1800000,
+      "id": "3AE1FEA8-63DE-4829-8331-7A233DE48933",
+      "externalId": "2460284787668",
+      "title": "Villarreal vs Barcelona - Spanish LaLiga 2025/26 - Week 17 - Mini Match",
+      "startDate": "2025-12-25T22:00:00.000Z",
+      "endDate": "2025-12-25T22:30:00.000Z",
+      "live": false,
+      "replay": false,
+      "category": "Spanish League - Primera División",
+      "genre": "",
+      "synopsis": "Real Sociedad have lost two of their last three LaLiga matches against Sevilla, after having not lost any of their previous five against the Sevillians in the competition. Sevilla have lost two of their last three visits to Real Sociedad in LaLiga, although their last away league win against them came in March 2025. They have not won two consecutive away LaLiga matches against Real Sociedad since 2011.\n",
+      "description": "Real Sociedad have lost two of their last three LaLiga matches against Sevilla, after having not lost any of their previous five against the Sevillians in the competition. Sevilla have lost two of their last three visits to Real Sociedad in LaLiga, although their last away league win against them came in March 2025. They have not won two consecutive away LaLiga matches against Real Sociedad since 2011.\n",
+      "categoryArabic": "الدوري الإسباني لكرة القدم",
+      "synopsisArabic": "Real Sociedad have lost two of their last three LaLiga matches against Sevilla, after having not lost any of their previous five against the Sevillians in the competition. Sevilla have lost two of their last three visits to Real Sociedad in LaLiga, although their last away league win against them came in March 2025. They have not won two consecutiv",
+      "descriptionArabic": "Real Sociedad have lost two of their last three LaLiga matches against Sevilla, after having not lost any of their previous five against the Sevillians in the competition. Sevilla have lost two of their last three visits to Real Sociedad in LaLiga, although their last away league win against them came in March 2025. They have not won two consecutiv",
+      "channelId": "7836FEA9-6B39-4A1A-8352-DC5FCB97A16C",
+      "sportTypeId": "7E27AB43-31E6-48B0-8DEB-06E3AB56948D",
+      "createdAt": "2025-12-25T08:02:21.586Z",
+      "updatedAt": "2025-12-25T08:02:21.586Z",
+      "channel": {
+        "data": {
+          "Code": "10401",
+          "StaticChannelCode": "5201",
+          "Name": "beIN SPORTS 1"
+        },
+        "id": "7836FEA9-6B39-4A1A-8352-DC5FCB97A16C",
+        "externalId": "10401",
+        "name": "beIN SPORTS 1",
+        "providerId": "995DA2A6-B086-457D-8DFF-5C8E0A7B5A7F",
+        "externalUniqueId": "f50c7035e532c49a0f6993d988e2e843",
+        "createdAt": "2022-10-05T10:01:30.915Z",
+        "updatedAt": "2023-09-04T10:47:52.585Z",
+        "provider": {
+          "id": "995DA2A6-B086-457D-8DFF-5C8E0A7B5A7F",
+          "name": "epg.bein",
+          "createdAt": "2022-10-03T09:10:27.295Z",
+          "updatedAt": "2022-10-03T09:10:27.295Z"
+        }
+      },
+      "sportType": {
+        "id": "7E27AB43-31E6-48B0-8DEB-06E3AB56948D",
+        "name": "Football",
+        "createdAt": "2022-10-03T09:10:29.401Z",
+        "updatedAt": "2022-10-03T09:10:29.401Z"
+      }
+    },
+    {
+      "data": {
+        "matchid": "",
+        "m_date": null,
+        "m_time": "",
+        "week": "",
+        "description": "",
+        "competition_id": "",
+        "competition_name": "",
+        "country": "",
+        "stage_name": "",
+        "stage_startdate": null,
+        "stage_enddate": null,
+        "teama_id": "",
+        "teama": "",
+        "teama_position": "",
+        "teama_country": "",
+        "teamb_id": "",
+        "teamb": "",
+        "teamb_position": "",
+        "teamb_country": "",
+        "venue_id": "",
+        "shortname": "",
+        "longname": "",
+        "teama_ar": "",
+        "teamb_ar": "",
+        "series_name": "",
+        "CompetitionType": "",
+        "Live": "False",
+        "ID": "2460284841668",
+        "ChannelCode": "10401",
+        "StaticChannelCode": "5201",
+        "ChannelName": "beIN SPORTS 1",
+        "Category": {
+          "English": "French Cup",
+          "Arabic": "كأس فرنسا"
+        },
+        "Title": {
+          "English": "French Cup - 2025/26 - Mini Matchs",
+          "Arabic": "French Cup - 2025/26 - Mini Matchs"
+        },
+        "Remarks": {
+          "English": "Live and exclusive only on beIN, the Coupe de France, also referred to as the French Cup, is the premier knockout cup competition in French football organised by the French Football Federation (FF). The winner qualifies for the group stage of the UEFA Europa League and a place in the Trophée des Champions. Current champions are Paris saint Germain.\n",
+          "Arabic": ""
+        },
+        "StartTime": "2025-12-26T02:00:00",
+        "EndTime": "2025-12-26T02:30:00",
+        "Duration": "00:30:00",
+        "Commentators": {
+          "English": "",
+          "Arabic": ""
+        },
+        "ParentalRating": "0",
+        "Synopsis": {
+          "English": "Live and exclusive only on beIN, the Coupe de France, also referred to as the French Cup, is the premier knockout cup competition in French football organised by the French Football Federation (FF). The winner qualifies for the group stage of the UEFA Europa League and a place in the Trophée des Champions. Current champions are Paris saint Germain.\n",
+          "Arabic": ""
+        },
+        "ImageURL": "",
+        "Genre": "",
+        "ProductionYear": ""
+      },
+      "duration": 1800000,
+      "id": "FC2A4A01-A96E-4456-AB91-E15E89625B4A",
+      "externalId": "2460284841668",
+      "title": "French Cup - 2025/26 - Mini Matchs",
+      "startDate": "2025-12-25T23:00:00.000Z",
+      "endDate": "2025-12-25T23:30:00.000Z",
+      "live": false,
+      "replay": false,
+      "category": "French Cup",
+      "genre": "",
+      "synopsis": "Live and exclusive only on beIN, the Coupe de France, also referred to as the French Cup, is the premier knockout cup competition in French football organised by the French Football Federation (FF). The winner qualifies for the group stage of the UEFA Europa League and a place in the Trophée des Champions. Current champions are Paris saint Germain.\n",
+      "description": "Live and exclusive only on beIN, the Coupe de France, also referred to as the French Cup, is the premier knockout cup competition in French football organised by the French Football Federation (FF). The winner qualifies for the group stage of the UEFA Europa League and a place in the Trophée des Champions. Current champions are Paris saint Germain.\n",
+      "categoryArabic": "كأس فرنسا",
+      "synopsisArabic": "",
+      "descriptionArabic": "",
+      "channelId": "7836FEA9-6B39-4A1A-8352-DC5FCB97A16C",
+      "sportTypeId": "7E27AB43-31E6-48B0-8DEB-06E3AB56948D",
+      "createdAt": "2025-12-25T08:02:21.586Z",
+      "updatedAt": "2025-12-25T08:02:21.586Z",
       "channel": {
         "data": {
           "Code": "10401",
