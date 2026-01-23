@@ -487,7 +487,7 @@
       "end_full": "20260124163000"
     }
   ],
-  "beIN SPORTS MAX 1": [
+  "beIN SPORTS MAX 6": [
     {
       "title": "beIN Sports MAX",
       "desc": "beIN SPORTS MAX Channel for exclusive coverage of major sporting tournaments.",
@@ -707,112 +707,6 @@
       "end_full": "20260124170000"
     }
   ],
-  "beIN SPORTS MAX 5": [
-    {
-      "title": "beIN Sports MAX",
-      "desc": "beIN SPORTS MAX Channel for exclusive coverage of major sporting tournaments.",
-      "start": "15:00",
-      "end": "17:00",
-      "start_full": "20260123150000",
-      "end_full": "20260123170000"
-    },
-    {
-      "title": "beIN Sports MAX",
-      "desc": "beIN SPORTS MAX Channel for exclusive coverage of major sporting tournaments.",
-      "start": "17:00",
-      "end": "19:00",
-      "start_full": "20260123170000",
-      "end_full": "20260123190000"
-    },
-    {
-      "title": "beIN Sports MAX",
-      "desc": "beIN SPORTS MAX Channel for exclusive coverage of major sporting tournaments.",
-      "start": "19:00",
-      "end": "21:00",
-      "start_full": "20260123190000",
-      "end_full": "20260123210000"
-    },
-    {
-      "title": "beIN Sports MAX",
-      "desc": "beIN SPORTS MAX Channel for exclusive coverage of major sporting tournaments.",
-      "start": "21:00",
-      "end": "23:00",
-      "start_full": "20260123210000",
-      "end_full": "20260123230000"
-    },
-    {
-      "title": "beIN Sports MAX",
-      "desc": "beIN SPORTS MAX Channel for exclusive coverage of major sporting tournaments.",
-      "start": "23:00",
-      "end": "01:00",
-      "start_full": "20260123230000",
-      "end_full": "20260124010000"
-    },
-    {
-      "title": "beIN Sports MAX",
-      "desc": "beIN SPORTS MAX Channel for exclusive coverage of major sporting tournaments.",
-      "start": "01:00",
-      "end": "03:00",
-      "start_full": "20260124010000",
-      "end_full": "20260124030000"
-    },
-    {
-      "title": "beIN Sports MAX",
-      "desc": "beIN SPORTS MAX Channel for exclusive coverage of major sporting tournaments.",
-      "start": "03:00",
-      "end": "05:00",
-      "start_full": "20260124030000",
-      "end_full": "20260124050000"
-    },
-    {
-      "title": "beIN Sports MAX",
-      "desc": "beIN SPORTS MAX Channel for exclusive coverage of major sporting tournaments.",
-      "start": "05:00",
-      "end": "07:00",
-      "start_full": "20260124050000",
-      "end_full": "20260124070000"
-    },
-    {
-      "title": "beIN Sports MAX",
-      "desc": "beIN SPORTS MAX Channel for exclusive coverage of major sporting tournaments.",
-      "start": "07:00",
-      "end": "09:00",
-      "start_full": "20260124070000",
-      "end_full": "20260124090000"
-    },
-    {
-      "title": "beIN Sports MAX",
-      "desc": "beIN SPORTS MAX Channel for exclusive coverage of major sporting tournaments.",
-      "start": "09:00",
-      "end": "11:00",
-      "start_full": "20260124090000",
-      "end_full": "20260124110000"
-    },
-    {
-      "title": "beIN Sports MAX",
-      "desc": "beIN SPORTS MAX Channel for exclusive coverage of major sporting tournaments.",
-      "start": "11:00",
-      "end": "13:00",
-      "start_full": "20260124110000",
-      "end_full": "20260124130000"
-    },
-    {
-      "title": "beIN Sports MAX",
-      "desc": "beIN SPORTS MAX Channel for exclusive coverage of major sporting tournaments.",
-      "start": "13:00",
-      "end": "15:00",
-      "start_full": "20260124130000",
-      "end_full": "20260124150000"
-    },
-    {
-      "title": "beIN Sports MAX",
-      "desc": "beIN SPORTS MAX Channel for exclusive coverage of major sporting tournaments.",
-      "start": "15:00",
-      "end": "17:00",
-      "start_full": "20260124150000",
-      "end_full": "20260124170000"
-    }
-  ],
   "beIN SPORTS MAX 4": [
     {
       "title": "beIN Sports MAX",
@@ -1001,6 +895,112 @@
       "end_full": "20260124160000"
     }
   ],
+  "beIN SPORTS MAX 5": [
+    {
+      "title": "beIN Sports MAX",
+      "desc": "beIN SPORTS MAX Channel for exclusive coverage of major sporting tournaments.",
+      "start": "15:00",
+      "end": "17:00",
+      "start_full": "20260123150000",
+      "end_full": "20260123170000"
+    },
+    {
+      "title": "beIN Sports MAX",
+      "desc": "beIN SPORTS MAX Channel for exclusive coverage of major sporting tournaments.",
+      "start": "17:00",
+      "end": "19:00",
+      "start_full": "20260123170000",
+      "end_full": "20260123190000"
+    },
+    {
+      "title": "beIN Sports MAX",
+      "desc": "beIN SPORTS MAX Channel for exclusive coverage of major sporting tournaments.",
+      "start": "19:00",
+      "end": "21:00",
+      "start_full": "20260123190000",
+      "end_full": "20260123210000"
+    },
+    {
+      "title": "beIN Sports MAX",
+      "desc": "beIN SPORTS MAX Channel for exclusive coverage of major sporting tournaments.",
+      "start": "21:00",
+      "end": "23:00",
+      "start_full": "20260123210000",
+      "end_full": "20260123230000"
+    },
+    {
+      "title": "beIN Sports MAX",
+      "desc": "beIN SPORTS MAX Channel for exclusive coverage of major sporting tournaments.",
+      "start": "23:00",
+      "end": "01:00",
+      "start_full": "20260123230000",
+      "end_full": "20260124010000"
+    },
+    {
+      "title": "beIN Sports MAX",
+      "desc": "beIN SPORTS MAX Channel for exclusive coverage of major sporting tournaments.",
+      "start": "01:00",
+      "end": "03:00",
+      "start_full": "20260124010000",
+      "end_full": "20260124030000"
+    },
+    {
+      "title": "beIN Sports MAX",
+      "desc": "beIN SPORTS MAX Channel for exclusive coverage of major sporting tournaments.",
+      "start": "03:00",
+      "end": "05:00",
+      "start_full": "20260124030000",
+      "end_full": "20260124050000"
+    },
+    {
+      "title": "beIN Sports MAX",
+      "desc": "beIN SPORTS MAX Channel for exclusive coverage of major sporting tournaments.",
+      "start": "05:00",
+      "end": "07:00",
+      "start_full": "20260124050000",
+      "end_full": "20260124070000"
+    },
+    {
+      "title": "beIN Sports MAX",
+      "desc": "beIN SPORTS MAX Channel for exclusive coverage of major sporting tournaments.",
+      "start": "07:00",
+      "end": "09:00",
+      "start_full": "20260124070000",
+      "end_full": "20260124090000"
+    },
+    {
+      "title": "beIN Sports MAX",
+      "desc": "beIN SPORTS MAX Channel for exclusive coverage of major sporting tournaments.",
+      "start": "09:00",
+      "end": "11:00",
+      "start_full": "20260124090000",
+      "end_full": "20260124110000"
+    },
+    {
+      "title": "beIN Sports MAX",
+      "desc": "beIN SPORTS MAX Channel for exclusive coverage of major sporting tournaments.",
+      "start": "11:00",
+      "end": "13:00",
+      "start_full": "20260124110000",
+      "end_full": "20260124130000"
+    },
+    {
+      "title": "beIN Sports MAX",
+      "desc": "beIN SPORTS MAX Channel for exclusive coverage of major sporting tournaments.",
+      "start": "13:00",
+      "end": "15:00",
+      "start_full": "20260124130000",
+      "end_full": "20260124150000"
+    },
+    {
+      "title": "beIN Sports MAX",
+      "desc": "beIN SPORTS MAX Channel for exclusive coverage of major sporting tournaments.",
+      "start": "15:00",
+      "end": "17:00",
+      "start_full": "20260124150000",
+      "end_full": "20260124170000"
+    }
+  ],
   "beIN SPORTS MAX 2": [
     {
       "title": "beIN Sports MAX",
@@ -1107,7 +1107,7 @@
       "end_full": "20260124170000"
     }
   ],
-  "beIN SPORTS MAX 3": [
+  "beIN SPORTS MAX 1": [
     {
       "title": "beIN Sports MAX",
       "desc": "beIN SPORTS MAX Channel for exclusive coverage of major sporting tournaments.",
@@ -1213,7 +1213,7 @@
       "end_full": "20260124170000"
     }
   ],
-  "beIN SPORTS MAX 6": [
+  "beIN SPORTS MAX 3": [
     {
       "title": "beIN Sports MAX",
       "desc": "beIN SPORTS MAX Channel for exclusive coverage of major sporting tournaments.",
@@ -1861,7 +1861,7 @@
       "end_full": "20260124160000"
     }
   ],
-  "beIN SPORTS XTRA 6": [
+  "beIN SPORTS XTRA 2": [
     {
       "title": "beIN SPORTS XTRA For Live And Exclusive Coverage of Premuim Sporting Events - Dec",
       "desc": "beIN SPORTS XTRA For Live And Exclusive Coverage of Premuim Sporting Events",
@@ -2052,800 +2052,6 @@
       "start": "15:00",
       "end": "16:00",
       "start_full": "20260124150000",
-      "end_full": "20260124160000"
-    }
-  ],
-  "beIN SPORTS FR 1": [
-    {
-      "title": "Cleveland Cavaliers vs Charlotte Hornets - NBA - Basketball 2025-2026",
-      "desc": "Sport, Basketball. Plus grande ligue professionnelle de basket-ball au monde, la NBA offre une competition d'elite entre 30 equipes. La saison atteint son apogee lors des Finales NBA, ou les meilleures franchises s'affrontent pour le titre de champion.",
-      "start": "16:00",
-      "end": "17:45",
-      "start_full": "20260123160000",
-      "end_full": "20260123174500"
-    },
-    {
-      "title": "NBA Extra - Magazine 2025-2026",
-      "desc": "Sport, Sport magazine, Basketball. Plongez dans l'univers de la NBA comme jamais auparavant. Ce magazine vous offre un acces exclusif aux plus grandes stars de la ligue, des histoires inedites et les moments les plus spectaculaires qui font vibrer la planete basket.",
-      "start": "17:45",
-      "end": "18:30",
-      "start_full": "20260123174500",
-      "end_full": "20260123183000"
-    },
-    {
-      "title": "Sporting Portugal vs PSG - Champions League - J07 - Football 2025-2026",
-      "desc": "Sport, Football. Les passionnes de football du monde entier sont invites a suivre l'une des compétitions les plus prestigieuses: la Ligue des champions. Avec les plus grands clubs européens en quête du titre ultime, le spectacle est garanti du debut a la fin",
-      "start": "18:30",
-      "end": "21:00",
-      "start_full": "20260123183000",
-      "end_full": "20260123210000"
-    },
-    {
-      "title": "Saint-Etienne vs ASM Clermont - Ligue 2 - J19 - Football 2025-2026",
-      "desc": "Sport, Football. Vingt equipes de deuxieme division française s'affrontent lors d'un marathon de 38 journees, toutes en quete de promotion en Ligue 1 pour defier les legendes du football hexagonal.",
-      "start": "21:00",
-      "end": "23:00",
-      "start_full": "20260123210000",
-      "end_full": "20260123230000"
-    },
-    {
-      "title": "NFL Extra -",
-      "desc": "Sport, Sport magazine, Basketball. Chaque semaine, l'emission propose des interviews exclusives, des reportages en coulisses, les temps forts des matchs et des analyses approfondies pour les passionnes de la NFL.",
-      "start": "23:00",
-      "end": "00:15",
-      "start_full": "20260123230000",
-      "end_full": "20260124001500"
-    },
-    {
-      "title": "Avant Match Multiligue 2 - Ligue 2 - Football 2025-2026",
-      "desc": "Sport, Football. Vingt equipes de deuxieme division française s'affrontent lors d'un marathon de 38 journees, toutes en quete de promotion en Ligue 1 pour defier les legendes du football hexagonal.",
-      "start": "00:15",
-      "end": "00:55",
-      "start_full": "20260124001500",
-      "end_full": "20260124005500"
-    },
-    {
-      "title": "Multiplex - Ligue 2 - J20 - Football 2025-2026",
-      "desc": "Sport, Football. Vingt equipes de deuxieme division française s'affrontent lors d'un marathon de 38 journees, toutes en quete de promotion en Ligue 1 pour defier les legendes du football hexagonal.",
-      "start": "00:55",
-      "end": "03:00",
-      "start_full": "20260124005500",
-      "end_full": "20260124030000"
-    },
-    {
-      "title": "Ligue 2 - Football 2025-2026",
-      "desc": "Sport, Football. Vingt equipes de deuxieme division française s'affrontent lors d'un marathon de 38 journees, toutes en quete de promotion en Ligue 1 pour defier les legendes du football hexagonal.",
-      "start": "03:00",
-      "end": "03:30",
-      "start_full": "20260124030000",
-      "end_full": "20260124033000"
-    },
-    {
-      "title": "San Francisco 49ers vs Seattle Seahawks - NFL - D - Football AmÃ©ricain 2025-2026",
-      "desc": "Sport, American Football. Les 32 meilleures equipes des etats-Unis s'affrontent avec passion pour decrocher le titre du championnat de football le plus prestigieux d'Amerique du Nord.",
-      "start": "03:30",
-      "end": "06:00",
-      "start_full": "20260124033000",
-      "end_full": "20260124060000"
-    },
-    {
-      "title": "Los Angeles Rams vs Chicago Bears - NFL - D - Football AmÃ©ricain 2025-2026",
-      "desc": "Sport, American Football. Les 32 meilleures equipes des etats-Unis s'affrontent avec passion pour decrocher le titre du championnat de football le plus prestigieux d'Amerique du Nord.",
-      "start": "06:00",
-      "end": "09:00",
-      "start_full": "20260124060000",
-      "end_full": "20260124090000"
-    },
-    {
-      "title": "AtlÃ©tico Madrid vs Deportivo Alaves - Liga - J20 - Football 2025-2026",
-      "desc": "Sport, Football. Vingt clubs, trente-huit journees intenses. La Liga est le grand spectacle du football espagnol ou les legendes naissent, les rivalites s'enflamment et chaque match ecrit un nouveau chapitre dans la quete de gloire.",
-      "start": "09:00",
-      "end": "10:05",
-      "start_full": "20260124090000",
-      "end_full": "20260124100500"
-    },
-    {
-      "title": "Doc Grandir Par Le Sport - Documentaire",
-      "desc": "Sport, Debate. Dans l'elan des Jeux Olympiques de Paris 2024, 500 jeunes se rassemblent pour un Festival international de solidarite. Le documentaire suit quatre d'entre eux, de quatre continents, dans une aventure sportive et humaine.",
-      "start": "10:05",
-      "end": "11:00",
-      "start_full": "20260124100500",
-      "end_full": "20260124110000"
-    },
-    {
-      "title": "Magazine 2025",
-      "desc": "Sport, Magazine. Un suivi proactif de l'actualite sportive, des transferts et des resultats quotidiens dans le football, le basket-ball, les sports mécaniques et bien plus encore.",
-      "start": "11:00",
-      "end": "11:35",
-      "start_full": "20260124110000",
-      "end_full": "20260124113500"
-    },
-    {
-      "title": "Salon VIP - Magazine 2025-2026",
-      "desc": "Sport, Football, Sport magazine. Interviews exclusives de joueurs et temoignages de supporters passionnes : plongez dans les coulisses du football avec des points de vue d'inities, des histoires inedites et des debats enflammes autour du ballon rond. Host: Claire Arnoux.",
-      "start": "11:35",
-      "end": "12:05",
-      "start_full": "20260124113500",
-      "end_full": "20260124120500"
-    },
-    {
-      "title": "Senegal vs Maroc - AFCONÂ  - FINALE - Football 2025",
-      "desc": "Sport, Football. Vingt-quatre selections africaines s'affrontent en phase de groupes. Les deux premiers et les quatre meilleurs troisiemes rejoignent les eliminatoires pour jouer le titre continental.",
-      "start": "12:05",
-      "end": "15:15",
-      "start_full": "20260124120500",
-      "end_full": "20260124151500"
-    },
-    {
-      "title": "San Francisco 49ers vs Seattle Seahawks - NFL - D - Football AmÃ©ricain 2025-2026",
-      "desc": "Sport, American Football. Les 32 meilleures equipes des etats-Unis s'affrontent avec passion pour decrocher le titre du championnat de football le plus prestigieux d'Amerique du Nord.",
-      "start": "15:15",
-      "end": "17:45",
-      "start_full": "20260124151500",
-      "end_full": "20260124174500"
-    }
-  ],
-  "beIN SPORTS 8": [
-    {
-      "title": "Bublik, Alexander (KAZ) vs Etcheverry, Tomas Martin (ARG) - M4 - Evening Session - Margaret Court Ar",
-      "desc": "A 7,500-seat show court and ticketed arena with a retractable roof that opens in under five minutes, ensuring uninterrupted play in any conditions. It delivers a full showcase schedule of headline singles and doubles in Day Sessions (from 11:30am) and Night Sessions (from 7:00pm).",
-      "start": "16:00",
-      "end": "18:00",
-      "start_full": "20260123160000",
-      "end_full": "20260123180000"
-    },
-    {
-      "title": "Medvedev, Daniil vs Marozsan, Fabian (HUN)  - M1 - Morning Session - Margaret Court Arena - Australi",
-      "desc": "A 7,500-seat show court and ticketed arena with a retractable roof that opens in under five minutes, ensuring uninterrupted play in any conditions. It delivers a full showcase schedule of headline singles and doubles in Day Sessions (from 11:30am) and Night Sessions (from 7:00pm).",
-      "start": "18:00",
-      "end": "22:04",
-      "start_full": "20260123180000",
-      "end_full": "20260123220400"
-    },
-    {
-      "title": "Gauff, Coco (USA) vs Baptiste, Hailey (USA)  - M2 - Womens - Morning Session - Margaret Court Arena ",
-      "desc": "A 7,500-seat show court and ticketed arena with a retractable roof that opens in under five minutes, ensuring uninterrupted play in any conditions. It delivers a full showcase schedule of headline singles and doubles in Day Sessions (from 11:30am) and Night Sessions (from 7:00pm).",
-      "start": "22:04",
-      "end": "00:10",
-      "start_full": "20260123220400",
-      "end_full": "20260124001000"
-    },
-    {
-      "title": "Svitolina, Elina (UKR) vs Shnaider, Diana  - Womens - M3 - Evening Session - Margaret Court Arena - ",
-      "desc": "A 7,500-seat show court and ticketed arena with a retractable roof that opens in under five minutes, ensuring uninterrupted play in any conditions. It delivers a full showcase schedule of headline singles and doubles in Day Sessions (from 11:30am) and Night Sessions (from 7:00pm).",
-      "start": "00:10",
-      "end": "02:10",
-      "start_full": "20260124001000",
-      "end_full": "20260124021000"
-    },
-    {
-      "title": "Bublik, Alexander (KAZ) vs Etcheverry, Tomas Martin (ARG) - M4 - Evening Session - Margaret Court Ar",
-      "desc": "A 7,500-seat show court and ticketed arena with a retractable roof that opens in under five minutes, ensuring uninterrupted play in any conditions. It delivers a full showcase schedule of headline singles and doubles in Day Sessions (from 11:30am) and Night Sessions (from 7:00pm).",
-      "start": "02:10",
-      "end": "04:30",
-      "start_full": "20260124021000",
-      "end_full": "20260124043000"
-    },
-    {
-      "title": "PAOK vs Real Betis - UEFA Europa League 2025/2026 - MD7",
-      "desc": "PAOK Salonika and Real Betis have never met in major European competition before – the Greek side have won one of their last 11 European games against Spanish opponents. Real Betis’ only previous experience facing a Greek team was in the 2018-19 UEFA Europa League group stage, drawing 0-0 away and winning 1-0 at home against Olympiakos.\n",
-      "start": "04:30",
-      "end": "06:30",
-      "start_full": "20260124043000",
-      "end_full": "20260124063000"
-    },
-    {
-      "title": "Day 7 - M1 - Morning Session - Margaret Court Arena - Australian Open 2026",
-      "desc": "A 7,500-seat show court and ticketed arena with a retractable roof that opens in under five minutes, ensuring uninterrupted play in any conditions. It delivers a full showcase schedule of headline singles and doubles in Day Sessions (from 11:30am) and Night Sessions (from 7:00pm).",
-      "start": "06:30",
-      "end": "08:30",
-      "start_full": "20260124063000",
-      "end_full": "20260124083000"
-    },
-    {
-      "title": "Day 7 - M2 - Morning Session - Margaret Court Arena - Australian Open 2026",
-      "desc": "A 7,500-seat show court and ticketed arena with a retractable roof that opens in under five minutes, ensuring uninterrupted play in any conditions. It delivers a full showcase schedule of headline singles and doubles in Day Sessions (from 11:30am) and Night Sessions (from 7:00pm).",
-      "start": "08:30",
-      "end": "12:00",
-      "start_full": "20260124083000",
-      "end_full": "20260124120000"
-    },
-    {
-      "title": "Day 7 - M1 - Morning Session - Margaret Court Arena - Australian Open 2026",
-      "desc": "A 7,500-seat show court and ticketed arena with a retractable roof that opens in under five minutes, ensuring uninterrupted play in any conditions. It delivers a full showcase schedule of headline singles and doubles in Day Sessions (from 11:30am) and Night Sessions (from 7:00pm).",
-      "start": "12:00",
-      "end": "14:00",
-      "start_full": "20260124120000",
-      "end_full": "20260124140000"
-    },
-    {
-      "title": "Day 7 - M3 - Evening Session - Margaret Court Arena - Australian Open 2026",
-      "desc": "A 7,500-seat show court and ticketed arena with a retractable roof that opens in under five minutes, ensuring uninterrupted play in any conditions. It delivers a full showcase schedule of headline singles and doubles in Day Sessions (from 11:30am) and Night Sessions (from 7:00pm).",
-      "start": "14:00",
-      "end": "16:00",
-      "start_full": "20260124140000",
-      "end_full": "20260124160000"
-    }
-  ],
-  "beIN SPORTS 1": [
-    {
-      "title": "Ligue 1 Show - 2025/2026 - EP 19",
-      "desc": "All the greatest moments and action in Ligue 1 including incredible stories and interviews featuring ligue 1 stars.",
-      "start": "16:00",
-      "end": "16:30",
-      "start_full": "20260123160000",
-      "end_full": "20260123163000"
-    },
-    {
-      "title": "Senegal vs Morocco  - Final - African Cup of Nations - Morocco 2025 - Mini Match",
-      "desc": "The 35th edition of the Africa Cup of Nations will take place in Morocco from the 21st  of December 2025 through until 18th January 2026. All matches from AFCON are live and exclusive only on beIN.  ",
-      "start": "16:30",
-      "end": "17:00",
-      "start_full": "20260123163000",
-      "end_full": "20260123170000"
-    },
-    {
-      "title": "Highlights - UEFA Europa League 2025/2026",
-      "desc": "Highlights from the 2025–26 UEFA Europa League. The 2025–26 UEFA Europa League is the secondary club football tournament organised by UEFA. Tottenham Hotspur are the reigning champions. The final will be played on 20 May 2026 at Beşiktaş Stadium in Istanbul, Turkey.",
-      "start": "17:00",
-      "end": "17:45",
-      "start_full": "20260123170000",
-      "end_full": "20260123174500"
-    },
-    {
-      "title": "Olympique de Marseille vs Liverpool - UEFA Champions League 2025/26 - MD7 - Mini Match",
-      "desc": "Marseille have lost their last three UEFA Champions League games against Liverpool, most recently in the 2008-09 group stage. Liverpool have won just one of their last six away games against French sides in all competitions, though it was a 1-0 win at PSG in their most recent visit in March 2025.\n",
-      "start": "17:45",
-      "end": "18:15",
-      "start_full": "20260123174500",
-      "end_full": "20260123181500"
-    },
-    {
-      "title": "Bodø/Glimt vs Manchester City - UEFA Champions League 2025/26 - MD7 - Mini Match",
-      "desc": "Bodø/Glimt are winless in their six meetings with English sides in European competition, although did manage to avoid defeat in the only one to take place in the UEFA Champions League. This will be Manchester City’s first ever game against a Norwegian opponent. None of the last nine English sides to face a Norwegian team away from home in major European competition have lost, with Chelsea in October 2002 the last to lose there.\n",
-      "start": "18:15",
-      "end": "18:45",
-      "start_full": "20260123181500",
-      "end_full": "20260123184500"
-    },
-    {
-      "title": "EPL The Big Interview 2025/2026",
-      "desc": "Extended sit-downs and more informal ‘out and about’ interviews with the Premier League’s biggest stars, providing players with a platform to tell their story in their own words.\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n",
-      "start": "18:45",
-      "end": "19:15",
-      "start_full": "20260123184500",
-      "end_full": "20260123191500"
-    },
-    {
-      "title": "La Liga Highlights 2025/2026",
-      "desc": "\"This 55-minute program offers full 5-minute highlights of each of the games played on Friday, Saturday and Sunday.LALIGA includes special video presentations of the best goal, the best save and the best player of the day.\"\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n",
-      "start": "19:15",
-      "end": "19:45",
-      "start_full": "20260123191500",
-      "end_full": "20260123194500"
-    },
-    {
-      "title": "EPL Stories 2025/2026",
-      "desc": "Showcasing the personalities who have shaped the Premier League era, in each episode we tell their unique story that will be sure to engage and entertain all fans.",
-      "start": "19:45",
-      "end": "20:15",
-      "start_full": "20260123194500",
-      "end_full": "20260123201500"
-    },
-    {
-      "title": "Highlights - UEFA Europa League 2025/2026",
-      "desc": "Highlights from the 2025–26 UEFA Europa League. The 2025–26 UEFA Europa League is the secondary club football tournament organised by UEFA. Tottenham Hotspur are the reigning champions. The final will be played on 20 May 2026 at Beşiktaş Stadium in Istanbul, Turkey.",
-      "start": "20:15",
-      "end": "21:00",
-      "start_full": "20260123201500",
-      "end_full": "20260123210000"
-    },
-    {
-      "title": "MA Super Ligue 1",
-      "desc": "Young players have to score the most beautiful goal in front of Koffi Kouao at the FC Metz training center. The locker room interview will feature 13-year-old Fanny, who will ask questions of her choice to the famous Paris FC goalkeeper, Kevin Trapp. This week's VIP pass has been reserved for not one, but two die-hard fans of HAC player Yassine Kechta.",
-      "start": "21:00",
-      "end": "21:30",
-      "start_full": "20260123210000",
-      "end_full": "20260123213000"
-    },
-    {
-      "title": "Al Ahly vs Young Africans - CAF Champions League 2025/26 MD3",
-      "desc": "Al Ahly vs Young Africans\nAt 23-1-2026, MECCA 19:00, GMT 16:00\nCAF Champions League\nSeason 2025/2026\nQualifier Round\nGroup B\nBorg El Arab Stadium Stadium\n",
-      "start": "21:30",
-      "end": "00:30",
-      "start_full": "20260123213000",
-      "end_full": "20260124003000"
-    },
-    {
-      "title": "ATP Tour - Magazine 2026",
-      "desc": "ATP Tour This Week It is comprised of the various feature stories created by ATP Media and ATP Tour",
-      "start": "00:30",
-      "end": "01:00",
-      "start_full": "20260124003000",
-      "end_full": "20260124010000"
-    },
-    {
-      "title": "Highlights - UEFA Europa League 2025/2026",
-      "desc": "Highlights from the 2025–26 UEFA Europa League. The 2025–26 UEFA Europa League is the secondary club football tournament organised by UEFA. Tottenham Hotspur are the reigning champions. The final will be played on 20 May 2026 at Beşiktaş Stadium in Istanbul, Turkey.",
-      "start": "01:00",
-      "end": "02:00",
-      "start_full": "20260124010000",
-      "end_full": "20260124020000"
-    },
-    {
-      "title": "EPL Stories 2025/2026",
-      "desc": "Showcasing the personalities who have shaped the Premier League era, in each episode we tell their unique story that will be sure to engage and entertain all fans.",
-      "start": "02:00",
-      "end": "02:30",
-      "start_full": "20260124020000",
-      "end_full": "20260124023000"
-    },
-    {
-      "title": "MA Super Ligue 1",
-      "desc": "Young players have to score the most beautiful goal in front of Koffi Kouao at the FC Metz training center. The locker room interview will feature 13-year-old Fanny, who will ask questions of her choice to the famous Paris FC goalkeeper, Kevin Trapp. This week's VIP pass has been reserved for not one, but two die-hard fans of HAC player Yassine Kechta.",
-      "start": "02:30",
-      "end": "03:00",
-      "start_full": "20260124023000",
-      "end_full": "20260124030000"
-    },
-    {
-      "title": "Al Ahly vs Young Africans - CAF Champions League 2025/26 MD3",
-      "desc": "Al Ahly vs Young Africans\nAt 23-1-2026, MECCA 19:00, GMT 16:00\nCAF Champions League\nSeason 2025/2026\nQualifier Round\nGroup B\nBorg El Arab Stadium Stadium\n",
-      "start": "03:00",
-      "end": "06:00",
-      "start_full": "20260124030000",
-      "end_full": "20260124060000"
-    },
-    {
-      "title": "EPL Netbusters 2025/2026",
-      "desc": "Highlights of the Premier League Matchweek from an alternative angle. A look back at every goal from every game using the best ISOs and Slow Motion angles.\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n",
-      "start": "06:00",
-      "end": "06:30",
-      "start_full": "20260124060000",
-      "end_full": "20260124063000"
-    },
-    {
-      "title": "La Liga Highlights 2025/2026",
-      "desc": "\"This 55-minute program offers full 5-minute highlights of each of the games played on Friday, Saturday and Sunday.LALIGA includes special video presentations of the best goal, the best save and the best player of the day.\"\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n",
-      "start": "06:30",
-      "end": "07:00",
-      "start_full": "20260124063000",
-      "end_full": "20260124070000"
-    },
-    {
-      "title": "EPL Review - 2025/2026",
-      "desc": "Each EPL Match week is condensed into a 52-minute highlights show. Every game, goal, penalty, red card and everything in between is squeezed into an action-packed hour to ensure no football fan misses a kick across the game season.\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n",
-      "start": "07:00",
-      "end": "08:00",
-      "start_full": "20260124070000",
-      "end_full": "20260124080000"
-    },
-    {
-      "title": "Internazionale Milano vs Arsenal - UEFA Champions League 2025/26 - MD7 - Mini Match",
-      "desc": "Internazionale and Arsenal will meet for the fourth time in the UEFA Champions League – the Italians have won two of the previous three, including one over a Mikel Arteta-led Gunners side in last season’s league phase. Arsenal’s last victory away to an Italian side in the UEFA Champions League was in March 2008. Since then, they have failed to win on five straight trips, while failing to score a single goal.\n",
-      "start": "08:00",
-      "end": "08:30",
-      "start_full": "20260124080000",
-      "end_full": "20260124083000"
-    },
-    {
-      "title": "Sporting Clube de Portugal vs Paris Saint-Germain - UEFA Champions League 2025/26 - MD7 - Mini Match",
-      "desc": "This is the first ever European meeting between Sporting CP and Paris SG – they will be the 12th different French side Sporting have faced overall in Europe, and first since they beat Marseille 2-1 on MD3 this season in the UEFA Champions League. Paris Saint-Germain have won just one of their eight away major European matches in Portugal, beating Sporting Braga 1-0 in the UEFA Cup in March 2009 with a Guillaume Hoarau goal.\n",
-      "start": "08:30",
-      "end": "09:00",
-      "start_full": "20260124083000",
-      "end_full": "20260124090000"
-    },
-    {
-      "title": "Olympique de Marseille vs Liverpool - UEFA Champions League 2025/26 - MD7 - Mini Match",
-      "desc": "Marseille have lost their last three UEFA Champions League games against Liverpool, most recently in the 2008-09 group stage. Liverpool have won just one of their last six away games against French sides in all competitions, though it was a 1-0 win at PSG in their most recent visit in March 2025.\n",
-      "start": "09:00",
-      "end": "09:30",
-      "start_full": "20260124090000",
-      "end_full": "20260124093000"
-    },
-    {
-      "title": "EPL The Big Interview 2025/2026",
-      "desc": "Extended sit-downs and more informal ‘out and about’ interviews with the Premier League’s biggest stars, providing players with a platform to tell their story in their own words.\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n",
-      "start": "09:30",
-      "end": "10:00",
-      "start_full": "20260124093000",
-      "end_full": "20260124100000"
-    },
-    {
-      "title": "Ligue 1 Weekly Review - 2025/2026",
-      "desc": "Each Ligue 1 Match week is condensed into a 52-minute highlights show. Every game, goal, penalty, red card and everything in between is squeezed into an action-packed hour to ensure no football fan misses a kick across the game season.\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n",
-      "start": "10:00",
-      "end": "10:30",
-      "start_full": "20260124100000",
-      "end_full": "20260124103000"
-    },
-    {
-      "title": "La Liga Highlights 2025/2026",
-      "desc": "\"This 55-minute program offers full 5-minute highlights of each of the games played on Friday, Saturday and Sunday.LALIGA includes special video presentations of the best goal, the best save and the best player of the day.\"\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n",
-      "start": "10:30",
-      "end": "11:00",
-      "start_full": "20260124103000",
-      "end_full": "20260124110000"
-    },
-    {
-      "title": "Best World Cup Player 2018",
-      "desc": "WHO WERE THE BEST WORLD CUP PLAYERS IN 2022\n",
-      "start": "11:00",
-      "end": "11:15",
-      "start_full": "20260124110000",
-      "end_full": "20260124111500"
-    },
-    {
-      "title": "French Super Cup 2025",
-      "desc": "The 2025 Trophée des Champions was the 30th edition of the French super cup. It took place at the Jaber Al-Ahmad International Stadium in Kuwait City, Kuwait. The match was contested by Paris Saint-Germain, the winners of the 2024–25 Ligue 1 and Coupe de France titles, and Marseille, the runners-up of the 2024–25 Ligue 1. Paris Saint-Germain won the match 4–1 on penalties for their fourteenth Trophée des Champions title.\n\n",
-      "start": "11:15",
-      "end": "11:45",
-      "start_full": "20260124111500",
-      "end_full": "20260124114500"
-    },
-    {
-      "title": "10, A Magic Number",
-      "desc": "Pele, Maradona, Platini, Zidane…Messi were great number 10. Today this magical number “10” doesn’t mean a lot in the modern football. Why Football is missing these key players today ? Why modern football doesn’t count on them anymore ? ",
-      "start": "11:45",
-      "end": "12:15",
-      "start_full": "20260124114500",
-      "end_full": "20260124121500"
-    },
-    {
-      "title": "Real Madrid vs Monaco - UEFA Champions League 2025/26 - MD7 - Mini Match",
-      "desc": "Real Madrid and Monaco’s only previous meetings came in the quarter-finals of the 2003-04 UEFA Champions League – after winning the first leg at home, the Spanish side were eliminated on the away goals rule following a 3-1 defeat in the reverse fixture. Real Madrid have only lost one of their 18 home games against French sides in major European competition  and are unbeaten in 14 since that lone defeat versus Paris SG in March 1994.\n",
-      "start": "12:15",
-      "end": "12:45",
-      "start_full": "20260124121500",
-      "end_full": "20260124124500"
-    },
-    {
-      "title": "Sporting Clube de Portugal vs Paris Saint-Germain - UEFA Champions League 2025/26 - MD7 - Mini Match",
-      "desc": "This is the first ever European meeting between Sporting CP and Paris SG – they will be the 12th different French side Sporting have faced overall in Europe, and first since they beat Marseille 2-1 on MD3 this season in the UEFA Champions League. Paris Saint-Germain have won just one of their eight away major European matches in Portugal, beating Sporting Braga 1-0 in the UEFA Cup in March 2009 with a Guillaume Hoarau goal.\n",
-      "start": "12:45",
-      "end": "13:15",
-      "start_full": "20260124124500",
-      "end_full": "20260124131500"
-    },
-    {
-      "title": "Slavia Praha vs Barcelona - UEFA Champions League 2025/26 - MD7 - Mini Match",
-      "desc": "This is just the third meeting between Slavia Prague and Barcelona, with the Spanish side winning 2-1 away before a 0-0 draw at home in the 2019-20 UEFA Champions League group stage. Slavia Prague have won just one of their 14 meetings with Spanish sides in major European competition, beating Sevilla 4-3 at home in the 2018-19 UEFA Europa League.\n",
-      "start": "13:15",
-      "end": "13:45",
-      "start_full": "20260124131500",
-      "end_full": "20260124134500"
-    },
-    {
-      "title": "Ligue 1 Show - 2025/2026 - EP 19",
-      "desc": "All the greatest moments and action in Ligue 1 including incredible stories and interviews featuring ligue 1 stars.",
-      "start": "13:45",
-      "end": "14:15",
-      "start_full": "20260124134500",
-      "end_full": "20260124141500"
-    },
-    {
-      "title": "EPL The Big Interview 2025/2026",
-      "desc": "Extended sit-downs and more informal ‘out and about’ interviews with the Premier League’s biggest stars, providing players with a platform to tell their story in their own words.\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n",
-      "start": "14:15",
-      "end": "14:45",
-      "start_full": "20260124141500",
-      "end_full": "20260124144500"
-    },
-    {
-      "title": "Ligue 1 Weekly Review - 2025/2026",
-      "desc": "Each Ligue 1 Match week is condensed into a 52-minute highlights show. Every game, goal, penalty, red card and everything in between is squeezed into an action-packed hour to ensure no football fan misses a kick across the game season.\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n",
-      "start": "14:45",
-      "end": "15:15",
-      "start_full": "20260124144500",
-      "end_full": "20260124151500"
-    },
-    {
-      "title": "Best World Cup Player 2014",
-      "desc": "WHO WERE THE BEST WORLD CUP PLAYERS IN 2018\n",
-      "start": "15:15",
-      "end": "15:30",
-      "start_full": "20260124151500",
-      "end_full": "20260124153000"
-    },
-    {
-      "title": "Olympique de Marseille vs Liverpool - UEFA Champions League 2025/26 - MD7 - Mini Match",
-      "desc": "Marseille have lost their last three UEFA Champions League games against Liverpool, most recently in the 2008-09 group stage. Liverpool have won just one of their last six away games against French sides in all competitions, though it was a 1-0 win at PSG in their most recent visit in March 2025.\n",
-      "start": "15:30",
-      "end": "15:57",
-      "start_full": "20260124153000",
-      "end_full": "20260124155700"
-    },
-    {
-      "title": "Bodø/Glimt vs Manchester City - UEFA Champions League 2025/26 - MD7 - Mini Match",
-      "desc": "Bodø/Glimt are winless in their six meetings with English sides in European competition, although did manage to avoid defeat in the only one to take place in the UEFA Champions League. This will be Manchester City’s first ever game against a Norwegian opponent. None of the last nine English sides to face a Norwegian team away from home in major European competition have lost, with Chelsea in October 2002 the last to lose there.\n",
-      "start": "15:57",
-      "end": "16:25",
-      "start_full": "20260124155700",
-      "end_full": "20260124162500"
-    }
-  ],
-  "beIN SPORTS XTRA 3": [
-    {
-      "title": "beIN SPORTS XTRA For Live And Exclusive Coverage of Premuim Sporting Events - Dec",
-      "desc": "beIN SPORTS XTRA For Live And Exclusive Coverage of Premuim Sporting Events",
-      "start": "16:00",
-      "end": "17:00",
-      "start_full": "20260123160000",
-      "end_full": "20260123170000"
-    },
-    {
-      "title": "beIN SPORTS XTRA For Live And Exclusive Coverage of Premuim Sporting Events - Dec",
-      "desc": "beIN SPORTS XTRA For Live And Exclusive Coverage of Premuim Sporting Events",
-      "start": "17:00",
-      "end": "18:00",
-      "start_full": "20260123170000",
-      "end_full": "20260123180000"
-    },
-    {
-      "title": "beIN SPORTS XTRA For Live And Exclusive Coverage of Premuim Sporting Events - Dec",
-      "desc": "beIN SPORTS XTRA For Live And Exclusive Coverage of Premuim Sporting Events",
-      "start": "18:00",
-      "end": "19:00",
-      "start_full": "20260123180000",
-      "end_full": "20260123190000"
-    },
-    {
-      "title": "beIN SPORTS XTRA For Live And Exclusive Coverage of Premuim Sporting Events - Dec",
-      "desc": "beIN SPORTS XTRA For Live And Exclusive Coverage of Premuim Sporting Events",
-      "start": "19:00",
-      "end": "20:00",
-      "start_full": "20260123190000",
-      "end_full": "20260123200000"
-    },
-    {
-      "title": "beIN SPORTS XTRA For Live And Exclusive Coverage of Premuim Sporting Events - Dec",
-      "desc": "beIN SPORTS XTRA For Live And Exclusive Coverage of Premuim Sporting Events",
-      "start": "20:00",
-      "end": "21:00",
-      "start_full": "20260123200000",
-      "end_full": "20260123210000"
-    },
-    {
-      "title": "beIN SPORTS XTRA For Live And Exclusive Coverage of Premuim Sporting Events - Dec",
-      "desc": "beIN SPORTS XTRA For Live And Exclusive Coverage of Premuim Sporting Events",
-      "start": "21:00",
-      "end": "22:00",
-      "start_full": "20260123210000",
-      "end_full": "20260123220000"
-    },
-    {
-      "title": "beIN SPORTS XTRA For Live And Exclusive Coverage of Premuim Sporting Events - Dec",
-      "desc": "beIN SPORTS XTRA For Live And Exclusive Coverage of Premuim Sporting Events",
-      "start": "22:00",
-      "end": "23:00",
-      "start_full": "20260123220000",
-      "end_full": "20260123230000"
-    },
-    {
-      "title": "beIN SPORTS XTRA For Live And Exclusive Coverage of Premuim Sporting Events - Dec",
-      "desc": "beIN SPORTS XTRA For Live And Exclusive Coverage of Premuim Sporting Events",
-      "start": "23:00",
-      "end": "00:00",
-      "start_full": "20260123230000",
-      "end_full": "20260124000000"
-    },
-    {
-      "title": "beIN SPORTS XTRA For Live And Exclusive Coverage of Premuim Sporting Events - Dec",
-      "desc": "beIN SPORTS XTRA For Live And Exclusive Coverage of Premuim Sporting Events",
-      "start": "00:00",
-      "end": "01:00",
-      "start_full": "20260124000000",
-      "end_full": "20260124010000"
-    },
-    {
-      "title": "beIN SPORTS XTRA For Live And Exclusive Coverage of Premuim Sporting Events - Dec",
-      "desc": "beIN SPORTS XTRA For Live And Exclusive Coverage of Premuim Sporting Events",
-      "start": "01:00",
-      "end": "02:00",
-      "start_full": "20260124010000",
-      "end_full": "20260124020000"
-    },
-    {
-      "title": "beIN SPORTS XTRA For Live And Exclusive Coverage of Premuim Sporting Events - Dec",
-      "desc": "beIN SPORTS XTRA For Live And Exclusive Coverage of Premuim Sporting Events",
-      "start": "02:00",
-      "end": "03:00",
-      "start_full": "20260124020000",
-      "end_full": "20260124030000"
-    },
-    {
-      "title": "beIN SPORTS XTRA For Live And Exclusive Coverage of Premuim Sporting Events - Dec",
-      "desc": "beIN SPORTS XTRA For Live And Exclusive Coverage of Premuim Sporting Events",
-      "start": "03:00",
-      "end": "04:00",
-      "start_full": "20260124030000",
-      "end_full": "20260124040000"
-    },
-    {
-      "title": "beIN SPORTS XTRA For Live And Exclusive Coverage of Premuim Sporting Events - Dec",
-      "desc": "beIN SPORTS XTRA For Live And Exclusive Coverage of Premuim Sporting Events",
-      "start": "04:00",
-      "end": "05:00",
-      "start_full": "20260124040000",
-      "end_full": "20260124050000"
-    },
-    {
-      "title": "beIN SPORTS XTRA For Live And Exclusive Coverage of Premuim Sporting Events - Dec",
-      "desc": "beIN SPORTS XTRA For Live And Exclusive Coverage of Premuim Sporting Events",
-      "start": "05:00",
-      "end": "06:00",
-      "start_full": "20260124050000",
-      "end_full": "20260124060000"
-    },
-    {
-      "title": "beIN SPORTS XTRA For Live And Exclusive Coverage of Premuim Sporting Events - Dec",
-      "desc": "beIN SPORTS XTRA For Live And Exclusive Coverage of Premuim Sporting Events",
-      "start": "06:00",
-      "end": "07:00",
-      "start_full": "20260124060000",
-      "end_full": "20260124070000"
-    },
-    {
-      "title": "beIN SPORTS XTRA For Live And Exclusive Coverage of Premuim Sporting Events - Dec",
-      "desc": "beIN SPORTS XTRA For Live And Exclusive Coverage of Premuim Sporting Events",
-      "start": "07:00",
-      "end": "08:00",
-      "start_full": "20260124070000",
-      "end_full": "20260124080000"
-    },
-    {
-      "title": "beIN SPORTS XTRA For Live And Exclusive Coverage of Premuim Sporting Events - Dec",
-      "desc": "beIN SPORTS XTRA For Live And Exclusive Coverage of Premuim Sporting Events",
-      "start": "08:00",
-      "end": "09:00",
-      "start_full": "20260124080000",
-      "end_full": "20260124090000"
-    },
-    {
-      "title": "beIN SPORTS XTRA For Live And Exclusive Coverage of Premuim Sporting Events - Dec",
-      "desc": "beIN SPORTS XTRA For Live And Exclusive Coverage of Premuim Sporting Events",
-      "start": "09:00",
-      "end": "10:00",
-      "start_full": "20260124090000",
-      "end_full": "20260124100000"
-    },
-    {
-      "title": "beIN SPORTS XTRA For Live And Exclusive Coverage of Premuim Sporting Events - Dec",
-      "desc": "beIN SPORTS XTRA For Live And Exclusive Coverage of Premuim Sporting Events",
-      "start": "10:00",
-      "end": "11:00",
-      "start_full": "20260124100000",
-      "end_full": "20260124110000"
-    },
-    {
-      "title": "beIN SPORTS XTRA For Live And Exclusive Coverage of Premuim Sporting Events - Dec",
-      "desc": "beIN SPORTS XTRA For Live And Exclusive Coverage of Premuim Sporting Events",
-      "start": "11:00",
-      "end": "12:00",
-      "start_full": "20260124110000",
-      "end_full": "20260124120000"
-    },
-    {
-      "title": "beIN SPORTS XTRA For Live And Exclusive Coverage of Premuim Sporting Events - Dec",
-      "desc": "beIN SPORTS XTRA For Live And Exclusive Coverage of Premuim Sporting Events",
-      "start": "12:00",
-      "end": "13:00",
-      "start_full": "20260124120000",
-      "end_full": "20260124130000"
-    },
-    {
-      "title": "beIN SPORTS XTRA For Live And Exclusive Coverage of Premuim Sporting Events - Dec",
-      "desc": "beIN SPORTS XTRA For Live And Exclusive Coverage of Premuim Sporting Events",
-      "start": "13:00",
-      "end": "14:00",
-      "start_full": "20260124130000",
-      "end_full": "20260124140000"
-    },
-    {
-      "title": "beIN SPORTS XTRA For Live And Exclusive Coverage of Premuim Sporting Events - Dec",
-      "desc": "beIN SPORTS XTRA For Live And Exclusive Coverage of Premuim Sporting Events",
-      "start": "14:00",
-      "end": "15:00",
-      "start_full": "20260124140000",
-      "end_full": "20260124150000"
-    },
-    {
-      "title": "beIN SPORTS XTRA For Live And Exclusive Coverage of Premuim Sporting Events - Dec",
-      "desc": "beIN SPORTS XTRA For Live And Exclusive Coverage of Premuim Sporting Events",
-      "start": "15:00",
-      "end": "16:00",
-      "start_full": "20260124150000",
-      "end_full": "20260124160000"
-    }
-  ],
-  "beIN 4K": [
-    {
-      "title": "Ruse, Elena‑Gabriela (ROU) vs Andreeva, Mirra - Womens - M4 - Evening Session - Rod Laver Arena - Au",
-      "desc": "The tournament’s flagship center court (14,820 seats) with a retractable roof, staging the biggest day sessions (from 11:00am local) and night sessions (from 7:00pm local). It hosts the key showpiece matches through the fortnight, including finals weekend: doubles finals on Sat 31 Jan (afternoon) followed by the women’s singles final (Sat night), and the men’s singles final on Sun 1 Feb.",
-      "start": "16:00",
-      "end": "18:00",
-      "start_full": "20260123160000",
-      "end_full": "20260123180000"
-    },
-    {
-      "title": "Alcaraz, Carlos (ESP) vs Moutet, Corentin (FRA) - M2 - Morning Session - Rod Laver Arena - Australia",
-      "desc": "The tournament’s flagship center court (14,820 seats) with a retractable roof, staging the biggest day sessions (from 11:00am local) and night sessions (from 7:00pm local). It hosts the key showpiece matches through the fortnight, including finals weekend: doubles finals on Sat 31 Jan (afternoon) followed by the women’s singles final (Sat night), and the men’s singles final on Sun 1 Feb.",
-      "start": "18:00",
-      "end": "20:27",
-      "start_full": "20260123180000",
-      "end_full": "20260123202700"
-    },
-    {
-      "title": "Sabalenka, Aryna vs Potapova, Anastasia (AUT)  - Womens - M1 - Morning Session - Rod Laver Arena - A",
-      "desc": "The tournament’s flagship center court (14,820 seats) with a retractable roof, staging the biggest day sessions (from 11:00am local) and night sessions (from 7:00pm local). It hosts the key showpiece matches through the fortnight, including finals weekend: doubles finals on Sat 31 Jan (afternoon) followed by the women’s singles final (Sat night), and the men’s singles final on Sun 1 Feb.",
-      "start": "20:27",
-      "end": "22:50",
-      "start_full": "20260123202700",
-      "end_full": "20260123225000"
-    },
-    {
-      "title": "Tiafoe, Frances (USA) vs De Minaur, Alex (AUS) - M3 - Evening Session - Rod Laver Arena - Australian",
-      "desc": "The tournament’s flagship center court (14,820 seats) with a retractable roof, staging the biggest day sessions (from 11:00am local) and night sessions (from 7:00pm local). It hosts the key showpiece matches through the fortnight, including finals weekend: doubles finals on Sat 31 Jan (afternoon) followed by the women’s singles final (Sat night), and the men’s singles final on Sun 1 Feb.",
-      "start": "22:50",
-      "end": "00:00",
-      "start_full": "20260123225000",
-      "end_full": "20260124000000"
-    },
-    {
-      "title": "Alcaraz, Carlos (ESP) vs Moutet, Corentin (FRA) - M2 - Morning Session - Rod Laver Arena - Australia",
-      "desc": "The tournament’s flagship center court (14,820 seats) with a retractable roof, staging the biggest day sessions (from 11:00am local) and night sessions (from 7:00pm local). It hosts the key showpiece matches through the fortnight, including finals weekend: doubles finals on Sat 31 Jan (afternoon) followed by the women’s singles final (Sat night), and the men’s singles final on Sun 1 Feb.",
-      "start": "00:00",
-      "end": "02:00",
-      "start_full": "20260124000000",
-      "end_full": "20260124020000"
-    },
-    {
-      "title": "Manchester United vs. Manchester City - English Premier League 2026/2027",
-      "desc": "Manchester United lost the reverse fixture against Man City 3-0 in September. They last failed to score in both league meetings with the Citizens in 1973-74, a campaign that saw them relegated from the top-flight. Man City have won more Premier League away games against Man Utd than any other visiting side, while only Liverpool  have scored more goals at Old Trafford than the Citizens.\n",
-      "start": "02:00",
-      "end": "04:30",
-      "start_full": "20260124020000",
-      "end_full": "20260124043000"
-    },
-    {
-      "title": "Ruse, Elena‑Gabriela (ROU) vs Andreeva, Mirra - Womens - M4 - Evening Session - Rod Laver Arena - Au",
-      "desc": "The tournament’s flagship center court (14,820 seats) with a retractable roof, staging the biggest day sessions (from 11:00am local) and night sessions (from 7:00pm local). It hosts the key showpiece matches through the fortnight, including finals weekend: doubles finals on Sat 31 Jan (afternoon) followed by the women’s singles final (Sat night), and the men’s singles final on Sun 1 Feb.",
-      "start": "04:30",
-      "end": "06:30",
-      "start_full": "20260124043000",
-      "end_full": "20260124063000"
-    },
-    {
-      "title": "Day 7 - M1 - Morning Session - Rod Laver Arena - Australian Open 2026",
-      "desc": "The tournament’s flagship center court (14,820 seats) with a retractable roof, staging the biggest day sessions (from 11:00am local) and night sessions (from 7:00pm local). It hosts the key showpiece matches through the fortnight, including finals weekend: doubles finals on Sat 31 Jan (afternoon) followed by the women’s singles final (Sat night), and the men’s singles final on Sun 1 Feb.",
-      "start": "06:30",
-      "end": "08:30",
-      "start_full": "20260124063000",
-      "end_full": "20260124083000"
-    },
-    {
-      "title": "Day 7 - M2 - Morning Session - Rod Laver Arena - Australian Open 2026",
-      "desc": "The tournament’s flagship center court (14,820 seats) with a retractable roof, staging the biggest day sessions (from 11:00am local) and night sessions (from 7:00pm local). It hosts the key showpiece matches through the fortnight, including finals weekend: doubles finals on Sat 31 Jan (afternoon) followed by the women’s singles final (Sat night), and the men’s singles final on Sun 1 Feb.",
-      "start": "08:30",
-      "end": "12:00",
-      "start_full": "20260124083000",
-      "end_full": "20260124120000"
-    },
-    {
-      "title": "Tiafoe, Frances (USA) vs De Minaur, Alex (AUS) - M3 - Evening Session - Rod Laver Arena - Australian",
-      "desc": "The tournament’s flagship center court (14,820 seats) with a retractable roof, staging the biggest day sessions (from 11:00am local) and night sessions (from 7:00pm local). It hosts the key showpiece matches through the fortnight, including finals weekend: doubles finals on Sat 31 Jan (afternoon) followed by the women’s singles final (Sat night), and the men’s singles final on Sun 1 Feb.",
-      "start": "12:00",
-      "end": "14:00",
-      "start_full": "20260124120000",
-      "end_full": "20260124140000"
-    },
-    {
-      "title": "Day 7 - M3 - Evening Session - Rod Laver Arena - Australian Open 2026",
-      "desc": "The tournament’s flagship center court (14,820 seats) with a retractable roof, staging the biggest day sessions (from 11:00am local) and night sessions (from 7:00pm local). It hosts the key showpiece matches through the fortnight, including finals weekend: doubles finals on Sat 31 Jan (afternoon) followed by the women’s singles final (Sat night), and the men’s singles final on Sun 1 Feb.",
-      "start": "14:00",
-      "end": "16:00",
-      "start_full": "20260124140000",
       "end_full": "20260124160000"
     }
   ],
@@ -2968,6 +2174,360 @@
       "start": "14:00",
       "end": "16:00",
       "start_full": "20260124140000",
+      "end_full": "20260124160000"
+    }
+  ],
+  "beIN SPORTS NEWS": [
+    {
+      "title": "Al Hassad",
+      "desc": "Al Hassad is a nighltly studio from beIN Sports News that looks at the stories that have made the headlines in the world of sport and those stories that will be making the headlines tomorrow morning.",
+      "start": "16:00",
+      "end": "17:00",
+      "start_full": "20260123160000",
+      "end_full": "20260123170000"
+    },
+    {
+      "title": "News Bulletin - Live Studio @02:00",
+      "desc": "Latest news from the beIn SPORTS News room, previewing and reviewing developments and scores with contribution from around the world from beIN's reporters.",
+      "start": "17:00",
+      "end": "17:30",
+      "start_full": "20260123170000",
+      "end_full": "20260123173000"
+    },
+    {
+      "title": "Al Hassila - 23/01/26",
+      "desc": "\"Al Hassila\" provides a concise recap of the latest sports matches, highlighting key goals and noteworthy moments from around the world of sports.\t\t\t\t\t\t\t\t\t\n\t\t\t\t\t\t\t\t\t\n\t\t\t\t\t\t\t\t\t\n",
+      "start": "17:30",
+      "end": "18:00",
+      "start_full": "20260123173000",
+      "end_full": "20260123180000"
+    },
+    {
+      "title": "The Issue of The Day",
+      "desc": "The Issue Of The Day, from the beIn Sports News Team, takes an in depth look at the the main story form the world of sport from the last 24 hours.",
+      "start": "18:00",
+      "end": "19:00",
+      "start_full": "20260123180000",
+      "end_full": "20260123190000"
+    },
+    {
+      "title": "News Bulletin - Live Studio @02:00",
+      "desc": "Latest news from the beIn SPORTS News room, previewing and reviewing developments and scores with contribution from around the world from beIN's reporters.",
+      "start": "19:00",
+      "end": "19:30",
+      "start_full": "20260123190000",
+      "end_full": "20260123193000"
+    },
+    {
+      "title": "Special Interview  - 23/01/26",
+      "desc": "A  daily Special Interview related to an important issue of the day. The interview offers the background and insight into the issue chosen from the world of sport. ",
+      "start": "19:30",
+      "end": "19:45",
+      "start_full": "20260123193000",
+      "end_full": "20260123194500"
+    },
+    {
+      "title": "Special Report - 23/01/26",
+      "desc": "\"Special Report\" is a single long feature from one of beIN SPORTS News reporters that takes an alternative look at a subject from the world of sport. ",
+      "start": "19:45",
+      "end": "20:00",
+      "start_full": "20260123194500",
+      "end_full": "20260123200000"
+    },
+    {
+      "title": "News Bulletin - @17:00",
+      "desc": "Latest news from the beIn SPORTS News room, previewing and reviewing developments and scores with contribution from around the world from beIN's reporters.",
+      "start": "20:00",
+      "end": "20:30",
+      "start_full": "20260123200000",
+      "end_full": "20260123203000"
+    },
+    {
+      "title": "The summary 1 - 23/01/26",
+      "desc": "'\"Daily Highlights\" is a brief highlight of the previous days action. A look at the goals and talking points that have taken place in the world of sport. ",
+      "start": "20:30",
+      "end": "20:45",
+      "start_full": "20260123203000",
+      "end_full": "20260123204500"
+    },
+    {
+      "title": "Football Legends - News",
+      "desc": "In the world of sports, few debates ignite passion and enthusiasm quite like the discussion surrounding the greatest football players of all time. This topic transcends generations, cultures, and nationalities, as fans passionately defend their favorites and recount unforgettable moments on the pitch. From legendary goal scorers to masterful playmakers, the players who have left an indelible mark on the game deserve recognition and celebration. \" Football Legends\" explore the remarkable careers and contributions of these iconic players who have shaped the beautiful game.\t\t\t\t\t\t\t\t\t\n\t\t\t\t\t\t\t\t\t\n\t\t\t\t\t\t\t\t\t\n",
+      "start": "20:45",
+      "end": "21:00",
+      "start_full": "20260123204500",
+      "end_full": "20260123210000"
+    },
+    {
+      "title": "Six O'Clock bulletin",
+      "desc": "Latest news from the beIn SPORTS News room, previewing and reviewing developments and scores with contribution from around the world from beIN's reporters.",
+      "start": "21:00",
+      "end": "22:00",
+      "start_full": "20260123210000",
+      "end_full": "20260123220000"
+    },
+    {
+      "title": "Al Jawla  - Live Studio @19:00",
+      "desc": "Al Jawla covers the latest news and stories from sporting events across the planet. Including latest results and latest scores from the most recent games taking place. This daily look at the latest stories provides a fast paced update to sporting events.",
+      "start": "22:00",
+      "end": "22:15",
+      "start_full": "20260123220000",
+      "end_full": "20260123221500"
+    },
+    {
+      "title": "Where Are They ?",
+      "desc": "'Where Are They?\" is a special feature on a personality from a previous era of sporting achievement. The report traces where they have been and where they now are after their time as one of the leading sports men or women of their generation. ",
+      "start": "22:15",
+      "end": "22:30",
+      "start_full": "20260123221500",
+      "end_full": "20260123223000"
+    },
+    {
+      "title": "Special Interview  - 23/01/26",
+      "desc": "A  daily Special Interview related to an important issue of the day. The interview offers the background and insight into the issue chosen from the world of sport. ",
+      "start": "22:30",
+      "end": "22:45",
+      "start_full": "20260123223000",
+      "end_full": "20260123224500"
+    },
+    {
+      "title": "Special Report - 23/01/26",
+      "desc": "\"Special Report\" is a single long feature from one of beIN SPORTS News reporters that takes an alternative look at a subject from the world of sport. ",
+      "start": "22:45",
+      "end": "23:00",
+      "start_full": "20260123224500",
+      "end_full": "20260123230000"
+    },
+    {
+      "title": "News Bulletin - @20:00",
+      "desc": "Latest news from the beIn SPORTS News room, previewing and reviewing developments and scores with contribution from around the world from beIN's reporters.",
+      "start": "23:00",
+      "end": "23:30",
+      "start_full": "20260123230000",
+      "end_full": "20260123233000"
+    },
+    {
+      "title": "Al Hassila - 23/01/26",
+      "desc": "\"Al Hassila\" provides a concise recap of the latest sports matches, highlighting key goals and noteworthy moments from around the world of sports.\t\t\t\t\t\t\t\t\t\n\t\t\t\t\t\t\t\t\t\n\t\t\t\t\t\t\t\t\t\n",
+      "start": "23:30",
+      "end": "00:00",
+      "start_full": "20260123233000",
+      "end_full": "20260124000000"
+    },
+    {
+      "title": "Nine O'Clock bulletin - NEWS",
+      "desc": "Latest news from the beIn SPORTS News room, previewing and reviewing developments and scores with contribution from around the world from beIN's reporters.",
+      "start": "00:00",
+      "end": "01:00",
+      "start_full": "20260124000000",
+      "end_full": "20260124010000"
+    },
+    {
+      "title": "Al Jawla  - Live Studio @23:00",
+      "desc": "Al Jawla covers the latest news and stories from sporting events across the planet. Including latest results and latest scores from the most recent games taking place. This daily look at the latest stories provides a fast paced update to sporting events.",
+      "start": "01:00",
+      "end": "01:15",
+      "start_full": "20260124010000",
+      "end_full": "20260124011500"
+    },
+    {
+      "title": "The summary 1 - 23/01/26",
+      "desc": "'\"Daily Highlights\" is a brief highlight of the previous days action. A look at the goals and talking points that have taken place in the world of sport. ",
+      "start": "01:15",
+      "end": "01:30",
+      "start_full": "20260124011500",
+      "end_full": "20260124013000"
+    },
+    {
+      "title": "Special Interview  - 23/01/26",
+      "desc": "A  daily Special Interview related to an important issue of the day. The interview offers the background and insight into the issue chosen from the world of sport. ",
+      "start": "01:30",
+      "end": "01:45",
+      "start_full": "20260124013000",
+      "end_full": "20260124014500"
+    },
+    {
+      "title": "Special Report - 23/01/26",
+      "desc": "\"Special Report\" is a single long feature from one of beIN SPORTS News reporters that takes an alternative look at a subject from the world of sport. ",
+      "start": "01:45",
+      "end": "02:00",
+      "start_full": "20260124014500",
+      "end_full": "20260124020000"
+    },
+    {
+      "title": "News Bulletin - @23:00",
+      "desc": "Latest news from the beIn SPORTS News room, previewing and reviewing developments and scores with contribution from around the world from beIN's reporters.",
+      "start": "02:00",
+      "end": "02:30",
+      "start_full": "20260124020000",
+      "end_full": "20260124023000"
+    },
+    {
+      "title": "Ligue 1 Show - 2025/2026 - EP 19",
+      "desc": "All the greatest moments and action in Ligue 1 including incredible stories and interviews featuring ligue 1 stars.",
+      "start": "02:30",
+      "end": "03:00",
+      "start_full": "20260124023000",
+      "end_full": "20260124030000"
+    },
+    {
+      "title": "European Football",
+      "desc": "All the latest news and previews from the world of the Big Five European Football Leagues. Ahead of the weekend's action, Sports News  provides a preview every Friday of all the latest from the European big leagues.  All the latest from  the Premier League in England, the Bundesliga in Germany, La Liga in Spain, Serie A in Italy, and Ligue 1 in France\t\t\t\t\t\t\t\t\t\n\t\t\t\t\t\t\t\t\t\n\t\t\t\t\t\t\t\t\t\n",
+      "start": "03:00",
+      "end": "04:00",
+      "start_full": "20260124030000",
+      "end_full": "20260124040000"
+    },
+    {
+      "title": "Al Hassad",
+      "desc": "Al Hassad is a nighltly studio from beIN Sports News that looks at the stories that have made the headlines in the world of sport and those stories that will be making the headlines tomorrow morning.",
+      "start": "04:00",
+      "end": "05:00",
+      "start_full": "20260124040000",
+      "end_full": "20260124050000"
+    },
+    {
+      "title": "News Bulletin - Live Studio @02:00",
+      "desc": "Latest news from the beIn SPORTS News room, previewing and reviewing developments and scores with contribution from around the world from beIN's reporters.",
+      "start": "05:00",
+      "end": "05:30",
+      "start_full": "20260124050000",
+      "end_full": "20260124053000"
+    },
+    {
+      "title": "Al Hassila - 24/01/26",
+      "desc": "\"Al Hassila\" provides a concise recap of the latest sports matches, highlighting key goals and noteworthy moments from around the world of sports.\t\t\t\t\t\t\t\t\t\n\t\t\t\t\t\t\t\t\t\n\t\t\t\t\t\t\t\t\t\n",
+      "start": "05:30",
+      "end": "06:00",
+      "start_full": "20260124053000",
+      "end_full": "20260124060000"
+    },
+    {
+      "title": "European Football",
+      "desc": "All the latest news and previews from the world of the Big Five European Football Leagues. Ahead of the weekend's action, Sports News  provides a preview every Friday of all the latest from the European big leagues.  All the latest from  the Premier League in England, the Bundesliga in Germany, La Liga in Spain, Serie A in Italy, and Ligue 1 in France\t\t\t\t\t\t\t\t\t\n\t\t\t\t\t\t\t\t\t\n\t\t\t\t\t\t\t\t\t\n",
+      "start": "06:00",
+      "end": "07:00",
+      "start_full": "20260124060000",
+      "end_full": "20260124070000"
+    },
+    {
+      "title": "Al Hassad",
+      "desc": "Al Hassad is a nighltly studio from beIN Sports News that looks at the stories that have made the headlines in the world of sport and those stories that will be making the headlines tomorrow morning.",
+      "start": "07:00",
+      "end": "08:00",
+      "start_full": "20260124070000",
+      "end_full": "20260124080000"
+    },
+    {
+      "title": "News Bulletin - Live Studio @02:00",
+      "desc": "Latest news from the beIn SPORTS News room, previewing and reviewing developments and scores with contribution from around the world from beIN's reporters.",
+      "start": "08:00",
+      "end": "08:30",
+      "start_full": "20260124080000",
+      "end_full": "20260124083000"
+    },
+    {
+      "title": "Ligue 1 Show - 2025/2026 - EP 19",
+      "desc": "All the greatest moments and action in Ligue 1 including incredible stories and interviews featuring ligue 1 stars.",
+      "start": "08:30",
+      "end": "09:00",
+      "start_full": "20260124083000",
+      "end_full": "20260124090000"
+    },
+    {
+      "title": "Al Hassad",
+      "desc": "Al Hassad is a nighltly studio from beIN Sports News that looks at the stories that have made the headlines in the world of sport and those stories that will be making the headlines tomorrow morning.",
+      "start": "09:00",
+      "end": "10:00",
+      "start_full": "20260124090000",
+      "end_full": "20260124100000"
+    },
+    {
+      "title": "News Bulletin - Live Studio @02:00",
+      "desc": "Latest news from the beIn SPORTS News room, previewing and reviewing developments and scores with contribution from around the world from beIN's reporters.",
+      "start": "10:00",
+      "end": "10:30",
+      "start_full": "20260124100000",
+      "end_full": "20260124103000"
+    },
+    {
+      "title": "Special Interview  - 23/01/26",
+      "desc": "A  daily Special Interview related to an important issue of the day. The interview offers the background and insight into the issue chosen from the world of sport. ",
+      "start": "10:30",
+      "end": "10:45",
+      "start_full": "20260124103000",
+      "end_full": "20260124104500"
+    },
+    {
+      "title": "Special Report - 23/01/26",
+      "desc": "\"Special Report\" is a single long feature from one of beIN SPORTS News reporters that takes an alternative look at a subject from the world of sport. ",
+      "start": "10:45",
+      "end": "11:00",
+      "start_full": "20260124104500",
+      "end_full": "20260124110000"
+    },
+    {
+      "title": "News Bulletin - Live Studio @02:00",
+      "desc": "Latest news from the beIn SPORTS News room, previewing and reviewing developments and scores with contribution from around the world from beIN's reporters.",
+      "start": "11:00",
+      "end": "11:30",
+      "start_full": "20260124110000",
+      "end_full": "20260124113000"
+    },
+    {
+      "title": "beIN Experiments - News",
+      "desc": "One of beIN's many  reporters chooses a sport to try and master. In each episode there is a chance to experience the challenges faced in different sports from different parts of the world .",
+      "start": "11:30",
+      "end": "11:45",
+      "start_full": "20260124113000",
+      "end_full": "20260124114500"
+    },
+    {
+      "title": "Where Are They ?",
+      "desc": "'Where Are They?\" is a special feature on a personality from a previous era of sporting achievement. The report traces where they have been and where they now are after their time as one of the leading sports men or women of their generation. ",
+      "start": "11:45",
+      "end": "12:00",
+      "start_full": "20260124114500",
+      "end_full": "20260124120000"
+    },
+    {
+      "title": "European Football",
+      "desc": "All the latest news and previews from the world of the Big Five European Football Leagues. Ahead of the weekend's action, Sports News  provides a preview every Friday of all the latest from the European big leagues.  All the latest from  the Premier League in England, the Bundesliga in Germany, La Liga in Spain, Serie A in Italy, and Ligue 1 in France\t\t\t\t\t\t\t\t\t\n\t\t\t\t\t\t\t\t\t\n\t\t\t\t\t\t\t\t\t\n",
+      "start": "12:00",
+      "end": "13:00",
+      "start_full": "20260124120000",
+      "end_full": "20260124130000"
+    },
+    {
+      "title": "Al Hassad",
+      "desc": "Al Hassad is a nighltly studio from beIN Sports News that looks at the stories that have made the headlines in the world of sport and those stories that will be making the headlines tomorrow morning.",
+      "start": "13:00",
+      "end": "14:00",
+      "start_full": "20260124130000",
+      "end_full": "20260124140000"
+    },
+    {
+      "title": "News Bulletin - Live Studio @02:00",
+      "desc": "Latest news from the beIn SPORTS News room, previewing and reviewing developments and scores with contribution from around the world from beIN's reporters.",
+      "start": "14:00",
+      "end": "14:30",
+      "start_full": "20260124140000",
+      "end_full": "20260124143000"
+    },
+    {
+      "title": "Ligue 1 Show - 2025/2026 - EP 19",
+      "desc": "All the greatest moments and action in Ligue 1 including incredible stories and interviews featuring ligue 1 stars.",
+      "start": "14:30",
+      "end": "15:00",
+      "start_full": "20260124143000",
+      "end_full": "20260124150000"
+    },
+    {
+      "title": "European Football",
+      "desc": "All the latest news and previews from the world of the Big Five European Football Leagues. Ahead of the weekend's action, Sports News  provides a preview every Friday of all the latest from the European big leagues.  All the latest from  the Premier League in England, the Bundesliga in Germany, La Liga in Spain, Serie A in Italy, and Ligue 1 in France\t\t\t\t\t\t\t\t\t\n\t\t\t\t\t\t\t\t\t\n\t\t\t\t\t\t\t\t\t\n",
+      "start": "15:00",
+      "end": "16:00",
+      "start_full": "20260124150000",
       "end_full": "20260124160000"
     }
   ],
@@ -3271,7 +2831,89 @@
       "end_full": "20260124171000"
     }
   ],
-  "beIN SPORTS XTRA 5": [
+  "beIN 4K": [
+    {
+      "title": "Ruse, Elena‑Gabriela (ROU) vs Andreeva, Mirra - Womens - M4 - Evening Session - Rod Laver Arena - Au",
+      "desc": "The tournament’s flagship center court (14,820 seats) with a retractable roof, staging the biggest day sessions (from 11:00am local) and night sessions (from 7:00pm local). It hosts the key showpiece matches through the fortnight, including finals weekend: doubles finals on Sat 31 Jan (afternoon) followed by the women’s singles final (Sat night), and the men’s singles final on Sun 1 Feb.",
+      "start": "16:00",
+      "end": "18:00",
+      "start_full": "20260123160000",
+      "end_full": "20260123180000"
+    },
+    {
+      "title": "Alcaraz, Carlos (ESP) vs Moutet, Corentin (FRA) - M2 - Morning Session - Rod Laver Arena - Australia",
+      "desc": "The tournament’s flagship center court (14,820 seats) with a retractable roof, staging the biggest day sessions (from 11:00am local) and night sessions (from 7:00pm local). It hosts the key showpiece matches through the fortnight, including finals weekend: doubles finals on Sat 31 Jan (afternoon) followed by the women’s singles final (Sat night), and the men’s singles final on Sun 1 Feb.",
+      "start": "18:00",
+      "end": "20:27",
+      "start_full": "20260123180000",
+      "end_full": "20260123202700"
+    },
+    {
+      "title": "Sabalenka, Aryna vs Potapova, Anastasia (AUT)  - Womens - M1 - Morning Session - Rod Laver Arena - A",
+      "desc": "The tournament’s flagship center court (14,820 seats) with a retractable roof, staging the biggest day sessions (from 11:00am local) and night sessions (from 7:00pm local). It hosts the key showpiece matches through the fortnight, including finals weekend: doubles finals on Sat 31 Jan (afternoon) followed by the women’s singles final (Sat night), and the men’s singles final on Sun 1 Feb.",
+      "start": "20:27",
+      "end": "22:50",
+      "start_full": "20260123202700",
+      "end_full": "20260123225000"
+    },
+    {
+      "title": "Tiafoe, Frances (USA) vs De Minaur, Alex (AUS) - M3 - Evening Session - Rod Laver Arena - Australian",
+      "desc": "The tournament’s flagship center court (14,820 seats) with a retractable roof, staging the biggest day sessions (from 11:00am local) and night sessions (from 7:00pm local). It hosts the key showpiece matches through the fortnight, including finals weekend: doubles finals on Sat 31 Jan (afternoon) followed by the women’s singles final (Sat night), and the men’s singles final on Sun 1 Feb.",
+      "start": "22:50",
+      "end": "02:00",
+      "start_full": "20260123225000",
+      "end_full": "20260124020000"
+    },
+    {
+      "title": "Manchester United vs. Manchester City - English Premier League 2026/2027",
+      "desc": "Manchester United lost the reverse fixture against Man City 3-0 in September. They last failed to score in both league meetings with the Citizens in 1973-74, a campaign that saw them relegated from the top-flight. Man City have won more Premier League away games against Man Utd than any other visiting side, while only Liverpool  have scored more goals at Old Trafford than the Citizens.\n",
+      "start": "02:00",
+      "end": "04:30",
+      "start_full": "20260124020000",
+      "end_full": "20260124043000"
+    },
+    {
+      "title": "Ruse, Elena‑Gabriela (ROU) vs Andreeva, Mirra - Womens - M4 - Evening Session - Rod Laver Arena - Au",
+      "desc": "The tournament’s flagship center court (14,820 seats) with a retractable roof, staging the biggest day sessions (from 11:00am local) and night sessions (from 7:00pm local). It hosts the key showpiece matches through the fortnight, including finals weekend: doubles finals on Sat 31 Jan (afternoon) followed by the women’s singles final (Sat night), and the men’s singles final on Sun 1 Feb.",
+      "start": "04:30",
+      "end": "06:30",
+      "start_full": "20260124043000",
+      "end_full": "20260124063000"
+    },
+    {
+      "title": "Day 7 - M1 - Morning Session - Rod Laver Arena - Australian Open 2026",
+      "desc": "The tournament’s flagship center court (14,820 seats) with a retractable roof, staging the biggest day sessions (from 11:00am local) and night sessions (from 7:00pm local). It hosts the key showpiece matches through the fortnight, including finals weekend: doubles finals on Sat 31 Jan (afternoon) followed by the women’s singles final (Sat night), and the men’s singles final on Sun 1 Feb.",
+      "start": "06:30",
+      "end": "08:30",
+      "start_full": "20260124063000",
+      "end_full": "20260124083000"
+    },
+    {
+      "title": "Day 7 - M2 - Morning Session - Rod Laver Arena - Australian Open 2026",
+      "desc": "The tournament’s flagship center court (14,820 seats) with a retractable roof, staging the biggest day sessions (from 11:00am local) and night sessions (from 7:00pm local). It hosts the key showpiece matches through the fortnight, including finals weekend: doubles finals on Sat 31 Jan (afternoon) followed by the women’s singles final (Sat night), and the men’s singles final on Sun 1 Feb.",
+      "start": "08:30",
+      "end": "12:00",
+      "start_full": "20260124083000",
+      "end_full": "20260124120000"
+    },
+    {
+      "title": "Tiafoe, Frances (USA) vs De Minaur, Alex (AUS) - M3 - Evening Session - Rod Laver Arena - Australian",
+      "desc": "The tournament’s flagship center court (14,820 seats) with a retractable roof, staging the biggest day sessions (from 11:00am local) and night sessions (from 7:00pm local). It hosts the key showpiece matches through the fortnight, including finals weekend: doubles finals on Sat 31 Jan (afternoon) followed by the women’s singles final (Sat night), and the men’s singles final on Sun 1 Feb.",
+      "start": "12:00",
+      "end": "14:00",
+      "start_full": "20260124120000",
+      "end_full": "20260124140000"
+    },
+    {
+      "title": "Day 7 - M3 - Evening Session - Rod Laver Arena - Australian Open 2026",
+      "desc": "The tournament’s flagship center court (14,820 seats) with a retractable roof, staging the biggest day sessions (from 11:00am local) and night sessions (from 7:00pm local). It hosts the key showpiece matches through the fortnight, including finals weekend: doubles finals on Sat 31 Jan (afternoon) followed by the women’s singles final (Sat night), and the men’s singles final on Sun 1 Feb.",
+      "start": "14:00",
+      "end": "16:00",
+      "start_full": "20260124140000",
+      "end_full": "20260124160000"
+    }
+  ],
+  "beIN SPORTS XTRA 6": [
     {
       "title": "beIN SPORTS XTRA For Live And Exclusive Coverage of Premuim Sporting Events - Dec",
       "desc": "beIN SPORTS XTRA For Live And Exclusive Coverage of Premuim Sporting Events",
@@ -3465,7 +3107,283 @@
       "end_full": "20260124160000"
     }
   ],
-  "beIN SPORTS XTRA 2": [
+  "beIN SPORTS XTRA 3": [
+    {
+      "title": "beIN SPORTS XTRA For Live And Exclusive Coverage of Premuim Sporting Events - Dec",
+      "desc": "beIN SPORTS XTRA For Live And Exclusive Coverage of Premuim Sporting Events",
+      "start": "16:00",
+      "end": "17:00",
+      "start_full": "20260123160000",
+      "end_full": "20260123170000"
+    },
+    {
+      "title": "beIN SPORTS XTRA For Live And Exclusive Coverage of Premuim Sporting Events - Dec",
+      "desc": "beIN SPORTS XTRA For Live And Exclusive Coverage of Premuim Sporting Events",
+      "start": "17:00",
+      "end": "18:00",
+      "start_full": "20260123170000",
+      "end_full": "20260123180000"
+    },
+    {
+      "title": "beIN SPORTS XTRA For Live And Exclusive Coverage of Premuim Sporting Events - Dec",
+      "desc": "beIN SPORTS XTRA For Live And Exclusive Coverage of Premuim Sporting Events",
+      "start": "18:00",
+      "end": "19:00",
+      "start_full": "20260123180000",
+      "end_full": "20260123190000"
+    },
+    {
+      "title": "beIN SPORTS XTRA For Live And Exclusive Coverage of Premuim Sporting Events - Dec",
+      "desc": "beIN SPORTS XTRA For Live And Exclusive Coverage of Premuim Sporting Events",
+      "start": "19:00",
+      "end": "20:00",
+      "start_full": "20260123190000",
+      "end_full": "20260123200000"
+    },
+    {
+      "title": "beIN SPORTS XTRA For Live And Exclusive Coverage of Premuim Sporting Events - Dec",
+      "desc": "beIN SPORTS XTRA For Live And Exclusive Coverage of Premuim Sporting Events",
+      "start": "20:00",
+      "end": "21:00",
+      "start_full": "20260123200000",
+      "end_full": "20260123210000"
+    },
+    {
+      "title": "beIN SPORTS XTRA For Live And Exclusive Coverage of Premuim Sporting Events - Dec",
+      "desc": "beIN SPORTS XTRA For Live And Exclusive Coverage of Premuim Sporting Events",
+      "start": "21:00",
+      "end": "22:00",
+      "start_full": "20260123210000",
+      "end_full": "20260123220000"
+    },
+    {
+      "title": "beIN SPORTS XTRA For Live And Exclusive Coverage of Premuim Sporting Events - Dec",
+      "desc": "beIN SPORTS XTRA For Live And Exclusive Coverage of Premuim Sporting Events",
+      "start": "22:00",
+      "end": "23:00",
+      "start_full": "20260123220000",
+      "end_full": "20260123230000"
+    },
+    {
+      "title": "beIN SPORTS XTRA For Live And Exclusive Coverage of Premuim Sporting Events - Dec",
+      "desc": "beIN SPORTS XTRA For Live And Exclusive Coverage of Premuim Sporting Events",
+      "start": "23:00",
+      "end": "00:00",
+      "start_full": "20260123230000",
+      "end_full": "20260124000000"
+    },
+    {
+      "title": "beIN SPORTS XTRA For Live And Exclusive Coverage of Premuim Sporting Events - Dec",
+      "desc": "beIN SPORTS XTRA For Live And Exclusive Coverage of Premuim Sporting Events",
+      "start": "00:00",
+      "end": "01:00",
+      "start_full": "20260124000000",
+      "end_full": "20260124010000"
+    },
+    {
+      "title": "beIN SPORTS XTRA For Live And Exclusive Coverage of Premuim Sporting Events - Dec",
+      "desc": "beIN SPORTS XTRA For Live And Exclusive Coverage of Premuim Sporting Events",
+      "start": "01:00",
+      "end": "02:00",
+      "start_full": "20260124010000",
+      "end_full": "20260124020000"
+    },
+    {
+      "title": "beIN SPORTS XTRA For Live And Exclusive Coverage of Premuim Sporting Events - Dec",
+      "desc": "beIN SPORTS XTRA For Live And Exclusive Coverage of Premuim Sporting Events",
+      "start": "02:00",
+      "end": "03:00",
+      "start_full": "20260124020000",
+      "end_full": "20260124030000"
+    },
+    {
+      "title": "beIN SPORTS XTRA For Live And Exclusive Coverage of Premuim Sporting Events - Dec",
+      "desc": "beIN SPORTS XTRA For Live And Exclusive Coverage of Premuim Sporting Events",
+      "start": "03:00",
+      "end": "04:00",
+      "start_full": "20260124030000",
+      "end_full": "20260124040000"
+    },
+    {
+      "title": "beIN SPORTS XTRA For Live And Exclusive Coverage of Premuim Sporting Events - Dec",
+      "desc": "beIN SPORTS XTRA For Live And Exclusive Coverage of Premuim Sporting Events",
+      "start": "04:00",
+      "end": "05:00",
+      "start_full": "20260124040000",
+      "end_full": "20260124050000"
+    },
+    {
+      "title": "beIN SPORTS XTRA For Live And Exclusive Coverage of Premuim Sporting Events - Dec",
+      "desc": "beIN SPORTS XTRA For Live And Exclusive Coverage of Premuim Sporting Events",
+      "start": "05:00",
+      "end": "06:00",
+      "start_full": "20260124050000",
+      "end_full": "20260124060000"
+    },
+    {
+      "title": "beIN SPORTS XTRA For Live And Exclusive Coverage of Premuim Sporting Events - Dec",
+      "desc": "beIN SPORTS XTRA For Live And Exclusive Coverage of Premuim Sporting Events",
+      "start": "06:00",
+      "end": "07:00",
+      "start_full": "20260124060000",
+      "end_full": "20260124070000"
+    },
+    {
+      "title": "beIN SPORTS XTRA For Live And Exclusive Coverage of Premuim Sporting Events - Dec",
+      "desc": "beIN SPORTS XTRA For Live And Exclusive Coverage of Premuim Sporting Events",
+      "start": "07:00",
+      "end": "08:00",
+      "start_full": "20260124070000",
+      "end_full": "20260124080000"
+    },
+    {
+      "title": "beIN SPORTS XTRA For Live And Exclusive Coverage of Premuim Sporting Events - Dec",
+      "desc": "beIN SPORTS XTRA For Live And Exclusive Coverage of Premuim Sporting Events",
+      "start": "08:00",
+      "end": "09:00",
+      "start_full": "20260124080000",
+      "end_full": "20260124090000"
+    },
+    {
+      "title": "beIN SPORTS XTRA For Live And Exclusive Coverage of Premuim Sporting Events - Dec",
+      "desc": "beIN SPORTS XTRA For Live And Exclusive Coverage of Premuim Sporting Events",
+      "start": "09:00",
+      "end": "10:00",
+      "start_full": "20260124090000",
+      "end_full": "20260124100000"
+    },
+    {
+      "title": "beIN SPORTS XTRA For Live And Exclusive Coverage of Premuim Sporting Events - Dec",
+      "desc": "beIN SPORTS XTRA For Live And Exclusive Coverage of Premuim Sporting Events",
+      "start": "10:00",
+      "end": "11:00",
+      "start_full": "20260124100000",
+      "end_full": "20260124110000"
+    },
+    {
+      "title": "beIN SPORTS XTRA For Live And Exclusive Coverage of Premuim Sporting Events - Dec",
+      "desc": "beIN SPORTS XTRA For Live And Exclusive Coverage of Premuim Sporting Events",
+      "start": "11:00",
+      "end": "12:00",
+      "start_full": "20260124110000",
+      "end_full": "20260124120000"
+    },
+    {
+      "title": "beIN SPORTS XTRA For Live And Exclusive Coverage of Premuim Sporting Events - Dec",
+      "desc": "beIN SPORTS XTRA For Live And Exclusive Coverage of Premuim Sporting Events",
+      "start": "12:00",
+      "end": "13:00",
+      "start_full": "20260124120000",
+      "end_full": "20260124130000"
+    },
+    {
+      "title": "beIN SPORTS XTRA For Live And Exclusive Coverage of Premuim Sporting Events - Dec",
+      "desc": "beIN SPORTS XTRA For Live And Exclusive Coverage of Premuim Sporting Events",
+      "start": "13:00",
+      "end": "14:00",
+      "start_full": "20260124130000",
+      "end_full": "20260124140000"
+    },
+    {
+      "title": "beIN SPORTS XTRA For Live And Exclusive Coverage of Premuim Sporting Events - Dec",
+      "desc": "beIN SPORTS XTRA For Live And Exclusive Coverage of Premuim Sporting Events",
+      "start": "14:00",
+      "end": "15:00",
+      "start_full": "20260124140000",
+      "end_full": "20260124150000"
+    },
+    {
+      "title": "beIN SPORTS XTRA For Live And Exclusive Coverage of Premuim Sporting Events - Dec",
+      "desc": "beIN SPORTS XTRA For Live And Exclusive Coverage of Premuim Sporting Events",
+      "start": "15:00",
+      "end": "16:00",
+      "start_full": "20260124150000",
+      "end_full": "20260124160000"
+    }
+  ],
+  "beIN SPORTS 8": [
+    {
+      "title": "Bublik, Alexander (KAZ) vs Etcheverry, Tomas Martin (ARG) - M4 - Evening Session - Margaret Court Ar",
+      "desc": "A 7,500-seat show court and ticketed arena with a retractable roof that opens in under five minutes, ensuring uninterrupted play in any conditions. It delivers a full showcase schedule of headline singles and doubles in Day Sessions (from 11:30am) and Night Sessions (from 7:00pm).",
+      "start": "16:00",
+      "end": "18:00",
+      "start_full": "20260123160000",
+      "end_full": "20260123180000"
+    },
+    {
+      "title": "Medvedev, Daniil vs Marozsan, Fabian (HUN)  - M1 - Morning Session - Margaret Court Arena - Australi",
+      "desc": "A 7,500-seat show court and ticketed arena with a retractable roof that opens in under five minutes, ensuring uninterrupted play in any conditions. It delivers a full showcase schedule of headline singles and doubles in Day Sessions (from 11:30am) and Night Sessions (from 7:00pm).",
+      "start": "18:00",
+      "end": "22:04",
+      "start_full": "20260123180000",
+      "end_full": "20260123220400"
+    },
+    {
+      "title": "Gauff, Coco (USA) vs Baptiste, Hailey (USA)  - M2 - Womens - Morning Session - Margaret Court Arena ",
+      "desc": "A 7,500-seat show court and ticketed arena with a retractable roof that opens in under five minutes, ensuring uninterrupted play in any conditions. It delivers a full showcase schedule of headline singles and doubles in Day Sessions (from 11:30am) and Night Sessions (from 7:00pm).",
+      "start": "22:04",
+      "end": "00:10",
+      "start_full": "20260123220400",
+      "end_full": "20260124001000"
+    },
+    {
+      "title": "Svitolina, Elina (UKR) vs Shnaider, Diana  - Womens - M3 - Evening Session - Margaret Court Arena - ",
+      "desc": "A 7,500-seat show court and ticketed arena with a retractable roof that opens in under five minutes, ensuring uninterrupted play in any conditions. It delivers a full showcase schedule of headline singles and doubles in Day Sessions (from 11:30am) and Night Sessions (from 7:00pm).",
+      "start": "00:10",
+      "end": "02:10",
+      "start_full": "20260124001000",
+      "end_full": "20260124021000"
+    },
+    {
+      "title": "Bublik, Alexander (KAZ) vs Etcheverry, Tomas Martin (ARG) - M4 - Evening Session - Margaret Court Ar",
+      "desc": "A 7,500-seat show court and ticketed arena with a retractable roof that opens in under five minutes, ensuring uninterrupted play in any conditions. It delivers a full showcase schedule of headline singles and doubles in Day Sessions (from 11:30am) and Night Sessions (from 7:00pm).",
+      "start": "02:10",
+      "end": "04:30",
+      "start_full": "20260124021000",
+      "end_full": "20260124043000"
+    },
+    {
+      "title": "PAOK vs Real Betis - UEFA Europa League 2025/2026 - MD7",
+      "desc": "PAOK Salonika and Real Betis have never met in major European competition before – the Greek side have won one of their last 11 European games against Spanish opponents. Real Betis’ only previous experience facing a Greek team was in the 2018-19 UEFA Europa League group stage, drawing 0-0 away and winning 1-0 at home against Olympiakos.\n",
+      "start": "04:30",
+      "end": "06:30",
+      "start_full": "20260124043000",
+      "end_full": "20260124063000"
+    },
+    {
+      "title": "Day 7 - M1 - Morning Session - Margaret Court Arena - Australian Open 2026",
+      "desc": "A 7,500-seat show court and ticketed arena with a retractable roof that opens in under five minutes, ensuring uninterrupted play in any conditions. It delivers a full showcase schedule of headline singles and doubles in Day Sessions (from 11:30am) and Night Sessions (from 7:00pm).",
+      "start": "06:30",
+      "end": "08:30",
+      "start_full": "20260124063000",
+      "end_full": "20260124083000"
+    },
+    {
+      "title": "Day 7 - M2 - Morning Session - Margaret Court Arena - Australian Open 2026",
+      "desc": "A 7,500-seat show court and ticketed arena with a retractable roof that opens in under five minutes, ensuring uninterrupted play in any conditions. It delivers a full showcase schedule of headline singles and doubles in Day Sessions (from 11:30am) and Night Sessions (from 7:00pm).",
+      "start": "08:30",
+      "end": "12:00",
+      "start_full": "20260124083000",
+      "end_full": "20260124120000"
+    },
+    {
+      "title": "Day 7 - M1 - Morning Session - Margaret Court Arena - Australian Open 2026",
+      "desc": "A 7,500-seat show court and ticketed arena with a retractable roof that opens in under five minutes, ensuring uninterrupted play in any conditions. It delivers a full showcase schedule of headline singles and doubles in Day Sessions (from 11:30am) and Night Sessions (from 7:00pm).",
+      "start": "12:00",
+      "end": "14:00",
+      "start_full": "20260124120000",
+      "end_full": "20260124140000"
+    },
+    {
+      "title": "Day 7 - M3 - Evening Session - Margaret Court Arena - Australian Open 2026",
+      "desc": "A 7,500-seat show court and ticketed arena with a retractable roof that opens in under five minutes, ensuring uninterrupted play in any conditions. It delivers a full showcase schedule of headline singles and doubles in Day Sessions (from 11:30am) and Night Sessions (from 7:00pm).",
+      "start": "14:00",
+      "end": "16:00",
+      "start_full": "20260124140000",
+      "end_full": "20260124160000"
+    }
+  ],
+  "beIN SPORTS XTRA 5": [
     {
       "title": "beIN SPORTS XTRA For Live And Exclusive Coverage of Premuim Sporting Events - Dec",
       "desc": "beIN SPORTS XTRA For Live And Exclusive Coverage of Premuim Sporting Events",
@@ -3885,358 +3803,432 @@
       "end_full": "20260124160000"
     }
   ],
-  "beIN SPORTS NEWS": [
+  "beIN SPORTS 1": [
     {
-      "title": "Al Hassad",
-      "desc": "Al Hassad is a nighltly studio from beIN Sports News that looks at the stories that have made the headlines in the world of sport and those stories that will be making the headlines tomorrow morning.",
+      "title": "Ligue 1 Show - 2025/2026 - EP 19",
+      "desc": "All the greatest moments and action in Ligue 1 including incredible stories and interviews featuring ligue 1 stars.",
       "start": "16:00",
-      "end": "17:00",
+      "end": "16:30",
       "start_full": "20260123160000",
+      "end_full": "20260123163000"
+    },
+    {
+      "title": "Senegal vs Morocco  - Final - African Cup of Nations - Morocco 2025 - Mini Match",
+      "desc": "The 35th edition of the Africa Cup of Nations will take place in Morocco from the 21st  of December 2025 through until 18th January 2026. All matches from AFCON are live and exclusive only on beIN.  ",
+      "start": "16:30",
+      "end": "17:00",
+      "start_full": "20260123163000",
       "end_full": "20260123170000"
     },
     {
-      "title": "News Bulletin - Live Studio @02:00",
-      "desc": "Latest news from the beIn SPORTS News room, previewing and reviewing developments and scores with contribution from around the world from beIN's reporters.",
+      "title": "Highlights - UEFA Europa League 2025/2026",
+      "desc": "Highlights from the 2025–26 UEFA Europa League. The 2025–26 UEFA Europa League is the secondary club football tournament organised by UEFA. Tottenham Hotspur are the reigning champions. The final will be played on 20 May 2026 at Beşiktaş Stadium in Istanbul, Turkey.",
       "start": "17:00",
-      "end": "17:30",
+      "end": "17:45",
       "start_full": "20260123170000",
-      "end_full": "20260123173000"
+      "end_full": "20260123174500"
     },
     {
-      "title": "Al Hassila - 23/01/26",
-      "desc": "\"Al Hassila\" provides a concise recap of the latest sports matches, highlighting key goals and noteworthy moments from around the world of sports.\t\t\t\t\t\t\t\t\t\n\t\t\t\t\t\t\t\t\t\n\t\t\t\t\t\t\t\t\t\n",
-      "start": "17:30",
-      "end": "18:00",
-      "start_full": "20260123173000",
-      "end_full": "20260123180000"
+      "title": "Olympique de Marseille vs Liverpool - UEFA Champions League 2025/26 - MD7 - Mini Match",
+      "desc": "Marseille have lost their last three UEFA Champions League games against Liverpool, most recently in the 2008-09 group stage. Liverpool have won just one of their last six away games against French sides in all competitions, though it was a 1-0 win at PSG in their most recent visit in March 2025.\n",
+      "start": "17:45",
+      "end": "18:15",
+      "start_full": "20260123174500",
+      "end_full": "20260123181500"
     },
     {
-      "title": "The Issue of The Day",
-      "desc": "The Issue Of The Day, from the beIn Sports News Team, takes an in depth look at the the main story form the world of sport from the last 24 hours.",
-      "start": "18:00",
-      "end": "19:00",
-      "start_full": "20260123180000",
-      "end_full": "20260123190000"
+      "title": "Bodø/Glimt vs Manchester City - UEFA Champions League 2025/26 - MD7 - Mini Match",
+      "desc": "Bodø/Glimt are winless in their six meetings with English sides in European competition, although did manage to avoid defeat in the only one to take place in the UEFA Champions League. This will be Manchester City’s first ever game against a Norwegian opponent. None of the last nine English sides to face a Norwegian team away from home in major European competition have lost, with Chelsea in October 2002 the last to lose there.\n",
+      "start": "18:15",
+      "end": "18:45",
+      "start_full": "20260123181500",
+      "end_full": "20260123184500"
     },
     {
-      "title": "News Bulletin - Live Studio @02:00",
-      "desc": "Latest news from the beIn SPORTS News room, previewing and reviewing developments and scores with contribution from around the world from beIN's reporters.",
-      "start": "19:00",
-      "end": "19:30",
-      "start_full": "20260123190000",
-      "end_full": "20260123193000"
+      "title": "EPL The Big Interview 2025/2026",
+      "desc": "Extended sit-downs and more informal ‘out and about’ interviews with the Premier League’s biggest stars, providing players with a platform to tell their story in their own words.\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n",
+      "start": "18:45",
+      "end": "19:15",
+      "start_full": "20260123184500",
+      "end_full": "20260123191500"
     },
     {
-      "title": "Special Interview  - 23/01/26",
-      "desc": "A  daily Special Interview related to an important issue of the day. The interview offers the background and insight into the issue chosen from the world of sport. ",
-      "start": "19:30",
+      "title": "La Liga Highlights 2025/2026",
+      "desc": "\"This 55-minute program offers full 5-minute highlights of each of the games played on Friday, Saturday and Sunday.LALIGA includes special video presentations of the best goal, the best save and the best player of the day.\"\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n",
+      "start": "19:15",
       "end": "19:45",
-      "start_full": "20260123193000",
+      "start_full": "20260123191500",
       "end_full": "20260123194500"
     },
     {
-      "title": "Special Report - 23/01/26",
-      "desc": "\"Special Report\" is a single long feature from one of beIN SPORTS News reporters that takes an alternative look at a subject from the world of sport. ",
+      "title": "EPL Stories 2025/2026",
+      "desc": "Showcasing the personalities who have shaped the Premier League era, in each episode we tell their unique story that will be sure to engage and entertain all fans.",
       "start": "19:45",
-      "end": "20:00",
+      "end": "20:15",
       "start_full": "20260123194500",
-      "end_full": "20260123200000"
+      "end_full": "20260123201500"
     },
     {
-      "title": "News Bulletin - @17:00",
-      "desc": "Latest news from the beIn SPORTS News room, previewing and reviewing developments and scores with contribution from around the world from beIN's reporters.",
-      "start": "20:00",
-      "end": "20:30",
-      "start_full": "20260123200000",
-      "end_full": "20260123203000"
-    },
-    {
-      "title": "The summary 1 - 23/01/26",
-      "desc": "'\"Daily Highlights\" is a brief highlight of the previous days action. A look at the goals and talking points that have taken place in the world of sport. ",
-      "start": "20:30",
-      "end": "20:45",
-      "start_full": "20260123203000",
-      "end_full": "20260123204500"
-    },
-    {
-      "title": "Football Legends - News",
-      "desc": "In the world of sports, few debates ignite passion and enthusiasm quite like the discussion surrounding the greatest football players of all time. This topic transcends generations, cultures, and nationalities, as fans passionately defend their favorites and recount unforgettable moments on the pitch. From legendary goal scorers to masterful playmakers, the players who have left an indelible mark on the game deserve recognition and celebration. \" Football Legends\" explore the remarkable careers and contributions of these iconic players who have shaped the beautiful game.\t\t\t\t\t\t\t\t\t\n\t\t\t\t\t\t\t\t\t\n\t\t\t\t\t\t\t\t\t\n",
-      "start": "20:45",
+      "title": "Highlights - UEFA Europa League 2025/2026",
+      "desc": "Highlights from the 2025–26 UEFA Europa League. The 2025–26 UEFA Europa League is the secondary club football tournament organised by UEFA. Tottenham Hotspur are the reigning champions. The final will be played on 20 May 2026 at Beşiktaş Stadium in Istanbul, Turkey.",
+      "start": "20:15",
       "end": "21:00",
-      "start_full": "20260123204500",
+      "start_full": "20260123201500",
       "end_full": "20260123210000"
     },
     {
-      "title": "Six O'Clock bulletin",
-      "desc": "Latest news from the beIn SPORTS News room, previewing and reviewing developments and scores with contribution from around the world from beIN's reporters.",
+      "title": "MA Super Ligue 1",
+      "desc": "Young players have to score the most beautiful goal in front of Koffi Kouao at the FC Metz training center. The locker room interview will feature 13-year-old Fanny, who will ask questions of her choice to the famous Paris FC goalkeeper, Kevin Trapp. This week's VIP pass has been reserved for not one, but two die-hard fans of HAC player Yassine Kechta.",
       "start": "21:00",
-      "end": "22:00",
+      "end": "21:30",
       "start_full": "20260123210000",
-      "end_full": "20260123220000"
+      "end_full": "20260123213000"
     },
     {
-      "title": "Al Jawla  - Live Studio @19:00",
-      "desc": "Al Jawla covers the latest news and stories from sporting events across the planet. Including latest results and latest scores from the most recent games taking place. This daily look at the latest stories provides a fast paced update to sporting events.",
-      "start": "22:00",
-      "end": "22:15",
-      "start_full": "20260123220000",
-      "end_full": "20260123221500"
+      "title": "Al Ahly vs Young Africans - CAF Champions League 2025/26 MD3",
+      "desc": "Al Ahly vs Young Africans\nAt 23-1-2026, MECCA 19:00, GMT 16:00\nCAF Champions League\nSeason 2025/2026\nQualifier Round\nGroup B\nBorg El Arab Stadium Stadium\n",
+      "start": "21:30",
+      "end": "00:30",
+      "start_full": "20260123213000",
+      "end_full": "20260124003000"
     },
     {
-      "title": "Where Are They ?",
-      "desc": "'Where Are They?\" is a special feature on a personality from a previous era of sporting achievement. The report traces where they have been and where they now are after their time as one of the leading sports men or women of their generation. ",
-      "start": "22:15",
-      "end": "22:30",
-      "start_full": "20260123221500",
-      "end_full": "20260123223000"
-    },
-    {
-      "title": "Special Interview  - 23/01/26",
-      "desc": "A  daily Special Interview related to an important issue of the day. The interview offers the background and insight into the issue chosen from the world of sport. ",
-      "start": "22:30",
-      "end": "22:45",
-      "start_full": "20260123223000",
-      "end_full": "20260123224500"
-    },
-    {
-      "title": "Special Report - 23/01/26",
-      "desc": "\"Special Report\" is a single long feature from one of beIN SPORTS News reporters that takes an alternative look at a subject from the world of sport. ",
-      "start": "22:45",
-      "end": "23:00",
-      "start_full": "20260123224500",
-      "end_full": "20260123230000"
-    },
-    {
-      "title": "News Bulletin - @20:00",
-      "desc": "Latest news from the beIn SPORTS News room, previewing and reviewing developments and scores with contribution from around the world from beIN's reporters.",
-      "start": "23:00",
-      "end": "23:30",
-      "start_full": "20260123230000",
-      "end_full": "20260123233000"
-    },
-    {
-      "title": "Al Hassila - 23/01/26",
-      "desc": "\"Al Hassila\" provides a concise recap of the latest sports matches, highlighting key goals and noteworthy moments from around the world of sports.\t\t\t\t\t\t\t\t\t\n\t\t\t\t\t\t\t\t\t\n\t\t\t\t\t\t\t\t\t\n",
-      "start": "23:30",
-      "end": "00:00",
-      "start_full": "20260123233000",
-      "end_full": "20260124000000"
-    },
-    {
-      "title": "Nine O'Clock bulletin - NEWS",
-      "desc": "Latest news from the beIn SPORTS News room, previewing and reviewing developments and scores with contribution from around the world from beIN's reporters.",
-      "start": "00:00",
+      "title": "ATP Tour - Magazine 2026",
+      "desc": "ATP Tour This Week It is comprised of the various feature stories created by ATP Media and ATP Tour",
+      "start": "00:30",
       "end": "01:00",
-      "start_full": "20260124000000",
+      "start_full": "20260124003000",
       "end_full": "20260124010000"
     },
     {
-      "title": "Al Jawla  - Live Studio @23:00",
-      "desc": "Al Jawla covers the latest news and stories from sporting events across the planet. Including latest results and latest scores from the most recent games taking place. This daily look at the latest stories provides a fast paced update to sporting events.",
+      "title": "Highlights - UEFA Europa League 2025/2026",
+      "desc": "Highlights from the 2025–26 UEFA Europa League. The 2025–26 UEFA Europa League is the secondary club football tournament organised by UEFA. Tottenham Hotspur are the reigning champions. The final will be played on 20 May 2026 at Beşiktaş Stadium in Istanbul, Turkey.",
       "start": "01:00",
-      "end": "01:15",
-      "start_full": "20260124010000",
-      "end_full": "20260124011500"
-    },
-    {
-      "title": "The summary 1 - 23/01/26",
-      "desc": "'\"Daily Highlights\" is a brief highlight of the previous days action. A look at the goals and talking points that have taken place in the world of sport. ",
-      "start": "01:15",
-      "end": "01:30",
-      "start_full": "20260124011500",
-      "end_full": "20260124013000"
-    },
-    {
-      "title": "Special Interview  - 23/01/26",
-      "desc": "A  daily Special Interview related to an important issue of the day. The interview offers the background and insight into the issue chosen from the world of sport. ",
-      "start": "01:30",
-      "end": "01:45",
-      "start_full": "20260124013000",
-      "end_full": "20260124014500"
-    },
-    {
-      "title": "Special Report - 23/01/26",
-      "desc": "\"Special Report\" is a single long feature from one of beIN SPORTS News reporters that takes an alternative look at a subject from the world of sport. ",
-      "start": "01:45",
       "end": "02:00",
-      "start_full": "20260124014500",
+      "start_full": "20260124010000",
       "end_full": "20260124020000"
     },
     {
-      "title": "News Bulletin - @23:00",
-      "desc": "Latest news from the beIn SPORTS News room, previewing and reviewing developments and scores with contribution from around the world from beIN's reporters.",
+      "title": "EPL Stories 2025/2026",
+      "desc": "Showcasing the personalities who have shaped the Premier League era, in each episode we tell their unique story that will be sure to engage and entertain all fans.",
       "start": "02:00",
       "end": "02:30",
       "start_full": "20260124020000",
       "end_full": "20260124023000"
     },
     {
-      "title": "Ligue 1 Show - 2025/2026 - EP 19",
-      "desc": "All the greatest moments and action in Ligue 1 including incredible stories and interviews featuring ligue 1 stars.",
+      "title": "MA Super Ligue 1",
+      "desc": "Young players have to score the most beautiful goal in front of Koffi Kouao at the FC Metz training center. The locker room interview will feature 13-year-old Fanny, who will ask questions of her choice to the famous Paris FC goalkeeper, Kevin Trapp. This week's VIP pass has been reserved for not one, but two die-hard fans of HAC player Yassine Kechta.",
       "start": "02:30",
       "end": "03:00",
       "start_full": "20260124023000",
       "end_full": "20260124030000"
     },
     {
-      "title": "European Football",
-      "desc": "All the latest news and previews from the world of the Big Five European Football Leagues. Ahead of the weekend's action, Sports News  provides a preview every Friday of all the latest from the European big leagues.  All the latest from  the Premier League in England, the Bundesliga in Germany, La Liga in Spain, Serie A in Italy, and Ligue 1 in France\t\t\t\t\t\t\t\t\t\n\t\t\t\t\t\t\t\t\t\n\t\t\t\t\t\t\t\t\t\n",
+      "title": "Al Ahly vs Young Africans - CAF Champions League 2025/26 MD3",
+      "desc": "Al Ahly vs Young Africans\nAt 23-1-2026, MECCA 19:00, GMT 16:00\nCAF Champions League\nSeason 2025/2026\nQualifier Round\nGroup B\nBorg El Arab Stadium Stadium\n",
       "start": "03:00",
-      "end": "04:00",
-      "start_full": "20260124030000",
-      "end_full": "20260124040000"
-    },
-    {
-      "title": "Al Hassad",
-      "desc": "Al Hassad is a nighltly studio from beIN Sports News that looks at the stories that have made the headlines in the world of sport and those stories that will be making the headlines tomorrow morning.",
-      "start": "04:00",
-      "end": "05:00",
-      "start_full": "20260124040000",
-      "end_full": "20260124050000"
-    },
-    {
-      "title": "News Bulletin - Live Studio @02:00",
-      "desc": "Latest news from the beIn SPORTS News room, previewing and reviewing developments and scores with contribution from around the world from beIN's reporters.",
-      "start": "05:00",
-      "end": "05:30",
-      "start_full": "20260124050000",
-      "end_full": "20260124053000"
-    },
-    {
-      "title": "Al Hassila - 24/01/26",
-      "desc": "\"Al Hassila\" provides a concise recap of the latest sports matches, highlighting key goals and noteworthy moments from around the world of sports.\t\t\t\t\t\t\t\t\t\n\t\t\t\t\t\t\t\t\t\n\t\t\t\t\t\t\t\t\t\n",
-      "start": "05:30",
       "end": "06:00",
-      "start_full": "20260124053000",
+      "start_full": "20260124030000",
       "end_full": "20260124060000"
     },
     {
-      "title": "European Football",
-      "desc": "All the latest news and previews from the world of the Big Five European Football Leagues. Ahead of the weekend's action, Sports News  provides a preview every Friday of all the latest from the European big leagues.  All the latest from  the Premier League in England, the Bundesliga in Germany, La Liga in Spain, Serie A in Italy, and Ligue 1 in France\t\t\t\t\t\t\t\t\t\n\t\t\t\t\t\t\t\t\t\n\t\t\t\t\t\t\t\t\t\n",
+      "title": "EPL Netbusters 2025/2026",
+      "desc": "Highlights of the Premier League Matchweek from an alternative angle. A look back at every goal from every game using the best ISOs and Slow Motion angles.\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n",
       "start": "06:00",
-      "end": "07:00",
+      "end": "06:30",
       "start_full": "20260124060000",
+      "end_full": "20260124063000"
+    },
+    {
+      "title": "La Liga Highlights 2025/2026",
+      "desc": "\"This 55-minute program offers full 5-minute highlights of each of the games played on Friday, Saturday and Sunday.LALIGA includes special video presentations of the best goal, the best save and the best player of the day.\"\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n",
+      "start": "06:30",
+      "end": "07:00",
+      "start_full": "20260124063000",
       "end_full": "20260124070000"
     },
     {
-      "title": "Al Hassad",
-      "desc": "Al Hassad is a nighltly studio from beIN Sports News that looks at the stories that have made the headlines in the world of sport and those stories that will be making the headlines tomorrow morning.",
+      "title": "EPL Review - 2025/2026",
+      "desc": "Each EPL Match week is condensed into a 52-minute highlights show. Every game, goal, penalty, red card and everything in between is squeezed into an action-packed hour to ensure no football fan misses a kick across the game season.\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n",
       "start": "07:00",
       "end": "08:00",
       "start_full": "20260124070000",
       "end_full": "20260124080000"
     },
     {
-      "title": "News Bulletin - Live Studio @02:00",
-      "desc": "Latest news from the beIn SPORTS News room, previewing and reviewing developments and scores with contribution from around the world from beIN's reporters.",
+      "title": "Internazionale Milano vs Arsenal - UEFA Champions League 2025/26 - MD7 - Mini Match",
+      "desc": "Internazionale and Arsenal will meet for the fourth time in the UEFA Champions League – the Italians have won two of the previous three, including one over a Mikel Arteta-led Gunners side in last season’s league phase. Arsenal’s last victory away to an Italian side in the UEFA Champions League was in March 2008. Since then, they have failed to win on five straight trips, while failing to score a single goal.\n",
       "start": "08:00",
       "end": "08:30",
       "start_full": "20260124080000",
       "end_full": "20260124083000"
     },
     {
-      "title": "Ligue 1 Show - 2025/2026 - EP 19",
-      "desc": "All the greatest moments and action in Ligue 1 including incredible stories and interviews featuring ligue 1 stars.",
+      "title": "Sporting Clube de Portugal vs Paris Saint-Germain - UEFA Champions League 2025/26 - MD7 - Mini Match",
+      "desc": "This is the first ever European meeting between Sporting CP and Paris SG – they will be the 12th different French side Sporting have faced overall in Europe, and first since they beat Marseille 2-1 on MD3 this season in the UEFA Champions League. Paris Saint-Germain have won just one of their eight away major European matches in Portugal, beating Sporting Braga 1-0 in the UEFA Cup in March 2009 with a Guillaume Hoarau goal.\n",
       "start": "08:30",
       "end": "09:00",
       "start_full": "20260124083000",
       "end_full": "20260124090000"
     },
     {
-      "title": "Al Hassad",
-      "desc": "Al Hassad is a nighltly studio from beIN Sports News that looks at the stories that have made the headlines in the world of sport and those stories that will be making the headlines tomorrow morning.",
+      "title": "Olympique de Marseille vs Liverpool - UEFA Champions League 2025/26 - MD7 - Mini Match",
+      "desc": "Marseille have lost their last three UEFA Champions League games against Liverpool, most recently in the 2008-09 group stage. Liverpool have won just one of their last six away games against French sides in all competitions, though it was a 1-0 win at PSG in their most recent visit in March 2025.\n",
       "start": "09:00",
-      "end": "10:00",
+      "end": "09:30",
       "start_full": "20260124090000",
+      "end_full": "20260124093000"
+    },
+    {
+      "title": "EPL The Big Interview 2025/2026",
+      "desc": "Extended sit-downs and more informal ‘out and about’ interviews with the Premier League’s biggest stars, providing players with a platform to tell their story in their own words.\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n",
+      "start": "09:30",
+      "end": "10:00",
+      "start_full": "20260124093000",
       "end_full": "20260124100000"
     },
     {
-      "title": "News Bulletin - Live Studio @02:00",
-      "desc": "Latest news from the beIn SPORTS News room, previewing and reviewing developments and scores with contribution from around the world from beIN's reporters.",
+      "title": "Ligue 1 Weekly Review - 2025/2026",
+      "desc": "Each Ligue 1 Match week is condensed into a 52-minute highlights show. Every game, goal, penalty, red card and everything in between is squeezed into an action-packed hour to ensure no football fan misses a kick across the game season.\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n",
       "start": "10:00",
       "end": "10:30",
       "start_full": "20260124100000",
       "end_full": "20260124103000"
     },
     {
-      "title": "Special Interview  - 23/01/26",
-      "desc": "A  daily Special Interview related to an important issue of the day. The interview offers the background and insight into the issue chosen from the world of sport. ",
+      "title": "La Liga Highlights 2025/2026",
+      "desc": "\"This 55-minute program offers full 5-minute highlights of each of the games played on Friday, Saturday and Sunday.LALIGA includes special video presentations of the best goal, the best save and the best player of the day.\"\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n",
       "start": "10:30",
-      "end": "10:45",
-      "start_full": "20260124103000",
-      "end_full": "20260124104500"
-    },
-    {
-      "title": "Special Report - 23/01/26",
-      "desc": "\"Special Report\" is a single long feature from one of beIN SPORTS News reporters that takes an alternative look at a subject from the world of sport. ",
-      "start": "10:45",
       "end": "11:00",
-      "start_full": "20260124104500",
+      "start_full": "20260124103000",
       "end_full": "20260124110000"
     },
     {
-      "title": "News Bulletin - Live Studio @02:00",
-      "desc": "Latest news from the beIn SPORTS News room, previewing and reviewing developments and scores with contribution from around the world from beIN's reporters.",
+      "title": "Best World Cup Player 2018",
+      "desc": "WHO WERE THE BEST WORLD CUP PLAYERS IN 2022\n",
       "start": "11:00",
-      "end": "11:30",
+      "end": "11:15",
       "start_full": "20260124110000",
-      "end_full": "20260124113000"
+      "end_full": "20260124111500"
     },
     {
-      "title": "beIN Experiments - News",
-      "desc": "One of beIN's many  reporters chooses a sport to try and master. In each episode there is a chance to experience the challenges faced in different sports from different parts of the world .",
-      "start": "11:30",
+      "title": "French Super Cup 2025",
+      "desc": "The 2025 Trophée des Champions was the 30th edition of the French super cup. It took place at the Jaber Al-Ahmad International Stadium in Kuwait City, Kuwait. The match was contested by Paris Saint-Germain, the winners of the 2024–25 Ligue 1 and Coupe de France titles, and Marseille, the runners-up of the 2024–25 Ligue 1. Paris Saint-Germain won the match 4–1 on penalties for their fourteenth Trophée des Champions title.\n\n",
+      "start": "11:15",
       "end": "11:45",
-      "start_full": "20260124113000",
+      "start_full": "20260124111500",
       "end_full": "20260124114500"
     },
     {
-      "title": "Where Are They ?",
-      "desc": "'Where Are They?\" is a special feature on a personality from a previous era of sporting achievement. The report traces where they have been and where they now are after their time as one of the leading sports men or women of their generation. ",
+      "title": "10, A Magic Number",
+      "desc": "Pele, Maradona, Platini, Zidane…Messi were great number 10. Today this magical number “10” doesn’t mean a lot in the modern football. Why Football is missing these key players today ? Why modern football doesn’t count on them anymore ? ",
       "start": "11:45",
-      "end": "12:00",
+      "end": "12:15",
       "start_full": "20260124114500",
-      "end_full": "20260124120000"
+      "end_full": "20260124121500"
     },
     {
-      "title": "European Football",
-      "desc": "All the latest news and previews from the world of the Big Five European Football Leagues. Ahead of the weekend's action, Sports News  provides a preview every Friday of all the latest from the European big leagues.  All the latest from  the Premier League in England, the Bundesliga in Germany, La Liga in Spain, Serie A in Italy, and Ligue 1 in France\t\t\t\t\t\t\t\t\t\n\t\t\t\t\t\t\t\t\t\n\t\t\t\t\t\t\t\t\t\n",
-      "start": "12:00",
-      "end": "13:00",
-      "start_full": "20260124120000",
-      "end_full": "20260124130000"
+      "title": "Real Madrid vs Monaco - UEFA Champions League 2025/26 - MD7 - Mini Match",
+      "desc": "Real Madrid and Monaco’s only previous meetings came in the quarter-finals of the 2003-04 UEFA Champions League – after winning the first leg at home, the Spanish side were eliminated on the away goals rule following a 3-1 defeat in the reverse fixture. Real Madrid have only lost one of their 18 home games against French sides in major European competition  and are unbeaten in 14 since that lone defeat versus Paris SG in March 1994.\n",
+      "start": "12:15",
+      "end": "12:45",
+      "start_full": "20260124121500",
+      "end_full": "20260124124500"
     },
     {
-      "title": "Al Hassad",
-      "desc": "Al Hassad is a nighltly studio from beIN Sports News that looks at the stories that have made the headlines in the world of sport and those stories that will be making the headlines tomorrow morning.",
-      "start": "13:00",
-      "end": "14:00",
-      "start_full": "20260124130000",
-      "end_full": "20260124140000"
+      "title": "Sporting Clube de Portugal vs Paris Saint-Germain - UEFA Champions League 2025/26 - MD7 - Mini Match",
+      "desc": "This is the first ever European meeting between Sporting CP and Paris SG – they will be the 12th different French side Sporting have faced overall in Europe, and first since they beat Marseille 2-1 on MD3 this season in the UEFA Champions League. Paris Saint-Germain have won just one of their eight away major European matches in Portugal, beating Sporting Braga 1-0 in the UEFA Cup in March 2009 with a Guillaume Hoarau goal.\n",
+      "start": "12:45",
+      "end": "13:15",
+      "start_full": "20260124124500",
+      "end_full": "20260124131500"
     },
     {
-      "title": "News Bulletin - Live Studio @02:00",
-      "desc": "Latest news from the beIn SPORTS News room, previewing and reviewing developments and scores with contribution from around the world from beIN's reporters.",
-      "start": "14:00",
-      "end": "14:30",
-      "start_full": "20260124140000",
-      "end_full": "20260124143000"
+      "title": "Slavia Praha vs Barcelona - UEFA Champions League 2025/26 - MD7 - Mini Match",
+      "desc": "This is just the third meeting between Slavia Prague and Barcelona, with the Spanish side winning 2-1 away before a 0-0 draw at home in the 2019-20 UEFA Champions League group stage. Slavia Prague have won just one of their 14 meetings with Spanish sides in major European competition, beating Sevilla 4-3 at home in the 2018-19 UEFA Europa League.\n",
+      "start": "13:15",
+      "end": "13:45",
+      "start_full": "20260124131500",
+      "end_full": "20260124134500"
     },
     {
       "title": "Ligue 1 Show - 2025/2026 - EP 19",
       "desc": "All the greatest moments and action in Ligue 1 including incredible stories and interviews featuring ligue 1 stars.",
-      "start": "14:30",
-      "end": "15:00",
-      "start_full": "20260124143000",
-      "end_full": "20260124150000"
+      "start": "13:45",
+      "end": "14:15",
+      "start_full": "20260124134500",
+      "end_full": "20260124141500"
     },
     {
-      "title": "European Football",
-      "desc": "All the latest news and previews from the world of the Big Five European Football Leagues. Ahead of the weekend's action, Sports News  provides a preview every Friday of all the latest from the European big leagues.  All the latest from  the Premier League in England, the Bundesliga in Germany, La Liga in Spain, Serie A in Italy, and Ligue 1 in France\t\t\t\t\t\t\t\t\t\n\t\t\t\t\t\t\t\t\t\n\t\t\t\t\t\t\t\t\t\n",
-      "start": "15:00",
-      "end": "16:00",
-      "start_full": "20260124150000",
-      "end_full": "20260124160000"
+      "title": "EPL The Big Interview 2025/2026",
+      "desc": "Extended sit-downs and more informal ‘out and about’ interviews with the Premier League’s biggest stars, providing players with a platform to tell their story in their own words.\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n",
+      "start": "14:15",
+      "end": "14:45",
+      "start_full": "20260124141500",
+      "end_full": "20260124144500"
+    },
+    {
+      "title": "Ligue 1 Weekly Review - 2025/2026",
+      "desc": "Each Ligue 1 Match week is condensed into a 52-minute highlights show. Every game, goal, penalty, red card and everything in between is squeezed into an action-packed hour to ensure no football fan misses a kick across the game season.\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n",
+      "start": "14:45",
+      "end": "15:15",
+      "start_full": "20260124144500",
+      "end_full": "20260124151500"
+    },
+    {
+      "title": "Best World Cup Player 2014",
+      "desc": "WHO WERE THE BEST WORLD CUP PLAYERS IN 2018\n",
+      "start": "15:15",
+      "end": "15:30",
+      "start_full": "20260124151500",
+      "end_full": "20260124153000"
+    },
+    {
+      "title": "Olympique de Marseille vs Liverpool - UEFA Champions League 2025/26 - MD7 - Mini Match",
+      "desc": "Marseille have lost their last three UEFA Champions League games against Liverpool, most recently in the 2008-09 group stage. Liverpool have won just one of their last six away games against French sides in all competitions, though it was a 1-0 win at PSG in their most recent visit in March 2025.\n",
+      "start": "15:30",
+      "end": "15:57",
+      "start_full": "20260124153000",
+      "end_full": "20260124155700"
+    },
+    {
+      "title": "Bodø/Glimt vs Manchester City - UEFA Champions League 2025/26 - MD7 - Mini Match",
+      "desc": "Bodø/Glimt are winless in their six meetings with English sides in European competition, although did manage to avoid defeat in the only one to take place in the UEFA Champions League. This will be Manchester City’s first ever game against a Norwegian opponent. None of the last nine English sides to face a Norwegian team away from home in major European competition have lost, with Chelsea in October 2002 the last to lose there.\n",
+      "start": "15:57",
+      "end": "16:25",
+      "start_full": "20260124155700",
+      "end_full": "20260124162500"
+    }
+  ],
+  "beIN SPORTS FR 1": [
+    {
+      "title": "Cleveland Cavaliers vs Charlotte Hornets - NBA - Basketball 2025-2026",
+      "desc": "Sport, Basketball. Plus grande ligue professionnelle de basket-ball au monde, la NBA offre une competition d'elite entre 30 equipes. La saison atteint son apogee lors des Finales NBA, ou les meilleures franchises s'affrontent pour le titre de champion.",
+      "start": "16:00",
+      "end": "17:45",
+      "start_full": "20260123160000",
+      "end_full": "20260123174500"
+    },
+    {
+      "title": "NBA Extra - Magazine 2025-2026",
+      "desc": "Sport, Sport magazine, Basketball. Plongez dans l'univers de la NBA comme jamais auparavant. Ce magazine vous offre un acces exclusif aux plus grandes stars de la ligue, des histoires inedites et les moments les plus spectaculaires qui font vibrer la planete basket.",
+      "start": "17:45",
+      "end": "18:30",
+      "start_full": "20260123174500",
+      "end_full": "20260123183000"
+    },
+    {
+      "title": "Sporting Portugal vs PSG - Champions League - J07 - Football 2025-2026",
+      "desc": "Sport, Football. Les passionnes de football du monde entier sont invites a suivre l'une des compétitions les plus prestigieuses: la Ligue des champions. Avec les plus grands clubs européens en quête du titre ultime, le spectacle est garanti du debut a la fin",
+      "start": "18:30",
+      "end": "21:00",
+      "start_full": "20260123183000",
+      "end_full": "20260123210000"
+    },
+    {
+      "title": "Saint-Etienne vs ASM Clermont - Ligue 2 - J19 - Football 2025-2026",
+      "desc": "Sport, Football. Vingt equipes de deuxieme division française s'affrontent lors d'un marathon de 38 journees, toutes en quete de promotion en Ligue 1 pour defier les legendes du football hexagonal.",
+      "start": "21:00",
+      "end": "23:00",
+      "start_full": "20260123210000",
+      "end_full": "20260123230000"
+    },
+    {
+      "title": "NFL Extra -",
+      "desc": "Sport, Sport magazine, Basketball. Chaque semaine, l'emission propose des interviews exclusives, des reportages en coulisses, les temps forts des matchs et des analyses approfondies pour les passionnes de la NFL.",
+      "start": "23:00",
+      "end": "00:15",
+      "start_full": "20260123230000",
+      "end_full": "20260124001500"
+    },
+    {
+      "title": "Avant Match Multiligue 2 - Ligue 2 - Football 2025-2026",
+      "desc": "Sport, Football. Vingt equipes de deuxieme division française s'affrontent lors d'un marathon de 38 journees, toutes en quete de promotion en Ligue 1 pour defier les legendes du football hexagonal.",
+      "start": "00:15",
+      "end": "00:55",
+      "start_full": "20260124001500",
+      "end_full": "20260124005500"
+    },
+    {
+      "title": "Multiplex - Ligue 2 - J20 - Football 2025-2026",
+      "desc": "Sport, Football. Vingt equipes de deuxieme division française s'affrontent lors d'un marathon de 38 journees, toutes en quete de promotion en Ligue 1 pour defier les legendes du football hexagonal.",
+      "start": "00:55",
+      "end": "03:00",
+      "start_full": "20260124005500",
+      "end_full": "20260124030000"
+    },
+    {
+      "title": "Ligue 2 - Football 2025-2026",
+      "desc": "Sport, Football. Vingt equipes de deuxieme division française s'affrontent lors d'un marathon de 38 journees, toutes en quete de promotion en Ligue 1 pour defier les legendes du football hexagonal.",
+      "start": "03:00",
+      "end": "03:30",
+      "start_full": "20260124030000",
+      "end_full": "20260124033000"
+    },
+    {
+      "title": "San Francisco 49ers vs Seattle Seahawks - NFL - D - Football AmÃ©ricain 2025-2026",
+      "desc": "Sport, American Football. Les 32 meilleures equipes des etats-Unis s'affrontent avec passion pour decrocher le titre du championnat de football le plus prestigieux d'Amerique du Nord.",
+      "start": "03:30",
+      "end": "06:00",
+      "start_full": "20260124033000",
+      "end_full": "20260124060000"
+    },
+    {
+      "title": "Los Angeles Rams vs Chicago Bears - NFL - D - Football AmÃ©ricain 2025-2026",
+      "desc": "Sport, American Football. Les 32 meilleures equipes des etats-Unis s'affrontent avec passion pour decrocher le titre du championnat de football le plus prestigieux d'Amerique du Nord.",
+      "start": "06:00",
+      "end": "09:00",
+      "start_full": "20260124060000",
+      "end_full": "20260124090000"
+    },
+    {
+      "title": "AtlÃ©tico Madrid vs Deportivo Alaves - Liga - J20 - Football 2025-2026",
+      "desc": "Sport, Football. Vingt clubs, trente-huit journees intenses. La Liga est le grand spectacle du football espagnol ou les legendes naissent, les rivalites s'enflamment et chaque match ecrit un nouveau chapitre dans la quete de gloire.",
+      "start": "09:00",
+      "end": "10:05",
+      "start_full": "20260124090000",
+      "end_full": "20260124100500"
+    },
+    {
+      "title": "Doc Grandir Par Le Sport - Documentaire",
+      "desc": "Sport, Debate. Dans l'elan des Jeux Olympiques de Paris 2024, 500 jeunes se rassemblent pour un Festival international de solidarite. Le documentaire suit quatre d'entre eux, de quatre continents, dans une aventure sportive et humaine.",
+      "start": "10:05",
+      "end": "11:00",
+      "start_full": "20260124100500",
+      "end_full": "20260124110000"
+    },
+    {
+      "title": "Magazine 2025",
+      "desc": "Sport, Magazine. Un suivi proactif de l'actualite sportive, des transferts et des resultats quotidiens dans le football, le basket-ball, les sports mécaniques et bien plus encore.",
+      "start": "11:00",
+      "end": "11:35",
+      "start_full": "20260124110000",
+      "end_full": "20260124113500"
+    },
+    {
+      "title": "Salon VIP - Magazine 2025-2026",
+      "desc": "Sport, Football, Sport magazine. Interviews exclusives de joueurs et temoignages de supporters passionnes : plongez dans les coulisses du football avec des points de vue d'inities, des histoires inedites et des debats enflammes autour du ballon rond. Host: Claire Arnoux.",
+      "start": "11:35",
+      "end": "12:05",
+      "start_full": "20260124113500",
+      "end_full": "20260124120500"
+    },
+    {
+      "title": "Senegal vs Maroc - AFCONÂ  - FINALE - Football 2025",
+      "desc": "Sport, Football. Vingt-quatre selections africaines s'affrontent en phase de groupes. Les deux premiers et les quatre meilleurs troisiemes rejoignent les eliminatoires pour jouer le titre continental.",
+      "start": "12:05",
+      "end": "15:15",
+      "start_full": "20260124120500",
+      "end_full": "20260124151500"
+    },
+    {
+      "title": "San Francisco 49ers vs Seattle Seahawks - NFL - D - Football AmÃ©ricain 2025-2026",
+      "desc": "Sport, American Football. Les 32 meilleures equipes des etats-Unis s'affrontent avec passion pour decrocher le titre du championnat de football le plus prestigieux d'Amerique du Nord.",
+      "start": "15:15",
+      "end": "17:45",
+      "start_full": "20260124151500",
+      "end_full": "20260124174500"
     }
   ]
 }

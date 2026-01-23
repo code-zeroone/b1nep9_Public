@@ -1,0 +1,590 @@
+[
+  {
+    "channel": "beIN SPORTS",
+    "translated_count": 14,
+    "programs": [
+      {
+        "title": "اليوم الثاني - سباق التتابع العالمي لألعاب القوى 2025",
+        "title_en": "Day 2 - World Athletics Relays 2025",
+        "desc": "ستقام بطولة العالم لألعاب القوى 2025 يومي 10 و11 م..."
+      },
+      {
+        "title": "الوكرة vs الدحيل - دوري نجوم قطر 2025/26 - ج1",
+        "title_en": "Al Wakrah vs Al Duhail - Qatar Stars League 2025/26 - W13",
+        "desc": "الدوري القطري هو الدوري الرسمي لكرة القدم في قطر. "
+      },
+      {
+        "title": "العربي vs الغرافة - دوري نجوم قطر 2025/26 - ف13",
+        "title_en": "Al Arabi vs Al Gharafa - Qatar Stars League 2025/26 - W13",
+        "desc": "الدوري القطري هو الدوري الرسمي لكرة القدم في قطر. "
+      }
+    ]
+  },
+  {
+    "channel": "beIN SPORTS 9",
+    "translated_count": 14,
+    "programs": [
+      {
+        "title": "H .H the Father Amirs Prix 2026 - الأسبوع 2 - CSI5* - 160 سم - سباق الجائزة الكبرى مع القفز",
+        "title_en": "H .H the Father Amirs Prix 2026 -  Week 2 - CSI5* - 160cm – GP with Jump Off",
+        "desc": "يعود سباق جائزة صاحب السمو الأمير الوالد 2026 في ا..."
+      },
+      {
+        "title": "HL - حفل افتتاح جائزة سمو الوالد الأمير 2026",
+        "title_en": "HL – Opening Ceremony for H.H.THE Father Amirs prix 2026",
+        "desc": "بطولة دولية كبرى يشارك فيها 240 متسابقًا وفارسة من..."
+      },
+      {
+        "title": "H .H the Father Amirs Prix 2026 - الأسبوع 3 - CSI5* - الجائزة الكبرى - مع القفز",
+        "title_en": "H .H the Father Amirs Prix 2026 -  Week 3 - CSI5* - Grand Prix – with Jump Off",
+        "desc": "يعود سباق جائزة صاحب السمو الأمير الوالد 2026 في ا..."
+      }
+    ]
+  },
+  {
+    "channel": "beIN SPORTS 4",
+    "translated_count": 18,
+    "programs": [
+      {
+        "title": "نيس vs جو أهيد إيجلز - الدوري الأوروبي 2025/2026 - MD7",
+        "title_en": "Nice vs Go Ahead Eagles - UEFA Europa League 2025/2026 - MD7",
+        "desc": "لم يلتقي فريق نيس وجو أهيد إيجلز من قبل في المنافس..."
+      },
+      {
+        "title": "فيكتوريا بلزن vs بورتو - الدوري الأوروبي 2025/2026 - MD7",
+        "title_en": "Viktoria Plzen vs Porto - UEFA Europa League 2025/2026 - MD7",
+        "desc": "هذا هو أول لقاء أوروبي بين فيكتوريا بلزن وبورتو - ..."
+      },
+      {
+        "title": "سيلتا فيجو vs ليل - الدوري الأوروبي 2025/2026 - MD7",
+        "title_en": "Celta de Vigo vs Lille - UEFA Europa League 2025/2026 - MD7",
+        "desc": "لم يلتقي سيلتا فيغو وليل في أي منافسة أوروبية من ق..."
+      }
+    ]
+  },
+  {
+    "channel": "beIN SPORTS 2",
+    "translated_count": 14,
+    "programs": [
+      {
+        "title": "ليدز يونايتد vs فولهام - الدوري الإنجليزي الممتاز 2025/2026 الأسبوع 22",
+        "title_en": "Leeds United vs Fulham - English Premier League 2025/2026 Week 22",
+        "desc": "ولم يحقق سندرلاند أي فوز في آخر خمس مباريات على أر..."
+      },
+      {
+        "title": "قصص الدوري الإنجليزي 2025/2026",
+        "title_en": "EPL Stories 2025/2026",
+        "desc": "من خلال عرض الشخصيات التي شكلت عصر الدوري الإنجليز..."
+      },
+      {
+        "title": "غلطة سراي vs أتلتيكو مدريد - دوري أبطال أوروبا 2025/26 - MD7",
+        "title_en": "Galatasaray vs Atlético de Madrid - UEFA Champions League 2025/26 - MD7",
+        "desc": "ستكون هذه هي المرة السابعة التي يواجه فيها غلطة سر..."
+      }
+    ]
+  },
+  {
+    "channel": "beIN SPORTS MAX 6",
+    "translated_count": 13,
+    "programs": [
+      {
+        "title": "بي ان سبورت ماكس",
+        "title_en": "beIN Sports MAX",
+        "desc": "قناة beIN SPORTS MAX لتغطية حصرية للبطولات الرياضي..."
+      },
+      {
+        "title": "بي ان سبورت ماكس",
+        "title_en": "beIN Sports MAX",
+        "desc": "قناة beIN SPORTS MAX لتغطية حصرية للبطولات الرياضي..."
+      },
+      {
+        "title": "بي ان سبورت ماكس",
+        "title_en": "beIN Sports MAX",
+        "desc": "قناة beIN SPORTS MAX لتغطية حصرية للبطولات الرياضي..."
+      }
+    ]
+  },
+  {
+    "channel": "beIN SPORTS FR 2",
+    "translated_count": 14,
+    "programs": [
+      {
+        "title": "ريال مدريد vs ليفانتي - الدوري الاسباني - J20 - كرة القدم 2025-2026",
+        "title_en": "Real Madrid vs Levante - Liga - J20 - Football 2025-2026",
+        "desc": "الرياضة، كرة القدم. عشرون ناديًا، وثمانية وثلاثون ..."
+      },
+      {
+        "title": "أتلتيكو مدريد vs ديبورتيفو ألافيس - الدوري - J20 - كرة القدم 2025-2026",
+        "title_en": "AtlÃ©tico Madrid vs Deportivo Alaves - Liga - J20 - Football 2025-2026",
+        "desc": "الرياضة، كرة القدم. عشرون ناديًا، وثمانية وثلاثون ..."
+      },
+      {
+        "title": "ريال سوسيداد vs برشلونة - الدوري الاسباني - J20 - كرة القدم 2025-2026",
+        "title_en": "Real Sociedad vs Barcelonne - Liga - J20 - Football 2025-2026",
+        "desc": "الرياضة، كرة القدم. عشرون ناديًا، وثمانية وثلاثون ..."
+      }
+    ]
+  },
+  {
+    "channel": "beIN SPORTS MAX 4",
+    "translated_count": 13,
+    "programs": [
+      {
+        "title": "بي ان سبورت ماكس",
+        "title_en": "beIN Sports MAX",
+        "desc": "قناة beIN SPORTS MAX لتغطية حصرية للبطولات الرياضي..."
+      },
+      {
+        "title": "بي ان سبورت ماكس",
+        "title_en": "beIN Sports MAX",
+        "desc": "قناة beIN SPORTS MAX لتغطية حصرية للبطولات الرياضي..."
+      },
+      {
+        "title": "بي ان سبورت ماكس",
+        "title_en": "beIN Sports MAX",
+        "desc": "قناة beIN SPORTS MAX لتغطية حصرية للبطولات الرياضي..."
+      }
+    ]
+  },
+  {
+    "channel": "beIN SPORTS EN 2",
+    "translated_count": 10,
+    "programs": [
+      {
+        "title": "بطولة أستراليا المفتوحة 2026- - اليوم السادس",
+        "title_en": "Australia Open 2026-  - Day 6",
+        "desc": "يسافر أفضل اللاعبين في العالم إلى ملبورن لحضور أول..."
+      },
+      {
+        "title": "بطولة أستراليا المفتوحة 2026- - اليوم السادس",
+        "title_en": "Australia Open 2026-  - Day 6",
+        "desc": "يسافر أفضل اللاعبين في العالم إلى ملبورن لحضور أول..."
+      },
+      {
+        "title": "بطولة أستراليا المفتوحة 2026- - اليوم السادس",
+        "title_en": "Australia Open 2026-  - Day 6",
+        "desc": "يسافر أفضل اللاعبين في العالم إلى ملبورن لحضور أول..."
+      }
+    ]
+  },
+  {
+    "channel": "beIN SPORTS MAX 5",
+    "translated_count": 13,
+    "programs": [
+      {
+        "title": "بي ان سبورت ماكس",
+        "title_en": "beIN Sports MAX",
+        "desc": "قناة beIN SPORTS MAX لتغطية حصرية للبطولات الرياضي..."
+      },
+      {
+        "title": "بي ان سبورت ماكس",
+        "title_en": "beIN Sports MAX",
+        "desc": "قناة beIN SPORTS MAX لتغطية حصرية للبطولات الرياضي..."
+      },
+      {
+        "title": "بي ان سبورت ماكس",
+        "title_en": "beIN Sports MAX",
+        "desc": "قناة beIN SPORTS MAX لتغطية حصرية للبطولات الرياضي..."
+      }
+    ]
+  },
+  {
+    "channel": "beIN SPORTS MAX 2",
+    "translated_count": 13,
+    "programs": [
+      {
+        "title": "بي ان سبورت ماكس",
+        "title_en": "beIN Sports MAX",
+        "desc": "قناة beIN SPORTS MAX لتغطية حصرية للبطولات الرياضي..."
+      },
+      {
+        "title": "بي ان سبورت ماكس",
+        "title_en": "beIN Sports MAX",
+        "desc": "قناة beIN SPORTS MAX لتغطية حصرية للبطولات الرياضي..."
+      },
+      {
+        "title": "بي ان سبورت ماكس",
+        "title_en": "beIN Sports MAX",
+        "desc": "قناة beIN SPORTS MAX لتغطية حصرية للبطولات الرياضي..."
+      }
+    ]
+  },
+  {
+    "channel": "beIN SPORTS MAX 1",
+    "translated_count": 13,
+    "programs": [
+      {
+        "title": "بي ان سبورت ماكس",
+        "title_en": "beIN Sports MAX",
+        "desc": "قناة beIN SPORTS MAX لتغطية حصرية للبطولات الرياضي..."
+      },
+      {
+        "title": "بي ان سبورت ماكس",
+        "title_en": "beIN Sports MAX",
+        "desc": "قناة beIN SPORTS MAX لتغطية حصرية للبطولات الرياضي..."
+      },
+      {
+        "title": "بي ان سبورت ماكس",
+        "title_en": "beIN Sports MAX",
+        "desc": "قناة beIN SPORTS MAX لتغطية حصرية للبطولات الرياضي..."
+      }
+    ]
+  },
+  {
+    "channel": "beIN SPORTS MAX 3",
+    "translated_count": 13,
+    "programs": [
+      {
+        "title": "بي ان سبورت ماكس",
+        "title_en": "beIN Sports MAX",
+        "desc": "قناة beIN SPORTS MAX لتغطية حصرية للبطولات الرياضي..."
+      },
+      {
+        "title": "بي ان سبورت ماكس",
+        "title_en": "beIN Sports MAX",
+        "desc": "قناة beIN SPORTS MAX لتغطية حصرية للبطولات الرياضي..."
+      },
+      {
+        "title": "بي ان سبورت ماكس",
+        "title_en": "beIN Sports MAX",
+        "desc": "قناة beIN SPORTS MAX لتغطية حصرية للبطولات الرياضي..."
+      }
+    ]
+  },
+  {
+    "channel": "beIN SPORTS 6",
+    "translated_count": 15,
+    "programs": [
+      {
+        "title": "كليفلاند ضد شارلوت – موسم الدوري الاميركي للمحترفين 2025-2026",
+        "title_en": "Cleveland vs Charlotte - NBA season 2025–2026",
+        "desc": "تغطية حية وحصرية على beIN للاتحاد الوطني لكرة السل..."
+      },
+      {
+        "title": "أوكلاهوما سيتي ضد ميلووكي – موسم الدوري الاميركي للمحترفين 2025-2026",
+        "title_en": "Oklahoma City vs Milwaukee - NBA season 2025–2026",
+        "desc": "تغطية حية وحصرية على beIN للاتحاد الوطني لكرة السل..."
+      },
+      {
+        "title": "فيرينسفاروش vs باناثينايكوس - الدوري الأوروبي 2025/2026 - MD7",
+        "title_en": "Ferencvaros vs Panathinaikos - UEFA Europa League 2025/2026 - MD7",
+        "desc": "التقى فيرينتسفاروش وباناثينايكوس آخر مرة في كأس أو..."
+      }
+    ]
+  },
+  {
+    "channel": "beIN SPORTS 5",
+    "translated_count": 17,
+    "programs": [
+      {
+        "title": "Al Wahda FC (الإمارات العربية المتحدة) vs Al Union (KSA) - دوري أبطال آسيا النخبة 2025/2026 - West MD1",
+        "title_en": "Al Wahda FC (UAE) vs Al Ittihad Club (KSA) - AFC Champions League Elite 2025/2026 - West MD1",
+        "desc": "الوحدة لم يخسر في كل من آخر ثلاث مباريات في دوري أ..."
+      },
+      {
+        "title": "يوفنتوس vs بنفيكا - دوري أبطال أوروبا 2025/26 - MD7",
+        "title_en": "Juventus vs Benfica - UEFA Champions League 2025/26 - MD7",
+        "desc": "فاز يوفنتوس مرة واحدة فقط في مواجهاته التسعة مع بن..."
+      },
+      {
+        "title": "كوبنهاجن vs نابولي - دوري أبطال أوروبا 2025/26 - MD7",
+        "title_en": "Copenhagen vs Napoli - UEFA Champions League 2025/26 - MD7",
+        "desc": "سيواجه كوبنهاجن نابولي للمرة الأولى في هذه المبارا..."
+      }
+    ]
+  },
+  {
+    "channel": "beIN SPORTS EN 1",
+    "translated_count": 20,
+    "programs": [
+      {
+        "title": "ريال مدريد vs موناكو - دوري أبطال أوروبا 2025/26 - MD7 - مباراة مصغرة",
+        "title_en": "Real Madrid vs Monaco - UEFA Champions League 2025/26 - MD7 - Mini Match",
+        "desc": "اللقاء الوحيد السابق بين ريال مدريد وموناكو جاء في..."
+      },
+      {
+        "title": "بودو/جليمت vs مانشستر سيتي - دوري أبطال أوروبا 2025/26 - MD7 - مباراة صغيرة",
+        "title_en": "Bodø/Glimt vs Manchester City - UEFA Champions League 2025/26 - MD7 - Mini Match",
+        "desc": "لم يحقق فريق Bodø/Glimt أي فوز في مواجهاته الستة م..."
+      },
+      {
+        "title": "عرض اللحاق بالركب في الدوري الإنجليزي الممتاز 2025/26 الحلقة 23",
+        "title_en": "EN EPL Catch-Up Show 2025/26 Ep.23",
+        "desc": "يُعد عرض Catch-Up Show فرصتك لاستعادة \"أفضل الأجزا..."
+      }
+    ]
+  },
+  {
+    "channel": "beIN SPORTS XTRA 2",
+    "translated_count": 20,
+    "programs": [
+      {
+        "title": "beIN SPORTS XTRA لتغطية حية وحصرية للأحداث الرياضية المميزة - ديسمبر 2019",
+        "title_en": "beIN SPORTS XTRA For Live And Exclusive Coverage of Premuim Sporting Events - Dec",
+        "desc": "beIN SPORTS XTRA لتغطية حية وحصرية للأحداث الرياضي..."
+      },
+      {
+        "title": "beIN SPORTS XTRA لتغطية حية وحصرية للأحداث الرياضية المميزة - ديسمبر 2019",
+        "title_en": "beIN SPORTS XTRA For Live And Exclusive Coverage of Premuim Sporting Events - Dec",
+        "desc": "beIN SPORTS XTRA لتغطية حية وحصرية للأحداث الرياضي..."
+      },
+      {
+        "title": "beIN SPORTS XTRA لتغطية حية وحصرية للأحداث الرياضية المميزة - ديسمبر 2019",
+        "title_en": "beIN SPORTS XTRA For Live And Exclusive Coverage of Premuim Sporting Events - Dec",
+        "desc": "beIN SPORTS XTRA لتغطية حية وحصرية للأحداث الرياضي..."
+      }
+    ]
+  },
+  {
+    "channel": "beIN SPORTS 7",
+    "translated_count": 15,
+    "programs": [
+      {
+        "title": "ريل، إلينا، غابرييلا (ROU) ضد أندريفا، جيرواي - سيدات - M4 - الجلسة المسائية - رود أرينا - هل",
+        "title_en": "Ruse, Elena‑Gabriela (ROU) vs Andreeva, Mirra - Womens - M4 - Evening Session - Rod Laver Arena - Au",
+        "desc": "الملعب الرئيسي للبطولة (14,820 مقعدًا) ذو السقف ال..."
+      },
+      {
+        "title": "سابالينكا، أرينا ضد بوتابوفا، أناستازيا (النمسا) - سيدات - الجولة الأولى - الجلسة الصباحية - ملعب رود لافر - أ",
+        "title_en": "Sabalenka, Aryna vs Potapova, Anastasia (AUT)  - Womens - M1 - Morning Session - Rod Laver Arena - A",
+        "desc": "الملعب الرئيسي للبطولة (14,820 مقعدًا) ذو السقف ال..."
+      },
+      {
+        "title": "الكاراز، كارلوس (إسبانيا) vs موتيت، كورنتين (فرنسا) - M2 - الجلسة الصباحية - رود لافر أرينا - أستراليا",
+        "title_en": "Alcaraz, Carlos (ESP) vs Moutet, Corentin (FRA) - M2 - Morning Session - Rod Laver Arena - Australia",
+        "desc": "الملعب الرئيسي للبطولة (14,820 مقعدًا) ذو السقف ال..."
+      }
+    ]
+  },
+  {
+    "channel": "beIN SPORTS NEWS",
+    "translated_count": 20,
+    "programs": [
+      {
+        "title": "الحصاد",
+        "title_en": "Al Hassad",
+        "desc": "الحصاد هو استوديو ليلي من beIN Sports News يلقي نظ..."
+      },
+      {
+        "title": "نشرة الأخبار - ستوديو مباشر @ 02:00",
+        "title_en": "News Bulletin - Live Studio @02:00",
+        "desc": "آخر الأخبار من غرفة أخبار beIn SPORTS، ومعاينة ومر..."
+      },
+      {
+        "title": "الحصيلة – 23/01/26",
+        "title_en": "Al Hassila - 23/01/26",
+        "desc": "تقدم \"الحصيلة\" خلاصة موجزة لأحدث المباريات الرياضي..."
+      }
+    ]
+  },
+  {
+    "channel": "beIN SPORTS XTRA 4",
+    "translated_count": 20,
+    "programs": [
+      {
+        "title": "beIN SPORTS XTRA لتغطية حية وحصرية للأحداث الرياضية المميزة - ديسمبر 2019",
+        "title_en": "beIN SPORTS XTRA For Live And Exclusive Coverage of Premuim Sporting Events - Dec",
+        "desc": "beIN SPORTS XTRA لتغطية حية وحصرية للأحداث الرياضي..."
+      },
+      {
+        "title": "beIN SPORTS XTRA لتغطية حية وحصرية للأحداث الرياضية المميزة - ديسمبر 2019",
+        "title_en": "beIN SPORTS XTRA For Live And Exclusive Coverage of Premuim Sporting Events - Dec",
+        "desc": "beIN SPORTS XTRA لتغطية حية وحصرية للأحداث الرياضي..."
+      },
+      {
+        "title": "beIN SPORTS XTRA لتغطية حية وحصرية للأحداث الرياضية المميزة - ديسمبر 2019",
+        "title_en": "beIN SPORTS XTRA For Live And Exclusive Coverage of Premuim Sporting Events - Dec",
+        "desc": "beIN SPORTS XTRA لتغطية حية وحصرية للأحداث الرياضي..."
+      }
+    ]
+  },
+  {
+    "channel": "beIN SPORTS 3",
+    "translated_count": 13,
+    "programs": [
+      {
+        "title": "رينجرز vs لودوجوريتس رازجراد - الدوري الأوروبي 2025/2026 - MD7",
+        "title_en": "Rangers vs Ludogorets Razgrad - UEFA Europa League 2025/2026 - MD7",
+        "desc": "آخر مرة واجه فيها رينجرز فريقًا بلغاريًا في مسابقة..."
+      },
+      {
+        "title": "أتلتيكو مدريد ضد ديبورتانيفو ألافيس - الدوري الإسباني 2025/26 - الأسبوع",
+        "title_en": "Atletico Madrid vs Deportivo Alaves - Spanish LaLiga 2025/26 - Week 20",
+        "desc": "تعادل أتلتيكو مدريد في آخر مباراتين له في الدوري ا..."
+      },
+      {
+        "title": "السنغال vs المغرب - نهائي - كأس أمم أفريقيا - المغرب 2025",
+        "title_en": "Senegal vs Morocco  - Final - African Cup of Nations - Morocco 2025",
+        "desc": "وستكون هذه أول مباراة على الإطلاق في بطولة أمم أفر..."
+      }
+    ]
+  },
+  {
+    "channel": "beIN 4K",
+    "translated_count": 10,
+    "programs": [
+      {
+        "title": "ريل، إلينا، غابرييلا (ROU) ضد أندريفا، جيرواي - سيدات - M4 - الجلسة المسائية - رود أرينا - هل",
+        "title_en": "Ruse, Elena‑Gabriela (ROU) vs Andreeva, Mirra - Womens - M4 - Evening Session - Rod Laver Arena - Au",
+        "desc": "الملعب الرئيسي للبطولة (14,820 مقعدًا) ذو السقف ال..."
+      },
+      {
+        "title": "الكاراز، كارلوس (إسبانيا) vs موتيت، كورنتين (فرنسا) - M2 - الجلسة الصباحية - رود لافر أرينا - أستراليا",
+        "title_en": "Alcaraz, Carlos (ESP) vs Moutet, Corentin (FRA) - M2 - Morning Session - Rod Laver Arena - Australia",
+        "desc": "الملعب الرئيسي للبطولة (14,820 مقعدًا) ذو السقف ال..."
+      },
+      {
+        "title": "سابالينكا، أرينا ضد بوتابوفا، أناستازيا (النمسا) - سيدات - الجولة الأولى - الجلسة الصباحية - ملعب رود لافر - أ",
+        "title_en": "Sabalenka, Aryna vs Potapova, Anastasia (AUT)  - Womens - M1 - Morning Session - Rod Laver Arena - A",
+        "desc": "الملعب الرئيسي للبطولة (14,820 مقعدًا) ذو السقف ال..."
+      }
+    ]
+  },
+  {
+    "channel": "beIN SPORTS XTRA 6",
+    "translated_count": 20,
+    "programs": [
+      {
+        "title": "beIN SPORTS XTRA لتغطية حية وحصرية للأحداث الرياضية المميزة - ديسمبر 2019",
+        "title_en": "beIN SPORTS XTRA For Live And Exclusive Coverage of Premuim Sporting Events - Dec",
+        "desc": "beIN SPORTS XTRA لتغطية حية وحصرية للأحداث الرياضي..."
+      },
+      {
+        "title": "beIN SPORTS XTRA لتغطية حية وحصرية للأحداث الرياضية المميزة - ديسمبر 2019",
+        "title_en": "beIN SPORTS XTRA For Live And Exclusive Coverage of Premuim Sporting Events - Dec",
+        "desc": "beIN SPORTS XTRA لتغطية حية وحصرية للأحداث الرياضي..."
+      },
+      {
+        "title": "beIN SPORTS XTRA لتغطية حية وحصرية للأحداث الرياضية المميزة - ديسمبر 2019",
+        "title_en": "beIN SPORTS XTRA For Live And Exclusive Coverage of Premuim Sporting Events - Dec",
+        "desc": "beIN SPORTS XTRA لتغطية حية وحصرية للأحداث الرياضي..."
+      }
+    ]
+  },
+  {
+    "channel": "beIN SPORTS XTRA 3",
+    "translated_count": 20,
+    "programs": [
+      {
+        "title": "beIN SPORTS XTRA لتغطية حية وحصرية للأحداث الرياضية المميزة - ديسمبر 2019",
+        "title_en": "beIN SPORTS XTRA For Live And Exclusive Coverage of Premuim Sporting Events - Dec",
+        "desc": "beIN SPORTS XTRA لتغطية حية وحصرية للأحداث الرياضي..."
+      },
+      {
+        "title": "beIN SPORTS XTRA لتغطية حية وحصرية للأحداث الرياضية المميزة - ديسمبر 2019",
+        "title_en": "beIN SPORTS XTRA For Live And Exclusive Coverage of Premuim Sporting Events - Dec",
+        "desc": "beIN SPORTS XTRA لتغطية حية وحصرية للأحداث الرياضي..."
+      },
+      {
+        "title": "beIN SPORTS XTRA لتغطية حية وحصرية للأحداث الرياضية المميزة - ديسمبر 2019",
+        "title_en": "beIN SPORTS XTRA For Live And Exclusive Coverage of Premuim Sporting Events - Dec",
+        "desc": "beIN SPORTS XTRA لتغطية حية وحصرية للأحداث الرياضي..."
+      }
+    ]
+  },
+  {
+    "channel": "beIN SPORTS 8",
+    "translated_count": 10,
+    "programs": [
+      {
+        "title": "بوبليك، ألكسندر (كازاخستان) vs إيتشيفيري، توماس مارتن (الأرجنتين) - M4 - الجلسة المسائية - مارغريت كورت آر",
+        "title_en": "Bublik, Alexander (KAZ) vs Etcheverry, Tomas Martin (ARG) - M4 - Evening Session - Margaret Court Ar",
+        "desc": "ساحة عرض تتسع لـ 7500 مقعد وساحة التذاكر مع سقف قا..."
+      },
+      {
+        "title": "ميدفيديف، دانييل ضد ماروزسان، فابيان (هون) - M1 - الجلسة الصباحية - ساحة مارغريت كورت - أستراليا",
+        "title_en": "Medvedev, Daniil vs Marozsan, Fabian (HUN)  - M1 - Morning Session - Margaret Court Arena - Australi",
+        "desc": "ساحة عرض تتسع لـ 7500 مقعد وساحة التذاكر مع سقف قا..."
+      },
+      {
+        "title": "جوف، كوكو (الولايات المتحدة الأمريكية) ضد بابتيست، هايلي (الولايات المتحدة الأمريكية) - الجولة الثانية - سيدات - الجلسة الصباحية - ساحة مارغريت كورت",
+        "title_en": "Gauff, Coco (USA) vs Baptiste, Hailey (USA)  - M2 - Womens - Morning Session - Margaret Court Arena ",
+        "desc": "ساحة عرض تتسع لـ 7500 مقعد وساحة التذاكر مع سقف قا..."
+      }
+    ]
+  },
+  {
+    "channel": "beIN SPORTS XTRA 5",
+    "translated_count": 20,
+    "programs": [
+      {
+        "title": "beIN SPORTS XTRA لتغطية حية وحصرية للأحداث الرياضية المميزة - ديسمبر 2019",
+        "title_en": "beIN SPORTS XTRA For Live And Exclusive Coverage of Premuim Sporting Events - Dec",
+        "desc": "beIN SPORTS XTRA لتغطية حية وحصرية للأحداث الرياضي..."
+      },
+      {
+        "title": "beIN SPORTS XTRA لتغطية حية وحصرية للأحداث الرياضية المميزة - ديسمبر 2019",
+        "title_en": "beIN SPORTS XTRA For Live And Exclusive Coverage of Premuim Sporting Events - Dec",
+        "desc": "beIN SPORTS XTRA لتغطية حية وحصرية للأحداث الرياضي..."
+      },
+      {
+        "title": "beIN SPORTS XTRA لتغطية حية وحصرية للأحداث الرياضية المميزة - ديسمبر 2019",
+        "title_en": "beIN SPORTS XTRA For Live And Exclusive Coverage of Premuim Sporting Events - Dec",
+        "desc": "beIN SPORTS XTRA لتغطية حية وحصرية للأحداث الرياضي..."
+      }
+    ]
+  },
+  {
+    "channel": "beIN SPORTS XTRA 1",
+    "translated_count": 20,
+    "programs": [
+      {
+        "title": "beIN SPORTS XTRA لتغطية حية وحصرية للأحداث الرياضية المميزة - ديسمبر 2019",
+        "title_en": "beIN SPORTS XTRA For Live And Exclusive Coverage of Premuim Sporting Events - Dec",
+        "desc": "beIN SPORTS XTRA لتغطية حية وحصرية للأحداث الرياضي..."
+      },
+      {
+        "title": "beIN SPORTS XTRA لتغطية حية وحصرية للأحداث الرياضية المميزة - ديسمبر 2019",
+        "title_en": "beIN SPORTS XTRA For Live And Exclusive Coverage of Premuim Sporting Events - Dec",
+        "desc": "beIN SPORTS XTRA لتغطية حية وحصرية للأحداث الرياضي..."
+      },
+      {
+        "title": "beIN SPORTS XTRA لتغطية حية وحصرية للأحداث الرياضية المميزة - ديسمبر 2019",
+        "title_en": "beIN SPORTS XTRA For Live And Exclusive Coverage of Premuim Sporting Events - Dec",
+        "desc": "beIN SPORTS XTRA لتغطية حية وحصرية للأحداث الرياضي..."
+      }
+    ]
+  },
+  {
+    "channel": "beIN SPORTS 1",
+    "translated_count": 20,
+    "programs": [
+      {
+        "title": "عرض الدوري الفرنسي - 2025/2026 - الحلقة 19",
+        "title_en": "Ligue 1 Show - 2025/2026 - EP 19",
+        "desc": "كل أعظم اللحظات والإثارة في الدوري الفرنسي 1 بما ف..."
+      },
+      {
+        "title": "السنغال vs المغرب - نهائي - كأس أمم أفريقيا - المغرب 2025 - مباراة مصغرة",
+        "title_en": "Senegal vs Morocco  - Final - African Cup of Nations - Morocco 2025 - Mini Match",
+        "desc": "ستقام النسخة الخامسة والثلاثون من كأس الأمم الأفري..."
+      },
+      {
+        "title": "أبرز اللقطات - الدوري الأوروبي 2025/2026",
+        "title_en": "Highlights - UEFA Europa League 2025/2026",
+        "desc": "أبرز اللقطات من الدوري الأوروبي 2025–26. "
+      }
+    ]
+  },
+  {
+    "channel": "beIN SPORTS FR 1",
+    "translated_count": 16,
+    "programs": [
+      {
+        "title": "كليفلاند كافالييرز vs تشارلوت هورنتس - الدوري الاميركي للمحترفين - كرة السلة 2025-2026",
+        "title_en": "Cleveland Cavaliers vs Charlotte Hornets - NBA - Basketball 2025-2026",
+        "desc": "الرياضة، كرة السلة. يعد الدوري الأمريكي لكرة السلة..."
+      },
+      {
+        "title": "الدوري الاميركي للمحترفين اضافية - مجلة 2025-2026",
+        "title_en": "NBA Extra - Magazine 2025-2026",
+        "desc": "الرياضة، مجلة الرياضة، كرة السلة. انغمس في عالم ال..."
+      },
+      {
+        "title": "سبورتينغ البرتغال vs باريس سان جيرمان - دوري أبطال أوروبا - J07 - كرة القدم 2025-2026",
+        "title_en": "Sporting Portugal vs PSG - Champions League - J07 - Football 2025-2026",
+        "desc": "الرياضة، كرة القدم. مشجعو كرة القدم من جميع أنحاء ..."
+      }
+    ]
+  }
+]
