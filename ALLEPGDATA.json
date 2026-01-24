@@ -487,113 +487,7 @@
       "end_full": "20260124133000"
     }
   ],
-  "beIN SPORTS MAX 6": [
-    {
-      "title": "beIN Sports MAX",
-      "desc": "beIN SPORTS MAX Channel for exclusive coverage of major sporting tournaments.",
-      "start": "12:00",
-      "end": "14:00",
-      "start_full": "20260123120000",
-      "end_full": "20260123140000"
-    },
-    {
-      "title": "beIN Sports MAX",
-      "desc": "beIN SPORTS MAX Channel for exclusive coverage of major sporting tournaments.",
-      "start": "14:00",
-      "end": "16:00",
-      "start_full": "20260123140000",
-      "end_full": "20260123160000"
-    },
-    {
-      "title": "beIN Sports MAX",
-      "desc": "beIN SPORTS MAX Channel for exclusive coverage of major sporting tournaments.",
-      "start": "16:00",
-      "end": "18:00",
-      "start_full": "20260123160000",
-      "end_full": "20260123180000"
-    },
-    {
-      "title": "beIN Sports MAX",
-      "desc": "beIN SPORTS MAX Channel for exclusive coverage of major sporting tournaments.",
-      "start": "18:00",
-      "end": "20:00",
-      "start_full": "20260123180000",
-      "end_full": "20260123200000"
-    },
-    {
-      "title": "beIN Sports MAX",
-      "desc": "beIN SPORTS MAX Channel for exclusive coverage of major sporting tournaments.",
-      "start": "20:00",
-      "end": "22:00",
-      "start_full": "20260123200000",
-      "end_full": "20260123220000"
-    },
-    {
-      "title": "beIN Sports MAX",
-      "desc": "beIN SPORTS MAX Channel for exclusive coverage of major sporting tournaments.",
-      "start": "22:00",
-      "end": "00:00",
-      "start_full": "20260123220000",
-      "end_full": "20260124000000"
-    },
-    {
-      "title": "beIN Sports MAX",
-      "desc": "beIN SPORTS MAX Channel for exclusive coverage of major sporting tournaments.",
-      "start": "00:00",
-      "end": "02:00",
-      "start_full": "20260124000000",
-      "end_full": "20260124020000"
-    },
-    {
-      "title": "beIN Sports MAX",
-      "desc": "beIN SPORTS MAX Channel for exclusive coverage of major sporting tournaments.",
-      "start": "02:00",
-      "end": "04:00",
-      "start_full": "20260124020000",
-      "end_full": "20260124040000"
-    },
-    {
-      "title": "beIN Sports MAX",
-      "desc": "beIN SPORTS MAX Channel for exclusive coverage of major sporting tournaments.",
-      "start": "04:00",
-      "end": "06:00",
-      "start_full": "20260124040000",
-      "end_full": "20260124060000"
-    },
-    {
-      "title": "beIN Sports MAX",
-      "desc": "beIN SPORTS MAX Channel for exclusive coverage of major sporting tournaments.",
-      "start": "06:00",
-      "end": "08:00",
-      "start_full": "20260124060000",
-      "end_full": "20260124080000"
-    },
-    {
-      "title": "beIN Sports MAX",
-      "desc": "beIN SPORTS MAX Channel for exclusive coverage of major sporting tournaments.",
-      "start": "08:00",
-      "end": "10:00",
-      "start_full": "20260124080000",
-      "end_full": "20260124100000"
-    },
-    {
-      "title": "beIN Sports MAX",
-      "desc": "beIN SPORTS MAX Channel for exclusive coverage of major sporting tournaments.",
-      "start": "10:00",
-      "end": "12:00",
-      "start_full": "20260124100000",
-      "end_full": "20260124120000"
-    },
-    {
-      "title": "beIN Sports MAX",
-      "desc": "beIN SPORTS MAX Channel for exclusive coverage of major sporting tournaments.",
-      "start": "12:00",
-      "end": "14:00",
-      "start_full": "20260124120000",
-      "end_full": "20260124140000"
-    }
-  ],
-  "beIN SPORTS MAX 5": [
+  "beIN SPORTS MAX 2": [
     {
       "title": "beIN Sports MAX",
       "desc": "beIN SPORTS MAX Channel for exclusive coverage of major sporting tournaments.",
@@ -781,6 +675,112 @@
       "end_full": "20260124130000"
     }
   ],
+  "beIN SPORTS MAX 6": [
+    {
+      "title": "beIN Sports MAX",
+      "desc": "beIN SPORTS MAX Channel for exclusive coverage of major sporting tournaments.",
+      "start": "12:00",
+      "end": "14:00",
+      "start_full": "20260123120000",
+      "end_full": "20260123140000"
+    },
+    {
+      "title": "beIN Sports MAX",
+      "desc": "beIN SPORTS MAX Channel for exclusive coverage of major sporting tournaments.",
+      "start": "14:00",
+      "end": "16:00",
+      "start_full": "20260123140000",
+      "end_full": "20260123160000"
+    },
+    {
+      "title": "beIN Sports MAX",
+      "desc": "beIN SPORTS MAX Channel for exclusive coverage of major sporting tournaments.",
+      "start": "16:00",
+      "end": "18:00",
+      "start_full": "20260123160000",
+      "end_full": "20260123180000"
+    },
+    {
+      "title": "beIN Sports MAX",
+      "desc": "beIN SPORTS MAX Channel for exclusive coverage of major sporting tournaments.",
+      "start": "18:00",
+      "end": "20:00",
+      "start_full": "20260123180000",
+      "end_full": "20260123200000"
+    },
+    {
+      "title": "beIN Sports MAX",
+      "desc": "beIN SPORTS MAX Channel for exclusive coverage of major sporting tournaments.",
+      "start": "20:00",
+      "end": "22:00",
+      "start_full": "20260123200000",
+      "end_full": "20260123220000"
+    },
+    {
+      "title": "beIN Sports MAX",
+      "desc": "beIN SPORTS MAX Channel for exclusive coverage of major sporting tournaments.",
+      "start": "22:00",
+      "end": "00:00",
+      "start_full": "20260123220000",
+      "end_full": "20260124000000"
+    },
+    {
+      "title": "beIN Sports MAX",
+      "desc": "beIN SPORTS MAX Channel for exclusive coverage of major sporting tournaments.",
+      "start": "00:00",
+      "end": "02:00",
+      "start_full": "20260124000000",
+      "end_full": "20260124020000"
+    },
+    {
+      "title": "beIN Sports MAX",
+      "desc": "beIN SPORTS MAX Channel for exclusive coverage of major sporting tournaments.",
+      "start": "02:00",
+      "end": "04:00",
+      "start_full": "20260124020000",
+      "end_full": "20260124040000"
+    },
+    {
+      "title": "beIN Sports MAX",
+      "desc": "beIN SPORTS MAX Channel for exclusive coverage of major sporting tournaments.",
+      "start": "04:00",
+      "end": "06:00",
+      "start_full": "20260124040000",
+      "end_full": "20260124060000"
+    },
+    {
+      "title": "beIN Sports MAX",
+      "desc": "beIN SPORTS MAX Channel for exclusive coverage of major sporting tournaments.",
+      "start": "06:00",
+      "end": "08:00",
+      "start_full": "20260124060000",
+      "end_full": "20260124080000"
+    },
+    {
+      "title": "beIN Sports MAX",
+      "desc": "beIN SPORTS MAX Channel for exclusive coverage of major sporting tournaments.",
+      "start": "08:00",
+      "end": "10:00",
+      "start_full": "20260124080000",
+      "end_full": "20260124100000"
+    },
+    {
+      "title": "beIN Sports MAX",
+      "desc": "beIN SPORTS MAX Channel for exclusive coverage of major sporting tournaments.",
+      "start": "10:00",
+      "end": "12:00",
+      "start_full": "20260124100000",
+      "end_full": "20260124120000"
+    },
+    {
+      "title": "beIN Sports MAX",
+      "desc": "beIN SPORTS MAX Channel for exclusive coverage of major sporting tournaments.",
+      "start": "12:00",
+      "end": "14:00",
+      "start_full": "20260124120000",
+      "end_full": "20260124140000"
+    }
+  ],
   "beIN SPORTS FR 2": [
     {
       "title": "Real Madrid vs Levante - Liga - J20 - Football 2025-2026",
@@ -895,113 +895,7 @@
       "end_full": "20260124140000"
     }
   ],
-  "beIN SPORTS MAX 2": [
-    {
-      "title": "beIN Sports MAX",
-      "desc": "beIN SPORTS MAX Channel for exclusive coverage of major sporting tournaments.",
-      "start": "12:00",
-      "end": "14:00",
-      "start_full": "20260123120000",
-      "end_full": "20260123140000"
-    },
-    {
-      "title": "beIN Sports MAX",
-      "desc": "beIN SPORTS MAX Channel for exclusive coverage of major sporting tournaments.",
-      "start": "14:00",
-      "end": "16:00",
-      "start_full": "20260123140000",
-      "end_full": "20260123160000"
-    },
-    {
-      "title": "beIN Sports MAX",
-      "desc": "beIN SPORTS MAX Channel for exclusive coverage of major sporting tournaments.",
-      "start": "16:00",
-      "end": "18:00",
-      "start_full": "20260123160000",
-      "end_full": "20260123180000"
-    },
-    {
-      "title": "beIN Sports MAX",
-      "desc": "beIN SPORTS MAX Channel for exclusive coverage of major sporting tournaments.",
-      "start": "18:00",
-      "end": "20:00",
-      "start_full": "20260123180000",
-      "end_full": "20260123200000"
-    },
-    {
-      "title": "beIN Sports MAX",
-      "desc": "beIN SPORTS MAX Channel for exclusive coverage of major sporting tournaments.",
-      "start": "20:00",
-      "end": "22:00",
-      "start_full": "20260123200000",
-      "end_full": "20260123220000"
-    },
-    {
-      "title": "beIN Sports MAX",
-      "desc": "beIN SPORTS MAX Channel for exclusive coverage of major sporting tournaments.",
-      "start": "22:00",
-      "end": "00:00",
-      "start_full": "20260123220000",
-      "end_full": "20260124000000"
-    },
-    {
-      "title": "beIN Sports MAX",
-      "desc": "beIN SPORTS MAX Channel for exclusive coverage of major sporting tournaments.",
-      "start": "00:00",
-      "end": "02:00",
-      "start_full": "20260124000000",
-      "end_full": "20260124020000"
-    },
-    {
-      "title": "beIN Sports MAX",
-      "desc": "beIN SPORTS MAX Channel for exclusive coverage of major sporting tournaments.",
-      "start": "02:00",
-      "end": "04:00",
-      "start_full": "20260124020000",
-      "end_full": "20260124040000"
-    },
-    {
-      "title": "beIN Sports MAX",
-      "desc": "beIN SPORTS MAX Channel for exclusive coverage of major sporting tournaments.",
-      "start": "04:00",
-      "end": "06:00",
-      "start_full": "20260124040000",
-      "end_full": "20260124060000"
-    },
-    {
-      "title": "beIN Sports MAX",
-      "desc": "beIN SPORTS MAX Channel for exclusive coverage of major sporting tournaments.",
-      "start": "06:00",
-      "end": "08:00",
-      "start_full": "20260124060000",
-      "end_full": "20260124080000"
-    },
-    {
-      "title": "beIN Sports MAX",
-      "desc": "beIN SPORTS MAX Channel for exclusive coverage of major sporting tournaments.",
-      "start": "08:00",
-      "end": "10:00",
-      "start_full": "20260124080000",
-      "end_full": "20260124100000"
-    },
-    {
-      "title": "beIN Sports MAX",
-      "desc": "beIN SPORTS MAX Channel for exclusive coverage of major sporting tournaments.",
-      "start": "10:00",
-      "end": "12:00",
-      "start_full": "20260124100000",
-      "end_full": "20260124120000"
-    },
-    {
-      "title": "beIN Sports MAX",
-      "desc": "beIN SPORTS MAX Channel for exclusive coverage of major sporting tournaments.",
-      "start": "12:00",
-      "end": "14:00",
-      "start_full": "20260124120000",
-      "end_full": "20260124140000"
-    }
-  ],
-  "beIN SPORTS MAX 3": [
+  "beIN SPORTS MAX 5": [
     {
       "title": "beIN Sports MAX",
       "desc": "beIN SPORTS MAX Channel for exclusive coverage of major sporting tournaments.",
@@ -1319,6 +1213,112 @@
       "end_full": "20260124140000"
     }
   ],
+  "beIN SPORTS MAX 3": [
+    {
+      "title": "beIN Sports MAX",
+      "desc": "beIN SPORTS MAX Channel for exclusive coverage of major sporting tournaments.",
+      "start": "12:00",
+      "end": "14:00",
+      "start_full": "20260123120000",
+      "end_full": "20260123140000"
+    },
+    {
+      "title": "beIN Sports MAX",
+      "desc": "beIN SPORTS MAX Channel for exclusive coverage of major sporting tournaments.",
+      "start": "14:00",
+      "end": "16:00",
+      "start_full": "20260123140000",
+      "end_full": "20260123160000"
+    },
+    {
+      "title": "beIN Sports MAX",
+      "desc": "beIN SPORTS MAX Channel for exclusive coverage of major sporting tournaments.",
+      "start": "16:00",
+      "end": "18:00",
+      "start_full": "20260123160000",
+      "end_full": "20260123180000"
+    },
+    {
+      "title": "beIN Sports MAX",
+      "desc": "beIN SPORTS MAX Channel for exclusive coverage of major sporting tournaments.",
+      "start": "18:00",
+      "end": "20:00",
+      "start_full": "20260123180000",
+      "end_full": "20260123200000"
+    },
+    {
+      "title": "beIN Sports MAX",
+      "desc": "beIN SPORTS MAX Channel for exclusive coverage of major sporting tournaments.",
+      "start": "20:00",
+      "end": "22:00",
+      "start_full": "20260123200000",
+      "end_full": "20260123220000"
+    },
+    {
+      "title": "beIN Sports MAX",
+      "desc": "beIN SPORTS MAX Channel for exclusive coverage of major sporting tournaments.",
+      "start": "22:00",
+      "end": "00:00",
+      "start_full": "20260123220000",
+      "end_full": "20260124000000"
+    },
+    {
+      "title": "beIN Sports MAX",
+      "desc": "beIN SPORTS MAX Channel for exclusive coverage of major sporting tournaments.",
+      "start": "00:00",
+      "end": "02:00",
+      "start_full": "20260124000000",
+      "end_full": "20260124020000"
+    },
+    {
+      "title": "beIN Sports MAX",
+      "desc": "beIN SPORTS MAX Channel for exclusive coverage of major sporting tournaments.",
+      "start": "02:00",
+      "end": "04:00",
+      "start_full": "20260124020000",
+      "end_full": "20260124040000"
+    },
+    {
+      "title": "beIN Sports MAX",
+      "desc": "beIN SPORTS MAX Channel for exclusive coverage of major sporting tournaments.",
+      "start": "04:00",
+      "end": "06:00",
+      "start_full": "20260124040000",
+      "end_full": "20260124060000"
+    },
+    {
+      "title": "beIN Sports MAX",
+      "desc": "beIN SPORTS MAX Channel for exclusive coverage of major sporting tournaments.",
+      "start": "06:00",
+      "end": "08:00",
+      "start_full": "20260124060000",
+      "end_full": "20260124080000"
+    },
+    {
+      "title": "beIN Sports MAX",
+      "desc": "beIN SPORTS MAX Channel for exclusive coverage of major sporting tournaments.",
+      "start": "08:00",
+      "end": "10:00",
+      "start_full": "20260124080000",
+      "end_full": "20260124100000"
+    },
+    {
+      "title": "beIN Sports MAX",
+      "desc": "beIN SPORTS MAX Channel for exclusive coverage of major sporting tournaments.",
+      "start": "10:00",
+      "end": "12:00",
+      "start_full": "20260124100000",
+      "end_full": "20260124120000"
+    },
+    {
+      "title": "beIN Sports MAX",
+      "desc": "beIN SPORTS MAX Channel for exclusive coverage of major sporting tournaments.",
+      "start": "12:00",
+      "end": "14:00",
+      "start_full": "20260124120000",
+      "end_full": "20260124140000"
+    }
+  ],
   "beIN SPORTS 6": [
     {
       "title": "Cleveland vs Charlotte - NBA season 2025–2026",
@@ -1378,51 +1378,51 @@
     },
     {
       "title": "Mamelodi Sundowns vs Al Hilal Omdurman - CAF Champions League 2025/26 MD3",
-      "desc": "Mamelodi Sundowns vs Al Hilal Omdurman\nAt 23-1-2026, MECCA 21:00, GMT 18:00\nCAF Champions League\nSeason 2025/2026\nQualifier Round\nGroup C\nLoftus Versfeld Stadium Stadium\n",
+      "desc": "Mamelodi Sundowns vs Al Hilal Omdurman\nCAF Champions League\nSeason 2025/2026\nQualifier Round\nGroup C\nLoftus Versfeld Stadium Stadium\n",
       "start": "02:00",
-      "end": "03:45",
+      "end": "03:52",
       "start_full": "20260124020000",
-      "end_full": "20260124034500"
+      "end_full": "20260124035200"
     },
     {
       "title": "Feyenoord vs Sturm Graz - UEFA Europa League 2025/2026 - MD7",
       "desc": "Feyenoord met Sturm Graz in the UEFA Europa League in the 2022-23 group stage – they won 6-0 at home, before losing 1-0 in Austria. Sturm Graz have never won an away European match  in the Netherlands in six attempts, losing their last four in a row.\n",
-      "start": "03:45",
-      "end": "05:29",
-      "start_full": "20260124034500",
-      "end_full": "20260124052900"
+      "start": "03:52",
+      "end": "05:36",
+      "start_full": "20260124035200",
+      "end_full": "20260124053600"
     },
     {
       "title": "Ferencvaros vs Panathinaikos - UEFA Europa League 2025/2026 - MD7",
       "desc": "Ferencváros and Panathinaikos last met in the 1965-66 European Cup, with the Hungarian side unbeaten in both games. Panathinaikos last met a Hungarian side in the 1986-87 UEFA Cup when they played Budapest Honvéd at the last 16 stage – they lost 5-2 away in the first leg but won 5-1 at home in the second leg to progress.\n",
-      "start": "05:29",
-      "end": "07:10",
-      "start_full": "20260124052900",
-      "end_full": "20260124071000"
+      "start": "05:36",
+      "end": "07:17",
+      "start_full": "20260124053600",
+      "end_full": "20260124071700"
     },
     {
       "title": "Olympiacos vs Bayer 04 Leverkusen - UEFA Champions League 2025/26 - MD7",
       "desc": "Olympiakos and Bayer Leverkusen faced twice in the UEFA Champions League 2002-03 first group stage – the Greek side won 6-2 at home before a 2-0 win for Leverkusen at the BayArena. Bayer Leverkusen are winless in their last three away major European trips to Greece  since beating Panathinaikos 4-1 in the Cup Winners’ Cup in October 1993.\n",
-      "start": "07:10",
-      "end": "08:57",
-      "start_full": "20260124071000",
-      "end_full": "20260124085700"
+      "start": "07:17",
+      "end": "09:04",
+      "start_full": "20260124071700",
+      "end_full": "20260124090400"
     },
     {
       "title": "Bayern München vs Union Saint-Gilloise - UEFA Champions League 2025/26 - MD7",
       "desc": "This is the first ever competitive meeting between Bayern Munich and Union Saint-Gilloise. Bayern have won eight of their nine home games against Belgian sides in all competitions, including a 4-0 win against Club Brugge already this season. Union Saint-Gilloise are unbeaten in all four of their away games against German sides in major European competition, most recently a 2-1 win at Eintracht Frankfurt in the 2023-24 UEFA Conference League.\n",
-      "start": "08:57",
-      "end": "10:47",
-      "start_full": "20260124085700",
-      "end_full": "20260124104700"
+      "start": "09:04",
+      "end": "11:00",
+      "start_full": "20260124090400",
+      "end_full": "20260124110000"
     },
     {
-      "title": "Vietnam vs South Korea - AFC U-23 Asian Cup Saudi Arabia 2026 - Third Place",
-      "desc": "The AFC U-23 Asian Cup will be hosted by Saudi Arabia from 6th January through until the Final on 24th January. A total of 16 teams will play in the tournament.\nAll matches from the AFC U-23 Asian Cup will be live and exclusive only on beIN.\n",
-      "start": "10:47",
-      "end": "13:31",
-      "start_full": "20260124104700",
-      "end_full": "20260124133100"
+      "title": "Feyenoord vs Sturm Graz - UEFA Europa League 2025/2026 - MD7",
+      "desc": "Feyenoord met Sturm Graz in the UEFA Europa League in the 2022-23 group stage – they won 6-0 at home, before losing 1-0 in Austria. Sturm Graz have never won an away European match  in the Netherlands in six attempts, losing their last four in a row.\n",
+      "start": "11:00",
+      "end": "13:00",
+      "start_full": "20260124110000",
+      "end_full": "20260124130000"
     }
   ],
   "beIN SPORTS 5": [
@@ -1845,61 +1845,433 @@
       "end_full": "20260124130000"
     }
   ],
-  "beIN SPORTS 7": [
+  "beIN SPORTS XTRA 5": [
+    {
+      "title": "beIN SPORTS XTRA For Live And Exclusive Coverage of Premuim Sporting Events - Dec",
+      "desc": "beIN SPORTS XTRA For Live And Exclusive Coverage of Premuim Sporting Events",
+      "start": "13:00",
+      "end": "14:00",
+      "start_full": "20260123130000",
+      "end_full": "20260123140000"
+    },
+    {
+      "title": "beIN SPORTS XTRA For Live And Exclusive Coverage of Premuim Sporting Events - Dec",
+      "desc": "beIN SPORTS XTRA For Live And Exclusive Coverage of Premuim Sporting Events",
+      "start": "14:00",
+      "end": "15:00",
+      "start_full": "20260123140000",
+      "end_full": "20260123150000"
+    },
+    {
+      "title": "beIN SPORTS XTRA For Live And Exclusive Coverage of Premuim Sporting Events - Dec",
+      "desc": "beIN SPORTS XTRA For Live And Exclusive Coverage of Premuim Sporting Events",
+      "start": "15:00",
+      "end": "16:00",
+      "start_full": "20260123150000",
+      "end_full": "20260123160000"
+    },
+    {
+      "title": "beIN SPORTS XTRA For Live And Exclusive Coverage of Premuim Sporting Events - Dec",
+      "desc": "beIN SPORTS XTRA For Live And Exclusive Coverage of Premuim Sporting Events",
+      "start": "16:00",
+      "end": "17:00",
+      "start_full": "20260123160000",
+      "end_full": "20260123170000"
+    },
+    {
+      "title": "beIN SPORTS XTRA For Live And Exclusive Coverage of Premuim Sporting Events - Dec",
+      "desc": "beIN SPORTS XTRA For Live And Exclusive Coverage of Premuim Sporting Events",
+      "start": "17:00",
+      "end": "18:00",
+      "start_full": "20260123170000",
+      "end_full": "20260123180000"
+    },
+    {
+      "title": "beIN SPORTS XTRA For Live And Exclusive Coverage of Premuim Sporting Events - Dec",
+      "desc": "beIN SPORTS XTRA For Live And Exclusive Coverage of Premuim Sporting Events",
+      "start": "18:00",
+      "end": "19:00",
+      "start_full": "20260123180000",
+      "end_full": "20260123190000"
+    },
+    {
+      "title": "beIN SPORTS XTRA For Live And Exclusive Coverage of Premuim Sporting Events - Dec",
+      "desc": "beIN SPORTS XTRA For Live And Exclusive Coverage of Premuim Sporting Events",
+      "start": "19:00",
+      "end": "20:00",
+      "start_full": "20260123190000",
+      "end_full": "20260123200000"
+    },
+    {
+      "title": "beIN SPORTS XTRA For Live And Exclusive Coverage of Premuim Sporting Events - Dec",
+      "desc": "beIN SPORTS XTRA For Live And Exclusive Coverage of Premuim Sporting Events",
+      "start": "20:00",
+      "end": "21:00",
+      "start_full": "20260123200000",
+      "end_full": "20260123210000"
+    },
+    {
+      "title": "beIN SPORTS XTRA For Live And Exclusive Coverage of Premuim Sporting Events - Dec",
+      "desc": "beIN SPORTS XTRA For Live And Exclusive Coverage of Premuim Sporting Events",
+      "start": "21:00",
+      "end": "22:00",
+      "start_full": "20260123210000",
+      "end_full": "20260123220000"
+    },
+    {
+      "title": "beIN SPORTS XTRA For Live And Exclusive Coverage of Premuim Sporting Events - Dec",
+      "desc": "beIN SPORTS XTRA For Live And Exclusive Coverage of Premuim Sporting Events",
+      "start": "22:00",
+      "end": "23:00",
+      "start_full": "20260123220000",
+      "end_full": "20260123230000"
+    },
+    {
+      "title": "beIN SPORTS XTRA For Live And Exclusive Coverage of Premuim Sporting Events - Dec",
+      "desc": "beIN SPORTS XTRA For Live And Exclusive Coverage of Premuim Sporting Events",
+      "start": "23:00",
+      "end": "00:00",
+      "start_full": "20260123230000",
+      "end_full": "20260124000000"
+    },
+    {
+      "title": "beIN SPORTS XTRA For Live And Exclusive Coverage of Premuim Sporting Events - Dec",
+      "desc": "beIN SPORTS XTRA For Live And Exclusive Coverage of Premuim Sporting Events",
+      "start": "00:00",
+      "end": "01:00",
+      "start_full": "20260124000000",
+      "end_full": "20260124010000"
+    },
+    {
+      "title": "beIN SPORTS XTRA For Live And Exclusive Coverage of Premuim Sporting Events - Dec",
+      "desc": "beIN SPORTS XTRA For Live And Exclusive Coverage of Premuim Sporting Events",
+      "start": "01:00",
+      "end": "02:00",
+      "start_full": "20260124010000",
+      "end_full": "20260124020000"
+    },
+    {
+      "title": "beIN SPORTS XTRA For Live And Exclusive Coverage of Premuim Sporting Events - Dec",
+      "desc": "beIN SPORTS XTRA For Live And Exclusive Coverage of Premuim Sporting Events",
+      "start": "02:00",
+      "end": "03:00",
+      "start_full": "20260124020000",
+      "end_full": "20260124030000"
+    },
+    {
+      "title": "beIN SPORTS XTRA For Live And Exclusive Coverage of Premuim Sporting Events - Dec",
+      "desc": "beIN SPORTS XTRA For Live And Exclusive Coverage of Premuim Sporting Events",
+      "start": "03:00",
+      "end": "04:00",
+      "start_full": "20260124030000",
+      "end_full": "20260124040000"
+    },
+    {
+      "title": "beIN SPORTS XTRA For Live And Exclusive Coverage of Premuim Sporting Events - Dec",
+      "desc": "beIN SPORTS XTRA For Live And Exclusive Coverage of Premuim Sporting Events",
+      "start": "04:00",
+      "end": "05:00",
+      "start_full": "20260124040000",
+      "end_full": "20260124050000"
+    },
+    {
+      "title": "beIN SPORTS XTRA For Live And Exclusive Coverage of Premuim Sporting Events - Dec",
+      "desc": "beIN SPORTS XTRA For Live And Exclusive Coverage of Premuim Sporting Events",
+      "start": "05:00",
+      "end": "06:00",
+      "start_full": "20260124050000",
+      "end_full": "20260124060000"
+    },
+    {
+      "title": "beIN SPORTS XTRA For Live And Exclusive Coverage of Premuim Sporting Events - Dec",
+      "desc": "beIN SPORTS XTRA For Live And Exclusive Coverage of Premuim Sporting Events",
+      "start": "06:00",
+      "end": "07:00",
+      "start_full": "20260124060000",
+      "end_full": "20260124070000"
+    },
+    {
+      "title": "beIN SPORTS XTRA For Live And Exclusive Coverage of Premuim Sporting Events - Dec",
+      "desc": "beIN SPORTS XTRA For Live And Exclusive Coverage of Premuim Sporting Events",
+      "start": "07:00",
+      "end": "08:00",
+      "start_full": "20260124070000",
+      "end_full": "20260124080000"
+    },
+    {
+      "title": "beIN SPORTS XTRA For Live And Exclusive Coverage of Premuim Sporting Events - Dec",
+      "desc": "beIN SPORTS XTRA For Live And Exclusive Coverage of Premuim Sporting Events",
+      "start": "08:00",
+      "end": "09:00",
+      "start_full": "20260124080000",
+      "end_full": "20260124090000"
+    },
+    {
+      "title": "beIN SPORTS XTRA For Live And Exclusive Coverage of Premuim Sporting Events - Dec",
+      "desc": "beIN SPORTS XTRA For Live And Exclusive Coverage of Premuim Sporting Events",
+      "start": "09:00",
+      "end": "10:00",
+      "start_full": "20260124090000",
+      "end_full": "20260124100000"
+    },
+    {
+      "title": "beIN SPORTS XTRA For Live And Exclusive Coverage of Premuim Sporting Events - Dec",
+      "desc": "beIN SPORTS XTRA For Live And Exclusive Coverage of Premuim Sporting Events",
+      "start": "10:00",
+      "end": "11:00",
+      "start_full": "20260124100000",
+      "end_full": "20260124110000"
+    },
+    {
+      "title": "beIN SPORTS XTRA For Live And Exclusive Coverage of Premuim Sporting Events - Dec",
+      "desc": "beIN SPORTS XTRA For Live And Exclusive Coverage of Premuim Sporting Events",
+      "start": "11:00",
+      "end": "12:00",
+      "start_full": "20260124110000",
+      "end_full": "20260124120000"
+    },
+    {
+      "title": "beIN SPORTS XTRA For Live And Exclusive Coverage of Premuim Sporting Events - Dec",
+      "desc": "beIN SPORTS XTRA For Live And Exclusive Coverage of Premuim Sporting Events",
+      "start": "12:00",
+      "end": "13:00",
+      "start_full": "20260124120000",
+      "end_full": "20260124130000"
+    }
+  ],
+  "beIN SPORTS XTRA 6": [
+    {
+      "title": "beIN SPORTS XTRA For Live And Exclusive Coverage of Premuim Sporting Events - Dec",
+      "desc": "beIN SPORTS XTRA For Live And Exclusive Coverage of Premuim Sporting Events",
+      "start": "13:00",
+      "end": "14:00",
+      "start_full": "20260123130000",
+      "end_full": "20260123140000"
+    },
+    {
+      "title": "beIN SPORTS XTRA For Live And Exclusive Coverage of Premuim Sporting Events - Dec",
+      "desc": "beIN SPORTS XTRA For Live And Exclusive Coverage of Premuim Sporting Events",
+      "start": "14:00",
+      "end": "15:00",
+      "start_full": "20260123140000",
+      "end_full": "20260123150000"
+    },
+    {
+      "title": "beIN SPORTS XTRA For Live And Exclusive Coverage of Premuim Sporting Events - Dec",
+      "desc": "beIN SPORTS XTRA For Live And Exclusive Coverage of Premuim Sporting Events",
+      "start": "15:00",
+      "end": "16:00",
+      "start_full": "20260123150000",
+      "end_full": "20260123160000"
+    },
+    {
+      "title": "beIN SPORTS XTRA For Live And Exclusive Coverage of Premuim Sporting Events - Dec",
+      "desc": "beIN SPORTS XTRA For Live And Exclusive Coverage of Premuim Sporting Events",
+      "start": "16:00",
+      "end": "17:00",
+      "start_full": "20260123160000",
+      "end_full": "20260123170000"
+    },
+    {
+      "title": "beIN SPORTS XTRA For Live And Exclusive Coverage of Premuim Sporting Events - Dec",
+      "desc": "beIN SPORTS XTRA For Live And Exclusive Coverage of Premuim Sporting Events",
+      "start": "17:00",
+      "end": "18:00",
+      "start_full": "20260123170000",
+      "end_full": "20260123180000"
+    },
+    {
+      "title": "beIN SPORTS XTRA For Live And Exclusive Coverage of Premuim Sporting Events - Dec",
+      "desc": "beIN SPORTS XTRA For Live And Exclusive Coverage of Premuim Sporting Events",
+      "start": "18:00",
+      "end": "19:00",
+      "start_full": "20260123180000",
+      "end_full": "20260123190000"
+    },
+    {
+      "title": "beIN SPORTS XTRA For Live And Exclusive Coverage of Premuim Sporting Events - Dec",
+      "desc": "beIN SPORTS XTRA For Live And Exclusive Coverage of Premuim Sporting Events",
+      "start": "19:00",
+      "end": "20:00",
+      "start_full": "20260123190000",
+      "end_full": "20260123200000"
+    },
+    {
+      "title": "beIN SPORTS XTRA For Live And Exclusive Coverage of Premuim Sporting Events - Dec",
+      "desc": "beIN SPORTS XTRA For Live And Exclusive Coverage of Premuim Sporting Events",
+      "start": "20:00",
+      "end": "21:00",
+      "start_full": "20260123200000",
+      "end_full": "20260123210000"
+    },
+    {
+      "title": "beIN SPORTS XTRA For Live And Exclusive Coverage of Premuim Sporting Events - Dec",
+      "desc": "beIN SPORTS XTRA For Live And Exclusive Coverage of Premuim Sporting Events",
+      "start": "21:00",
+      "end": "22:00",
+      "start_full": "20260123210000",
+      "end_full": "20260123220000"
+    },
+    {
+      "title": "beIN SPORTS XTRA For Live And Exclusive Coverage of Premuim Sporting Events - Dec",
+      "desc": "beIN SPORTS XTRA For Live And Exclusive Coverage of Premuim Sporting Events",
+      "start": "22:00",
+      "end": "23:00",
+      "start_full": "20260123220000",
+      "end_full": "20260123230000"
+    },
+    {
+      "title": "beIN SPORTS XTRA For Live And Exclusive Coverage of Premuim Sporting Events - Dec",
+      "desc": "beIN SPORTS XTRA For Live And Exclusive Coverage of Premuim Sporting Events",
+      "start": "23:00",
+      "end": "00:00",
+      "start_full": "20260123230000",
+      "end_full": "20260124000000"
+    },
+    {
+      "title": "beIN SPORTS XTRA For Live And Exclusive Coverage of Premuim Sporting Events - Dec",
+      "desc": "beIN SPORTS XTRA For Live And Exclusive Coverage of Premuim Sporting Events",
+      "start": "00:00",
+      "end": "01:00",
+      "start_full": "20260124000000",
+      "end_full": "20260124010000"
+    },
+    {
+      "title": "beIN SPORTS XTRA For Live And Exclusive Coverage of Premuim Sporting Events - Dec",
+      "desc": "beIN SPORTS XTRA For Live And Exclusive Coverage of Premuim Sporting Events",
+      "start": "01:00",
+      "end": "02:00",
+      "start_full": "20260124010000",
+      "end_full": "20260124020000"
+    },
+    {
+      "title": "beIN SPORTS XTRA For Live And Exclusive Coverage of Premuim Sporting Events - Dec",
+      "desc": "beIN SPORTS XTRA For Live And Exclusive Coverage of Premuim Sporting Events",
+      "start": "02:00",
+      "end": "03:00",
+      "start_full": "20260124020000",
+      "end_full": "20260124030000"
+    },
+    {
+      "title": "beIN SPORTS XTRA For Live And Exclusive Coverage of Premuim Sporting Events - Dec",
+      "desc": "beIN SPORTS XTRA For Live And Exclusive Coverage of Premuim Sporting Events",
+      "start": "03:00",
+      "end": "04:00",
+      "start_full": "20260124030000",
+      "end_full": "20260124040000"
+    },
+    {
+      "title": "beIN SPORTS XTRA For Live And Exclusive Coverage of Premuim Sporting Events - Dec",
+      "desc": "beIN SPORTS XTRA For Live And Exclusive Coverage of Premuim Sporting Events",
+      "start": "04:00",
+      "end": "05:00",
+      "start_full": "20260124040000",
+      "end_full": "20260124050000"
+    },
+    {
+      "title": "beIN SPORTS XTRA For Live And Exclusive Coverage of Premuim Sporting Events - Dec",
+      "desc": "beIN SPORTS XTRA For Live And Exclusive Coverage of Premuim Sporting Events",
+      "start": "05:00",
+      "end": "06:00",
+      "start_full": "20260124050000",
+      "end_full": "20260124060000"
+    },
+    {
+      "title": "beIN SPORTS XTRA For Live And Exclusive Coverage of Premuim Sporting Events - Dec",
+      "desc": "beIN SPORTS XTRA For Live And Exclusive Coverage of Premuim Sporting Events",
+      "start": "06:00",
+      "end": "07:00",
+      "start_full": "20260124060000",
+      "end_full": "20260124070000"
+    },
+    {
+      "title": "beIN SPORTS XTRA For Live And Exclusive Coverage of Premuim Sporting Events - Dec",
+      "desc": "beIN SPORTS XTRA For Live And Exclusive Coverage of Premuim Sporting Events",
+      "start": "07:00",
+      "end": "08:00",
+      "start_full": "20260124070000",
+      "end_full": "20260124080000"
+    },
+    {
+      "title": "beIN SPORTS XTRA For Live And Exclusive Coverage of Premuim Sporting Events - Dec",
+      "desc": "beIN SPORTS XTRA For Live And Exclusive Coverage of Premuim Sporting Events",
+      "start": "08:00",
+      "end": "09:00",
+      "start_full": "20260124080000",
+      "end_full": "20260124090000"
+    },
+    {
+      "title": "beIN SPORTS XTRA For Live And Exclusive Coverage of Premuim Sporting Events - Dec",
+      "desc": "beIN SPORTS XTRA For Live And Exclusive Coverage of Premuim Sporting Events",
+      "start": "09:00",
+      "end": "10:00",
+      "start_full": "20260124090000",
+      "end_full": "20260124100000"
+    },
+    {
+      "title": "beIN SPORTS XTRA For Live And Exclusive Coverage of Premuim Sporting Events - Dec",
+      "desc": "beIN SPORTS XTRA For Live And Exclusive Coverage of Premuim Sporting Events",
+      "start": "10:00",
+      "end": "11:00",
+      "start_full": "20260124100000",
+      "end_full": "20260124110000"
+    },
+    {
+      "title": "beIN SPORTS XTRA For Live And Exclusive Coverage of Premuim Sporting Events - Dec",
+      "desc": "beIN SPORTS XTRA For Live And Exclusive Coverage of Premuim Sporting Events",
+      "start": "11:00",
+      "end": "12:00",
+      "start_full": "20260124110000",
+      "end_full": "20260124120000"
+    },
+    {
+      "title": "beIN SPORTS XTRA For Live And Exclusive Coverage of Premuim Sporting Events - Dec",
+      "desc": "beIN SPORTS XTRA For Live And Exclusive Coverage of Premuim Sporting Events",
+      "start": "12:00",
+      "end": "13:00",
+      "start_full": "20260124120000",
+      "end_full": "20260124130000"
+    }
+  ],
+  "beIN 4K": [
     {
       "title": "Ruse, Elena‑Gabriela (ROU) vs Andreeva, Mirra - Womens - M4 - Evening Session - Rod Laver Arena - Au",
       "desc": "The tournament’s flagship center court (14,820 seats) with a retractable roof, staging the biggest day sessions (from 11:00am local) and night sessions (from 7:00pm local). It hosts the key showpiece matches through the fortnight, including finals weekend: doubles finals on Sat 31 Jan (afternoon) followed by the women’s singles final (Sat night), and the men’s singles final on Sun 1 Feb.",
       "start": "13:00",
-      "end": "16:15",
+      "end": "16:10",
       "start_full": "20260123130000",
-      "end_full": "20260123161500"
-    },
-    {
-      "title": "Sabalenka, Aryna vs Potapova, Anastasia (AUT)  - Womens - M1 - Morning Session - Rod Laver Arena - A",
-      "desc": "The tournament’s flagship center court (14,820 seats) with a retractable roof, staging the biggest day sessions (from 11:00am local) and night sessions (from 7:00pm local). It hosts the key showpiece matches through the fortnight, including finals weekend: doubles finals on Sat 31 Jan (afternoon) followed by the women’s singles final (Sat night), and the men’s singles final on Sun 1 Feb.",
-      "start": "16:15",
-      "end": "18:38",
-      "start_full": "20260123161500",
-      "end_full": "20260123183800"
+      "end_full": "20260123161000"
     },
     {
       "title": "Alcaraz, Carlos (ESP) vs Moutet, Corentin (FRA) - M2 - Morning Session - Rod Laver Arena - Australia",
       "desc": "The tournament’s flagship center court (14,820 seats) with a retractable roof, staging the biggest day sessions (from 11:00am local) and night sessions (from 7:00pm local). It hosts the key showpiece matches through the fortnight, including finals weekend: doubles finals on Sat 31 Jan (afternoon) followed by the women’s singles final (Sat night), and the men’s singles final on Sun 1 Feb.",
-      "start": "18:38",
+      "start": "16:10",
+      "end": "18:45",
+      "start_full": "20260123161000",
+      "end_full": "20260123184500"
+    },
+    {
+      "title": "Sabalenka, Aryna vs Potapova, Anastasia (AUT)  - Womens - M1 - Morning Session - Rod Laver Arena - A",
+      "desc": "The tournament’s flagship center court (14,820 seats) with a retractable roof, staging the biggest day sessions (from 11:00am local) and night sessions (from 7:00pm local). It hosts the key showpiece matches through the fortnight, including finals weekend: doubles finals on Sat 31 Jan (afternoon) followed by the women’s singles final (Sat night), and the men’s singles final on Sun 1 Feb.",
+      "start": "18:45",
       "end": "21:15",
-      "start_full": "20260123183800",
+      "start_full": "20260123184500",
       "end_full": "20260123211500"
     },
     {
       "title": "Tiafoe, Frances (USA) vs De Minaur, Alex (AUS) - M3 - Evening Session - Rod Laver Arena - Australian",
       "desc": "The tournament’s flagship center court (14,820 seats) with a retractable roof, staging the biggest day sessions (from 11:00am local) and night sessions (from 7:00pm local). It hosts the key showpiece matches through the fortnight, including finals weekend: doubles finals on Sat 31 Jan (afternoon) followed by the women’s singles final (Sat night), and the men’s singles final on Sun 1 Feb.",
       "start": "21:15",
-      "end": "00:35",
+      "end": "01:30",
       "start_full": "20260123211500",
-      "end_full": "20260124003500"
+      "end_full": "20260124013000"
     },
     {
       "title": "Ruse, Elena‑Gabriela (ROU) vs Andreeva, Mirra - Womens - M4 - Evening Session - Rod Laver Arena - Au",
       "desc": "The tournament’s flagship center court (14,820 seats) with a retractable roof, staging the biggest day sessions (from 11:00am local) and night sessions (from 7:00pm local). It hosts the key showpiece matches through the fortnight, including finals weekend: doubles finals on Sat 31 Jan (afternoon) followed by the women’s singles final (Sat night), and the men’s singles final on Sun 1 Feb.",
-      "start": "00:35",
-      "end": "02:30",
-      "start_full": "20260124003500",
-      "end_full": "20260124023000"
-    },
-    {
-      "title": "James Duckworth vs Jannik Sinner - Australian Open 2026 - Mini Match",
-      "desc": "AO26 Mini Matches (26 minutes) delivers daily highlights of the most important match of the day from the Australian Open 2026 main draw at Melbourne Park. Each episode captures the decisive rallies, momentum swings, and match-point moments, with clear, informative context on how the match was won and why the result matters in the race to the title.",
-      "start": "02:30",
-      "end": "03:00",
-      "start_full": "20260124023000",
-      "end_full": "20260124030000"
-    },
-    {
-      "title": "Carlos Alcaraz vs Corentin Moutet - M2/ D6 - Australian Open 2026 - Mini Match",
-      "desc": "AO26 Mini Matches (26 minutes) delivers daily highlights of the most important match of the day from the Australian Open 2026 main draw at Melbourne Park. Each episode captures the decisive rallies, momentum swings, and match-point moments, with clear, informative context on how the match was won and why the result matters in the race to the title.",
-      "start": "03:00",
+      "start": "01:30",
       "end": "03:30",
-      "start_full": "20260124030000",
+      "start_full": "20260124013000",
       "end_full": "20260124033000"
     },
     {
@@ -1914,36 +2286,12 @@
       "title": "Day 7 - M2 - Morning Session - Rod Laver Arena - Australian Open 2026",
       "desc": "The tournament’s flagship center court (14,820 seats) with a retractable roof, staging the biggest day sessions (from 11:00am local) and night sessions (from 7:00pm local). It hosts the key showpiece matches through the fortnight, including finals weekend: doubles finals on Sat 31 Jan (afternoon) followed by the women’s singles final (Sat night), and the men’s singles final on Sun 1 Feb.",
       "start": "05:30",
-      "end": "07:30",
-      "start_full": "20260124053000",
-      "end_full": "20260124073000"
-    },
-    {
-      "title": "Aryna Sabalenka vs Anastasia Potapova - M1/ D6 - Australian Open 2026 - Mini Match",
-      "desc": "AO26 Mini Matches (26 minutes) delivers daily highlights of the most important match of the day from the Australian Open 2026 main draw at Melbourne Park. Each episode captures the decisive rallies, momentum swings, and match-point moments, with clear, informative context on how the match was won and why the result matters in the race to the title.",
-      "start": "07:30",
-      "end": "08:00",
-      "start_full": "20260124073000",
-      "end_full": "20260124080000"
-    },
-    {
-      "title": "Carlos Alcaraz vs Corentin Moutet - M2/ D6 - Australian Open 2026 - Mini Match",
-      "desc": "AO26 Mini Matches (26 minutes) delivers daily highlights of the most important match of the day from the Australian Open 2026 main draw at Melbourne Park. Each episode captures the decisive rallies, momentum swings, and match-point moments, with clear, informative context on how the match was won and why the result matters in the race to the title.",
-      "start": "08:00",
-      "end": "08:30",
-      "start_full": "20260124080000",
-      "end_full": "20260124083000"
-    },
-    {
-      "title": "M3/ D6 - Australian Open 2026 - Mini Match",
-      "desc": "AO26 Mini Matches (26 minutes) delivers daily highlights of the most important match of the day from the Australian Open 2026 main draw at Melbourne Park. Each episode captures the decisive rallies, momentum swings, and match-point moments, with clear, informative context on how the match was won and why the result matters in the race to the title.",
-      "start": "08:30",
       "end": "09:00",
-      "start_full": "20260124083000",
+      "start_full": "20260124053000",
       "end_full": "20260124090000"
     },
     {
-      "title": "Day 7 - M1 - Morning Session - Rod Laver Arena - Australian Open 2026",
+      "title": "Tiafoe, Frances (USA) vs De Minaur, Alex (AUS) - M3 - Evening Session - Rod Laver Arena - Australian",
       "desc": "The tournament’s flagship center court (14,820 seats) with a retractable roof, staging the biggest day sessions (from 11:00am local) and night sessions (from 7:00pm local). It hosts the key showpiece matches through the fortnight, including finals weekend: doubles finals on Sat 31 Jan (afternoon) followed by the women’s singles final (Sat night), and the men’s singles final on Sun 1 Feb.",
       "start": "09:00",
       "end": "11:00",
@@ -2185,78 +2533,110 @@
       "end_full": "20260124130000"
     }
   ],
-  "beIN 4K": [
+  "beIN SPORTS 3": [
     {
-      "title": "Ruse, Elena‑Gabriela (ROU) vs Andreeva, Mirra - Womens - M4 - Evening Session - Rod Laver Arena - Au",
-      "desc": "The tournament’s flagship center court (14,820 seats) with a retractable roof, staging the biggest day sessions (from 11:00am local) and night sessions (from 7:00pm local). It hosts the key showpiece matches through the fortnight, including finals weekend: doubles finals on Sat 31 Jan (afternoon) followed by the women’s singles final (Sat night), and the men’s singles final on Sun 1 Feb.",
+      "title": "Rangers vs Ludogorets Razgrad - UEFA Europa League 2025/2026 - MD7",
+      "desc": "Rangers last faced a Bulgarian side in major European competition in the 1966-67 Cup Winners’ Cup semi-final, beating Slavia Sofia 1-0 in both legs to reach the final. This is Ludogorets’ first European encounter with a Scottish side – their six games against British sides in major competition have all been against English opposition, conceding at least twice in all six.\n",
       "start": "13:00",
-      "end": "16:10",
+      "end": "14:49",
       "start_full": "20260123130000",
-      "end_full": "20260123161000"
+      "end_full": "20260123144900"
     },
     {
-      "title": "Alcaraz, Carlos (ESP) vs Moutet, Corentin (FRA) - M2 - Morning Session - Rod Laver Arena - Australia",
-      "desc": "The tournament’s flagship center court (14,820 seats) with a retractable roof, staging the biggest day sessions (from 11:00am local) and night sessions (from 7:00pm local). It hosts the key showpiece matches through the fortnight, including finals weekend: doubles finals on Sat 31 Jan (afternoon) followed by the women’s singles final (Sat night), and the men’s singles final on Sun 1 Feb.",
-      "start": "16:10",
-      "end": "18:45",
-      "start_full": "20260123161000",
-      "end_full": "20260123184500"
+      "title": "Atletico Madrid vs Deportivo Alaves - Spanish LaLiga 2025/26 - Week 20",
+      "desc": "Atlético de Madrid have drawn their last two LaLiga matches against Alavés, both at Mendizorroza, and they have never recorded three consecutive draws against the Vitoria side in the history of the competition. Deportivo Alavés have won just one of their 14 away games against Atlético de Madrid in LaLiga, with that sole victory being the only time they have kept a clean sheet  when Jesús Aranguren and Luis Aragonés were in charge of both teams respectively.\n",
+      "start": "14:49",
+      "end": "16:34",
+      "start_full": "20260123144900",
+      "end_full": "20260123163400"
     },
     {
-      "title": "Sabalenka, Aryna vs Potapova, Anastasia (AUT)  - Womens - M1 - Morning Session - Rod Laver Arena - A",
-      "desc": "The tournament’s flagship center court (14,820 seats) with a retractable roof, staging the biggest day sessions (from 11:00am local) and night sessions (from 7:00pm local). It hosts the key showpiece matches through the fortnight, including finals weekend: doubles finals on Sat 31 Jan (afternoon) followed by the women’s singles final (Sat night), and the men’s singles final on Sun 1 Feb.",
-      "start": "18:45",
-      "end": "21:15",
-      "start_full": "20260123184500",
-      "end_full": "20260123211500"
+      "title": "Senegal vs Morocco  - Final - African Cup of Nations - Morocco 2025",
+      "desc": "This will be the first ever CAF Africa of Nations match between Senegal and Morocco. It’s the first final in the competition to see the two teams face each other for the first time since South Africa vs Tunisia in 1996. This is Senegal’s fourth final at the CAF Africa Cup of Nations, they’re looking to lift the trophy for the second time, having defeated Egypt on penalties in 2021 after a 0-0 draw \n",
+      "start": "16:34",
+      "end": "19:50",
+      "start_full": "20260123163400",
+      "end_full": "20260123195000"
     },
     {
-      "title": "Tiafoe, Frances (USA) vs De Minaur, Alex (AUS) - M3 - Evening Session - Rod Laver Arena - Australian",
-      "desc": "The tournament’s flagship center court (14,820 seats) with a retractable roof, staging the biggest day sessions (from 11:00am local) and night sessions (from 7:00pm local). It hosts the key showpiece matches through the fortnight, including finals weekend: doubles finals on Sat 31 Jan (afternoon) followed by the women’s singles final (Sat night), and the men’s singles final on Sun 1 Feb.",
-      "start": "21:15",
-      "end": "01:30",
-      "start_full": "20260123211500",
-      "end_full": "20260124013000"
+      "title": "Trabzonspor vs Kasimpasa - Turkish Super League - MD 19 - 2025-2026",
+      "desc": "The Turkish Süper Lig is the top-flight competition of the Turkish football league system and is live and exclusive on beIN SPORTS. The season runs from August to May, with each club playing 38 matches. Matches are played Friday through to Monday. Galatasaray are the current Champions.",
+      "start": "19:50",
+      "end": "22:15",
+      "start_full": "20260123195000",
+      "end_full": "20260123221500"
     },
     {
-      "title": "Ruse, Elena‑Gabriela (ROU) vs Andreeva, Mirra - Womens - M4 - Evening Session - Rod Laver Arena - Au",
-      "desc": "The tournament’s flagship center court (14,820 seats) with a retractable roof, staging the biggest day sessions (from 11:00am local) and night sessions (from 7:00pm local). It hosts the key showpiece matches through the fortnight, including finals weekend: doubles finals on Sat 31 Jan (afternoon) followed by the women’s singles final (Sat night), and the men’s singles final on Sun 1 Feb.",
-      "start": "01:30",
-      "end": "03:30",
-      "start_full": "20260124013000",
-      "end_full": "20260124033000"
+      "title": "ARAB CUP FIFA QATAR 2025- Morocco... the champion.",
+      "desc": "The Moroccan national team won the 2025 Arab Cup title.\nHow did Morocco reach the podium? Follow it on the program \nMorocco... the champion. \n",
+      "start": "22:15",
+      "end": "22:48",
+      "start_full": "20260123221500",
+      "end_full": "20260123224800"
     },
     {
-      "title": "Day 7 - M1 - Morning Session - Rod Laver Arena - Australian Open 2026",
-      "desc": "The tournament’s flagship center court (14,820 seats) with a retractable roof, staging the biggest day sessions (from 11:00am local) and night sessions (from 7:00pm local). It hosts the key showpiece matches through the fortnight, including finals weekend: doubles finals on Sat 31 Jan (afternoon) followed by the women’s singles final (Sat night), and the men’s singles final on Sun 1 Feb.",
-      "start": "03:30",
-      "end": "05:30",
-      "start_full": "20260124033000",
-      "end_full": "20260124053000"
+      "title": "Levante vs Elche - Spanish LaLiga 2025/26 - Week 21",
+      "desc": "Levante have lost just one of their six home games against Elche in LaLiga, a 0-1 defeat in December 1963, which was Elche's first ever top-flight visit to Levante. Following their victory in August on Matchday 3, Elche could achieve consecutive wins against Levante for the first time ever in LaLiga history.\n",
+      "start": "22:48",
+      "end": "01:00",
+      "start_full": "20260123224800",
+      "end_full": "20260124010000"
     },
     {
-      "title": "Day 7 - M2 - Morning Session - Rod Laver Arena - Australian Open 2026",
-      "desc": "The tournament’s flagship center court (14,820 seats) with a retractable roof, staging the biggest day sessions (from 11:00am local) and night sessions (from 7:00pm local). It hosts the key showpiece matches through the fortnight, including finals weekend: doubles finals on Sat 31 Jan (afternoon) followed by the women’s singles final (Sat night), and the men’s singles final on Sun 1 Feb.",
-      "start": "05:30",
-      "end": "09:00",
-      "start_full": "20260124053000",
-      "end_full": "20260124090000"
+      "title": "Sporting Clube de Portugal vs Paris Saint-Germain - UEFA Champions League 2025/26 - MD7",
+      "desc": "This is the first ever European meeting between Sporting CP and Paris SG – they will be the 12th different French side Sporting have faced overall in Europe, and first since they beat Marseille 2-1 on MD3 this season in the UEFA Champions League. Paris Saint-Germain have won just one of their eight away major European matches in Portugal, beating Sporting Braga 1-0 in the UEFA Cup in March 2009 with a Guillaume Hoarau goal.\n",
+      "start": "01:00",
+      "end": "03:00",
+      "start_full": "20260124010000",
+      "end_full": "20260124030000"
     },
     {
-      "title": "Tiafoe, Frances (USA) vs De Minaur, Alex (AUS) - M3 - Evening Session - Rod Laver Arena - Australian",
-      "desc": "The tournament’s flagship center court (14,820 seats) with a retractable roof, staging the biggest day sessions (from 11:00am local) and night sessions (from 7:00pm local). It hosts the key showpiece matches through the fortnight, including finals weekend: doubles finals on Sat 31 Jan (afternoon) followed by the women’s singles final (Sat night), and the men’s singles final on Sun 1 Feb.",
-      "start": "09:00",
-      "end": "11:00",
-      "start_full": "20260124090000",
-      "end_full": "20260124110000"
+      "title": "Trabzonspor vs Kasimpasa - Turkish Super League - MD 19 - 2025-2026",
+      "desc": "The Turkish Süper Lig is the top-flight competition of the Turkish football league system and is live and exclusive on beIN SPORTS. The season runs from August to May, with each club playing 38 matches. Matches are played Friday through to Monday. Galatasaray are the current Champions.",
+      "start": "03:00",
+      "end": "05:00",
+      "start_full": "20260124030000",
+      "end_full": "20260124050000"
     },
     {
-      "title": "Day 7 - M3 - Evening Session - Rod Laver Arena - Australian Open 2026",
-      "desc": "The tournament’s flagship center court (14,820 seats) with a retractable roof, staging the biggest day sessions (from 11:00am local) and night sessions (from 7:00pm local). It hosts the key showpiece matches through the fortnight, including finals weekend: doubles finals on Sat 31 Jan (afternoon) followed by the women’s singles final (Sat night), and the men’s singles final on Sun 1 Feb.",
-      "start": "11:00",
-      "end": "13:00",
-      "start_full": "20260124110000",
-      "end_full": "20260124130000"
+      "title": "Levante vs Elche - Spanish LaLiga 2025/26 - Week 21",
+      "desc": "Levante have lost just one of their six home games against Elche in LaLiga, a 0-1 defeat in December 1963, which was Elche's first ever top-flight visit to Levante. Following their victory in August on Matchday 3, Elche could achieve consecutive wins against Levante for the first time ever in LaLiga history.\n",
+      "start": "05:00",
+      "end": "06:58",
+      "start_full": "20260124050000",
+      "end_full": "20260124065800"
+    },
+    {
+      "title": "Qarabağ vs Eintracht Frankfurt - UEFA Champions League 2025/26 - MD7",
+      "desc": "Qarabag versus Eintracht Frankfurt will be the first meeting between sides from Azerbaijan and Germany in the history of the European Cup/UEFA Champions League. Qarabag and Eintracht Frankfurt have faced each other twice previously, with the German side winning home  and away  in a play-off qualifier for the 2013-14 UEFA Europa League.\n",
+      "start": "06:58",
+      "end": "08:45",
+      "start_full": "20260124065800",
+      "end_full": "20260124084500"
+    },
+    {
+      "title": "Chelsea vs Pafos - UEFA Champions League 2025/26 - MD7",
+      "desc": "This is just Chelsea’s third ever meeting with Cypriot opposition, winning 1-0 away and drawing 2-2 at home with APOEL Nicosia in the 2009-10 UEFA Champions League previously. This is Pafos’ first ever meeting with English opposition. Cypriot sides have only won one of their 21 meetings with English teams in all competitions, with AEK Larnaca winning 1-0 at Crystal Palace in this season’s UEFA Conference League.\n",
+      "start": "08:45",
+      "end": "10:35",
+      "start_full": "20260124084500",
+      "end_full": "20260124103500"
+    },
+    {
+      "title": "Trabzonspor vs Kasimpasa - Turkish Super League - MD 19 - 2025-2026",
+      "desc": "The Turkish Süper Lig is the top-flight competition of the Turkish football league system and is live and exclusive on beIN SPORTS. The season runs from August to May, with each club playing 38 matches. Matches are played Friday through to Monday. Galatasaray are the current Champions.",
+      "start": "10:35",
+      "end": "12:27",
+      "start_full": "20260124103500",
+      "end_full": "20260124122700"
+    },
+    {
+      "title": "Levante vs Elche - Spanish LaLiga 2025/26 - Week 21",
+      "desc": "Levante have lost just one of their six home games against Elche in LaLiga, a 0-1 defeat in December 1963, which was Elche's first ever top-flight visit to Levante. Following their victory in August on Matchday 3, Elche could achieve consecutive wins against Levante for the first time ever in LaLiga history.\n",
+      "start": "12:27",
+      "end": "14:10",
+      "start_full": "20260124122700",
+      "end_full": "20260124141000"
     }
   ],
   "beIN SPORTS FR 1": [
@@ -2387,298 +2767,6 @@
       "end": "14:45",
       "start_full": "20260124121500",
       "end_full": "20260124144500"
-    }
-  ],
-  "beIN SPORTS XTRA 5": [
-    {
-      "title": "beIN SPORTS XTRA For Live And Exclusive Coverage of Premuim Sporting Events - Dec",
-      "desc": "beIN SPORTS XTRA For Live And Exclusive Coverage of Premuim Sporting Events",
-      "start": "13:00",
-      "end": "14:00",
-      "start_full": "20260123130000",
-      "end_full": "20260123140000"
-    },
-    {
-      "title": "beIN SPORTS XTRA For Live And Exclusive Coverage of Premuim Sporting Events - Dec",
-      "desc": "beIN SPORTS XTRA For Live And Exclusive Coverage of Premuim Sporting Events",
-      "start": "14:00",
-      "end": "15:00",
-      "start_full": "20260123140000",
-      "end_full": "20260123150000"
-    },
-    {
-      "title": "beIN SPORTS XTRA For Live And Exclusive Coverage of Premuim Sporting Events - Dec",
-      "desc": "beIN SPORTS XTRA For Live And Exclusive Coverage of Premuim Sporting Events",
-      "start": "15:00",
-      "end": "16:00",
-      "start_full": "20260123150000",
-      "end_full": "20260123160000"
-    },
-    {
-      "title": "beIN SPORTS XTRA For Live And Exclusive Coverage of Premuim Sporting Events - Dec",
-      "desc": "beIN SPORTS XTRA For Live And Exclusive Coverage of Premuim Sporting Events",
-      "start": "16:00",
-      "end": "17:00",
-      "start_full": "20260123160000",
-      "end_full": "20260123170000"
-    },
-    {
-      "title": "beIN SPORTS XTRA For Live And Exclusive Coverage of Premuim Sporting Events - Dec",
-      "desc": "beIN SPORTS XTRA For Live And Exclusive Coverage of Premuim Sporting Events",
-      "start": "17:00",
-      "end": "18:00",
-      "start_full": "20260123170000",
-      "end_full": "20260123180000"
-    },
-    {
-      "title": "beIN SPORTS XTRA For Live And Exclusive Coverage of Premuim Sporting Events - Dec",
-      "desc": "beIN SPORTS XTRA For Live And Exclusive Coverage of Premuim Sporting Events",
-      "start": "18:00",
-      "end": "19:00",
-      "start_full": "20260123180000",
-      "end_full": "20260123190000"
-    },
-    {
-      "title": "beIN SPORTS XTRA For Live And Exclusive Coverage of Premuim Sporting Events - Dec",
-      "desc": "beIN SPORTS XTRA For Live And Exclusive Coverage of Premuim Sporting Events",
-      "start": "19:00",
-      "end": "20:00",
-      "start_full": "20260123190000",
-      "end_full": "20260123200000"
-    },
-    {
-      "title": "beIN SPORTS XTRA For Live And Exclusive Coverage of Premuim Sporting Events - Dec",
-      "desc": "beIN SPORTS XTRA For Live And Exclusive Coverage of Premuim Sporting Events",
-      "start": "20:00",
-      "end": "21:00",
-      "start_full": "20260123200000",
-      "end_full": "20260123210000"
-    },
-    {
-      "title": "beIN SPORTS XTRA For Live And Exclusive Coverage of Premuim Sporting Events - Dec",
-      "desc": "beIN SPORTS XTRA For Live And Exclusive Coverage of Premuim Sporting Events",
-      "start": "21:00",
-      "end": "22:00",
-      "start_full": "20260123210000",
-      "end_full": "20260123220000"
-    },
-    {
-      "title": "beIN SPORTS XTRA For Live And Exclusive Coverage of Premuim Sporting Events - Dec",
-      "desc": "beIN SPORTS XTRA For Live And Exclusive Coverage of Premuim Sporting Events",
-      "start": "22:00",
-      "end": "23:00",
-      "start_full": "20260123220000",
-      "end_full": "20260123230000"
-    },
-    {
-      "title": "beIN SPORTS XTRA For Live And Exclusive Coverage of Premuim Sporting Events - Dec",
-      "desc": "beIN SPORTS XTRA For Live And Exclusive Coverage of Premuim Sporting Events",
-      "start": "23:00",
-      "end": "00:00",
-      "start_full": "20260123230000",
-      "end_full": "20260124000000"
-    },
-    {
-      "title": "beIN SPORTS XTRA For Live And Exclusive Coverage of Premuim Sporting Events - Dec",
-      "desc": "beIN SPORTS XTRA For Live And Exclusive Coverage of Premuim Sporting Events",
-      "start": "00:00",
-      "end": "01:00",
-      "start_full": "20260124000000",
-      "end_full": "20260124010000"
-    },
-    {
-      "title": "beIN SPORTS XTRA For Live And Exclusive Coverage of Premuim Sporting Events - Dec",
-      "desc": "beIN SPORTS XTRA For Live And Exclusive Coverage of Premuim Sporting Events",
-      "start": "01:00",
-      "end": "02:00",
-      "start_full": "20260124010000",
-      "end_full": "20260124020000"
-    },
-    {
-      "title": "beIN SPORTS XTRA For Live And Exclusive Coverage of Premuim Sporting Events - Dec",
-      "desc": "beIN SPORTS XTRA For Live And Exclusive Coverage of Premuim Sporting Events",
-      "start": "02:00",
-      "end": "03:00",
-      "start_full": "20260124020000",
-      "end_full": "20260124030000"
-    },
-    {
-      "title": "beIN SPORTS XTRA For Live And Exclusive Coverage of Premuim Sporting Events - Dec",
-      "desc": "beIN SPORTS XTRA For Live And Exclusive Coverage of Premuim Sporting Events",
-      "start": "03:00",
-      "end": "04:00",
-      "start_full": "20260124030000",
-      "end_full": "20260124040000"
-    },
-    {
-      "title": "beIN SPORTS XTRA For Live And Exclusive Coverage of Premuim Sporting Events - Dec",
-      "desc": "beIN SPORTS XTRA For Live And Exclusive Coverage of Premuim Sporting Events",
-      "start": "04:00",
-      "end": "05:00",
-      "start_full": "20260124040000",
-      "end_full": "20260124050000"
-    },
-    {
-      "title": "beIN SPORTS XTRA For Live And Exclusive Coverage of Premuim Sporting Events - Dec",
-      "desc": "beIN SPORTS XTRA For Live And Exclusive Coverage of Premuim Sporting Events",
-      "start": "05:00",
-      "end": "06:00",
-      "start_full": "20260124050000",
-      "end_full": "20260124060000"
-    },
-    {
-      "title": "beIN SPORTS XTRA For Live And Exclusive Coverage of Premuim Sporting Events - Dec",
-      "desc": "beIN SPORTS XTRA For Live And Exclusive Coverage of Premuim Sporting Events",
-      "start": "06:00",
-      "end": "07:00",
-      "start_full": "20260124060000",
-      "end_full": "20260124070000"
-    },
-    {
-      "title": "beIN SPORTS XTRA For Live And Exclusive Coverage of Premuim Sporting Events - Dec",
-      "desc": "beIN SPORTS XTRA For Live And Exclusive Coverage of Premuim Sporting Events",
-      "start": "07:00",
-      "end": "08:00",
-      "start_full": "20260124070000",
-      "end_full": "20260124080000"
-    },
-    {
-      "title": "beIN SPORTS XTRA For Live And Exclusive Coverage of Premuim Sporting Events - Dec",
-      "desc": "beIN SPORTS XTRA For Live And Exclusive Coverage of Premuim Sporting Events",
-      "start": "08:00",
-      "end": "09:00",
-      "start_full": "20260124080000",
-      "end_full": "20260124090000"
-    },
-    {
-      "title": "beIN SPORTS XTRA For Live And Exclusive Coverage of Premuim Sporting Events - Dec",
-      "desc": "beIN SPORTS XTRA For Live And Exclusive Coverage of Premuim Sporting Events",
-      "start": "09:00",
-      "end": "10:00",
-      "start_full": "20260124090000",
-      "end_full": "20260124100000"
-    },
-    {
-      "title": "beIN SPORTS XTRA For Live And Exclusive Coverage of Premuim Sporting Events - Dec",
-      "desc": "beIN SPORTS XTRA For Live And Exclusive Coverage of Premuim Sporting Events",
-      "start": "10:00",
-      "end": "11:00",
-      "start_full": "20260124100000",
-      "end_full": "20260124110000"
-    },
-    {
-      "title": "beIN SPORTS XTRA For Live And Exclusive Coverage of Premuim Sporting Events - Dec",
-      "desc": "beIN SPORTS XTRA For Live And Exclusive Coverage of Premuim Sporting Events",
-      "start": "11:00",
-      "end": "12:00",
-      "start_full": "20260124110000",
-      "end_full": "20260124120000"
-    },
-    {
-      "title": "beIN SPORTS XTRA For Live And Exclusive Coverage of Premuim Sporting Events - Dec",
-      "desc": "beIN SPORTS XTRA For Live And Exclusive Coverage of Premuim Sporting Events",
-      "start": "12:00",
-      "end": "13:00",
-      "start_full": "20260124120000",
-      "end_full": "20260124130000"
-    }
-  ],
-  "beIN SPORTS 8": [
-    {
-      "title": "Bublik, Alexander (KAZ) vs Etcheverry, Tomas Martin (ARG) - M4 - Evening Session - Margaret Court Ar",
-      "desc": "A 7,500-seat show court and ticketed arena with a retractable roof that opens in under five minutes, ensuring uninterrupted play in any conditions. It delivers a full showcase schedule of headline singles and doubles in Day Sessions (from 11:30am) and Night Sessions (from 7:00pm).",
-      "start": "13:00",
-      "end": "16:05",
-      "start_full": "20260123130000",
-      "end_full": "20260123160500"
-    },
-    {
-      "title": "Medvedev, Daniil vs Marozsan, Fabian (HUN)  - M1 - Morning Session - Margaret Court Arena - Australi",
-      "desc": "A 7,500-seat show court and ticketed arena with a retractable roof that opens in under five minutes, ensuring uninterrupted play in any conditions. It delivers a full showcase schedule of headline singles and doubles in Day Sessions (from 11:30am) and Night Sessions (from 7:00pm).",
-      "start": "16:05",
-      "end": "20:20",
-      "start_full": "20260123160500",
-      "end_full": "20260123202000"
-    },
-    {
-      "title": "Gauff, Coco (USA) vs Baptiste, Hailey (USA)  - M2 - Womens - Morning Session - Margaret Court Arena ",
-      "desc": "A 7,500-seat show court and ticketed arena with a retractable roof that opens in under five minutes, ensuring uninterrupted play in any conditions. It delivers a full showcase schedule of headline singles and doubles in Day Sessions (from 11:30am) and Night Sessions (from 7:00pm).",
-      "start": "20:20",
-      "end": "22:30",
-      "start_full": "20260123202000",
-      "end_full": "20260123223000"
-    },
-    {
-      "title": "Svitolina, Elina (UKR) vs Shnaider, Diana  - Womens - M3 - Evening Session - Margaret Court Arena - ",
-      "desc": "A 7,500-seat show court and ticketed arena with a retractable roof that opens in under five minutes, ensuring uninterrupted play in any conditions. It delivers a full showcase schedule of headline singles and doubles in Day Sessions (from 11:30am) and Night Sessions (from 7:00pm).",
-      "start": "22:30",
-      "end": "00:20",
-      "start_full": "20260123223000",
-      "end_full": "20260124002000"
-    },
-    {
-      "title": "PAOK vs Real Betis - UEFA Europa League 2025/2026 - MD7",
-      "desc": "PAOK Salonika and Real Betis have never met in major European competition before – the Greek side have won one of their last 11 European games against Spanish opponents. Real Betis’ only previous experience facing a Greek team was in the 2018-19 UEFA Europa League group stage, drawing 0-0 away and winning 1-0 at home against Olympiakos.\n",
-      "start": "00:20",
-      "end": "02:00",
-      "start_full": "20260124002000",
-      "end_full": "20260124020000"
-    },
-    {
-      "title": "Aryna Sabalenka vs Anastasia Potapova - M1/ D6 - Australian Open 2026 - Mini Match",
-      "desc": "AO26 Mini Matches (26 minutes) delivers daily highlights of the most important match of the day from the Australian Open 2026 main draw at Melbourne Park. Each episode captures the decisive rallies, momentum swings, and match-point moments, with clear, informative context on how the match was won and why the result matters in the race to the title.",
-      "start": "02:00",
-      "end": "02:30",
-      "start_full": "20260124020000",
-      "end_full": "20260124023000"
-    },
-    {
-      "title": "Carlos Alcaraz vs Corentin Moutet - M2/ D6 - Australian Open 2026 - Mini Match",
-      "desc": "AO26 Mini Matches (26 minutes) delivers daily highlights of the most important match of the day from the Australian Open 2026 main draw at Melbourne Park. Each episode captures the decisive rallies, momentum swings, and match-point moments, with clear, informative context on how the match was won and why the result matters in the race to the title.",
-      "start": "02:30",
-      "end": "03:00",
-      "start_full": "20260124023000",
-      "end_full": "20260124030000"
-    },
-    {
-      "title": "James Duckworth vs Jannik Sinner - Australian Open 2026 - Mini Match",
-      "desc": "AO26 Mini Matches (26 minutes) delivers daily highlights of the most important match of the day from the Australian Open 2026 main draw at Melbourne Park. Each episode captures the decisive rallies, momentum swings, and match-point moments, with clear, informative context on how the match was won and why the result matters in the race to the title.",
-      "start": "03:00",
-      "end": "03:30",
-      "start_full": "20260124030000",
-      "end_full": "20260124033000"
-    },
-    {
-      "title": "Day 7 - M1 - Morning Session - Margaret Court Arena - Australian Open 2026",
-      "desc": "A 7,500-seat show court and ticketed arena with a retractable roof that opens in under five minutes, ensuring uninterrupted play in any conditions. It delivers a full showcase schedule of headline singles and doubles in Day Sessions (from 11:30am) and Night Sessions (from 7:00pm).",
-      "start": "03:30",
-      "end": "05:30",
-      "start_full": "20260124033000",
-      "end_full": "20260124053000"
-    },
-    {
-      "title": "Day 7 - M2 - Morning Session - Margaret Court Arena - Australian Open 2026",
-      "desc": "A 7,500-seat show court and ticketed arena with a retractable roof that opens in under five minutes, ensuring uninterrupted play in any conditions. It delivers a full showcase schedule of headline singles and doubles in Day Sessions (from 11:30am) and Night Sessions (from 7:00pm).",
-      "start": "05:30",
-      "end": "09:00",
-      "start_full": "20260124053000",
-      "end_full": "20260124090000"
-    },
-    {
-      "title": "Day 7 - M1 - Morning Session - Margaret Court Arena - Australian Open 2026",
-      "desc": "A 7,500-seat show court and ticketed arena with a retractable roof that opens in under five minutes, ensuring uninterrupted play in any conditions. It delivers a full showcase schedule of headline singles and doubles in Day Sessions (from 11:30am) and Night Sessions (from 7:00pm).",
-      "start": "09:00",
-      "end": "11:00",
-      "start_full": "20260124090000",
-      "end_full": "20260124110000"
-    },
-    {
-      "title": "Day 7 - M3 - Evening Session - Margaret Court Arena - Australian Open 2026",
-      "desc": "A 7,500-seat show court and ticketed arena with a retractable roof that opens in under five minutes, ensuring uninterrupted play in any conditions. It delivers a full showcase schedule of headline singles and doubles in Day Sessions (from 11:30am) and Night Sessions (from 7:00pm).",
-      "start": "11:00",
-      "end": "13:00",
-      "start_full": "20260124110000",
-      "end_full": "20260124130000"
     }
   ],
   "beIN SPORTS 1": [
@@ -2979,501 +3067,179 @@
       "end_full": "20260124132500"
     }
   ],
-  "beIN SPORTS XTRA 4": [
+  "beIN SPORTS 7": [
     {
-      "title": "beIN SPORTS XTRA For Live And Exclusive Coverage of Premuim Sporting Events - Dec",
-      "desc": "beIN SPORTS XTRA For Live And Exclusive Coverage of Premuim Sporting Events",
+      "title": "Ruse, Elena‑Gabriela (ROU) vs Andreeva, Mirra - Womens - M4 - Evening Session - Rod Laver Arena - Au",
+      "desc": "The tournament’s flagship center court (14,820 seats) with a retractable roof, staging the biggest day sessions (from 11:00am local) and night sessions (from 7:00pm local). It hosts the key showpiece matches through the fortnight, including finals weekend: doubles finals on Sat 31 Jan (afternoon) followed by the women’s singles final (Sat night), and the men’s singles final on Sun 1 Feb.",
       "start": "13:00",
-      "end": "14:00",
+      "end": "16:15",
       "start_full": "20260123130000",
-      "end_full": "20260123140000"
+      "end_full": "20260123161500"
     },
     {
-      "title": "beIN SPORTS XTRA For Live And Exclusive Coverage of Premuim Sporting Events - Dec",
-      "desc": "beIN SPORTS XTRA For Live And Exclusive Coverage of Premuim Sporting Events",
-      "start": "14:00",
-      "end": "15:00",
-      "start_full": "20260123140000",
-      "end_full": "20260123150000"
+      "title": "Sabalenka, Aryna vs Potapova, Anastasia (AUT)  - Womens - M1 - Morning Session - Rod Laver Arena - A",
+      "desc": "The tournament’s flagship center court (14,820 seats) with a retractable roof, staging the biggest day sessions (from 11:00am local) and night sessions (from 7:00pm local). It hosts the key showpiece matches through the fortnight, including finals weekend: doubles finals on Sat 31 Jan (afternoon) followed by the women’s singles final (Sat night), and the men’s singles final on Sun 1 Feb.",
+      "start": "16:15",
+      "end": "18:38",
+      "start_full": "20260123161500",
+      "end_full": "20260123183800"
     },
     {
-      "title": "beIN SPORTS XTRA For Live And Exclusive Coverage of Premuim Sporting Events - Dec",
-      "desc": "beIN SPORTS XTRA For Live And Exclusive Coverage of Premuim Sporting Events",
-      "start": "15:00",
-      "end": "16:00",
-      "start_full": "20260123150000",
-      "end_full": "20260123160000"
+      "title": "Alcaraz, Carlos (ESP) vs Moutet, Corentin (FRA) - M2 - Morning Session - Rod Laver Arena - Australia",
+      "desc": "The tournament’s flagship center court (14,820 seats) with a retractable roof, staging the biggest day sessions (from 11:00am local) and night sessions (from 7:00pm local). It hosts the key showpiece matches through the fortnight, including finals weekend: doubles finals on Sat 31 Jan (afternoon) followed by the women’s singles final (Sat night), and the men’s singles final on Sun 1 Feb.",
+      "start": "18:38",
+      "end": "21:15",
+      "start_full": "20260123183800",
+      "end_full": "20260123211500"
     },
     {
-      "title": "beIN SPORTS XTRA For Live And Exclusive Coverage of Premuim Sporting Events - Dec",
-      "desc": "beIN SPORTS XTRA For Live And Exclusive Coverage of Premuim Sporting Events",
-      "start": "16:00",
-      "end": "17:00",
-      "start_full": "20260123160000",
-      "end_full": "20260123170000"
+      "title": "Tiafoe, Frances (USA) vs De Minaur, Alex (AUS) - M3 - Evening Session - Rod Laver Arena - Australian",
+      "desc": "The tournament’s flagship center court (14,820 seats) with a retractable roof, staging the biggest day sessions (from 11:00am local) and night sessions (from 7:00pm local). It hosts the key showpiece matches through the fortnight, including finals weekend: doubles finals on Sat 31 Jan (afternoon) followed by the women’s singles final (Sat night), and the men’s singles final on Sun 1 Feb.",
+      "start": "21:15",
+      "end": "00:30",
+      "start_full": "20260123211500",
+      "end_full": "20260124003000"
     },
     {
-      "title": "beIN SPORTS XTRA For Live And Exclusive Coverage of Premuim Sporting Events - Dec",
-      "desc": "beIN SPORTS XTRA For Live And Exclusive Coverage of Premuim Sporting Events",
-      "start": "17:00",
-      "end": "18:00",
-      "start_full": "20260123170000",
-      "end_full": "20260123180000"
+      "title": "Ruse, Elena‑Gabriela (ROU) vs Andreeva, Mirra - Womens - M4 - Evening Session - Rod Laver Arena - Au",
+      "desc": "The tournament’s flagship center court (14,820 seats) with a retractable roof, staging the biggest day sessions (from 11:00am local) and night sessions (from 7:00pm local). It hosts the key showpiece matches through the fortnight, including finals weekend: doubles finals on Sat 31 Jan (afternoon) followed by the women’s singles final (Sat night), and the men’s singles final on Sun 1 Feb.",
+      "start": "00:30",
+      "end": "02:30",
+      "start_full": "20260124003000",
+      "end_full": "20260124023000"
     },
     {
-      "title": "beIN SPORTS XTRA For Live And Exclusive Coverage of Premuim Sporting Events - Dec",
-      "desc": "beIN SPORTS XTRA For Live And Exclusive Coverage of Premuim Sporting Events",
-      "start": "18:00",
-      "end": "19:00",
-      "start_full": "20260123180000",
-      "end_full": "20260123190000"
+      "title": "Karolina Pliskova vs Madison Keys - Womens - Day 7 - M1 - Morning Session - Rod Laver Arena - Austra",
+      "desc": "The tournament’s flagship center court (14,820 seats) with a retractable roof, staging the biggest day sessions (from 11:00am local) and night sessions (from 7:00pm local). It hosts the key showpiece matches through the fortnight, including finals weekend: doubles finals on Sat 31 Jan (afternoon) followed by the women’s singles final (Sat night), and the men’s singles final on Sun 1 Feb.",
+      "start": "02:30",
+      "end": "04:30",
+      "start_full": "20260124023000",
+      "end_full": "20260124043000"
     },
     {
-      "title": "beIN SPORTS XTRA For Live And Exclusive Coverage of Premuim Sporting Events - Dec",
-      "desc": "beIN SPORTS XTRA For Live And Exclusive Coverage of Premuim Sporting Events",
-      "start": "19:00",
-      "end": "20:00",
-      "start_full": "20260123190000",
-      "end_full": "20260123200000"
+      "title": "Eliot Spizzirri vs Jannik Sinner - Day 7 - M2 - Morning Session - Rod Laver Arena - Australian Open ",
+      "desc": "The tournament’s flagship center court (14,820 seats) with a retractable roof, staging the biggest day sessions (from 11:00am local) and night sessions (from 7:00pm local). It hosts the key showpiece matches through the fortnight, including finals weekend: doubles finals on Sat 31 Jan (afternoon) followed by the women’s singles final (Sat night), and the men’s singles final on Sun 1 Feb.",
+      "start": "04:30",
+      "end": "08:25",
+      "start_full": "20260124043000",
+      "end_full": "20260124082500"
     },
     {
-      "title": "beIN SPORTS XTRA For Live And Exclusive Coverage of Premuim Sporting Events - Dec",
-      "desc": "beIN SPORTS XTRA For Live And Exclusive Coverage of Premuim Sporting Events",
-      "start": "20:00",
-      "end": "21:00",
-      "start_full": "20260123200000",
-      "end_full": "20260123210000"
+      "title": "Aryna Sabalenka vs Anastasia Potapova - M1/ D6 - Australian Open 2026 - Mini Match",
+      "desc": "AO26 Mini Matches (26 minutes) delivers daily highlights of the most important match of the day from the Australian Open 2026 main draw at Melbourne Park. Each episode captures the decisive rallies, momentum swings, and match-point moments, with clear, informative context on how the match was won and why the result matters in the race to the title.",
+      "start": "08:25",
+      "end": "08:57",
+      "start_full": "20260124082500",
+      "end_full": "20260124085700"
     },
     {
-      "title": "beIN SPORTS XTRA For Live And Exclusive Coverage of Premuim Sporting Events - Dec",
-      "desc": "beIN SPORTS XTRA For Live And Exclusive Coverage of Premuim Sporting Events",
-      "start": "21:00",
-      "end": "22:00",
-      "start_full": "20260123210000",
-      "end_full": "20260123220000"
+      "title": "Carlos Alcaraz vs Corentin Moutet - M2/ D6 - Australian Open 2026 - Mini Match",
+      "desc": "AO26 Mini Matches (26 minutes) delivers daily highlights of the most important match of the day from the Australian Open 2026 main draw at Melbourne Park. Each episode captures the decisive rallies, momentum swings, and match-point moments, with clear, informative context on how the match was won and why the result matters in the race to the title.",
+      "start": "08:57",
+      "end": "09:24",
+      "start_full": "20260124085700",
+      "end_full": "20260124092400"
     },
     {
-      "title": "beIN SPORTS XTRA For Live And Exclusive Coverage of Premuim Sporting Events - Dec",
-      "desc": "beIN SPORTS XTRA For Live And Exclusive Coverage of Premuim Sporting Events",
-      "start": "22:00",
-      "end": "23:00",
-      "start_full": "20260123220000",
-      "end_full": "20260123230000"
-    },
-    {
-      "title": "beIN SPORTS XTRA For Live And Exclusive Coverage of Premuim Sporting Events - Dec",
-      "desc": "beIN SPORTS XTRA For Live And Exclusive Coverage of Premuim Sporting Events",
-      "start": "23:00",
-      "end": "00:00",
-      "start_full": "20260123230000",
-      "end_full": "20260124000000"
-    },
-    {
-      "title": "beIN SPORTS XTRA For Live And Exclusive Coverage of Premuim Sporting Events - Dec",
-      "desc": "beIN SPORTS XTRA For Live And Exclusive Coverage of Premuim Sporting Events",
-      "start": "00:00",
-      "end": "01:00",
-      "start_full": "20260124000000",
-      "end_full": "20260124010000"
-    },
-    {
-      "title": "beIN SPORTS XTRA For Live And Exclusive Coverage of Premuim Sporting Events - Dec",
-      "desc": "beIN SPORTS XTRA For Live And Exclusive Coverage of Premuim Sporting Events",
-      "start": "01:00",
-      "end": "02:00",
-      "start_full": "20260124010000",
-      "end_full": "20260124020000"
-    },
-    {
-      "title": "beIN SPORTS XTRA For Live And Exclusive Coverage of Premuim Sporting Events - Dec",
-      "desc": "beIN SPORTS XTRA For Live And Exclusive Coverage of Premuim Sporting Events",
-      "start": "02:00",
-      "end": "03:00",
-      "start_full": "20260124020000",
-      "end_full": "20260124030000"
-    },
-    {
-      "title": "beIN SPORTS XTRA For Live And Exclusive Coverage of Premuim Sporting Events - Dec",
-      "desc": "beIN SPORTS XTRA For Live And Exclusive Coverage of Premuim Sporting Events",
-      "start": "03:00",
-      "end": "04:00",
-      "start_full": "20260124030000",
-      "end_full": "20260124040000"
-    },
-    {
-      "title": "beIN SPORTS XTRA For Live And Exclusive Coverage of Premuim Sporting Events - Dec",
-      "desc": "beIN SPORTS XTRA For Live And Exclusive Coverage of Premuim Sporting Events",
-      "start": "04:00",
-      "end": "05:00",
-      "start_full": "20260124040000",
-      "end_full": "20260124050000"
-    },
-    {
-      "title": "beIN SPORTS XTRA For Live And Exclusive Coverage of Premuim Sporting Events - Dec",
-      "desc": "beIN SPORTS XTRA For Live And Exclusive Coverage of Premuim Sporting Events",
-      "start": "05:00",
-      "end": "06:00",
-      "start_full": "20260124050000",
-      "end_full": "20260124060000"
-    },
-    {
-      "title": "beIN SPORTS XTRA For Live And Exclusive Coverage of Premuim Sporting Events - Dec",
-      "desc": "beIN SPORTS XTRA For Live And Exclusive Coverage of Premuim Sporting Events",
-      "start": "06:00",
-      "end": "07:00",
-      "start_full": "20260124060000",
-      "end_full": "20260124070000"
-    },
-    {
-      "title": "beIN SPORTS XTRA For Live And Exclusive Coverage of Premuim Sporting Events - Dec",
-      "desc": "beIN SPORTS XTRA For Live And Exclusive Coverage of Premuim Sporting Events",
-      "start": "07:00",
-      "end": "08:00",
-      "start_full": "20260124070000",
-      "end_full": "20260124080000"
-    },
-    {
-      "title": "beIN SPORTS XTRA For Live And Exclusive Coverage of Premuim Sporting Events - Dec",
-      "desc": "beIN SPORTS XTRA For Live And Exclusive Coverage of Premuim Sporting Events",
-      "start": "08:00",
-      "end": "09:00",
-      "start_full": "20260124080000",
-      "end_full": "20260124090000"
-    },
-    {
-      "title": "beIN SPORTS XTRA For Live And Exclusive Coverage of Premuim Sporting Events - Dec",
-      "desc": "beIN SPORTS XTRA For Live And Exclusive Coverage of Premuim Sporting Events",
-      "start": "09:00",
-      "end": "10:00",
-      "start_full": "20260124090000",
-      "end_full": "20260124100000"
-    },
-    {
-      "title": "beIN SPORTS XTRA For Live And Exclusive Coverage of Premuim Sporting Events - Dec",
-      "desc": "beIN SPORTS XTRA For Live And Exclusive Coverage of Premuim Sporting Events",
-      "start": "10:00",
+      "title": "Karolina Pliskova vs Madison Keys - Womens - Day 7 - M1 - Morning Session - Rod Laver Arena - Austra",
+      "desc": "The tournament’s flagship center court (14,820 seats) with a retractable roof, staging the biggest day sessions (from 11:00am local) and night sessions (from 7:00pm local). It hosts the key showpiece matches through the fortnight, including finals weekend: doubles finals on Sat 31 Jan (afternoon) followed by the women’s singles final (Sat night), and the men’s singles final on Sun 1 Feb.",
+      "start": "09:24",
       "end": "11:00",
-      "start_full": "20260124100000",
+      "start_full": "20260124092400",
       "end_full": "20260124110000"
     },
     {
-      "title": "beIN SPORTS XTRA For Live And Exclusive Coverage of Premuim Sporting Events - Dec",
-      "desc": "beIN SPORTS XTRA For Live And Exclusive Coverage of Premuim Sporting Events",
+      "title": "Botic van de Zandschulp vs Novak Djokovic - Day 7 - M3 - Evening Session - Rod Laver Arena - Austral",
+      "desc": "The tournament’s flagship center court (14,820 seats) with a retractable roof, staging the biggest day sessions (from 11:00am local) and night sessions (from 7:00pm local). It hosts the key showpiece matches through the fortnight, including finals weekend: doubles finals on Sat 31 Jan (afternoon) followed by the women’s singles final (Sat night), and the men’s singles final on Sun 1 Feb.",
       "start": "11:00",
-      "end": "12:00",
-      "start_full": "20260124110000",
-      "end_full": "20260124120000"
-    },
-    {
-      "title": "beIN SPORTS XTRA For Live And Exclusive Coverage of Premuim Sporting Events - Dec",
-      "desc": "beIN SPORTS XTRA For Live And Exclusive Coverage of Premuim Sporting Events",
-      "start": "12:00",
       "end": "13:00",
-      "start_full": "20260124120000",
+      "start_full": "20260124110000",
       "end_full": "20260124130000"
     }
   ],
-  "beIN SPORTS 3": [
+  "beIN SPORTS 8": [
     {
-      "title": "Rangers vs Ludogorets Razgrad - UEFA Europa League 2025/2026 - MD7",
-      "desc": "Rangers last faced a Bulgarian side in major European competition in the 1966-67 Cup Winners’ Cup semi-final, beating Slavia Sofia 1-0 in both legs to reach the final. This is Ludogorets’ first European encounter with a Scottish side – their six games against British sides in major competition have all been against English opposition, conceding at least twice in all six.\n",
+      "title": "Bublik, Alexander (KAZ) vs Etcheverry, Tomas Martin (ARG) - M4 - Evening Session - Margaret Court Ar",
+      "desc": "A 7,500-seat show court and ticketed arena with a retractable roof that opens in under five minutes, ensuring uninterrupted play in any conditions. It delivers a full showcase schedule of headline singles and doubles in Day Sessions (from 11:30am) and Night Sessions (from 7:00pm).",
       "start": "13:00",
-      "end": "14:49",
+      "end": "16:05",
       "start_full": "20260123130000",
-      "end_full": "20260123144900"
+      "end_full": "20260123160500"
     },
     {
-      "title": "Atletico Madrid vs Deportivo Alaves - Spanish LaLiga 2025/26 - Week 20",
-      "desc": "Atlético de Madrid have drawn their last two LaLiga matches against Alavés, both at Mendizorroza, and they have never recorded three consecutive draws against the Vitoria side in the history of the competition. Deportivo Alavés have won just one of their 14 away games against Atlético de Madrid in LaLiga, with that sole victory being the only time they have kept a clean sheet  when Jesús Aranguren and Luis Aragonés were in charge of both teams respectively.\n",
-      "start": "14:49",
-      "end": "16:34",
-      "start_full": "20260123144900",
-      "end_full": "20260123163400"
+      "title": "Medvedev, Daniil vs Marozsan, Fabian (HUN)  - M1 - Morning Session - Margaret Court Arena - Australi",
+      "desc": "A 7,500-seat show court and ticketed arena with a retractable roof that opens in under five minutes, ensuring uninterrupted play in any conditions. It delivers a full showcase schedule of headline singles and doubles in Day Sessions (from 11:30am) and Night Sessions (from 7:00pm).",
+      "start": "16:05",
+      "end": "20:20",
+      "start_full": "20260123160500",
+      "end_full": "20260123202000"
     },
     {
-      "title": "Senegal vs Morocco  - Final - African Cup of Nations - Morocco 2025",
-      "desc": "This will be the first ever CAF Africa of Nations match between Senegal and Morocco. It’s the first final in the competition to see the two teams face each other for the first time since South Africa vs Tunisia in 1996. This is Senegal’s fourth final at the CAF Africa Cup of Nations, they’re looking to lift the trophy for the second time, having defeated Egypt on penalties in 2021 after a 0-0 draw \n",
-      "start": "16:34",
-      "end": "19:50",
-      "start_full": "20260123163400",
-      "end_full": "20260123195000"
+      "title": "Gauff, Coco (USA) vs Baptiste, Hailey (USA)  - M2 - Womens - Morning Session - Margaret Court Arena ",
+      "desc": "A 7,500-seat show court and ticketed arena with a retractable roof that opens in under five minutes, ensuring uninterrupted play in any conditions. It delivers a full showcase schedule of headline singles and doubles in Day Sessions (from 11:30am) and Night Sessions (from 7:00pm).",
+      "start": "20:20",
+      "end": "22:30",
+      "start_full": "20260123202000",
+      "end_full": "20260123223000"
     },
     {
-      "title": "Trabzonspor vs Kasimpasa - Turkish Super League - MD 19 - 2025-2026",
-      "desc": "The Turkish Süper Lig is the top-flight competition of the Turkish football league system and is live and exclusive on beIN SPORTS. The season runs from August to May, with each club playing 38 matches. Matches are played Friday through to Monday. Galatasaray are the current Champions.",
-      "start": "19:50",
-      "end": "22:15",
-      "start_full": "20260123195000",
-      "end_full": "20260123221500"
+      "title": "Svitolina, Elina (UKR) vs Shnaider, Diana  - Womens - M3 - Evening Session - Margaret Court Arena - ",
+      "desc": "A 7,500-seat show court and ticketed arena with a retractable roof that opens in under five minutes, ensuring uninterrupted play in any conditions. It delivers a full showcase schedule of headline singles and doubles in Day Sessions (from 11:30am) and Night Sessions (from 7:00pm).",
+      "start": "22:30",
+      "end": "00:30",
+      "start_full": "20260123223000",
+      "end_full": "20260124003000"
     },
     {
-      "title": "ARAB CUP FIFA QATAR 2025- Morocco... the champion.",
-      "desc": "The Moroccan national team won the 2025 Arab Cup title.\nHow did Morocco reach the podium? Follow it on the program \nMorocco... the champion. \n",
-      "start": "22:15",
-      "end": "22:48",
-      "start_full": "20260123221500",
-      "end_full": "20260123224800"
+      "title": "PAOK vs Real Betis - UEFA Europa League 2025/2026 - MD7",
+      "desc": "PAOK Salonika and Real Betis have never met in major European competition before – the Greek side have won one of their last 11 European games against Spanish opponents. Real Betis’ only previous experience facing a Greek team was in the 2018-19 UEFA Europa League group stage, drawing 0-0 away and winning 1-0 at home against Olympiakos.\n",
+      "start": "00:30",
+      "end": "02:30",
+      "start_full": "20260124003000",
+      "end_full": "20260124023000"
     },
     {
-      "title": "Levante vs Elche - Spanish LaLiga 2025/26 - Week 21",
-      "desc": "Levante have lost just one of their six home games against Elche in LaLiga, a 0-1 defeat in December 1963, which was Elche's first ever top-flight visit to Levante. Following their victory in August on Matchday 3, Elche could achieve consecutive wins against Levante for the first time ever in LaLiga history.\n",
-      "start": "22:48",
-      "end": "01:00",
-      "start_full": "20260123224800",
-      "end_full": "20260124010000"
+      "title": "Jessica Pegula vs Oksana Selekhmeteva Womens - - Day 7 - M1 - Morning Session - Margaret Court Arena",
+      "desc": "A 7,500-seat show court and ticketed arena with a retractable roof that opens in under five minutes, ensuring uninterrupted play in any conditions. It delivers a full showcase schedule of headline singles and doubles in Day Sessions (from 11:30am) and Night Sessions (from 7:00pm).",
+      "start": "02:30",
+      "end": "04:30",
+      "start_full": "20260124023000",
+      "end_full": "20260124043000"
     },
     {
-      "title": "Sporting Clube de Portugal vs Paris Saint-Germain - UEFA Champions League 2025/26 - MD7",
-      "desc": "This is the first ever European meeting between Sporting CP and Paris SG – they will be the 12th different French side Sporting have faced overall in Europe, and first since they beat Marseille 2-1 on MD3 this season in the UEFA Champions League. Paris Saint-Germain have won just one of their eight away major European matches in Portugal, beating Sporting Braga 1-0 in the UEFA Cup in March 2009 with a Guillaume Hoarau goal.\n",
-      "start": "01:00",
-      "end": "03:00",
-      "start_full": "20260124010000",
-      "end_full": "20260124030000"
+      "title": "Peyton Stearns vs Amanda Anisimova - Womens -  Day 7 - M2 - Morning Session - Margaret Court Arena -",
+      "desc": "A 7,500-seat show court and ticketed arena with a retractable roof that opens in under five minutes, ensuring uninterrupted play in any conditions. It delivers a full showcase schedule of headline singles and doubles in Day Sessions (from 11:30am) and Night Sessions (from 7:00pm).",
+      "start": "04:30",
+      "end": "06:30",
+      "start_full": "20260124043000",
+      "end_full": "20260124063000"
     },
     {
-      "title": "Trabzonspor vs Kasimpasa - Turkish Super League - MD 19 - 2025-2026",
-      "desc": "The Turkish Süper Lig is the top-flight competition of the Turkish football league system and is live and exclusive on beIN SPORTS. The season runs from August to May, with each club playing 38 matches. Matches are played Friday through to Monday. Galatasaray are the current Champions.",
-      "start": "03:00",
-      "end": "05:00",
-      "start_full": "20260124030000",
-      "end_full": "20260124050000"
+      "title": "Ben Shelton vs Valentin Vacherot - Day 7 - M3 - Evening Session - Margaret Court Arena - Australian ",
+      "desc": "A 7,500-seat show court and ticketed arena with a retractable roof that opens in under five minutes, ensuring uninterrupted play in any conditions. It delivers a full showcase schedule of headline singles and doubles in Day Sessions (from 11:30am) and Night Sessions (from 7:00pm).",
+      "start": "06:30",
+      "end": "09:20",
+      "start_full": "20260124063000",
+      "end_full": "20260124092000"
     },
     {
-      "title": "Levante vs Elche - Spanish LaLiga 2025/26 - Week 21",
-      "desc": "Levante have lost just one of their six home games against Elche in LaLiga, a 0-1 defeat in December 1963, which was Elche's first ever top-flight visit to Levante. Following their victory in August on Matchday 3, Elche could achieve consecutive wins against Levante for the first time ever in LaLiga history.\n",
-      "start": "05:00",
-      "end": "06:58",
-      "start_full": "20260124050000",
-      "end_full": "20260124065800"
-    },
-    {
-      "title": "Qarabağ vs Eintracht Frankfurt - UEFA Champions League 2025/26 - MD7",
-      "desc": "Qarabag versus Eintracht Frankfurt will be the first meeting between sides from Azerbaijan and Germany in the history of the European Cup/UEFA Champions League. Qarabag and Eintracht Frankfurt have faced each other twice previously, with the German side winning home  and away  in a play-off qualifier for the 2013-14 UEFA Europa League.\n",
-      "start": "06:58",
-      "end": "08:45",
-      "start_full": "20260124065800",
-      "end_full": "20260124084500"
-    },
-    {
-      "title": "Chelsea vs Pafos - UEFA Champions League 2025/26 - MD7",
-      "desc": "This is just Chelsea’s third ever meeting with Cypriot opposition, winning 1-0 away and drawing 2-2 at home with APOEL Nicosia in the 2009-10 UEFA Champions League previously. This is Pafos’ first ever meeting with English opposition. Cypriot sides have only won one of their 21 meetings with English teams in all competitions, with AEK Larnaca winning 1-0 at Crystal Palace in this season’s UEFA Conference League.\n",
-      "start": "08:45",
-      "end": "10:35",
-      "start_full": "20260124084500",
-      "end_full": "20260124103500"
-    },
-    {
-      "title": "Trabzonspor vs Kasimpasa - Turkish Super League - MD 19 - 2025-2026",
-      "desc": "The Turkish Süper Lig is the top-flight competition of the Turkish football league system and is live and exclusive on beIN SPORTS. The season runs from August to May, with each club playing 38 matches. Matches are played Friday through to Monday. Galatasaray are the current Champions.",
-      "start": "10:35",
-      "end": "12:27",
-      "start_full": "20260124103500",
-      "end_full": "20260124122700"
-    },
-    {
-      "title": "Levante vs Elche - Spanish LaLiga 2025/26 - Week 21",
-      "desc": "Levante have lost just one of their six home games against Elche in LaLiga, a 0-1 defeat in December 1963, which was Elche's first ever top-flight visit to Levante. Following their victory in August on Matchday 3, Elche could achieve consecutive wins against Levante for the first time ever in LaLiga history.\n",
-      "start": "12:27",
-      "end": "14:10",
-      "start_full": "20260124122700",
-      "end_full": "20260124141000"
-    }
-  ],
-  "beIN SPORTS XTRA 6": [
-    {
-      "title": "beIN SPORTS XTRA For Live And Exclusive Coverage of Premuim Sporting Events - Dec",
-      "desc": "beIN SPORTS XTRA For Live And Exclusive Coverage of Premuim Sporting Events",
-      "start": "13:00",
-      "end": "14:00",
-      "start_full": "20260123130000",
-      "end_full": "20260123140000"
-    },
-    {
-      "title": "beIN SPORTS XTRA For Live And Exclusive Coverage of Premuim Sporting Events - Dec",
-      "desc": "beIN SPORTS XTRA For Live And Exclusive Coverage of Premuim Sporting Events",
-      "start": "14:00",
-      "end": "15:00",
-      "start_full": "20260123140000",
-      "end_full": "20260123150000"
-    },
-    {
-      "title": "beIN SPORTS XTRA For Live And Exclusive Coverage of Premuim Sporting Events - Dec",
-      "desc": "beIN SPORTS XTRA For Live And Exclusive Coverage of Premuim Sporting Events",
-      "start": "15:00",
-      "end": "16:00",
-      "start_full": "20260123150000",
-      "end_full": "20260123160000"
-    },
-    {
-      "title": "beIN SPORTS XTRA For Live And Exclusive Coverage of Premuim Sporting Events - Dec",
-      "desc": "beIN SPORTS XTRA For Live And Exclusive Coverage of Premuim Sporting Events",
-      "start": "16:00",
-      "end": "17:00",
-      "start_full": "20260123160000",
-      "end_full": "20260123170000"
-    },
-    {
-      "title": "beIN SPORTS XTRA For Live And Exclusive Coverage of Premuim Sporting Events - Dec",
-      "desc": "beIN SPORTS XTRA For Live And Exclusive Coverage of Premuim Sporting Events",
-      "start": "17:00",
-      "end": "18:00",
-      "start_full": "20260123170000",
-      "end_full": "20260123180000"
-    },
-    {
-      "title": "beIN SPORTS XTRA For Live And Exclusive Coverage of Premuim Sporting Events - Dec",
-      "desc": "beIN SPORTS XTRA For Live And Exclusive Coverage of Premuim Sporting Events",
-      "start": "18:00",
-      "end": "19:00",
-      "start_full": "20260123180000",
-      "end_full": "20260123190000"
-    },
-    {
-      "title": "beIN SPORTS XTRA For Live And Exclusive Coverage of Premuim Sporting Events - Dec",
-      "desc": "beIN SPORTS XTRA For Live And Exclusive Coverage of Premuim Sporting Events",
-      "start": "19:00",
-      "end": "20:00",
-      "start_full": "20260123190000",
-      "end_full": "20260123200000"
-    },
-    {
-      "title": "beIN SPORTS XTRA For Live And Exclusive Coverage of Premuim Sporting Events - Dec",
-      "desc": "beIN SPORTS XTRA For Live And Exclusive Coverage of Premuim Sporting Events",
-      "start": "20:00",
-      "end": "21:00",
-      "start_full": "20260123200000",
-      "end_full": "20260123210000"
-    },
-    {
-      "title": "beIN SPORTS XTRA For Live And Exclusive Coverage of Premuim Sporting Events - Dec",
-      "desc": "beIN SPORTS XTRA For Live And Exclusive Coverage of Premuim Sporting Events",
-      "start": "21:00",
-      "end": "22:00",
-      "start_full": "20260123210000",
-      "end_full": "20260123220000"
-    },
-    {
-      "title": "beIN SPORTS XTRA For Live And Exclusive Coverage of Premuim Sporting Events - Dec",
-      "desc": "beIN SPORTS XTRA For Live And Exclusive Coverage of Premuim Sporting Events",
-      "start": "22:00",
-      "end": "23:00",
-      "start_full": "20260123220000",
-      "end_full": "20260123230000"
-    },
-    {
-      "title": "beIN SPORTS XTRA For Live And Exclusive Coverage of Premuim Sporting Events - Dec",
-      "desc": "beIN SPORTS XTRA For Live And Exclusive Coverage of Premuim Sporting Events",
-      "start": "23:00",
-      "end": "00:00",
-      "start_full": "20260123230000",
-      "end_full": "20260124000000"
-    },
-    {
-      "title": "beIN SPORTS XTRA For Live And Exclusive Coverage of Premuim Sporting Events - Dec",
-      "desc": "beIN SPORTS XTRA For Live And Exclusive Coverage of Premuim Sporting Events",
-      "start": "00:00",
-      "end": "01:00",
-      "start_full": "20260124000000",
-      "end_full": "20260124010000"
-    },
-    {
-      "title": "beIN SPORTS XTRA For Live And Exclusive Coverage of Premuim Sporting Events - Dec",
-      "desc": "beIN SPORTS XTRA For Live And Exclusive Coverage of Premuim Sporting Events",
-      "start": "01:00",
-      "end": "02:00",
-      "start_full": "20260124010000",
-      "end_full": "20260124020000"
-    },
-    {
-      "title": "beIN SPORTS XTRA For Live And Exclusive Coverage of Premuim Sporting Events - Dec",
-      "desc": "beIN SPORTS XTRA For Live And Exclusive Coverage of Premuim Sporting Events",
-      "start": "02:00",
-      "end": "03:00",
-      "start_full": "20260124020000",
-      "end_full": "20260124030000"
-    },
-    {
-      "title": "beIN SPORTS XTRA For Live And Exclusive Coverage of Premuim Sporting Events - Dec",
-      "desc": "beIN SPORTS XTRA For Live And Exclusive Coverage of Premuim Sporting Events",
-      "start": "03:00",
-      "end": "04:00",
-      "start_full": "20260124030000",
-      "end_full": "20260124040000"
-    },
-    {
-      "title": "beIN SPORTS XTRA For Live And Exclusive Coverage of Premuim Sporting Events - Dec",
-      "desc": "beIN SPORTS XTRA For Live And Exclusive Coverage of Premuim Sporting Events",
-      "start": "04:00",
-      "end": "05:00",
-      "start_full": "20260124040000",
-      "end_full": "20260124050000"
-    },
-    {
-      "title": "beIN SPORTS XTRA For Live And Exclusive Coverage of Premuim Sporting Events - Dec",
-      "desc": "beIN SPORTS XTRA For Live And Exclusive Coverage of Premuim Sporting Events",
-      "start": "05:00",
-      "end": "06:00",
-      "start_full": "20260124050000",
-      "end_full": "20260124060000"
-    },
-    {
-      "title": "beIN SPORTS XTRA For Live And Exclusive Coverage of Premuim Sporting Events - Dec",
-      "desc": "beIN SPORTS XTRA For Live And Exclusive Coverage of Premuim Sporting Events",
-      "start": "06:00",
-      "end": "07:00",
-      "start_full": "20260124060000",
-      "end_full": "20260124070000"
-    },
-    {
-      "title": "beIN SPORTS XTRA For Live And Exclusive Coverage of Premuim Sporting Events - Dec",
-      "desc": "beIN SPORTS XTRA For Live And Exclusive Coverage of Premuim Sporting Events",
-      "start": "07:00",
-      "end": "08:00",
-      "start_full": "20260124070000",
-      "end_full": "20260124080000"
-    },
-    {
-      "title": "beIN SPORTS XTRA For Live And Exclusive Coverage of Premuim Sporting Events - Dec",
-      "desc": "beIN SPORTS XTRA For Live And Exclusive Coverage of Premuim Sporting Events",
-      "start": "08:00",
-      "end": "09:00",
-      "start_full": "20260124080000",
-      "end_full": "20260124090000"
-    },
-    {
-      "title": "beIN SPORTS XTRA For Live And Exclusive Coverage of Premuim Sporting Events - Dec",
-      "desc": "beIN SPORTS XTRA For Live And Exclusive Coverage of Premuim Sporting Events",
-      "start": "09:00",
-      "end": "10:00",
-      "start_full": "20260124090000",
-      "end_full": "20260124100000"
-    },
-    {
-      "title": "beIN SPORTS XTRA For Live And Exclusive Coverage of Premuim Sporting Events - Dec",
-      "desc": "beIN SPORTS XTRA For Live And Exclusive Coverage of Premuim Sporting Events",
-      "start": "10:00",
+      "title": "Jessica Pegula vs Oksana Selekhmeteva Womens - - Day 7 - M1 - Morning Session - Margaret Court Arena",
+      "desc": "A 7,500-seat show court and ticketed arena with a retractable roof that opens in under five minutes, ensuring uninterrupted play in any conditions. It delivers a full showcase schedule of headline singles and doubles in Day Sessions (from 11:30am) and Night Sessions (from 7:00pm).",
+      "start": "09:20",
       "end": "11:00",
-      "start_full": "20260124100000",
+      "start_full": "20260124092000",
       "end_full": "20260124110000"
     },
     {
-      "title": "beIN SPORTS XTRA For Live And Exclusive Coverage of Premuim Sporting Events - Dec",
-      "desc": "beIN SPORTS XTRA For Live And Exclusive Coverage of Premuim Sporting Events",
+      "title": "Anna Kalinskaya vs Iga Swiatek - Womens -  Day 7 - M4 - Evening Session - Margaret Court Arena - Aus",
+      "desc": "A 7,500-seat show court and ticketed arena with a retractable roof that opens in under five minutes, ensuring uninterrupted play in any conditions. It delivers a full showcase schedule of headline singles and doubles in Day Sessions (from 11:30am) and Night Sessions (from 7:00pm).",
       "start": "11:00",
-      "end": "12:00",
-      "start_full": "20260124110000",
-      "end_full": "20260124120000"
-    },
-    {
-      "title": "beIN SPORTS XTRA For Live And Exclusive Coverage of Premuim Sporting Events - Dec",
-      "desc": "beIN SPORTS XTRA For Live And Exclusive Coverage of Premuim Sporting Events",
-      "start": "12:00",
       "end": "13:00",
-      "start_full": "20260124120000",
+      "start_full": "20260124110000",
       "end_full": "20260124130000"
     }
   ],
-  "beIN SPORTS XTRA 2": [
+  "beIN SPORTS XTRA 3": [
     {
       "title": "beIN SPORTS XTRA For Live And Exclusive Coverage of Premuim Sporting Events - Dec",
       "desc": "beIN SPORTS XTRA For Live And Exclusive Coverage of Premuim Sporting Events",
@@ -4021,7 +3787,201 @@
       "end_full": "20260124130000"
     }
   ],
-  "beIN SPORTS XTRA 3": [
+  "beIN SPORTS XTRA 2": [
+    {
+      "title": "beIN SPORTS XTRA For Live And Exclusive Coverage of Premuim Sporting Events - Dec",
+      "desc": "beIN SPORTS XTRA For Live And Exclusive Coverage of Premuim Sporting Events",
+      "start": "13:00",
+      "end": "14:00",
+      "start_full": "20260123130000",
+      "end_full": "20260123140000"
+    },
+    {
+      "title": "beIN SPORTS XTRA For Live And Exclusive Coverage of Premuim Sporting Events - Dec",
+      "desc": "beIN SPORTS XTRA For Live And Exclusive Coverage of Premuim Sporting Events",
+      "start": "14:00",
+      "end": "15:00",
+      "start_full": "20260123140000",
+      "end_full": "20260123150000"
+    },
+    {
+      "title": "beIN SPORTS XTRA For Live And Exclusive Coverage of Premuim Sporting Events - Dec",
+      "desc": "beIN SPORTS XTRA For Live And Exclusive Coverage of Premuim Sporting Events",
+      "start": "15:00",
+      "end": "16:00",
+      "start_full": "20260123150000",
+      "end_full": "20260123160000"
+    },
+    {
+      "title": "beIN SPORTS XTRA For Live And Exclusive Coverage of Premuim Sporting Events - Dec",
+      "desc": "beIN SPORTS XTRA For Live And Exclusive Coverage of Premuim Sporting Events",
+      "start": "16:00",
+      "end": "17:00",
+      "start_full": "20260123160000",
+      "end_full": "20260123170000"
+    },
+    {
+      "title": "beIN SPORTS XTRA For Live And Exclusive Coverage of Premuim Sporting Events - Dec",
+      "desc": "beIN SPORTS XTRA For Live And Exclusive Coverage of Premuim Sporting Events",
+      "start": "17:00",
+      "end": "18:00",
+      "start_full": "20260123170000",
+      "end_full": "20260123180000"
+    },
+    {
+      "title": "beIN SPORTS XTRA For Live And Exclusive Coverage of Premuim Sporting Events - Dec",
+      "desc": "beIN SPORTS XTRA For Live And Exclusive Coverage of Premuim Sporting Events",
+      "start": "18:00",
+      "end": "19:00",
+      "start_full": "20260123180000",
+      "end_full": "20260123190000"
+    },
+    {
+      "title": "beIN SPORTS XTRA For Live And Exclusive Coverage of Premuim Sporting Events - Dec",
+      "desc": "beIN SPORTS XTRA For Live And Exclusive Coverage of Premuim Sporting Events",
+      "start": "19:00",
+      "end": "20:00",
+      "start_full": "20260123190000",
+      "end_full": "20260123200000"
+    },
+    {
+      "title": "beIN SPORTS XTRA For Live And Exclusive Coverage of Premuim Sporting Events - Dec",
+      "desc": "beIN SPORTS XTRA For Live And Exclusive Coverage of Premuim Sporting Events",
+      "start": "20:00",
+      "end": "21:00",
+      "start_full": "20260123200000",
+      "end_full": "20260123210000"
+    },
+    {
+      "title": "beIN SPORTS XTRA For Live And Exclusive Coverage of Premuim Sporting Events - Dec",
+      "desc": "beIN SPORTS XTRA For Live And Exclusive Coverage of Premuim Sporting Events",
+      "start": "21:00",
+      "end": "22:00",
+      "start_full": "20260123210000",
+      "end_full": "20260123220000"
+    },
+    {
+      "title": "beIN SPORTS XTRA For Live And Exclusive Coverage of Premuim Sporting Events - Dec",
+      "desc": "beIN SPORTS XTRA For Live And Exclusive Coverage of Premuim Sporting Events",
+      "start": "22:00",
+      "end": "23:00",
+      "start_full": "20260123220000",
+      "end_full": "20260123230000"
+    },
+    {
+      "title": "beIN SPORTS XTRA For Live And Exclusive Coverage of Premuim Sporting Events - Dec",
+      "desc": "beIN SPORTS XTRA For Live And Exclusive Coverage of Premuim Sporting Events",
+      "start": "23:00",
+      "end": "00:00",
+      "start_full": "20260123230000",
+      "end_full": "20260124000000"
+    },
+    {
+      "title": "beIN SPORTS XTRA For Live And Exclusive Coverage of Premuim Sporting Events - Dec",
+      "desc": "beIN SPORTS XTRA For Live And Exclusive Coverage of Premuim Sporting Events",
+      "start": "00:00",
+      "end": "01:00",
+      "start_full": "20260124000000",
+      "end_full": "20260124010000"
+    },
+    {
+      "title": "beIN SPORTS XTRA For Live And Exclusive Coverage of Premuim Sporting Events - Dec",
+      "desc": "beIN SPORTS XTRA For Live And Exclusive Coverage of Premuim Sporting Events",
+      "start": "01:00",
+      "end": "02:00",
+      "start_full": "20260124010000",
+      "end_full": "20260124020000"
+    },
+    {
+      "title": "beIN SPORTS XTRA For Live And Exclusive Coverage of Premuim Sporting Events - Dec",
+      "desc": "beIN SPORTS XTRA For Live And Exclusive Coverage of Premuim Sporting Events",
+      "start": "02:00",
+      "end": "03:00",
+      "start_full": "20260124020000",
+      "end_full": "20260124030000"
+    },
+    {
+      "title": "beIN SPORTS XTRA For Live And Exclusive Coverage of Premuim Sporting Events - Dec",
+      "desc": "beIN SPORTS XTRA For Live And Exclusive Coverage of Premuim Sporting Events",
+      "start": "03:00",
+      "end": "04:00",
+      "start_full": "20260124030000",
+      "end_full": "20260124040000"
+    },
+    {
+      "title": "beIN SPORTS XTRA For Live And Exclusive Coverage of Premuim Sporting Events - Dec",
+      "desc": "beIN SPORTS XTRA For Live And Exclusive Coverage of Premuim Sporting Events",
+      "start": "04:00",
+      "end": "05:00",
+      "start_full": "20260124040000",
+      "end_full": "20260124050000"
+    },
+    {
+      "title": "beIN SPORTS XTRA For Live And Exclusive Coverage of Premuim Sporting Events - Dec",
+      "desc": "beIN SPORTS XTRA For Live And Exclusive Coverage of Premuim Sporting Events",
+      "start": "05:00",
+      "end": "06:00",
+      "start_full": "20260124050000",
+      "end_full": "20260124060000"
+    },
+    {
+      "title": "beIN SPORTS XTRA For Live And Exclusive Coverage of Premuim Sporting Events - Dec",
+      "desc": "beIN SPORTS XTRA For Live And Exclusive Coverage of Premuim Sporting Events",
+      "start": "06:00",
+      "end": "07:00",
+      "start_full": "20260124060000",
+      "end_full": "20260124070000"
+    },
+    {
+      "title": "beIN SPORTS XTRA For Live And Exclusive Coverage of Premuim Sporting Events - Dec",
+      "desc": "beIN SPORTS XTRA For Live And Exclusive Coverage of Premuim Sporting Events",
+      "start": "07:00",
+      "end": "08:00",
+      "start_full": "20260124070000",
+      "end_full": "20260124080000"
+    },
+    {
+      "title": "beIN SPORTS XTRA For Live And Exclusive Coverage of Premuim Sporting Events - Dec",
+      "desc": "beIN SPORTS XTRA For Live And Exclusive Coverage of Premuim Sporting Events",
+      "start": "08:00",
+      "end": "09:00",
+      "start_full": "20260124080000",
+      "end_full": "20260124090000"
+    },
+    {
+      "title": "beIN SPORTS XTRA For Live And Exclusive Coverage of Premuim Sporting Events - Dec",
+      "desc": "beIN SPORTS XTRA For Live And Exclusive Coverage of Premuim Sporting Events",
+      "start": "09:00",
+      "end": "10:00",
+      "start_full": "20260124090000",
+      "end_full": "20260124100000"
+    },
+    {
+      "title": "beIN SPORTS XTRA For Live And Exclusive Coverage of Premuim Sporting Events - Dec",
+      "desc": "beIN SPORTS XTRA For Live And Exclusive Coverage of Premuim Sporting Events",
+      "start": "10:00",
+      "end": "11:00",
+      "start_full": "20260124100000",
+      "end_full": "20260124110000"
+    },
+    {
+      "title": "beIN SPORTS XTRA For Live And Exclusive Coverage of Premuim Sporting Events - Dec",
+      "desc": "beIN SPORTS XTRA For Live And Exclusive Coverage of Premuim Sporting Events",
+      "start": "11:00",
+      "end": "12:00",
+      "start_full": "20260124110000",
+      "end_full": "20260124120000"
+    },
+    {
+      "title": "beIN SPORTS XTRA For Live And Exclusive Coverage of Premuim Sporting Events - Dec",
+      "desc": "beIN SPORTS XTRA For Live And Exclusive Coverage of Premuim Sporting Events",
+      "start": "12:00",
+      "end": "13:00",
+      "start_full": "20260124120000",
+      "end_full": "20260124130000"
+    }
+  ],
+  "beIN SPORTS XTRA 4": [
     {
       "title": "beIN SPORTS XTRA For Live And Exclusive Coverage of Premuim Sporting Events - Dec",
       "desc": "beIN SPORTS XTRA For Live And Exclusive Coverage of Premuim Sporting Events",
