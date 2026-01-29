@@ -127,7 +127,7 @@
         "English": "UEFA Champions League 2025/26 - MD8"
       },
       "sportType": "Football",
-      "live": "Upcoming",
+      "live": "Finished",
       "start": "23:00",
       "end": "01:00",
       "start_full": "20260129230000",
@@ -224,7 +224,7 @@
       "data_time": "29/01/2026 & 20:50",
       "utc_timestamp": 1769719800,
       "utc_end_timestamp": 1769727600,
-      "is_near_match": true,
+      "is_near_match": false,
       "time_difference_hours": -2,
       "time_remaining": null,
       "auto_generated_title": "Nottingham Forest vs Ferencváros - UEFA Europa League 2025/2026 - MD8",
@@ -245,7 +245,7 @@
         "English": "Turkish Super League - MD 19 - 2025-2026"
       },
       "sportType": "Sports",
-      "live": "Upcoming",
+      "live": "Finished",
       "start": "23:00",
       "end": "01:00",
       "start_full": "20260129230000",
@@ -260,7 +260,7 @@
       "original_title": "Trabzonspor vs Kasimpasa - Turkish Super League - MD 19 - 2025-2026",
       "title_ar": "طرابزون سبور vs قاسم باشا - الدوري التركي الممتاز - MD 19 - 2025-2026",
       "title_en": "Trabzonspor vs Kasimpasa - Turkish Super League - MD 19 - 2025-2026",
-      "desc_ar": "الدوري التركي الممتاز هو مسابقة الدرجة الأولى في نظام الدوري التركي لكرة القدم ويتم بثه مباشرة وحصريًا على beIN SPORTS. ",
+      "desc_ar": "الدوري التركي الممتاز هو مسابقة الدرجة الأولى لنظام الدوري التركي لكرة القدم ويتم بثه مباشرة وحصريًا على beIN SPORTS. ",
       "desc_en": "The Turkish Süper Lig is the top-flight competition of the Turkish football league system and is live and exclusive on beIN SPORTS. The season runs from August to May, with each club playing 38 matches. Matches are played Friday through to Monday. Galatasaray are the current Champions."
     }
   ],
@@ -342,7 +342,7 @@
       "data_time": "29/01/2026 & 20:50",
       "utc_timestamp": 1769719800,
       "utc_end_timestamp": 1769727600,
-      "is_near_match": true,
+      "is_near_match": false,
       "time_difference_hours": -2,
       "time_remaining": null,
       "auto_generated_title": "Olympique Lyonnais vs PAOK - UEFA Europa League 2025/2026 - MD8",
@@ -363,7 +363,7 @@
         "English": "Sports Match"
       },
       "sportType": "Football",
-      "live": "Upcoming",
+      "live": "Finished",
       "start": "23:00",
       "end": "23:30",
       "start_full": "20260129230000",
@@ -523,7 +523,7 @@
       "time_remaining": null,
       "auto_generated_title": "Paris Saint-Germain vs Newcastle United - UEFA Champions League 2025/26 - MD8 - Mini Match",
       "original_title": "Paris Saint-Germain vs Newcastle United - UEFA Champions League 2025/26 - MD8 - Mini Match",
-      "title_ar": "باريس سان جيرمان vs نيوكاسل يونايتد - دوري أبطال أوروبا 2025/26 - MD8 - مباراة صغيرة",
+      "title_ar": "باريس سان جيرمان ضد نيوكاسل يونايتد - دوري أبطال أوروبا 2025/26 - MD8 - مباراة صغيرة",
       "title_en": "Paris Saint-Germain vs Newcastle United - UEFA Champions League 2025/26 - MD8 - Mini Match",
       "desc_ar": "اللقاء الوحيد السابق بين باريس سان جيرمان ونيوكاسل جاء في دوري أبطال أوروبا 2023-24، حيث تعادل الفريقان في بارك دي برينس، بعد فوز فريق إدي هاو بنتيجة 4-1 في المباراة الأولى على ملعب سانت جيمس بارك. ",
       "desc_en": "Paris SG and Newcastle’s only previous meetings came in the 2023-24 UEFA Champions League – the two sides drew their meeting at the Parc des Princes, after Eddie Howe’s side had won 4-1 in the first game at St. James’ Park. This will be Newcastle’s 10th away game against a French side in Europe, while they have only managed one victory from the previous nine : 4-0 v Sochaux in the UEFA Cup in November 2004.\n"
