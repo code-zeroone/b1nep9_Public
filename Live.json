@@ -1852,7 +1852,7 @@
       "time_remaining": null,
       "auto_generated_title": "Day 1 vs M2 - WTA 1000 Qatar TotalEnergies Open 2026",
       "original_title": "Day 1 - M2 - WTA 1000 Qatar TotalEnergies Open 2026",
-      "title_ar": "اليوم 1 - الجولة الثانية - WTA 1000 قطر TotalEnergies Open 2026",
+      "title_ar": "اليوم 1 - الجولة الثانية - بطولة قطر للاعبات التنس المحترفات 1000 TotalEnergies Open 2026",
       "title_en": "Day 1 - M2 - WTA 1000 Qatar TotalEnergies Open 2026",
       "title_fr": "Jour 1 - M2 - WTA 1000 Qatar TotalEnergies Open 2026",
       "desc_ar": "A cornerstone of the early-season WTA calendar, the Qatar TotalEnergies Open takes place on outdoor hard courts at the Khalifa International Tennis & Squash Complex in Doha. A 56-player singles draw competes for 1000 ranking points and a $4,088,211 USD total financial commitment, attracting the world’s top players."
@@ -2754,7 +2754,7 @@
       "original_title": "World Cup 2026 Amazing Facts - Group A (#1)",
       "title_ar": "كأس العالم 2026 حقائق مذهلة – المجموعة الأولى (#1)",
       "title_en": "World Cup 2026 Amazing Facts - Group A (#1)",
-      "title_fr": "Faits étonnants de la Coupe du monde 2026 – Groupe A (#1)",
+      "title_fr": "Faits étonnants de la Coupe du monde 2026 - Groupe A (#1)",
       "desc_ar": "What are the most amazing facts for the Group A for the next World Cup 2026\n"
     },
     {
@@ -3093,7 +3093,7 @@
         "French": "Jour 14 - Finale Simple Femmes - Session du Soir - Rod Laver Are"
       },
       "sportType": "Sports",
-      "live": "Live",
+      "live": "Finished",
       "start": "17:00",
       "end": "19:30",
       "start_full": "20260207170000",
@@ -3125,7 +3125,7 @@
         "French": "Jour 15 - Séance du soir - Rod Laver Arena"
       },
       "sportType": "Sports",
-      "live": "Finished",
+      "live": "Live",
       "start": "19:30",
       "end": "23:10",
       "start_full": "20260207193000",
@@ -3133,7 +3133,7 @@
       "data_time": "07/02/2026 & 19:30",
       "utc_timestamp": 1770492600,
       "utc_end_timestamp": 1770505800,
-      "is_near_match": false,
+      "is_near_match": true,
       "time_difference_hours": -7,
       "time_remaining": null,
       "auto_generated_title": "Men’s Singles Final — Carlos Alcaraz vs Novak Djokovic - Day 15 - Evening Session - Rod Laver Arena",
@@ -3664,7 +3664,7 @@
       "teamA_ar": "نادي الاستقلال (TJK)",
       "teamB_ar": "نادي النصر (المملكة العربية السعودية)",
       "teamA_fr": "FC Istiklol (TJK)",
-      "teamB_fr": "Club Al Nassr (Arabie Saoudite)",
+      "teamB_fr": "Club Al Nasr (Arabie Saoudite)",
       "Category": {
         "Arabic": "دوري أبطال آسيا الثاني 2025/2026 – الغرب",
         "English": "AFC Champions League Two 2025/2026 - West",
@@ -4230,7 +4230,7 @@
       "time_remaining": null,
       "auto_generated_title": "Day 1 vs M2 - WTA 1000 Qatar TotalEnergies Open 2026",
       "original_title": "Day 1 - M2 - WTA 1000 Qatar TotalEnergies Open 2026",
-      "title_ar": "اليوم 1 - الجولة الثانية - WTA 1000 قطر TotalEnergies Open 2026",
+      "title_ar": "اليوم 1 - الجولة الثانية - بطولة قطر للاعبات التنس المحترفات 1000 TotalEnergies Open 2026",
       "title_en": "Day 1 - M2 - WTA 1000 Qatar TotalEnergies Open 2026",
       "title_fr": "Jour 1 - M2 - WTA 1000 Qatar TotalEnergies Open 2026",
       "desc_ar": "A cornerstone of the early-season WTA calendar, the Qatar TotalEnergies Open takes place on outdoor hard courts at the Khalifa International Tennis & Squash Complex in Doha. A 56-player singles draw competes for 1000 ranking points and a $4,088,211 USD total financial commitment, attracting the world’s top players."
@@ -4392,7 +4392,7 @@
       "time_remaining": null,
       "auto_generated_title": "Ligue 1 Show vs 2025/2026 - EP 21",
       "original_title": "Ligue 1 Show - 2025/2026 - EP 21",
-      "title_ar": "عرض الدوري الفرنسي - 2025/2026 - الحلقة 21",
+      "title_ar": "عرض الدوري الفرنسي 1 - 2025/2026 - الحلقة 21",
       "title_en": "Ligue 1 Show - 2025/2026 - EP 21",
       "title_fr": "Spectacle Ligue 1 - 2025/2026 - EP 21",
       "desc_ar": "All the greatest moments and action in Ligue 1 including incredible stories and interviews featuring ligue 1 stars."
@@ -4488,7 +4488,7 @@
       "time_remaining": null,
       "auto_generated_title": "Houston vs Oklahoma City - NBA season 2025–2026",
       "original_title": "Houston vs Oklahoma City - NBA season 2025–2026",
-      "title_ar": "هيوستن ضد أوكلاهوما سيتي – الدوري الاميركي للمحترفين موسم 2025-2026",
+      "title_ar": "هيوستن ضد أوكلاهوما سيتي – موسم الدوري الاميركي للمحترفين 2025-2026",
       "title_en": "Houston vs Oklahoma City - NBA season 2025–2026",
       "title_fr": "Houston vs Oklahoma City – Saison NBA 2025-2026",
       "desc_ar": "Live and Exclusive coverage on beIN of The National Basketball Association, The NBA. \nThe NBA comprises of 30 teams and is one of the major professional sports leagues in the United States and Canada and is the premier professional basketball league in the world.\n"
@@ -5066,7 +5066,7 @@
       "time_remaining": null,
       "auto_generated_title": "Ligue 1 Show vs 2025/2026 - EP 21",
       "original_title": "Ligue 1 Show - 2025/2026 - EP 21",
-      "title_ar": "عرض الدوري الفرنسي - 2025/2026 - الحلقة 21",
+      "title_ar": "عرض الدوري الفرنسي 1 - 2025/2026 - الحلقة 21",
       "title_en": "Ligue 1 Show - 2025/2026 - EP 21",
       "title_fr": "Spectacle Ligue 1 - 2025/2026 - EP 21",
       "desc_ar": "All the greatest moments and action in Ligue 1 including incredible stories and interviews featuring ligue 1 stars."
@@ -5080,7 +5080,7 @@
       "teamA_fr": "St-Etienne",
       "teamB_fr": "Montpellier",
       "Category": {
-        "Arabic": "الدوري الفرنسي 2 - 2025/2026",
+        "Arabic": "الدوري الفرنسي 2 – 2025/2026",
         "English": "French Ligue 2 - 2025/2026",
         "French": "Ligue 2 française - 2025/2026"
       },
@@ -5194,7 +5194,7 @@
       "time_remaining": null,
       "auto_generated_title": "Houston vs Oklahoma City - NBA season 2025–2026",
       "original_title": "Houston vs Oklahoma City - NBA season 2025–2026",
-      "title_ar": "هيوستن ضد أوكلاهوما سيتي – الدوري الاميركي للمحترفين موسم 2025-2026",
+      "title_ar": "هيوستن ضد أوكلاهوما سيتي – موسم الدوري الاميركي للمحترفين 2025-2026",
       "title_en": "Houston vs Oklahoma City - NBA season 2025–2026",
       "title_fr": "Houston vs Oklahoma City – Saison NBA 2025-2026",
       "desc_ar": "Live and Exclusive coverage on beIN of The National Basketball Association, The NBA. \nThe NBA comprises of 30 teams and is one of the major professional sports leagues in the United States and Canada and is the premier professional basketball league in the world.\n"
@@ -5208,7 +5208,7 @@
       "teamA_fr": "Dunkerque",
       "teamB_fr": "Guingamp",
       "Category": {
-        "Arabic": "الدوري الفرنسي 2 - 2025/2026",
+        "Arabic": "الدوري الفرنسي 2 – 2025/2026",
         "English": "French Ligue 2 - 2025/2026",
         "French": "Ligue 2 française - 2025/2026"
       },
@@ -5363,7 +5363,7 @@
       "teamA": "Kaizer Chiefs FC (RSA)",
       "teamB": "Al Masry SC (EGY)",
       "Competition": "CAF Confederation Cup 2025/26 - MD5",
-      "teamA_ar": "كايزر تشيفس إف سي (RSA)",
+      "teamA_ar": "كايزر تشيفز إف سي (RSA)",
       "teamB_ar": "المصري (ONE)",
       "teamA_fr": "Kaizer Chiefs FC (RSA)",
       "teamB_fr": "Al-Masry SC (ONE)",
@@ -6907,7 +6907,7 @@
       "Competition": "NBA season 2025–2026",
       "teamA_ar": "الدولة الذهبية",
       "teamB_ar": "لوس انجليس ليكرز",
-      "teamA_fr": "État d'Or",
+      "teamA_fr": "État d'or",
       "teamB_fr": "Lakers de Los Angeles",
       "Category": {
         "Arabic": "موسم الدوري الاميركي للمحترفين 2025-2026",
@@ -7152,7 +7152,7 @@
       "time_remaining": null,
       "auto_generated_title": "Day 2 vs MX01 - XXIV Olympic Winter Games Milano Cortina 2026",
       "original_title": "Day 2  - MX01  -  XXIV Olympic Winter Games Milano Cortina 2026",
-      "title_ar": "اليوم الثاني - MX01 - الألعاب الأولمبية الشتوية الرابعة والعشرون ميلانو كورتينا 2026",
+      "title_ar": "اليوم الثاني - MX01 - دورة الألعاب الأولمبية الشتوية الرابعة والعشرون ميلانو كورتينا 2026",
       "title_en": "Day 2  - MX01  -  XXIV Olympic Winter Games Milano Cortina 2026",
       "title_fr": "Jour 2 - MX01 - XXIVes Jeux Olympiques d'hiver Milano Cortina 2026",
       "desc_ar": "The 2026 Winter Olympics, commonly known as Milano Cortina 2026, is live and exclusive on beIN. The Winter Olympics takes place from 6th to 22nd February 2026 across Lombardy and Northeast Italy."
@@ -9903,7 +9903,7 @@
         "French": "LaLiga espagnole 2025/26 - Journée 23"
       },
       "sportType": "Sports",
-      "live": "Upcoming",
+      "live": "Finished",
       "start": "19:45",
       "end": "21:30",
       "start_full": "20260207194500",
@@ -9918,7 +9918,7 @@
       "original_title": "Celta de Vigo vs Osasuna - Spanish LaLiga 2025/26 - Week 23",
       "title_ar": "سيلتا فيغو ضد أوساسونا - الدوري الإسباني 2025/26 - الأسبوع 23",
       "title_en": "Celta de Vigo vs Osasuna - Spanish LaLiga 2025/26 - Week 23",
-      "title_fr": "Celta Vigo vs Osasuna - LaLiga espagnole 2025/26 - 23ème journée",
+      "title_fr": "Celta Vigo vs Osasuna - LaLiga espagnole 2025/26 - 23e journée",
       "desc_ar": "Celta Vigo vs Osasuna\nSpanish La Liga\nSeason 2025/2026\nEstadio Abanca-Balaídos Stadium\n"
     },
     {
@@ -9927,7 +9927,7 @@
       "Competition": "NBA season 2025–2026",
       "teamA_ar": "الدولة الذهبية",
       "teamB_ar": "لوس انجليس ليكرز",
-      "teamA_fr": "État d'Or",
+      "teamA_fr": "État d'or",
       "teamB_fr": "Lakers de Los Angeles",
       "Category": {
         "Arabic": "موسم الدوري الاميركي للمحترفين 2025-2026",
@@ -10012,7 +10012,7 @@
       "time_remaining": null,
       "auto_generated_title": "Houston vs Oklahoma City - NBA season 2025–2026",
       "original_title": "Houston vs Oklahoma City - NBA season 2025–2026",
-      "title_ar": "هيوستن ضد أوكلاهوما سيتي – الدوري الاميركي للمحترفين موسم 2025-2026",
+      "title_ar": "هيوستن ضد أوكلاهوما سيتي – موسم الدوري الاميركي للمحترفين 2025-2026",
       "title_en": "Houston vs Oklahoma City - NBA season 2025–2026",
       "title_fr": "Houston vs Oklahoma City – Saison NBA 2025-2026",
       "desc_ar": "Live and Exclusive coverage on beIN of The National Basketball Association, The NBA. \nThe NBA comprises of 30 teams and is one of the major professional sports leagues in the United States and Canada and is the premier professional basketball league in the world.\n"
@@ -10055,7 +10055,7 @@
       "Competition": "NBA season 2025–2026",
       "teamA_ar": "الدولة الذهبية",
       "teamB_ar": "لوس انجليس ليكرز",
-      "teamA_fr": "État d'Or",
+      "teamA_fr": "État d'or",
       "teamB_fr": "Lakers de Los Angeles",
       "Category": {
         "Arabic": "موسم الدوري الاميركي للمحترفين 2025-2026",
@@ -14593,7 +14593,7 @@
       "time_remaining": null,
       "auto_generated_title": "H .H the Father Amirs Prix 2026 vs Week 4 - CSI5* - Two Phases - 1.40m",
       "original_title": "H .H the Father Amirs Prix 2026 -  Week 4 - CSI5* - Two Phases - 1.40m",
-      "title_ar": "جائزة سمو الأمير الآب 2026 - الأسبوع 4 - CSI5* - مرحلتان - 1.40 م",
+      "title_ar": "جائزة سمو الأمير الوالد 2026 - الأسبوع 4 - CSI5* - مرحلتان - 1.40 م",
       "title_en": "H .H the Father Amirs Prix 2026 -  Week 4 - CSI5* - Two Phases - 1.40m",
       "title_fr": "Prix ​​S.A. le Père Amirs 2026 - Semaine 4 - CSI5* - Deux Phases - 1,40m",
       "desc_ar": "H.H. the Father Amir’s Prix 2026 returns on 9–10 January 2026, bringing together top-class Thoroughbred racing across two days of competitive action, featuring a strong international line-up, high-stakes contests, and a standout atmosphere that celebrates elite sport, tradition, and prestige on Qatar’s racing calendar."
@@ -17606,7 +17606,7 @@
       "time_remaining": null,
       "auto_generated_title": "Czechia vs Sweden - Single Davis Cup Qualifiers – 1st Round - 2026",
       "original_title": "Czechia vs Sweden - Single Davis Cup Qualifiers – 1st Round - 2026",
-      "title_ar": "التشيك ضد السويد - تصفيات كأس ديفيز الفردية - الجولة الأولى - 2026",
+      "title_ar": "التشيك ضد السويد - تصفيات كأس ديفيز الفردية – الجولة الأولى - 2026",
       "title_en": "Czechia vs Sweden - Single Davis Cup Qualifiers – 1st Round - 2026",
       "title_fr": "Tchéquie vs Suède - Éliminatoires Coupe Davis Simple – 1er Tour - 2026"
     },
@@ -17637,7 +17637,7 @@
       "time_remaining": null,
       "auto_generated_title": "Czechia vs Sweden - Single Davis Cup Qualifiers – 1st Round - 2026",
       "original_title": "Czechia vs Sweden - Single Davis Cup Qualifiers – 1st Round - 2026",
-      "title_ar": "التشيك ضد السويد - تصفيات كأس ديفيز الفردية - الجولة الأولى - 2026",
+      "title_ar": "التشيك ضد السويد - تصفيات كأس ديفيز الفردية – الجولة الأولى - 2026",
       "title_en": "Czechia vs Sweden - Single Davis Cup Qualifiers – 1st Round - 2026",
       "title_fr": "Tchéquie vs Suède - Éliminatoires Coupe Davis Simple – 1er Tour - 2026"
     },
@@ -18181,7 +18181,7 @@
       "time_remaining": null,
       "auto_generated_title": "News Bulletin - Live Studio @02:00",
       "original_title": "News Bulletin - Live Studio @02:00",
-      "title_ar": "نشرة الأخبار - ستوديو مباشر @02:00",
+      "title_ar": "نشرة الأخبار - ستوديو مباشر @ 02:00",
       "title_en": "News Bulletin - Live Studio @02:00",
       "title_fr": "Bulletin d'actualités - Studio en direct à 02h00",
       "desc_ar": "Latest news from the beIn SPORTS News room, previewing and reviewing developments and scores with contribution from around the world from beIN's reporters."
@@ -18309,7 +18309,7 @@
       "time_remaining": null,
       "auto_generated_title": "News Bulletin - Live Studio @02:00",
       "original_title": "News Bulletin - Live Studio @02:00",
-      "title_ar": "نشرة الأخبار - ستوديو مباشر @02:00",
+      "title_ar": "نشرة الأخبار - ستوديو مباشر @ 02:00",
       "title_en": "News Bulletin - Live Studio @02:00",
       "title_fr": "Bulletin d'actualités - Studio en direct à 02h00",
       "desc_ar": "Latest news from the beIn SPORTS News room, previewing and reviewing developments and scores with contribution from around the world from beIN's reporters."
@@ -18405,7 +18405,7 @@
       "time_remaining": null,
       "auto_generated_title": "News Bulletin - Live Studio @02:00",
       "original_title": "News Bulletin - Live Studio @02:00",
-      "title_ar": "نشرة الأخبار - ستوديو مباشر @02:00",
+      "title_ar": "نشرة الأخبار - ستوديو مباشر @ 02:00",
       "title_en": "News Bulletin - Live Studio @02:00",
       "title_fr": "Bulletin d'actualités - Studio en direct à 02h00",
       "desc_ar": "Latest news from the beIn SPORTS News room, previewing and reviewing developments and scores with contribution from around the world from beIN's reporters."
@@ -18501,7 +18501,7 @@
       "time_remaining": null,
       "auto_generated_title": "News Bulletin - Live Studio @02:00",
       "original_title": "News Bulletin - Live Studio @02:00",
-      "title_ar": "نشرة الأخبار - ستوديو مباشر @02:00",
+      "title_ar": "نشرة الأخبار - ستوديو مباشر @ 02:00",
       "title_en": "News Bulletin - Live Studio @02:00",
       "title_fr": "Bulletin d'actualités - Studio en direct à 02h00",
       "desc_ar": "Latest news from the beIn SPORTS News room, previewing and reviewing developments and scores with contribution from around the world from beIN's reporters."
@@ -18660,7 +18660,7 @@
       "time_remaining": null,
       "auto_generated_title": "News Bulletin - Live Studio @02:00",
       "original_title": "News Bulletin - Live Studio @02:00",
-      "title_ar": "نشرة الأخبار - ستوديو مباشر @02:00",
+      "title_ar": "نشرة الأخبار - ستوديو مباشر @ 02:00",
       "title_en": "News Bulletin - Live Studio @02:00",
       "title_fr": "Bulletin d'actualités - Studio en direct à 02h00",
       "desc_ar": "Latest news from the beIn SPORTS News room, previewing and reviewing developments and scores with contribution from around the world from beIN's reporters."
@@ -18788,7 +18788,7 @@
       "time_remaining": null,
       "auto_generated_title": "News Bulletin - Live Studio @02:00",
       "original_title": "News Bulletin - Live Studio @02:00",
-      "title_ar": "نشرة الأخبار - ستوديو مباشر @02:00",
+      "title_ar": "نشرة الأخبار - ستوديو مباشر @ 02:00",
       "title_en": "News Bulletin - Live Studio @02:00",
       "title_fr": "Bulletin d'actualités - Studio en direct à 02h00",
       "desc_ar": "Latest news from the beIn SPORTS News room, previewing and reviewing developments and scores with contribution from around the world from beIN's reporters."
@@ -18884,7 +18884,7 @@
       "time_remaining": null,
       "auto_generated_title": "News Bulletin - Live Studio @02:00",
       "original_title": "News Bulletin - Live Studio @02:00",
-      "title_ar": "نشرة الأخبار - ستوديو مباشر @02:00",
+      "title_ar": "نشرة الأخبار - ستوديو مباشر @ 02:00",
       "title_en": "News Bulletin - Live Studio @02:00",
       "title_fr": "Bulletin d'actualités - Studio en direct à 02h00",
       "desc_ar": "Latest news from the beIn SPORTS News room, previewing and reviewing developments and scores with contribution from around the world from beIN's reporters."
@@ -19783,7 +19783,7 @@
       "original_title": "Ecuador vs Australia - Single Davis Cup Qualifiers – 1st Round - 2026",
       "title_ar": "الإكوادور - أستراليا - تصفيات كأس ديفيز الفردية - الجولة الأولى - 2026",
       "title_en": "Ecuador vs Australia - Single Davis Cup Qualifiers – 1st Round - 2026",
-      "title_fr": "Équateur vs Australie - Éliminatoires pour la Coupe Davis en simple – 1er tour - 2026"
+      "title_fr": "Equateur vs Australie - Éliminatoires Coupe Davis Simple – 1er Tour - 2026"
     },
     {
       "teamA": "Ecuador",
@@ -19814,7 +19814,7 @@
       "original_title": "Ecuador vs Australia - Single Davis Cup Qualifiers – 1st Round - 2026",
       "title_ar": "الإكوادور - أستراليا - تصفيات كأس ديفيز الفردية - الجولة الأولى - 2026",
       "title_en": "Ecuador vs Australia - Single Davis Cup Qualifiers – 1st Round - 2026",
-      "title_fr": "Équateur vs Australie - Éliminatoires pour la Coupe Davis en simple – 1er tour - 2026"
+      "title_fr": "Equateur vs Australie - Éliminatoires Coupe Davis Simple – 1er Tour - 2026"
     },
     {
       "teamA": "beIN SPORTS XTRA For Live And Exclusive Coverage of Premuim Sporting Events",
@@ -20229,7 +20229,7 @@
       "original_title": "Ecuador vs Australia - Single Davis Cup Qualifiers – 1st Round - 2026",
       "title_ar": "الإكوادور - أستراليا - تصفيات كأس ديفيز الفردية - الجولة الأولى - 2026",
       "title_en": "Ecuador vs Australia - Single Davis Cup Qualifiers – 1st Round - 2026",
-      "title_fr": "Équateur vs Australie - Éliminatoires pour la Coupe Davis en simple – 1er tour - 2026"
+      "title_fr": "Equateur vs Australie - Éliminatoires Coupe Davis Simple – 1er Tour - 2026"
     },
     {
       "teamA": "Ecuador",
@@ -20260,7 +20260,7 @@
       "original_title": "Ecuador vs Australia - Single Davis Cup Qualifiers – 1st Round - 2026",
       "title_ar": "الإكوادور - أستراليا - تصفيات كأس ديفيز الفردية - الجولة الأولى - 2026",
       "title_en": "Ecuador vs Australia - Single Davis Cup Qualifiers – 1st Round - 2026",
-      "title_fr": "Équateur vs Australie - Éliminatoires pour la Coupe Davis en simple – 1er tour - 2026"
+      "title_fr": "Equateur vs Australie - Éliminatoires Coupe Davis Simple – 1er Tour - 2026"
     },
     {
       "teamA": "Ecuador",
